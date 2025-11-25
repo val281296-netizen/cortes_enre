@@ -1,4 +1,4 @@
-latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
+latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada -GMT
 -34.655950701,-58.344850310,11,media,Edesur,Avellaneda,Dock Sud,Isla Maciel,R:072-1-13/072-1-13,599,2023-03-14 00:46
 -34.654355195,-58.343357448,11,media,Edesur,Avellaneda,Dock Sud,Isla Maciel,R:072-1-13/072-1-13,683,2023-03-14 00:46
 -34.657839187,-58.344064894,11,media,Edesur,Avellaneda,Dock Sud,Isla Maciel,R:072-1-13/072-1-13,91,2023-03-14 00:46
@@ -1112,3 +1112,4 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -35.022,-58.4235,21,baja,Edesur,San Vicente,San Vicente,,,2,
 -34.6441,-58.454,21,baja,Edesur,Capital,Capital,,,1,
 -34.818,-58.4808,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,14,
+
