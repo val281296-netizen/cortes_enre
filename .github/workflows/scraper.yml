@@ -1,9 +1,9 @@
 name: Scraper ENRE
 
 on:
-  schedule:
-    - cron: "0 * * * *"   # cada hora
   workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"
 
 jobs:
   run-scraper:
