@@ -1,20 +1,11 @@
 import csv
 import re
-import requests
-import os
 
-# URL del ENRE
-URL = "https://www.enre.gov.ar/mapaCortes/datos/Datos_PaginaWeb.js"
-
-# Descargar el contenido (ignorar SSL)
-try:
-    content = requests.get(URL, verify=False, timeout=20).text
-except Exception as e:
-    print("Error al descargar los datos:", e)
-    exit(1)
+# Leer el archivo descargado previamente con curl
+with open("Datos_PaginaWeb.js", "r", encoding="utf-8") as f:
+    content = f.read()
 
 
-# Funciones de parsing
 def parse_tipo(s):
     if "media" in s.lower():
         return "media"
@@ -41,6 +32,7 @@ def number(s):
 
 nuevos = []
 
+# Buscar los incidentes entre corchetes
 for incidente in re.findall(r"\[(\-.*?)\]", content):
     incidente = incidente.split(",")
     if len(incidente) == 11:
@@ -68,32 +60,33 @@ for incidente in re.findall(r"\[(\-.*?)\]", content):
             "localidad": dospuntos,
             "afectados": number,
         }
-    # Build dict seguro
+
     incidente_dict = {
         header: f(value.strip())
         for (header, f), value in zip(headers.items(), incidente)
     }
     nuevos.append(incidente_dict)
 
-# Guardar CSV
-csv_file = "cortes_enre.csv"
-fieldnames = [
-    "latitud",
-    "longitud",
-    "nn",
-    "tipo",
-    "empresa",
-    "partido",
-    "localidad",
-    "subestacion",
-    "alimentador",
-    "afectados",
-    "normalizacion estimada",
-]
 
-with open(csv_file, "w", newline="", encoding="utf-8") as file:
-    writer = csv.DictWriter(file, fieldnames=fieldnames)
+# Guardar CSV
+with open("cortes_enre.csv", "w", newline="", encoding="utf-8") as file:
+    writer = csv.DictWriter(
+        file,
+        fieldnames=[
+            "latitud",
+            "longitud",
+            "nn",
+            "tipo",
+            "empresa",
+            "partido",
+            "localidad",
+            "subestacion",
+            "alimentador",
+            "afectados",
+            "normalizacion estimada",
+        ],
+    )
     writer.writeheader()
     writer.writerows(nuevos)
 
-print(f"{csv_file} generado correctamente con {len(nuevos)} incidentes.")
+print("CSV generado correctamente: cortes_enre.csv")
