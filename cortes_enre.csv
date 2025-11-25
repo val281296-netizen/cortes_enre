@@ -1,4 +1,4 @@
-latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada, fecha bajada, hora bajada
+latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada, fecha bajada, hora bajada-GMT
 -34.790327856,-58.253465469,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,131,2025-11-25 17:00,2025-11-25,18:25:31
 -34.788864519,-58.255974174,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,174,2025-11-25 17:00,2025-11-25,18:25:31
 -34.789246161,-58.254483815,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,1,2025-11-25 17:00,2025-11-25,18:25:31
@@ -659,3 +659,4 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6515,-58.3465,21,baja,Edesur,Avellaneda,Avellaneda,,,15,,2025-11-25,18:52:22
 -34.6007,-58.393,21,baja,Edesur,Capital,San Nicolas,,,7,,2025-11-25,18:52:22
 -34.6127,-58.4527,21,baja,Edesur,Capital,Caballito,,,11,,2025-11-25,18:52:22
+
