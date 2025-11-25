@@ -2,8 +2,8 @@ name: Scraper ENRE
 
 on:
   schedule:
-    - cron: "0 * * * *"   # se ejecuta cada hora
-  workflow_dispatch:      # permite ejecutarlo manualmente
+    - cron: "0 * * * *"   # cada hora
+  workflow_dispatch:
 
 jobs:
   run-scraper:
@@ -31,4 +31,3 @@ jobs:
           git add cortes_enre.csv
           git commit -m "Scraper auto-update" || echo "No changes"
           git push
-
