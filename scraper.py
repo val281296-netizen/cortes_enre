@@ -89,9 +89,11 @@ fieldnames = [
     "hora_descarga",
 ]
 
-with open("cortes_enre.csv", "w", newline="", encoding="utf-8") as file:
+# Guardar en CSV en modo append
+with open("cortes_enre.csv", "a", newline="", encoding="utf-8") as file:
     writer = csv.DictWriter(file, fieldnames=fieldnames)
-    writer.writeheader()
+    if file.tell() == 0:
+        writer.writeheader()
     writer.writerows(nuevos)
 
 
