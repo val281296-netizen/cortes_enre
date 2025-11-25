@@ -3,9 +3,11 @@ import re
 
 import requests
 
-content = requests.get(
-    "https://www.enre.gov.ar/mapaCortes/datos/Datos_PaginaWeb.js"
-).content.decode("utf8")
+import requests
+
+URL = "https://www.enre.gov.ar/mapaCortes/datos/Datos_PaginaWeb.js"
+content = requests.get(URL, verify=False, timeout=20).text
+
 
 
 def parse_tipo(s):
