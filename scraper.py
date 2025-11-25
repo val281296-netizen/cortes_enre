@@ -1,15 +1,20 @@
 import csv
 import re
-
 import requests
+import os
 
-import requests
-
+# URL del ENRE
 URL = "https://www.enre.gov.ar/mapaCortes/datos/Datos_PaginaWeb.js"
-content = requests.get(URL, verify=False, timeout=20).text
+
+# Descargar el contenido (ignorar SSL)
+try:
+    content = requests.get(URL, verify=False, timeout=20).text
+except Exception as e:
+    print("Error al descargar los datos:", e)
+    exit(1)
 
 
-
+# Funciones de parsing
 def parse_tipo(s):
     if "media" in s.lower():
         return "media"
@@ -36,10 +41,9 @@ def number(s):
 
 nuevos = []
 
-for incidente in re.findall("\[(\-.*?)\]", content):
+for incidente in re.findall(r"\[(\-.*?)\]", content):
     incidente = incidente.split(",")
     if len(incidente) == 11:
-        # corte alta/media
         headers = {
             "latitud": _,
             "longitud": _,
@@ -64,29 +68,32 @@ for incidente in re.findall("\[(\-.*?)\]", content):
             "localidad": dospuntos,
             "afectados": number,
         }
-    incidente = {
+    # Build dict seguro
+    incidente_dict = {
         header: f(value.strip())
         for (header, f), value in zip(headers.items(), incidente)
     }
-    nuevos.append(incidente)
+    nuevos.append(incidente_dict)
 
+# Guardar CSV
+csv_file = "cortes_enre.csv"
+fieldnames = [
+    "latitud",
+    "longitud",
+    "nn",
+    "tipo",
+    "empresa",
+    "partido",
+    "localidad",
+    "subestacion",
+    "alimentador",
+    "afectados",
+    "normalizacion estimada",
+]
 
-with open("cortes_enre.csv", "w") as file:
-    writer = csv.DictWriter(
-        file,
-        fieldnames=[
-            "latitud",
-            "longitud",
-            "nn",
-            "tipo",
-            "empresa",
-            "partido",
-            "localidad",
-            "subestacion",
-            "alimentador",
-            "afectados",
-            "normalizacion estimada",
-        ],
-    )
+with open(csv_file, "w", newline="", encoding="utf-8") as file:
+    writer = csv.DictWriter(file, fieldnames=fieldnames)
     writer.writeheader()
     writer.writerows(nuevos)
+
+print(f"{csv_file} generado correctamente con {len(nuevos)} incidentes.")
