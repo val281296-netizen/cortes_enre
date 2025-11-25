@@ -31,3 +31,5 @@ jobs:
           git add cortes_enre.csv
           git commit -m "Scraper auto-update" || echo "No changes"
           git push
+          
+Create scraper workflow
