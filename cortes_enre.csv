@@ -1369,3 +1369,97 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.625,-58.3949,21,baja,Edesur,Capital,San Cristobal,,,17,,2025-11-26,10:47:03
 -34.6132,-58.4854,21,baja,Edesur,Capital,Villa Sta. Rita,,,16,,2025-11-26,10:47:03
 -34.6403,-58.417,21,baja,Edesur,Capital,Nueva Pompeya,,,31,,2025-11-26,10:47:03
+-34.771774419,-58.283563900,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-15/085-1-15,41,2025-11-26 11:00,2025-11-26,13:48:10
+-34.807110735,-58.360498901,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-31/189-3-31,644,2025-11-26 15:02,2025-11-26,13:48:10
+-34.803767294,-58.354250400,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-31/189-3-31,618,2025-11-26 15:02,2025-11-26,13:48:10
+-34.837663270,-58.471513101,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-36/083-3-36,171,2025-11-26 13:23,2025-11-26,13:48:10
+-34.834475349,-58.476528080,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-36/083-3-36,5,2025-11-26 13:23,2025-11-26,13:48:10
+-34.834926076,-58.479026479,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-36/083-3-36,2,2025-11-26 13:23,2025-11-26,13:48:10
+-34.836232714,-58.481644455,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-36/083-3-36,4,2025-11-26 13:23,2025-11-26,13:48:10
+-34.836823348,-58.473021232,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-36/083-3-36,107,2025-11-26 13:23,2025-11-26,13:48:10
+-34.839814559,-58.467022619,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-36/083-3-36,209,2025-11-26 13:23,2025-11-26,13:48:10
+-34.835953275,-58.468141927,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-36/083-3-36,194,2025-11-26 13:23,2025-11-26,13:48:10
+-34.839628042,-58.471761355,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-36/083-3-36,261,2025-11-26 13:23,2025-11-26,13:48:10
+-34.826602030,-58.300846152,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-54/286-5-54,3,2025-11-26 14:00,2025-11-26,13:48:10
+-34.818695051,-58.302284603,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-54/286-5-54,153,2025-11-26 14:00,2025-11-26,13:48:10
+-34.819850348,-58.301199869,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-54/286-5-54,180,2025-11-26 14:00,2025-11-26,13:48:10
+-34.821182301,-58.303749040,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-54/286-5-54,105,2025-11-26 14:00,2025-11-26,13:48:10
+-34.822791481,-58.306811629,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-54/286-5-54,170,2025-11-26 14:00,2025-11-26,13:48:10
+-34.820714076,-58.306170341,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-54/286-5-54,184,2025-11-26 14:00,2025-11-26,13:48:10
+-34.825347710,-58.301773799,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-54/286-5-54,1,2025-11-26 14:00,2025-11-26,13:48:10
+-34.821554298,-58.307786437,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-54/286-5-54,1,2025-11-26 14:00,2025-11-26,13:48:10
+-34.473145232,-58.544131555,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr1/53-5546,1,Sin Datos,2025-11-26,13:48:10
+-34.517801757,-58.494487700,12,media,Edenor,Vicente Lopez,Olivos,S/D,R:Vicente Lopez/50-Tr2/50-5526,344,2025-11-26 13:00,2025-11-26,13:48:10
+-34.625372199,-58.639248583,12,media,Edenor,Hurlingham,Villa Tesei,S/D,R:Hurlingham/166-Tr3/166-5535,120,2025-11-26 13:00,2025-11-26,13:48:10
+-34.621809917,-58.645601770,12,media,Edenor,Hurlingham,Villa Tesei,S/D,R:Hurlingham/166-Tr3/166-5535,65,2025-11-26 13:00,2025-11-26,13:48:10
+-34.621084891,-58.644723776,12,media,Edenor,Hurlingham,Villa Tesei,S/D,R:Hurlingham/166-Tr3/166-5535,108,2025-11-26 13:00,2025-11-26,13:48:10
+-34.621882284,-58.643383180,12,media,Edenor,Hurlingham,Villa Tesei,S/D,R:Hurlingham/166-Tr3/166-5535,254,2025-11-26 13:00,2025-11-26,13:48:10
+-34.625012372,-58.642613287,12,media,Edenor,Hurlingham,Villa Tesei,S/D,R:Hurlingham/166-Tr3/166-5535,132,2025-11-26 13:00,2025-11-26,13:48:10
+-34.623435111,-58.640686018,12,media,Edenor,Hurlingham,Villa Tesei,S/D,R:Hurlingham/166-Tr3/166-5535,441,2025-11-26 13:00,2025-11-26,13:48:10
+-34.618711349,-58.640599549,12,media,Edenor,Hurlingham,Villa Tesei,S/D,R:Hurlingham/166-Tr3/166-5535,150,2025-11-26 13:00,2025-11-26,13:48:10
+-34.613493022,-58.855275617,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5516,11,2025-11-26 12:00,2025-11-26,13:48:10
+-34.490561649,-58.741145217,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Nogues/159-Tr2/159-5526,397,2025-11-26 14:00,2025-11-26,13:48:10
+-34.354284676,-58.800819718,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5514,252,2025-11-26 11:00,2025-11-26,13:48:10
+-34.354286436,-58.798327939,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5514,135,2025-11-26 11:00,2025-11-26,13:48:10
+-34.347851087,-58.805526776,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5514,80,2025-11-26 13:00,2025-11-26,13:48:10
+-34.422995735,-58.886179501,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,200,2025-11-26 12:00,2025-11-26,13:48:10
+-34.416322810,-58.891219884,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,7,2025-11-26 12:00,2025-11-26,13:48:10
+-34.426857375,-58.883295787,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,57,2025-11-26 12:00,2025-11-26,13:48:10
+-34.423646157,-58.883126977,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,98,2025-11-26 12:00,2025-11-26,13:48:10
+-34.481788892,-58.632680627,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr1/157-5548,8,2025-11-26 13:00,2025-11-26,13:48:10
+-34.829250172,-59.077808573,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2025-11-26,13:48:10
+-34.819500198,-59.092503883,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,3,Sin Datos,2025-11-26,13:48:10
+-34.808892092,-59.091659069,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2025-11-26,13:48:10
+-34.799480388,-59.105710531,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2025-11-26,13:48:10
+-34.796885170,-59.099991845,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2025-11-26,13:48:10
+-34.796366609,-59.116819813,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2025-11-26,13:48:10
+-34.804169341,-59.115901662,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2025-11-26,13:48:10
+-34.823624707,-59.102313962,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2025-11-26,13:48:10
+-34.831460586,-59.111821555,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,Sin Datos,2025-11-26,13:48:10
+-34.830155214,-59.124368219,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2025-11-26,13:48:10
+-34.826718737,-59.129300781,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2025-11-26,13:48:10
+-34.823709659,-59.133566926,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2025-11-26,13:48:10
+-34.846018871,-59.055660346,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,4,Sin Datos,2025-11-26,13:48:10
+-34.823890232,-59.138896977,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,Sin Datos,2025-11-26,13:48:10
+-34.831788163,-59.064367097,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,Sin Datos,2025-11-26,13:48:10
+-34.828160439,-59.127203458,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2025-11-26,13:48:10
+-34.813030607,-59.084027476,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,Sin Datos,2025-11-26,13:48:10
+-34.809503553,-59.074290465,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2025-11-26,13:48:10
+-34.819301405,-59.120789129,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2025-11-26,13:48:10
+-34.795025334,-59.126449220,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2025-11-26,13:48:10
+-34.832207042,-59.073610124,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,Sin Datos,2025-11-26,13:48:10
+-34.832014082,-59.121622094,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2025-11-26,13:48:10
+-34.809142472,-59.112323547,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2025-11-26,13:48:10
+-34.824969816,-59.137690445,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2025-11-26,13:48:10
+-34.837996408,-59.119898992,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2025-11-26,13:48:10
+-34.686210972,-58.728817229,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr1/361-5514,145,2025-11-26 12:00,2025-11-26,13:48:10
+-34.686663890,-58.729251548,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr1/361-5514,353,2025-11-26 12:00,2025-11-26,13:48:10
+-34.371267047,-58.601443695,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,23,Sin Datos,2025-11-26,13:48:10
+-34.365841130,-58.601221104,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,9,Sin Datos,2025-11-26,13:48:10
+-34.369171903,-58.592227751,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,4,Sin Datos,2025-11-26,13:48:10
+-34.351431608,-58.593277735,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,3,Sin Datos,2025-11-26,13:48:10
+-34.373522045,-58.591847933,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,31,Sin Datos,2025-11-26,13:48:10
+-34.375099789,-58.594705342,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,56,Sin Datos,2025-11-26,13:48:10
+-34.370378435,-58.594078512,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,26,Sin Datos,2025-11-26,13:48:10
+-34.370309195,-58.599721992,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,27,Sin Datos,2025-11-26,13:48:10
+-34.363206029,-58.602119496,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,10,Sin Datos,2025-11-26,13:48:10
+-34.362013253,-58.604061550,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,27,Sin Datos,2025-11-26,13:48:10
+-34.357269274,-58.593208319,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,37,Sin Datos,2025-11-26,13:48:10
+-34.433280033,-58.884970980,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Pilar/158-Tr4/158-5481,2,2025-11-26 11:00,2025-11-26,13:48:10
+-34.423314953,-58.871380294,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Pilar/158-Tr4/158-5481,17,2025-11-26 11:00,2025-11-26,13:48:10
+-34.424613493,-58.879021000,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Pilar/158-Tr4/158-5481,184,2025-11-26 11:00,2025-11-26,13:48:10
+-34.427496636,-58.879979284,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Pilar/158-Tr4/158-5481,126,2025-11-26 11:00,2025-11-26,13:48:10
+-34.627496350,-58.552268332,12,media,Edenor,3 De Febrero,Ciudadela,S/D,R:Ciudadela/167-Tr1/167-5517,595,2025-11-26 14:00,2025-11-26,13:48:10
+-34.628783103,-58.555226742,12,media,Edenor,3 De Febrero,Ciudadela,S/D,R:Ciudadela/167-Tr1/167-5517,64,2025-11-26 14:00,2025-11-26,13:48:10
+-34.627851644,-58.553085175,12,media,Edenor,3 De Febrero,Ciudadela,S/D,R:Ciudadela/167-Tr1/167-5517,57,2025-11-26 14:00,2025-11-26,13:48:10
+-34.457,-58.5399,22,baja,Edenor,San Fernando,Victoria,,,5,,2025-11-26,13:48:10
+-34.6599,-58.5869,22,baja,Edenor,La Matanza,Villa Luzuriaga,,,13,,2025-11-26,13:48:10
+-34.6481,-58.5159,21,baja,Edesur,Capital,Liniers,,,26,,2025-11-26,13:48:10
+-34.625,-58.3949,21,baja,Edesur,Capital,San Cristobal,,,26,,2025-11-26,13:48:10
+-34.6403,-58.417,21,baja,Edesur,Capital,Nueva Pompeya,,,33,,2025-11-26,13:48:10
+-34.7334,-58.4093,21,baja,Edesur,Lomas De Zamora,Banfield,,,4,,2025-11-26,13:48:10
+-34.7184,-58.4259,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,4,,2025-11-26,13:48:10
+-34.7057,-58.3906,21,baja,Edesur,Lanus,Lanus,,,4,,2025-11-26,13:48:10
+-34.6123,-58.4858,21,baja,Edesur,Capital,Capital,,,16,,2025-11-26,13:48:10
+-34.6279,-58.478,21,baja,Edesur,Capital,Floresta,,,2,,2025-11-26,13:48:10
+-34.6507,-58.4203,21,baja,Edesur,Capital,Nueva Pompeya,,,9,,2025-11-26,13:48:10
