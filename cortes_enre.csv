@@ -1980,3 +1980,34 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -35.019,-58.4241,21,baja,Edesur,San Vicente,San Vicente,,,30,,2025-11-27,08:53:03
 -34.6419,-58.4642,21,baja,Edesur,Capital,Flores,,,17,,2025-11-27,08:53:03
 -34.7184,-58.4259,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,4,,2025-11-27,08:53:03
+-34.651528958,-58.406578391,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-43/039-4-43,180,2025-11-27 08:15,2025-11-27,10:45:02
+-34.655370323,-58.405170764,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-43/039-4-43,949,2025-11-27 08:15,2025-11-27,10:45:02
+-34.560349365,-58.823877447,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5524,8,2025-11-27 11:00,2025-11-27,10:45:02
+-34.405293623,-58.828383262,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,18,Sin Datos,2025-11-27,10:45:02
+-34.403089266,-58.828479293,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,48,Sin Datos,2025-11-27,10:45:02
+-34.410620609,-58.823951150,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,60,Sin Datos,2025-11-27,10:45:02
+-34.407425501,-58.827811090,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,73,Sin Datos,2025-11-27,10:45:02
+-34.409341242,-58.828544761,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,95,Sin Datos,2025-11-27,10:45:02
+-34.414312455,-58.826380816,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,107,Sin Datos,2025-11-27,10:45:02
+-34.406599268,-58.833215982,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,80,Sin Datos,2025-11-27,10:45:02
+-34.406044690,-58.837096167,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,66,Sin Datos,2025-11-27,10:45:02
+-34.412216585,-58.831312987,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,76,Sin Datos,2025-11-27,10:45:02
+-34.399056111,-58.831551726,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,16,Sin Datos,2025-11-27,10:45:02
+-34.414175532,-58.820036371,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,3,Sin Datos,2025-11-27,10:45:02
+-34.414893804,-58.815722038,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,1,Sin Datos,2025-11-27,10:45:02
+-34.402137526,-58.829167313,12,media,Edenor,Escobar,Garin,S/D,R:Matheu/51-Tr1/51-5514,95,Sin Datos,2025-11-27,10:45:02
+-34.401006077,-58.827179427,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,42,Sin Datos,2025-11-27,10:45:02
+-34.402413361,-58.824486747,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Matheu/51-Tr1/51-5514,53,Sin Datos,2025-11-27,10:45:02
+-34.404830956,-58.824649943,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,26,Sin Datos,2025-11-27,10:45:02
+-34.408191410,-58.820518665,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Matheu/51-Tr1/51-5514,105,Sin Datos,2025-11-27,10:45:02
+-34.407976163,-58.822584601,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,44,Sin Datos,2025-11-27,10:45:02
+-34.412460539,-58.820558559,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,82,Sin Datos,2025-11-27,10:45:02
+-34.407678367,-58.824905028,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,91,Sin Datos,2025-11-27,10:45:02
+-34.5841,-58.4535,22,baja,Edenor,Capital Federal,Chacarita,,,5,,2025-11-27,10:45:02
+-34.5899,-58.6595,22,baja,Edenor,Hurlingham,William Morris,,,6,,2025-11-27,10:45:02
+-34.5577,-58.4904,22,baja,Edenor,Capital Federal,Saavedra,,,3,,2025-11-27,10:45:02
+-34.5641,-58.7069,22,baja,Edenor,San Miguel,Muñiz,,,6,,2025-11-27,10:45:02
+-34.6481,-58.5159,21,baja,Edesur,Capital,Liniers,,,26,,2025-11-27,10:45:02
+-35.019,-58.4241,21,baja,Edesur,San Vicente,San Vicente,,,30,,2025-11-27,10:45:02
+-34.6419,-58.4642,21,baja,Edesur,Capital,Flores,,,18,,2025-11-27,10:45:02
+-34.7184,-58.4259,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,4,,2025-11-27,10:45:02
