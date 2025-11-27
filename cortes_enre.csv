@@ -2415,3 +2415,70 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6372,-58.3999,21,baja,Edesur,Capital,Parque Patricios,,,4,,2025-11-27,16:48:40
 -34.8277,-58.4174,21,baja,Edesur,Almirante Brown,Burzaco,,,2,,2025-11-27,16:48:40
 -34.7498,-58.4177,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,4,,2025-11-27,16:48:40
+-34.722685155,-58.255328292,11,media,Edesur,Quilmes,Quilmes Este,Sobral,R:175-1-14/175-1-14,69,Sin Datos,2025-11-27,18:49:50
+-34.854520920,-58.404610602,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-1-14/277-1-14,188,Sin Datos,2025-11-27,18:49:50
+-34.856003369,-58.404962255,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-1-14/277-1-14,8,Sin Datos,2025-11-27,18:49:50
+-34.868158621,-58.408645609,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-1-14/277-1-14,1,Sin Datos,2025-11-27,18:49:50
+-34.857389655,-58.405295679,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-1-14/277-1-14,35,Sin Datos,2025-11-27,18:49:50
+-34.862515497,-58.406504693,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-1-14/277-1-14,136,Sin Datos,2025-11-27,18:49:50
+-34.860537535,-58.404558746,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-1-14/277-1-14,21,Sin Datos,2025-11-27,18:49:50
+-34.859541990,-58.404076118,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-1-14/277-1-14,34,Sin Datos,2025-11-27,18:49:50
+-34.859219468,-58.404918861,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-1-14/277-1-14,38,Sin Datos,2025-11-27,18:49:50
+-34.857338559,-58.404480222,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-1-14/277-1-14,27,Sin Datos,2025-11-27,18:49:50
+-34.858979849,-58.404437382,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-1-14/277-1-14,22,Sin Datos,2025-11-27,18:49:50
+-34.860649605,-58.406053529,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-1-14/277-1-14,34,Sin Datos,2025-11-27,18:49:50
+-34.860253135,-58.402312813,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-1-14/277-1-14,256,Sin Datos,2025-11-27,18:49:50
+-34.863913789,-58.405621712,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-1-14/277-1-14,252,Sin Datos,2025-11-27,18:49:50
+-34.863997827,-58.402125036,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-1-14/277-1-14,237,Sin Datos,2025-11-27,18:49:50
+-34.820223041,-58.479225221,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-1-15/083-1-15,298,2025-11-27 16:00,2025-11-27,18:49:50
+-34.816102129,-58.474828757,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-1-15/083-1-15,487,2025-11-27 16:00,2025-11-27,18:49:50
+-34.817376922,-58.473851343,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-1-15/083-1-15,494,2025-11-27 16:00,2025-11-27,18:49:50
+-34.819085806,-58.477103996,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-1-15/083-1-15,19,2025-11-27 16:00,2025-11-27,18:49:50
+-34.738023210,-58.385574825,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-1-0304/087-1-0304,356,2025-11-27 23:59,2025-11-27,18:49:50
+-34.738384608,-58.382520557,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-1-0304/087-1-0304,1,2025-11-27 23:59,2025-11-27,18:49:50
+-34.736437710,-58.374189626,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-1-0304/087-1-0304,831,2025-11-27 23:59,2025-11-27,18:49:50
+-34.732136886,-58.381472890,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-1-0304/087-1-0304,457,2025-11-27 23:59,2025-11-27,18:49:50
+-34.728081017,-58.385959419,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-1-0304/087-1-0304,598,2025-11-27 23:59,2025-11-27,18:49:50
+-34.738658958,-58.376941575,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-1-0304/087-1-0304,560,2025-11-27 23:59,2025-11-27,18:49:50
+-34.736604491,-58.387721229,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-1-0304/087-1-0304,592,2025-11-27 23:59,2025-11-27,18:49:50
+-34.731191674,-58.387150988,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-1-0304/087-1-0304,501,2025-11-27 23:59,2025-11-27,18:49:50
+-34.736643654,-58.382356094,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-1-0304/087-1-0304,552,2025-11-27 23:59,2025-11-27,18:49:50
+-34.728345974,-58.387981905,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-1-0304/087-1-0304,299,2025-11-27 23:59,2025-11-27,18:49:50
+-34.730562993,-58.385695184,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-1-0304/087-1-0304,205,2025-11-27 23:59,2025-11-27,18:49:50
+-34.738400989,-58.387495750,11,media,Edesur,Lomas De Zamora,Bandfield,Escalada,R:087-1-0304/087-1-0304,436,2025-11-27 23:59,2025-11-27,18:49:50
+-34.746186910,-58.634349809,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Aeroclub/451-Tr1/451-5545,403,Sin Datos,2025-11-27,18:49:50
+-34.606204634,-59.000676822,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,269,Sin Datos,2025-11-27,18:49:50
+-34.602727804,-58.993964437,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,235,Sin Datos,2025-11-27,18:49:50
+-34.612662794,-58.995629742,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,3,Sin Datos,2025-11-27,18:49:50
+-34.603079267,-58.998811892,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,257,Sin Datos,2025-11-27,18:49:50
+-34.608411078,-58.998918884,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,126,Sin Datos,2025-11-27,18:49:50
+-34.307593565,-58.536181417,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,5,Sin Datos,2025-11-27,18:49:50
+-34.307000075,-58.533444764,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos,2025-11-27,18:49:50
+-34.317637192,-58.519044119,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,Sin Datos,2025-11-27,18:49:50
+-34.312871793,-58.512384830,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos,2025-11-27,18:49:50
+-34.318723988,-58.534047967,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,6,Sin Datos,2025-11-27,18:49:50
+-34.314133371,-58.532329527,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos,2025-11-27,18:49:50
+-34.314930035,-58.534574950,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,Sin Datos,2025-11-27,18:49:50
+-34.325566791,-58.529779837,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos,2025-11-27,18:49:50
+-34.335556818,-58.527011012,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,12,Sin Datos,2025-11-27,18:49:50
+-34.329584301,-58.528480359,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,10,Sin Datos,2025-11-27,18:49:50
+-34.326400035,-58.529315510,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,Sin Datos,2025-11-27,18:49:50
+-34.5442,-58.5025,22,baja,Edenor,Vicente Lopez,Villa Martelli,,,4,,2025-11-27,18:49:50
+-34.7039,-58.6826,22,baja,Edenor,Merlo,Libertad,,,30,,2025-11-27,18:49:50
+-34.6661,-58.5281,22,baja,Edenor,La Matanza,Lomas Del Mirador,,,26,,2025-11-27,18:49:50
+-34.6586,-58.6057,22,baja,Edenor,Moron,Moron,,,51,,2025-11-27,18:49:50
+-34.6419,-58.4642,21,baja,Edesur,Capital,Flores,,,31,,2025-11-27,18:49:50
+-34.6006,-58.4656,21,baja,Edesur,Capital,La Paternal,,,14,,2025-11-27,18:49:50
+-34.7,-58.3531,21,baja,Edesur,Avellaneda,Sarandi,,,8,,2025-11-27,18:49:50
+-34.7826,-58.3585,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,7,,2025-11-27,18:49:50
+-34.8361,-58.4496,21,baja,Edesur,Cañuelas,Maximo Paz,,,3,,2025-11-27,18:49:50
+-34.6351,-58.3724,21,baja,Edesur,Capital,Barracas,,,7,,2025-11-27,18:49:50
+-34.6105,-58.4839,21,baja,Edesur,Capital,Villa Sta. Rita,,,10,,2025-11-27,18:49:50
+-34.8768,-58.5853,21,baja,Edesur,Ezeiza,Tristan Suarez,,,12,,2025-11-27,18:49:50
+-34.6454,-58.4212,21,baja,Edesur,Capital,Nueva Pompeya,,,9,,2025-11-27,18:49:50
+-34.6546,-58.4156,21,baja,Edesur,Capital,Nueva Pompeya,,,14,,2025-11-27,18:49:50
+-34.6372,-58.3999,21,baja,Edesur,Capital,Parque Patricios,,,5,,2025-11-27,18:49:50
+-34.7487,-58.418,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,19,,2025-11-27,18:49:50
+-34.6141,-58.4374,21,baja,Edesur,Capital,Capital,,,18,,2025-11-27,18:49:50
+-34.6438,-58.3749,21,baja,Edesur,Capital,Barracas,,,2,,2025-11-27,18:49:50
+-34.6698,-58.4133,21,baja,Edesur,Lanus,Valentin Alsina,,,12,,2025-11-27,18:49:50
