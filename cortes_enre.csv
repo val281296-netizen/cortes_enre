@@ -1,4 +1,4 @@
-latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion_estimada, fecha_bajada, hora_bajada-GMT
+latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion_estimada, fecha_bajada, hora_bajada
 -34.790327856,-58.253465469,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,131,2025-11-25 17:00,2025-11-25,18:25:31
 -34.788864519,-58.255974174,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,174,2025-11-25 17:00,2025-11-25,18:25:31
 -34.789246161,-58.254483815,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,1,2025-11-25 17:00,2025-11-25,18:25:31
@@ -3319,3 +3319,4 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7039,-58.3826,21,baja,Edesur,Lanus,Lanus,,,1,,2025-11-28,16:39:24
 -34.6607,-58.4052,21,baja,Edesur,Lanus,Valentin Alsina,,,6,,2025-11-28,16:39:24
 -34.6518,-58.5024,21,baja,Edesur,Capital,Mataderos,,,1,,2025-11-28,16:39:24
+
