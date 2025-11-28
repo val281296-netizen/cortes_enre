@@ -2978,3 +2978,53 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7425,-58.2594,21,baja,Edesur,Quilmes,Quilmes,,,15,,2025-11-28,10:42:48
 -34.6559,-58.5149,21,baja,Edesur,Capital,Mataderos,,,1,,2025-11-28,10:42:48
 -34.7835,-58.3633,21,baja,Edesur,Almirante Brown,Marmol,,,4,,2025-11-28,10:42:48
+-34.702286714,-58.397605416,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-3-32/186-3-32,348,2025-11-28 14:30,2025-11-28,13:39:15
+-34.702314862,-58.397604084,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-3-32/186-3-32,264,2025-11-28 14:30,2025-11-28,13:39:15
+-34.896573469,-58.365508438,11,media,Edesur,Pte Peron,Los Pinos,Glew,R:277-2-23/277-2-23,343,2025-11-28 13:10,2025-11-28,13:39:15
+-34.898464501,-58.374974965,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-2-23/277-2-23,32,2025-11-28 13:10,2025-11-28,13:39:15
+-34.765043685,-58.381348472,11,media,Edesur,Lomas De Zamora,Temperley,Temperley,R:084-1-14/084-1-14,672,2025-11-28 17:00,2025-11-28,13:39:15
+-34.557167389,-58.519946727,12,media,Edenor,Vicente Lopez,Villa Martelli,S/D,R:Munro/55-Tr2/55-5526,194,2025-11-28 16:00,2025-11-28,13:39:15
+-34.734304021,-58.629315825,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Pantanosa/365-Tr2/365-5521,218,2025-11-28 17:00,2025-11-28,13:39:15
+-34.930037487,-58.779130106,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr2/353-5526,2,2025-11-28 15:00,2025-11-28,13:39:15
+-34.776382609,-58.765475213,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,2,2025-11-28 15:00,2025-11-28,13:39:15
+-34.777830494,-58.768876216,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,1,2025-11-28 15:00,2025-11-28,13:39:15
+-34.774198292,-58.762963809,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,1,2025-11-28 15:00,2025-11-28,13:39:15
+-34.780376172,-58.765516427,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,5,2025-11-28 15:00,2025-11-28,13:39:15
+-34.603395467,-59.004580783,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,59,2025-11-28 13:00,2025-11-28,13:39:15
+-34.607790307,-59.004574329,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,133,2025-11-28 13:00,2025-11-28,13:39:15
+-34.610019627,-59.008758375,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,154,2025-11-28 13:00,2025-11-28,13:39:15
+-34.614239012,-59.010313233,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,75,2025-11-28 13:00,2025-11-28,13:39:15
+-34.610990595,-59.012829649,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,75,2025-11-28 13:00,2025-11-28,13:39:15
+-34.409714850,-58.774268837,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Garin/454-Tr1/454-5518,377,2025-11-28 12:45,2025-11-28,13:39:15
+-34.484949180,-58.622420719,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr1/157-5548,75,2025-11-28 12:30,2025-11-28,13:39:15
+-34.135474647,-58.415973609,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2025-11-28 13:00,2025-11-28,13:39:15
+-34.143202912,-58.403487776,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2025-11-28 13:00,2025-11-28,13:39:15
+-34.699,-58.492,22,baja,Edenor,La Matanza,Villa Madero,,,120,,2025-11-28,13:39:15
+-34.6514,-58.7478,22,baja,Edenor,Moreno,Paso Del Rey,,,21,,2025-11-28,13:39:15
+-34.5826,-58.4964,22,baja,Edenor,Capital Federal,Villa Pueyrred?N,,,5,,2025-11-28,13:39:15
+-34.6943,-58.643,22,baja,Edenor,Moron,Castelar,,,31,,2025-11-28,13:39:15
+-34.5311,-58.7954,22,baja,Edenor,Jose C Paz,Jose C Paz,,,32,,2025-11-28,13:39:15
+-34.7258,-58.575,22,baja,Edenor,La Matanza,Isidro Casanova,,,20,,2025-11-28,13:39:15
+-34.34,-58.7194,22,baja,Edenor,Escobar,Escobar,,,5,,2025-11-28,13:39:15
+-34.696,-58.5709,22,baja,Edenor,La Matanza,San Justo,,,36,,2025-11-28,13:39:15
+-34.5654,-58.4937,22,baja,Edenor,Capital Federal,Villa Urquiza,,,12,,2025-11-28,13:39:15
+-34.4688,-58.6476,22,baja,Edenor,Tigre,El Talar,,,6,,2025-11-28,13:39:15
+-34.5884,-58.4055,22,baja,Edenor,Capital Federal,Recoleta,,,21,,2025-11-28,13:39:15
+-34.7,-58.3531,21,baja,Edesur,Avellaneda,Sarandi,,,9,,2025-11-28,13:39:15
+-34.618,-58.4133,21,baja,Edesur,Capital,Almagro,,,8,,2025-11-28,13:39:15
+-34.8195,-58.1974,21,baja,Edesur,Florencio Varela,Bosques,,,11,,2025-11-28,13:39:15
+-34.6098,-58.4615,21,baja,Edesur,Capital,Caballito,,,8,,2025-11-28,13:39:15
+-34.7905,-58.1457,21,baja,Edesur,Berazategui,Hudson,,,156,,2025-11-28,13:39:15
+-34.6153,-58.4367,21,baja,Edesur,Capital,Caballito,,,18,,2025-11-28,13:39:15
+-34.7699,-58.4252,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,44,,2025-11-28,13:39:15
+-34.7425,-58.2594,21,baja,Edesur,Quilmes,Quilmes,,,17,,2025-11-28,13:39:15
+-34.7835,-58.3633,21,baja,Edesur,Almirante Brown,Marmol,,,12,,2025-11-28,13:39:15
+-34.6115,-58.4509,21,baja,Edesur,Capital,Caballito,,,5,,2025-11-28,13:39:15
+-34.6083,-58.4577,21,baja,Edesur,Capital,Caballito,,,7,,2025-11-28,13:39:15
+-34.6475,-58.5017,21,baja,Edesur,Capital,Mataderos,,,1,,2025-11-28,13:39:15
+-34.6159,-58.4047,21,baja,Edesur,Capital,Balvanera,,,2,,2025-11-28,13:39:15
+-34.7039,-58.3826,21,baja,Edesur,Lanus,Lanus,,,1,,2025-11-28,13:39:15
+-34.7493,-58.5011,21,baja,Edesur,Esteban Echeverria,9 De Abril,,,1,,2025-11-28,13:39:15
+-34.613,-58.4352,21,baja,Edesur,Capital,Caballito,,,12,,2025-11-28,13:39:15
+-34.6478,-58.5013,21,baja,Edesur,Capital,Mataderos,,,2,,2025-11-28,13:39:15
+-34.6008,-58.4242,21,baja,Edesur,Capital,Almagro,,,7,,2025-11-28,13:39:15
