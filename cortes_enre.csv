@@ -3077,3 +3077,245 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6477,-58.5007,21,baja,Edesur,Capital,Capital,,,1,,2025-11-28,14:40:17
 -34.6607,-58.4052,21,baja,Edesur,Lanus,Valentin Alsina,,,5,,2025-11-28,14:40:17
 
+-34.702286714,-58.397605416,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-3-32/186-3-32,348,2025-11-28 14:30,2025-11-28,16:39:24
+-34.702314862,-58.397604084,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-3-32/186-3-32,264,2025-11-28 14:30,2025-11-28,16:39:24
+-34.896573469,-58.365508438,11,media,Edesur,Pte Peron,Los Pinos,Glew,R:277-2-23/277-2-23,343,Sin Datos,2025-11-28,16:39:24
+-34.898464501,-58.374974965,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-2-23/277-2-23,32,Sin Datos,2025-11-28,16:39:24
+-34.765043685,-58.381348472,11,media,Edesur,Lomas De Zamora,Temperley,Temperley,R:084-1-14/084-1-14,672,2025-11-28 17:00,2025-11-28,16:39:24
+-34.614020020,-58.437179342,11,media,Edesur,Capital Gp,Caballito Gp,Caballito,R:122-2-25/122-2-25,1156,2025-11-28 14:13,2025-11-28,16:39:24
+-34.627247566,-58.414084371,11,media,Edesur,Capital Rp,Boedo,Pompeya,R:039-1-14/039-1-14,139,2025-11-28 14:25,2025-11-28,16:39:24
+-34.855895620,-58.242730521,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,2025-11-28 20:33,2025-11-28,16:39:24
+-34.854181113,-58.244024742,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,2025-11-28 20:33,2025-11-28,16:39:24
+-34.851189808,-58.246282614,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,7,2025-11-28 20:33,2025-11-28,16:39:24
+-34.846768905,-58.249461154,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,4,2025-11-28 20:33,2025-11-28,16:39:24
+-34.844890040,-58.250834347,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,3,2025-11-28 20:33,2025-11-28,16:39:24
+-34.842484487,-58.252631727,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,3,2025-11-28 20:33,2025-11-28,16:39:24
+-34.853232368,-58.238122400,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,2025-11-28 20:33,2025-11-28,16:39:24
+-34.850645364,-58.240043400,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,8,2025-11-28 20:33,2025-11-28,16:39:24
+-34.848299597,-58.241795564,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,2025-11-28 20:33,2025-11-28,16:39:24
+-34.847013274,-58.242662720,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,4,2025-11-28 20:33,2025-11-28,16:39:24
+-34.845464335,-58.243817675,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,3,2025-11-28 20:33,2025-11-28,16:39:24
+-34.839559422,-58.248212225,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,2025-11-28 20:33,2025-11-28,16:39:24
+-34.850686969,-58.233944969,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,4,2025-11-28 20:33,2025-11-28,16:39:24
+-34.847777088,-58.236144371,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,3,2025-11-28 20:33,2025-11-28,16:39:24
+-34.845343456,-58.237881097,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,2025-11-28 20:33,2025-11-28,16:39:24
+-34.839963722,-58.241828464,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,3,2025-11-28 20:33,2025-11-28,16:39:24
+-34.837334549,-58.243736739,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,5,2025-11-28 20:33,2025-11-28,16:39:24
+-34.836723307,-58.247556327,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,9,2025-11-28 20:33,2025-11-28,16:39:24
+-34.835891659,-58.245968844,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,2,2025-11-28 20:33,2025-11-28,16:39:24
+-34.834371465,-58.243045597,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,2025-11-28 20:33,2025-11-28,16:39:24
+-34.846369681,-58.252200928,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,6,2025-11-28 20:33,2025-11-28,16:39:24
+-34.841594530,-58.243171929,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,13,2025-11-28 20:33,2025-11-28,16:39:24
+-34.841034707,-58.242092125,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,2025-11-28 20:33,2025-11-28,16:39:24
+-34.840408241,-58.240915991,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,2025-11-28 20:33,2025-11-28,16:39:24
+-34.848865863,-58.243288088,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,2,2025-11-28 20:33,2025-11-28,16:39:24
+-34.851888083,-58.249072089,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,3,2025-11-28 20:33,2025-11-28,16:39:24
+-34.849993782,-58.245465291,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,4,2025-11-28 20:33,2025-11-28,16:39:24
+-34.846618364,-58.238963749,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,6,2025-11-28 20:33,2025-11-28,16:39:24
+-34.845102028,-58.236096736,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,2,2025-11-28 20:33,2025-11-28,16:39:24
+-34.858366994,-58.236655076,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,2,2025-11-28 20:33,2025-11-28,16:39:24
+-34.861974732,-58.243406327,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,2,2025-11-28 20:33,2025-11-28,16:39:24
+-34.859138651,-58.240253436,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,6,2025-11-28 20:33,2025-11-28,16:39:24
+-34.860263342,-58.238725794,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,2025-11-28 20:33,2025-11-28,16:39:24
+-34.854773688,-58.230148760,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,7,2025-11-28 20:33,2025-11-28,16:39:24
+-34.844075937,-58.244852877,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,2025-11-28 20:33,2025-11-28,16:39:24
+-34.853834941,-58.228613352,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,3,2025-11-28 20:33,2025-11-28,16:39:24
+-34.834458381,-58.253291895,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,58,2025-11-28 20:33,2025-11-28,16:39:24
+-34.857562071,-58.241456673,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,4,2025-11-28 20:33,2025-11-28,16:39:24
+-34.838057782,-58.250136944,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,6,2025-11-28 20:33,2025-11-28,16:39:24
+-34.855241636,-58.239660607,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,12,2025-11-28 20:33,2025-11-28,16:39:24
+-34.840402568,-58.255705519,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,2025-11-28 20:33,2025-11-28,16:39:24
+-34.840606402,-58.254035009,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,5,2025-11-28 20:33,2025-11-28,16:39:24
+-34.844331344,-58.234703061,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,17,2025-11-28 20:33,2025-11-28,16:39:24
+-34.844054375,-58.233922731,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,21,2025-11-28 20:33,2025-11-28,16:39:24
+-34.844820416,-58.234342806,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,13,2025-11-28 20:33,2025-11-28,16:39:24
+-34.845436625,-58.233909082,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,26,2025-11-28 20:33,2025-11-28,16:39:24
+-34.845087656,-58.233224301,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,23,2025-11-28 20:33,2025-11-28,16:39:24
+-34.845600895,-58.233768584,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,15,2025-11-28 20:33,2025-11-28,16:39:24
+-34.843910679,-58.238919283,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,2025-11-28 20:33,2025-11-28,16:39:24
+-34.835308503,-58.244851155,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,2025-11-28 20:33,2025-11-28,16:39:24
+-34.857340393,-58.234783506,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,2025-11-28 20:33,2025-11-28,16:39:24
+-34.884982729,-58.201810863,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,6,2025-11-28 18:14,2025-11-28,16:39:24
+-34.889287412,-58.207044056,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,5,2025-11-28 18:14,2025-11-28,16:39:24
+-34.893416839,-58.211947328,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,6,2025-11-28 18:14,2025-11-28,16:39:24
+-34.885617373,-58.211906780,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,1,2025-11-28 18:14,2025-11-28,16:39:24
+-34.883074329,-58.212221419,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,2,2025-11-28 18:14,2025-11-28,16:39:24
+-34.884949987,-58.209835400,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,1,2025-11-28 18:14,2025-11-28,16:39:24
+-34.881352602,-58.210559479,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,2,2025-11-28 18:14,2025-11-28,16:39:24
+-34.885387909,-58.214728659,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,1,2025-11-28 18:14,2025-11-28,16:39:24
+-34.927145781,-58.249652370,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,3,2025-11-28 18:14,2025-11-28,16:39:24
+-34.929269368,-58.244500153,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,7,2025-11-28 18:14,2025-11-28,16:39:24
+-34.928073715,-58.250739821,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,5,2025-11-28 18:14,2025-11-28,16:39:24
+-34.918968924,-58.240551148,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,4,2025-11-28 18:14,2025-11-28,16:39:24
+-34.921779108,-58.243730065,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-01/951-1-01,4,2025-11-28 18:14,2025-11-28,16:39:24
+-34.908342080,-58.228087674,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-01/951-1-01,10,2025-11-28 18:14,2025-11-28,16:39:24
+-34.897466338,-58.216635591,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,1,2025-11-28 18:14,2025-11-28,16:39:24
+-34.885820021,-58.214174070,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,1,2025-11-28 18:14,2025-11-28,16:39:24
+-34.926079659,-58.248455620,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,6,2025-11-28 18:14,2025-11-28,16:39:24
+-34.885432421,-58.218632907,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,1,2025-11-28 18:14,2025-11-28,16:39:24
+-34.925010170,-58.247257976,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,2,2025-11-28 18:14,2025-11-28,16:39:24
+-34.929338948,-58.252177916,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,21,2025-11-28 18:14,2025-11-28,16:39:24
+-34.884505202,-58.201230800,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,5,2025-11-28 18:14,2025-11-28,16:39:24
+-34.890382223,-58.216810156,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,1,2025-11-28 18:14,2025-11-28,16:39:24
+-34.932000788,-58.247654862,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,14,2025-11-28 18:14,2025-11-28,16:39:24
+-34.882427153,-58.198819280,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,11,2025-11-28 18:14,2025-11-28,16:39:24
+-34.894146070,-58.208087851,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-01/951-1-01,2,2025-11-28 18:14,2025-11-28,16:39:24
+-34.894529611,-58.206770220,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-01/951-1-01,1,2025-11-28 18:14,2025-11-28,16:39:24
+-34.836962062,-58.093694396,11,media,Edesur,Berazategui,Hudson,S/D,R:951-1-01/951-1-01,7,2025-11-28 18:14,2025-11-28,16:39:24
+-34.881671341,-58.196798605,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-01/951-1-01,2,2025-11-28 18:14,2025-11-28,16:39:24
+-34.883024829,-58.195145242,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-01/951-1-01,1,2025-11-28 18:14,2025-11-28,16:39:24
+-34.882983561,-58.197978137,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-01/951-1-01,5,2025-11-28 18:14,2025-11-28,16:39:24
+-34.932411188,-58.255700984,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,2,2025-11-28 18:14,2025-11-28,16:39:24
+-34.932544238,-58.248285758,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,4,2025-11-28 18:14,2025-11-28,16:39:24
+-34.931103662,-58.246614433,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,2,2025-11-28 18:14,2025-11-28,16:39:24
+-34.926521987,-58.241332387,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-01/951-1-01,1,2025-11-28 18:14,2025-11-28,16:39:24
+-34.886296026,-58.217332410,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,2,2025-11-28 18:14,2025-11-28,16:39:24
+-34.910701876,-58.230997154,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,3,2025-11-28 18:14,2025-11-28,16:39:24
+-34.882200136,-58.214081649,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,3,2025-11-28 18:14,2025-11-28,16:39:24
+-34.884250278,-58.200988777,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,6,2025-11-28 18:14,2025-11-28,16:39:24
+-34.597956568,-58.420286380,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,618,2025-11-28 20:47,2025-11-28,16:39:24
+-34.598953372,-58.422614070,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,439,2025-11-28 20:47,2025-11-28,16:39:24
+-34.598983616,-58.418448334,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,183,2025-11-28 20:47,2025-11-28,16:39:24
+-34.598544348,-58.423565557,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,470,2025-11-28 20:47,2025-11-28,16:39:24
+-34.598399779,-58.418702403,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,26,2025-11-28 20:47,2025-11-28,16:39:24
+-34.598953982,-58.423225165,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,211,2025-11-28 20:47,2025-11-28,16:39:24
+-34.598884677,-58.427637966,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,215,2025-11-28 20:47,2025-11-28,16:39:24
+-34.598541421,-58.425102368,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,312,2025-11-28 20:47,2025-11-28,16:39:24
+-34.601348899,-58.418499643,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,347,2025-11-28 20:47,2025-11-28,16:39:24
+-34.598159247,-58.426179129,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,524,2025-11-28 20:47,2025-11-28,16:39:24
+-34.598309277,-58.427217174,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,212,2025-11-28 20:47,2025-11-28,16:39:24
+-34.598444438,-58.420418811,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,1,2025-11-28 20:47,2025-11-28,16:39:24
+-34.598726196,-58.425135369,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,1,2025-11-28 20:47,2025-11-28,16:39:24
+-34.598162000,-58.426360155,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,40,2025-11-28 20:47,2025-11-28,16:39:24
+-34.599133677,-58.421818676,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,484,2025-11-28 20:47,2025-11-28,16:39:24
+-34.846075474,-58.935142561,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr2/363-5523,2,2025-11-28 14:00,2025-11-28,16:39:24
+-34.840502184,-58.939115534,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr2/363-5523,1,2025-11-28 14:00,2025-11-28,16:39:24
+-34.557167389,-58.519946727,12,media,Edenor,Vicente Lopez,Villa Martelli,S/D,R:Munro/55-Tr2/55-5526,194,2025-11-28 16:00,2025-11-28,16:39:24
+-34.734304021,-58.629315825,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Pantanosa/365-Tr2/365-5521,218,2025-11-28 17:00,2025-11-28,16:39:24
+-34.776382609,-58.765475213,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,2,2025-11-28 15:00,2025-11-28,16:39:24
+-34.777830494,-58.768876216,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,1,2025-11-28 15:00,2025-11-28,16:39:24
+-34.774198292,-58.762963809,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,1,2025-11-28 15:00,2025-11-28,16:39:24
+-34.780376172,-58.765516427,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,5,2025-11-28 15:00,2025-11-28,16:39:24
+-34.603395467,-59.004580783,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,59,Sin Datos,2025-11-28,16:39:24
+-34.607790307,-59.004574329,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,133,Sin Datos,2025-11-28,16:39:24
+-34.610019627,-59.008758375,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,154,Sin Datos,2025-11-28,16:39:24
+-34.614239012,-59.010313233,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,75,Sin Datos,2025-11-28,16:39:24
+-34.610990595,-59.012829649,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,75,Sin Datos,2025-11-28,16:39:24
+-34.312225714,-58.602400476,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,22,2025-11-28 15:00,2025-11-28,16:39:24
+-34.304402944,-58.603920274,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,5,2025-11-28 15:00,2025-11-28,16:39:24
+-34.290376568,-58.604267661,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,26,2025-11-28 15:00,2025-11-28,16:39:24
+-34.295147933,-58.603446511,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,14,2025-11-28 15:00,2025-11-28,16:39:24
+-34.754783580,-58.590871180,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5524,34,Sin Datos,2025-11-28,16:39:24
+-34.232721515,-58.634534575,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,Sin Datos,2025-11-28,16:39:24
+-34.231380451,-58.571679207,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,Sin Datos,2025-11-28,16:39:24
+-34.258289540,-58.647205781,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,Sin Datos,2025-11-28,16:39:24
+-34.254785907,-58.627467554,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,4,Sin Datos,2025-11-28,16:39:24
+-34.254360006,-58.620036370,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,Sin Datos,2025-11-28,16:39:24
+-34.251806424,-58.613421844,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,7,Sin Datos,2025-11-28,16:39:24
+-34.252069560,-58.612074517,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,Sin Datos,2025-11-28,16:39:24
+-34.257580637,-58.607963467,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,Sin Datos,2025-11-28,16:39:24
+-34.265644751,-58.601200494,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,Sin Datos,2025-11-28,16:39:24
+-34.255625159,-58.556817734,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,4,Sin Datos,2025-11-28,16:39:24
+-34.259561235,-58.545352489,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,14,Sin Datos,2025-11-28,16:39:24
+-34.252709480,-58.546727976,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,Sin Datos,2025-11-28,16:39:24
+-34.250822868,-58.550360025,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,Sin Datos,2025-11-28,16:39:24
+-34.250195452,-58.554438553,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,Sin Datos,2025-11-28,16:39:24
+-34.254996148,-58.545101693,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,4,Sin Datos,2025-11-28,16:39:24
+-34.253850744,-58.548968955,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,8,Sin Datos,2025-11-28,16:39:24
+-34.252909443,-58.552661466,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,Sin Datos,2025-11-28,16:39:24
+-34.235435816,-58.561014566,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,6,Sin Datos,2025-11-28,16:39:24
+-34.245423389,-58.563370030,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,Sin Datos,2025-11-28,16:39:24
+-34.248064304,-58.563389645,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,Sin Datos,2025-11-28,16:39:24
+-34.249061848,-58.566482886,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,4,Sin Datos,2025-11-28,16:39:24
+-34.250379126,-58.569526636,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,4,Sin Datos,2025-11-28,16:39:24
+-34.253312571,-58.573894417,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,17,Sin Datos,2025-11-28,16:39:24
+-34.254315064,-58.581223155,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,8,Sin Datos,2025-11-28,16:39:24
+-34.247066280,-58.587333368,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,8,Sin Datos,2025-11-28,16:39:24
+-34.249423209,-58.590776252,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,Sin Datos,2025-11-28,16:39:24
+-34.231182518,-58.668385306,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,Sin Datos,2025-11-28,16:39:24
+-34.225301414,-58.667532424,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,4,Sin Datos,2025-11-28,16:39:24
+-34.211600881,-58.668628798,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,Sin Datos,2025-11-28,16:39:24
+-34.192678327,-58.676357013,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,19,Sin Datos,2025-11-28,16:39:24
+-34.180977611,-58.686535182,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,Sin Datos,2025-11-28,16:39:24
+-34.239712252,-58.568344716,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,6,Sin Datos,2025-11-28,16:39:24
+-34.234407817,-58.569731468,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,Sin Datos,2025-11-28,16:39:24
+-34.248429912,-58.581523965,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,Sin Datos,2025-11-28,16:39:24
+-34.241574561,-58.538523844,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,Sin Datos,2025-11-28,16:39:24
+-34.248537114,-58.543595514,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,26,Sin Datos,2025-11-28,16:39:24
+-34.236811408,-58.539679852,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,23,Sin Datos,2025-11-28,16:39:24
+-34.223515310,-58.536080575,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,24,Sin Datos,2025-11-28,16:39:24
+-34.208353968,-58.537746265,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,Sin Datos,2025-11-28,16:39:24
+-34.201853067,-58.536318946,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,7,Sin Datos,2025-11-28,16:39:24
+-34.253265147,-58.644300798,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,Sin Datos,2025-11-28,16:39:24
+-34.249497110,-58.642324026,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,Sin Datos,2025-11-28,16:39:24
+-34.266480126,-58.538918505,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,Sin Datos,2025-11-28,16:39:24
+-34.257289017,-58.541427064,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,11,Sin Datos,2025-11-28,16:39:24
+-34.258707690,-58.530959871,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,20,Sin Datos,2025-11-28,16:39:24
+-34.254139565,-58.524002515,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,6,Sin Datos,2025-11-28,16:39:24
+-34.248683551,-58.523086679,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,7,Sin Datos,2025-11-28,16:39:24
+-34.243067322,-58.519216662,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,Sin Datos,2025-11-28,16:39:24
+-34.232176487,-58.510383400,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,8,Sin Datos,2025-11-28,16:39:24
+-34.230839382,-58.504108942,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,Sin Datos,2025-11-28,16:39:24
+-34.232264295,-58.498656278,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,Sin Datos,2025-11-28,16:39:24
+-34.263844772,-58.540613134,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,Sin Datos,2025-11-28,16:39:24
+-34.250079489,-58.584003258,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,18,Sin Datos,2025-11-28,16:39:24
+-34.228589804,-58.560602853,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,11,Sin Datos,2025-11-28,16:39:24
+-34.244689145,-58.614628158,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,Sin Datos,2025-11-28,16:39:24
+-34.252193833,-58.556646780,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,15,Sin Datos,2025-11-28,16:39:24
+-34.251575399,-58.560531813,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,Sin Datos,2025-11-28,16:39:24
+-34.265296834,-58.599131480,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,Sin Datos,2025-11-28,16:39:24
+-34.260302810,-58.602456885,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,7,Sin Datos,2025-11-28,16:39:24
+-34.261124217,-58.605610567,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,4,Sin Datos,2025-11-28,16:39:24
+-34.267179584,-58.532232710,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,Sin Datos,2025-11-28,16:39:24
+-34.239561118,-58.495768483,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,8,Sin Datos,2025-11-28,16:39:24
+-34.254540394,-58.620511210,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,Sin Datos,2025-11-28,16:39:24
+-34.258042902,-58.640737820,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,10,Sin Datos,2025-11-28,16:39:24
+-34.262247317,-58.602926910,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,Sin Datos,2025-11-28,16:39:24
+-34.251088816,-58.658371301,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,19,Sin Datos,2025-11-28,16:39:24
+-34.244659586,-58.662502828,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,10,Sin Datos,2025-11-28,16:39:24
+-34.186185446,-58.683094686,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,Sin Datos,2025-11-28,16:39:24
+-34.252933368,-58.607223239,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,10,Sin Datos,2025-11-28,16:39:24
+-34.219175327,-58.670488254,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,4,Sin Datos,2025-11-28,16:39:24
+-34.225662036,-58.632141668,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,Sin Datos,2025-11-28,16:39:24
+-34.240046705,-58.636487721,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,Sin Datos,2025-11-28,16:39:24
+-34.251838724,-58.558610163,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,Sin Datos,2025-11-28,16:39:24
+-34.226135275,-58.535166829,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,Sin Datos,2025-11-28,16:39:24
+-34.256435696,-58.635526265,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,Sin Datos,2025-11-28,16:39:24
+-34.261304266,-58.605477489,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,Sin Datos,2025-11-28,16:39:24
+-34.177890973,-58.688156314,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,Sin Datos,2025-11-28,16:39:24
+-34.235174671,-58.496579192,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,Sin Datos,2025-11-28,16:39:24
+-34.238756220,-58.556535095,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,Sin Datos,2025-11-28,16:39:24
+-34.267210145,-58.531445775,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,10,Sin Datos,2025-11-28,16:39:24
+-34.250155302,-58.552423661,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,Sin Datos,2025-11-28,16:39:24
+-34.248172007,-58.540754109,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,Sin Datos,2025-11-28,16:39:24
+-34.256419456,-58.624620575,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,Sin Datos,2025-11-28,16:39:24
+-34.243490261,-58.556284265,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,Sin Datos,2025-11-28,16:39:24
+-34.251230489,-58.563473335,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,Sin Datos,2025-11-28,16:39:24
+-34.254366077,-58.562056502,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,Sin Datos,2025-11-28,16:39:24
+-34.256223395,-58.561415163,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,Sin Datos,2025-11-28,16:39:24
+-34.251529715,-58.654619586,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,11,Sin Datos,2025-11-28,16:39:24
+-34.243343814,-58.639169079,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,Sin Datos,2025-11-28,16:39:24
+-34.251606473,-58.604970281,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,Sin Datos,2025-11-28,16:39:24
+-34.257415223,-58.646784397,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,Sin Datos,2025-11-28,16:39:24
+-34.249485088,-58.655382122,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,10,Sin Datos,2025-11-28,16:39:24
+-34.251280085,-58.643258581,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,Sin Datos,2025-11-28,16:39:24
+-34.252267208,-58.643772905,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,Sin Datos,2025-11-28,16:39:24
+-34.699,-58.492,22,baja,Edenor,La Matanza,Villa Madero,,,120,,2025-11-28,16:39:24
+-34.6514,-58.7478,22,baja,Edenor,Moreno,Paso Del Rey,,,21,,2025-11-28,16:39:24
+-34.6943,-58.643,22,baja,Edenor,Moron,Castelar,,,31,,2025-11-28,16:39:24
+-34.7258,-58.575,22,baja,Edenor,La Matanza,Isidro Casanova,,,20,,2025-11-28,16:39:24
+-34.696,-58.5709,22,baja,Edenor,La Matanza,San Justo,,,36,,2025-11-28,16:39:24
+-34.5577,-58.4614,22,baja,Edenor,Capital Federal,Belgrano,,,18,,2025-11-28,16:39:24
+-34.5851,-58.4975,22,baja,Edenor,Capital Federal,Villa Pueyrred?N,,,5,,2025-11-28,16:39:24
+-34.5894,-58.4707,22,baja,Edenor,Capital Federal,Villa Ortuzar,,,4,,2025-11-28,16:39:24
+-34.544,-58.4717,22,baja,Edenor,Capital Federal,Nu?Ez,,,9,,2025-11-28,16:39:24
+-34.4831,-58.9386,22,baja,Edenor,Pilar,Pilar,,,4,,2025-11-28,16:39:24
+-34.6706,-58.5342,22,baja,Edenor,La Matanza,Lomas Del Mirador,,,18,,2025-11-28,16:39:24
+-34.8195,-58.1974,21,baja,Edesur,Florencio Varela,Bosques,,,11,,2025-11-28,16:39:24
+-34.7905,-58.1457,21,baja,Edesur,Berazategui,Hudson,,,184,,2025-11-28,16:39:24
+-34.6153,-58.4367,21,baja,Edesur,Capital,Caballito,,,22,,2025-11-28,16:39:24
+-34.6115,-58.4509,21,baja,Edesur,Capital,Caballito,,,5,,2025-11-28,16:39:24
+-34.6159,-58.4047,21,baja,Edesur,Capital,Balvanera,,,3,,2025-11-28,16:39:24
+-34.7039,-58.3826,21,baja,Edesur,Lanus,Lanus,,,1,,2025-11-28,16:39:24
+-34.6607,-58.4052,21,baja,Edesur,Lanus,Valentin Alsina,,,6,,2025-11-28,16:39:24
+-34.6518,-58.5024,21,baja,Edesur,Capital,Mataderos,,,1,,2025-11-28,16:39:24
