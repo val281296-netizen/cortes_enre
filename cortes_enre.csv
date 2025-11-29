@@ -483,3 +483,78 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8069,-58.2335,21,baja,Edesur,Florencio Varela,Florencio Varela,,,17,,2025-11-29,06:54:09
 -34.8896,-58.3724,21,baja,Edesur,Almirante Brown,Glew,,,1,,2025-11-29,06:54:09
 -34.6554,-58.5054,21,baja,Edesur,Capital,Mataderos,,,20,,2025-11-29,06:54:09
+-34.765043685,-58.381348472,11,media,Edesur,Lomas De Zamora,Temperley,Temperley,R:084-1-14/084-1-14,672,Sin Datos,2025-11-29,08:48:39
+-34.850686969,-58.233944969,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,4,2025-11-29 06:46,2025-11-29,08:48:39
+-34.847777088,-58.236144371,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,3,2025-11-29 06:46,2025-11-29,08:48:39
+-34.845343456,-58.237881097,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,2025-11-29 06:46,2025-11-29,08:48:39
+-34.839963722,-58.241828464,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,3,2025-11-29 06:46,2025-11-29,08:48:39
+-34.837334549,-58.243736739,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,5,2025-11-29 06:46,2025-11-29,08:48:39
+-34.835891659,-58.245968844,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,2,2025-11-29 06:46,2025-11-29,08:48:39
+-34.834371465,-58.243045597,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,2025-11-29 06:46,2025-11-29,08:48:39
+-34.841594530,-58.243171929,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,13,2025-11-29 06:46,2025-11-29,08:48:39
+-34.841034707,-58.242092125,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,2025-11-29 06:46,2025-11-29,08:48:39
+-34.840408241,-58.240915991,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,2025-11-29 06:46,2025-11-29,08:48:39
+-34.846618364,-58.238963749,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,6,2025-11-29 06:46,2025-11-29,08:48:39
+-34.845102028,-58.236096736,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,2,2025-11-29 06:46,2025-11-29,08:48:39
+-34.844331344,-58.234703061,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,17,2025-11-29 06:46,2025-11-29,08:48:39
+-34.844054375,-58.233922731,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,21,2025-11-29 06:46,2025-11-29,08:48:39
+-34.844820416,-58.234342806,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,13,2025-11-29 06:46,2025-11-29,08:48:39
+-34.845436625,-58.233909082,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,26,2025-11-29 06:46,2025-11-29,08:48:39
+-34.845087656,-58.233224301,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,23,2025-11-29 06:46,2025-11-29,08:48:39
+-34.845600895,-58.233768584,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,15,2025-11-29 06:46,2025-11-29,08:48:39
+-34.843910679,-58.238919283,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,2025-11-29 06:46,2025-11-29,08:48:39
+-34.835308503,-58.244851155,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,2025-11-29 06:46,2025-11-29,08:48:39
+-34.603395467,-59.004580783,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,59,Sin Datos,2025-11-29,08:48:39
+-34.610019627,-59.008758375,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,154,Sin Datos,2025-11-29,08:48:39
+-34.614239012,-59.010313233,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,75,Sin Datos,2025-11-29,08:48:39
+-34.610990595,-59.012829649,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,75,Sin Datos,2025-11-29,08:48:39
+-34.375144082,-58.640072200,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,42,Sin Datos,2025-11-29,08:48:39
+-34.360717352,-58.640527083,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,6,Sin Datos,2025-11-29,08:48:39
+-34.379413518,-58.636287780,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,23,Sin Datos,2025-11-29,08:48:39
+-34.376017177,-58.638052812,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,16,Sin Datos,2025-11-29,08:48:39
+-34.363339527,-58.639959808,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,16,Sin Datos,2025-11-29,08:48:39
+-34.357141255,-58.646451048,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,17,Sin Datos,2025-11-29,08:48:39
+-34.352340229,-58.649847479,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,12,Sin Datos,2025-11-29,08:48:39
+-34.344955696,-58.651811420,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,29,Sin Datos,2025-11-29,08:48:39
+-34.331478109,-58.653480303,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,16,Sin Datos,2025-11-29,08:48:39
+-34.318466248,-58.649647619,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,27,Sin Datos,2025-11-29,08:48:39
+-34.307268978,-58.644044069,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,13,Sin Datos,2025-11-29,08:48:39
+-34.299668872,-58.641179720,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,10,Sin Datos,2025-11-29,08:48:39
+-34.286030875,-58.647452348,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,8,Sin Datos,2025-11-29,08:48:39
+-34.279652899,-58.649720577,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,19,Sin Datos,2025-11-29,08:48:39
+-34.271975440,-58.653414997,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,12,Sin Datos,2025-11-29,08:48:39
+-34.333734713,-58.658002034,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,15,Sin Datos,2025-11-29,08:48:39
+-34.369163450,-58.641493089,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,5,Sin Datos,2025-11-29,08:48:39
+-34.358542909,-58.648903434,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,28,Sin Datos,2025-11-29,08:48:39
+-34.298163978,-58.644139960,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,34,Sin Datos,2025-11-29,08:48:39
+-34.276144712,-58.653553859,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,17,Sin Datos,2025-11-29,08:48:39
+-34.285277535,-58.650786473,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,7,Sin Datos,2025-11-29,08:48:39
+-34.353846611,-58.650886606,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,14,Sin Datos,2025-11-29,08:48:39
+-34.344760340,-58.654516173,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,11,Sin Datos,2025-11-29,08:48:39
+-34.326388546,-58.654924181,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,17,Sin Datos,2025-11-29,08:48:39
+-34.307862448,-58.647048181,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,3,Sin Datos,2025-11-29,08:48:39
+-34.599819012,-58.619545682,12,media,Edenor,Hurlingham,Villa Tesei,S/D,R:Hurlingham/166-Tr2/166-5527,1,2025-11-29 09:44,2025-11-29,08:48:39
+-34.340517513,-58.561110142,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,Sin Datos,2025-11-29,08:48:39
+-34.333246773,-58.563432369,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,Sin Datos,2025-11-29,08:48:39
+-34.310103433,-58.568834025,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,24,Sin Datos,2025-11-29,08:48:39
+-34.317862670,-58.569567150,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,34,Sin Datos,2025-11-29,08:48:39
+-34.326621097,-58.570899905,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,51,Sin Datos,2025-11-29,08:48:39
+-34.333912958,-58.566836525,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,14,Sin Datos,2025-11-29,08:48:39
+-34.341890721,-58.562273079,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,Sin Datos,2025-11-29,08:48:39
+-34.336507556,-58.565433251,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,14,Sin Datos,2025-11-29,08:48:39
+-34.348093314,-58.564281079,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,37,Sin Datos,2025-11-29,08:48:39
+-34.330579091,-58.571359271,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,27,Sin Datos,2025-11-29,08:48:39
+-34.322457366,-58.573316435,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,17,Sin Datos,2025-11-29,08:48:39
+-34.313685854,-58.571598320,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,25,Sin Datos,2025-11-29,08:48:39
+-34.302475925,-58.573861697,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,22,Sin Datos,2025-11-29,08:48:39
+-34.329008628,-58.574953358,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,3,Sin Datos,2025-11-29,08:48:39
+-34.5244,-58.7173,22,baja,Edenor,San Miguel,San Miguel,,,20,,2025-11-29,08:48:39
+-34.7764,-58.2581,21,baja,Edesur,Berazategui,Berazategui,,,21,,2025-11-29,08:48:39
+-34.6215,-58.4448,21,baja,Edesur,Capital,Caballito,,,20,,2025-11-29,08:48:39
+-34.6363,-58.367,21,baja,Edesur,Capital,La Boca,,,7,,2025-11-29,08:48:39
+-34.7985,-58.1961,21,baja,Edesur,Berazategui,Berazategui,,,5,,2025-11-29,08:48:39
+-34.7035,-58.4151,21,baja,Edesur,Lanus,Lanus,,,44,,2025-11-29,08:48:39
+-34.6912,-58.3568,21,baja,Edesur,Avellaneda,Sarandi,,,10,,2025-11-29,08:48:39
+-34.8069,-58.2335,21,baja,Edesur,Florencio Varela,Florencio Varela,,,17,,2025-11-29,08:48:39
+-34.8896,-58.3724,21,baja,Edesur,Almirante Brown,Glew,,,1,,2025-11-29,08:48:39
+-34.6554,-58.5054,21,baja,Edesur,Capital,Mataderos,,,20,,2025-11-29,08:48:39
