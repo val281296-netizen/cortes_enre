@@ -2737,3 +2737,57 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5887,-58.3891,21,baja,Edesur,Capital,Recoleta,,,10,,2025-11-30,04:57:59
 -34.5907,-58.5162,21,baja,Edesur,Capital,Villa Devoto,,,14,,2025-11-30,04:57:59
 -34.655,-58.4113,21,baja,Edesur,Capital,Nueva Pompeya,,,9,,2025-11-30,04:57:59
+-34.956715021,-58.733681759,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,141,2025-11-30 08:17,2025-11-30,06:55:51
+-34.951618312,-58.740308465,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,45,2025-11-30 08:17,2025-11-30,06:55:51
+-34.948509939,-58.744419409,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,33,2025-11-30 08:17,2025-11-30,06:55:51
+-34.952260211,-58.748907130,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,37,2025-11-30 08:17,2025-11-30,06:55:51
+-34.951244361,-58.750436165,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,19,2025-11-30 08:17,2025-11-30,06:55:51
+-34.953387645,-58.750284772,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,44,2025-11-30 08:17,2025-11-30,06:55:51
+-34.953022392,-58.751717387,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,4,2025-11-30 08:17,2025-11-30,06:55:51
+-34.951536280,-58.745866723,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,32,2025-11-30 08:17,2025-11-30,06:55:51
+-34.953263057,-58.747862987,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,29,2025-11-30 08:17,2025-11-30,06:55:51
+-34.762310872,-58.321962572,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-1-17/184-1-17,23,Sin Datos,2025-11-30,06:55:51
+-34.761958951,-58.321292063,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-1-17/184-1-17,10,Sin Datos,2025-11-30,06:55:51
+-34.761515150,-58.320410086,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-1-17/184-1-17,21,Sin Datos,2025-11-30,06:55:51
+-34.761218533,-58.319838295,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-1-17/184-1-17,10,Sin Datos,2025-11-30,06:55:51
+-34.356184674,-58.580913134,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,7,Sin Datos,2025-11-30,06:55:51
+-34.353279893,-58.579804051,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,Sin Datos,2025-11-30,06:55:51
+-34.349496566,-58.569768668,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,17,Sin Datos,2025-11-30,06:55:51
+-34.355790252,-58.569638015,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,10,Sin Datos,2025-11-30,06:55:51
+-34.356403085,-58.574000425,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,39,Sin Datos,2025-11-30,06:55:51
+-34.346382688,-58.573986048,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,41,Sin Datos,2025-11-30,06:55:51
+-34.378888301,-58.730514093,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr3/154-5473,42,2025-11-30 06:00,2025-11-30,06:55:51
+-34.367545467,-58.720212333,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr3/154-5473,42,2025-11-30 06:00,2025-11-30,06:55:51
+-34.379481669,-58.732678052,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr3/154-5473,198,2025-11-30 06:00,2025-11-30,06:55:51
+-34.378220874,-58.734443979,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr3/154-5473,224,2025-11-30 06:00,2025-11-30,06:55:51
+-34.346468118,-58.679119612,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473,24,2025-11-30 06:00,2025-11-30,06:55:51
+-34.344400013,-58.677867355,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473,2,2025-11-30 06:00,2025-11-30,06:55:51
+-34.316078190,-58.669467181,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473,2,2025-11-30 06:00,2025-11-30,06:55:51
+-34.361194198,-58.668420425,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473,32,2025-11-30 06:00,2025-11-30,06:55:51
+-34.379528008,-58.646727364,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473,3,2025-11-30 06:00,2025-11-30,06:55:51
+-34.367664834,-58.661341956,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473,31,2025-11-30 06:00,2025-11-30,06:55:51
+-34.368874441,-58.659077962,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473,12,2025-11-30 06:00,2025-11-30,06:55:51
+-34.370827562,-58.657705025,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473,23,2025-11-30 06:00,2025-11-30,06:55:51
+-34.364643795,-58.666522097,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473,20,2025-11-30 06:00,2025-11-30,06:55:51
+-34.366048750,-58.664223654,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473,38,2025-11-30 06:00,2025-11-30,06:55:51
+-34.360008826,-58.677282287,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473,44,2025-11-30 06:00,2025-11-30,06:55:51
+-34.351333754,-58.682781151,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473,30,2025-11-30 06:00,2025-11-30,06:55:51
+-34.382441481,-58.639407793,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473,37,2025-11-30 06:00,2025-11-30,06:55:51
+-34.376930362,-58.652042442,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473,2,2025-11-30 06:00,2025-11-30,06:55:51
+-34.336433840,-58.675489405,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473,10,2025-11-30 06:00,2025-11-30,06:55:51
+-34.326331135,-58.672323649,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473,24,2025-11-30 06:00,2025-11-30,06:55:51
+-34.310586606,-58.667800973,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473,23,2025-11-30 06:00,2025-11-30,06:55:51
+-34.301160603,-58.664917606,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473,28,2025-11-30 06:00,2025-11-30,06:55:51
+-34.285439026,-58.659785653,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473,6,2025-11-30 06:00,2025-11-30,06:55:51
+-34.277284366,-58.657655002,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473,34,2025-11-30 06:00,2025-11-30,06:55:51
+-34.364766305,-58.654516172,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473,16,2025-11-30 06:00,2025-11-30,06:55:51
+-34.5414,-58.7787,22,baja,Edenor,Jose C Paz,Jose C Paz,,,5,,2025-11-30,06:55:51
+-34.4498,-58.9257,22,baja,Edenor,Pilar,Pilar,,,13,,2025-11-30,06:55:51
+-34.6225,-58.4466,21,baja,Edesur,Capital,Caballito,,,7,,2025-11-30,06:55:51
+-34.6255,-58.4124,21,baja,Edesur,Capital,San Cristobal,,,38,,2025-11-30,06:55:51
+-34.8177,-58.3888,21,baja,Edesur,Almirante Brown,Burzaco,,,5,,2025-11-30,06:55:51
+-34.8074,-58.1843,21,baja,Edesur,Berazategui,Berazategui,,,25,,2025-11-30,06:55:51
+-34.6188,-58.516,21,baja,Edesur,Capital,Villa Devoto,,,5,,2025-11-30,06:55:51
+-34.5887,-58.3891,21,baja,Edesur,Capital,Recoleta,,,10,,2025-11-30,06:55:51
+-34.5907,-58.5162,21,baja,Edesur,Capital,Villa Devoto,,,14,,2025-11-30,06:55:51
+-34.655,-58.4113,21,baja,Edesur,Capital,Nueva Pompeya,,,9,,2025-11-30,06:55:51
