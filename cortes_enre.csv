@@ -3889,3 +3889,56 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6066,-58.4722,21,baja,Edesur,Capital,Villa General Mitre,,,8,,2025-11-30,18:50:53
 -34.7852,-58.2173,21,baja,Edesur,Berazategui,Berazategui,,,73,,2025-11-30,18:50:53
 -34.6443,-58.3687,21,baja,Edesur,Capital,La Boca,,,3,,2025-11-30,18:50:53
+-34.953022392,-58.751717387,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,4,2025-11-30 20:17,2025-11-30,20:39:27
+-34.762310872,-58.321962572,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-1-17/184-1-17,23,Sin Datos,2025-11-30,20:39:27
+-34.761958951,-58.321292063,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-1-17/184-1-17,10,Sin Datos,2025-11-30,20:39:27
+-34.761515150,-58.320410086,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-1-17/184-1-17,21,Sin Datos,2025-11-30,20:39:27
+-34.761218533,-58.319838295,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-1-17/184-1-17,10,Sin Datos,2025-11-30,20:39:27
+-34.709720790,-58.389257227,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-4-42/087-4-42,322,Sin Datos,2025-11-30,20:39:27
+-34.766611377,-58.276616511,11,media,Edesur,Quilmes,Quilmes Oeste,Calchaqui,R:085-2-24/085-2-24,415,Sin Datos,2025-11-30,20:39:27
+-34.659990464,-58.468305666,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-24/048-2-24,8,2025-12-01 00:35,2025-11-30,20:39:27
+-34.668658806,-58.469997304,11,media,Edesur,Capital Gp,Villa Lugano,Perito Moreno,R:048-2-24/048-2-24,379,2025-12-01 00:35,2025-11-30,20:39:27
+-34.668807465,-58.472260557,11,media,Edesur,Capital Gp,Villa Lugano,Perito Moreno,R:048-2-24/048-2-24,392,2025-12-01 00:35,2025-11-30,20:39:27
+-34.664546487,-58.468550447,11,media,Edesur,Capital Gp,Villa Soldati Gp,Perito Moreno,R:048-2-24/048-2-24,21,2025-12-01 00:35,2025-11-30,20:39:27
+-34.654351715,-58.469997808,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-24/048-2-24,325,2025-12-01 00:35,2025-11-30,20:39:27
+-34.651342612,-58.472192605,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-24/048-2-24,602,2025-12-01 00:35,2025-11-30,20:39:27
+-34.661388973,-58.469329062,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-24/048-2-24,423,2025-12-01 00:35,2025-11-30,20:39:27
+-34.662811130,-58.471337276,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-24/048-2-24,514,2025-12-01 00:35,2025-11-30,20:39:27
+-34.660422096,-58.469310218,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-24/048-2-24,478,2025-12-01 00:35,2025-11-30,20:39:27
+-34.666469196,-58.472946620,11,media,Edesur,Capital Gp,Villa Lugano,Perito Moreno,R:048-2-24/048-2-24,514,2025-12-01 00:35,2025-11-30,20:39:27
+-34.664521637,-58.471908476,11,media,Edesur,Capital Gp,Villa Lugano,Perito Moreno,R:048-2-24/048-2-24,657,2025-12-01 00:35,2025-11-30,20:39:27
+-34.664816910,-58.477022036,11,media,Edesur,Capital Gp,Villa Lugano,Perito Moreno,R:048-2-24/048-2-24,483,2025-12-01 00:35,2025-11-30,20:39:27
+-34.666322833,-58.476268206,11,media,Edesur,Capital Gp,Villa Lugano,Perito Moreno,R:048-2-24/048-2-24,624,2025-12-01 00:35,2025-11-30,20:39:27
+-34.665362580,-58.475121081,11,media,Edesur,Capital Gp,Villa Lugano,Perito Moreno,R:048-2-24/048-2-24,584,2025-12-01 00:35,2025-11-30,20:39:27
+-34.662456714,-58.468791865,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-24/048-2-24,30,2025-12-01 00:35,2025-11-30,20:39:27
+-34.662740036,-58.468255237,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-24/048-2-24,624,2025-12-01 00:35,2025-11-30,20:39:27
+-34.657124056,-58.469766525,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-24/048-2-24,3,2025-12-01 00:35,2025-11-30,20:39:27
+-34.657291388,-58.470536147,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-24/048-2-24,1,2025-12-01 00:35,2025-11-30,20:39:27
+-34.669572986,-58.471778739,11,media,Edesur,Capital Gp,Villa Lugano,Perito Moreno,R:048-2-24/048-2-24,331,2025-12-01 00:35,2025-11-30,20:39:27
+-34.412785457,-58.949523275,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr4/158-5472,1,Sin Datos,2025-11-30,20:39:27
+-34.411026898,-58.950592250,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr4/158-5472,1,Sin Datos,2025-11-30,20:39:27
+-34.521840346,-58.700940407,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,74,2025-11-30 21:00,2025-11-30,20:39:27
+-34.522507316,-58.700157314,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,7,2025-11-30 21:00,2025-11-30,20:39:27
+-34.523386012,-58.701497567,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,279,2025-11-30 21:00,2025-11-30,20:39:27
+-34.527175795,-58.694606406,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,232,2025-11-30 21:00,2025-11-30,20:39:27
+-34.519851065,-58.692693441,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,100,2025-11-30 21:00,2025-11-30,20:39:27
+-34.522711548,-58.699906956,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,73,2025-11-30 21:00,2025-11-30,20:39:27
+-34.525749410,-58.703972100,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,97,2025-11-30 21:00,2025-11-30,20:39:27
+-34.521965363,-58.695054966,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,20,2025-11-30 21:00,2025-11-30,20:39:27
+-34.520135859,-58.707270491,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,422,2025-11-30 21:00,2025-11-30,20:39:27
+-34.524956192,-58.697201661,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,24,2025-11-30 21:00,2025-11-30,20:39:27
+-34.530371828,-58.697001341,12,media,Edenor,San Miguel,Campo De Mayo,S/D,R:Ara San Juan/362-Tr2/362-5533,64,2025-11-30 21:00,2025-11-30,20:39:27
+-34.524107183,-58.693226291,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,2,2025-11-30 21:00,2025-11-30,20:39:27
+-34.522523498,-58.709639035,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,185,2025-11-30 21:00,2025-11-30,20:39:27
+-34.518088093,-58.698921689,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,149,2025-11-30 21:00,2025-11-30,20:39:27
+-34.524298119,-58.705805888,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,403,2025-11-30 21:00,2025-11-30,20:39:27
+-34.7642,-58.6277,22,baja,Edenor,La Matanza,Gonzalez Catan,,,5,,2025-11-30,20:39:27
+-34.5852,-58.4897,22,baja,Edenor,Capital Federal,Villa Urquiza,,,13,,2025-11-30,20:39:27
+-34.6238,-58.8001,22,baja,Edenor,Moreno,Moreno,,,5,,2025-11-30,20:39:27
+-34.6491,-58.8081,22,baja,Edenor,Moreno,Moreno,,,42,,2025-11-30,20:39:27
+-34.6531,-58.8105,22,baja,Edenor,Moreno,Moreno,,,17,,2025-11-30,20:39:27
+-34.4909,-58.5019,22,baja,Edenor,San Isidro,Martinez,,,45,,2025-11-30,20:39:27
+-34.6225,-58.4466,21,baja,Edesur,Capital,Caballito,,,5,,2025-11-30,20:39:27
+-34.6188,-58.516,21,baja,Edesur,Capital,Villa Devoto,,,6,,2025-11-30,20:39:27
+-34.5887,-58.3891,21,baja,Edesur,Capital,Recoleta,,,12,,2025-11-30,20:39:27
+-34.6066,-58.4722,21,baja,Edesur,Capital,Villa General Mitre,,,10,,2025-11-30,20:39:27
