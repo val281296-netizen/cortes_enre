@@ -6641,3 +6641,80 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6555,-58.4674,21,baja,Edesur,Capital,Parque Avellaneda,,,6,,2025-12-01,14:51:26
 -34.619,-58.4921,21,baja,Edesur,Capital,Floresta,,,5,,2025-12-01,14:51:26
 -34.6452,-58.4953,21,baja,Edesur,Capital,Mataderos,,,1,,2025-12-01,14:51:26
+-34.606975079,-58.391431324,11,media,Edesur,Capital Rp,San Nicolas,Once,R:113-4-44/113-4-44,441,2025-12-01 16:15,2025-12-01,16:58:08
+-34.624985630,-58.508736374,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-3-31/038-3-31,360,2025-12-01 19:05,2025-12-01,16:58:08
+-34.624829865,-58.508566487,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-3-31/038-3-31,164,2025-12-01 19:05,2025-12-01,16:58:08
+-34.786256436,-58.158894400,11,media,Edesur,Berazategui,Platanos,Rigolleau,R:179-2-28/179-2-28,70,Sin Datos,2025-12-01,16:58:08
+-34.782912499,-58.154566848,11,media,Edesur,Berazategui,Hudson,Rigolleau,R:179-2-28/179-2-28,1,Sin Datos,2025-12-01,16:58:08
+-34.784435341,-58.156931088,11,media,Edesur,Berazategui,Platanos,Rigolleau,R:179-2-28/179-2-28,246,Sin Datos,2025-12-01,16:58:08
+-34.803336015,-58.276228484,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-1-15/183-1-15,16,Sin Datos,2025-12-01,16:58:08
+-34.888845425,-58.383720647,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-2-24/277-2-24,116,Sin Datos,2025-12-01,16:58:08
+-34.684377041,-58.469163936,11,media,Edesur,Capital Gp,Villa Lugano,Autodromo,R:042-2-25/042-2-25,662,2025-12-01 18:00,2025-12-01,16:58:08
+-34.853391744,-58.531793912,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-4-47/083-4-47,114,Sin Datos,2025-12-01,16:58:08
+-34.849556861,-58.542437023,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-4-47/083-4-47,81,Sin Datos,2025-12-01,16:58:08
+-34.848354633,-58.540239765,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-4-47/083-4-47,145,Sin Datos,2025-12-01,16:58:08
+-34.850282880,-58.537876705,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-4-47/083-4-47,314,Sin Datos,2025-12-01,16:58:08
+-34.854380410,-58.538327272,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-4-47/083-4-47,224,Sin Datos,2025-12-01,16:58:08
+-34.848943057,-58.536533398,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-4-47/083-4-47,490,Sin Datos,2025-12-01,16:58:08
+-34.847658650,-58.533876975,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-4-47/083-4-47,645,Sin Datos,2025-12-01,16:58:08
+-35.017064437,-58.721093329,11,media,Edesur,Cañuelas,Los Campitos,Canuelas,R:271-2-26/271-2-26,16,2025-12-01 16:00,2025-12-01,16:58:08
+-35.020484258,-58.723335398,11,media,Edesur,Cañuelas,Los Campitos,Canuelas,R:271-2-26/271-2-26,23,2025-12-01 16:00,2025-12-01,16:58:08
+-35.020076617,-58.727443685,11,media,Edesur,Cañuelas,Los Campitos,Canuelas,R:271-2-26/271-2-26,23,2025-12-01 16:00,2025-12-01,16:58:08
+-35.018817437,-58.727926609,11,media,Edesur,Cañuelas,Los Campitos,Canuelas,R:271-2-26/271-2-26,9,2025-12-01 16:00,2025-12-01,16:58:08
+-35.012146147,-58.720502229,11,media,Edesur,Cañuelas,Los Campitos,Canuelas,R:271-2-26/271-2-26,16,2025-12-01 16:00,2025-12-01,16:58:08
+-35.013874736,-58.716539273,11,media,Edesur,Cañuelas,Los Campitos,Canuelas,R:271-2-26/271-2-26,86,2025-12-01 16:00,2025-12-01,16:58:08
+-35.004282366,-58.711915806,11,media,Edesur,Cañuelas,Los Campitos,Canuelas,R:271-2-26/271-2-26,55,2025-12-01 16:00,2025-12-01,16:58:08
+-35.015403066,-58.724117995,11,media,Edesur,Cañuelas,Los Campitos,Canuelas,R:271-2-26/271-2-26,55,2025-12-01 16:00,2025-12-01,16:58:08
+-35.020754519,-58.726943894,11,media,Edesur,Cañuelas,Los Campitos,Canuelas,R:271-2-26/271-2-26,13,2025-12-01 16:00,2025-12-01,16:58:08
+-35.021244362,-58.724177269,11,media,Edesur,Cañuelas,Los Campitos,Canuelas,R:271-2-26/271-2-26,12,2025-12-01 16:00,2025-12-01,16:58:08
+-34.994331515,-58.709780169,11,media,Edesur,Cañuelas,Los Campitos,Canuelas,R:271-2-26/271-2-26,15,2025-12-01 16:00,2025-12-01,16:58:08
+-35.004534996,-58.720905300,11,media,Edesur,Cañuelas,Los Campitos,Canuelas,R:271-2-26/271-2-26,3,2025-12-01 16:00,2025-12-01,16:58:08
+-35.010901882,-58.712186759,11,media,Edesur,Cañuelas,Los Campitos,Canuelas,R:271-2-26/271-2-26,9,2025-12-01 16:00,2025-12-01,16:58:08
+-35.000495612,-58.701763819,11,media,Edesur,Cañuelas,Los Campitos,Canuelas,R:271-2-26/271-2-26,1,2025-12-01 16:00,2025-12-01,16:58:08
+-35.006855421,-58.720314837,11,media,Edesur,Cañuelas,Los Campitos,Canuelas,R:271-2-26/271-2-26,13,2025-12-01 16:00,2025-12-01,16:58:08
+-35.009169109,-58.717312858,11,media,Edesur,Cañuelas,Los Campitos,Canuelas,R:271-2-26/271-2-26,8,2025-12-01 16:00,2025-12-01,16:58:08
+-35.019839167,-58.722648751,11,media,Edesur,Cañuelas,Los Campitos,Canuelas,R:271-2-26/271-2-26,4,2025-12-01 16:00,2025-12-01,16:58:08
+-35.006110306,-58.719490979,11,media,Edesur,Cañuelas,Los Campitos,Canuelas,R:271-2-26/271-2-26,2,2025-12-01 16:00,2025-12-01,16:58:08
+-35.002002048,-58.717114309,11,media,Edesur,Cañuelas,Los Campitos,Canuelas,R:271-2-26/271-2-26,1,2025-12-01 16:00,2025-12-01,16:58:08
+-35.016575990,-58.725408569,11,media,Edesur,Cañuelas,Los Campitos,Canuelas,R:271-2-26/271-2-26,73,2025-12-01 16:00,2025-12-01,16:58:08
+-35.013796202,-58.725296815,11,media,Edesur,Cañuelas,Los Campitos,Canuelas,R:271-2-26/271-2-26,1,2025-12-01 16:00,2025-12-01,16:58:08
+-34.999365785,-58.706476290,11,media,Edesur,Cañuelas,Los Campitos,Canuelas,R:271-2-26/271-2-26,18,2025-12-01 16:00,2025-12-01,16:58:08
+-34.607074119,-58.499544293,11,media,Edesur,Capital Gp,Villa Del Parque,Santa Rita,R:143-4-42/143-4-42,308,2025-12-01 16:51,2025-12-01,16:58:08
+-34.657564472,-58.498132137,11,media,Edesur,Capital Gp,Mataderos,Liniers,R:043-2-28/043-2-28,37,2025-12-01 19:15,2025-12-01,16:58:08
+-34.656135604,-58.499798274,11,media,Edesur,Capital Gp,Mataderos,Liniers,R:043-2-28/043-2-28,2,2025-12-01 19:15,2025-12-01,16:58:08
+-34.658086171,-58.499512420,11,media,Edesur,Capital Gp,Mataderos,Liniers,R:043-2-28/043-2-28,47,2025-12-01 19:15,2025-12-01,16:58:08
+-34.644348092,-58.376558973,11,media,Edesur,Capital Rp,Barracas,Constitucion,R:124-1-15/124-1-15,257,2025-12-01 18:05,2025-12-01,16:58:08
+-34.644227673,-58.377602598,11,media,Edesur,Capital Rp,Barracas,Constitucion,R:124-1-15/124-1-15,21,2025-12-01 18:05,2025-12-01,16:58:08
+-34.641767690,-58.378255727,11,media,Edesur,Capital Rp,Barracas,Constitucion,R:124-1-15/124-1-15,312,2025-12-01 18:05,2025-12-01,16:58:08
+-34.648116682,-58.381434091,11,media,Edesur,Capital Rp,Barracas,Constitucion,R:124-1-15/124-1-15,291,2025-12-01 18:05,2025-12-01,16:58:08
+-34.648339139,-58.381984704,11,media,Edesur,Capital Rp,Barracas,Constitucion,R:124-1-15/124-1-15,115,2025-12-01 18:05,2025-12-01,16:58:08
+-34.646673305,-58.381410248,11,media,Edesur,Capital Rp,Barracas,Constitucion,R:124-1-15/124-1-15,91,2025-12-01 18:05,2025-12-01,16:58:08
+-34.642643885,-58.377229443,11,media,Edesur,Capital Rp,Barracas,Constitucion,R:124-1-15/124-1-15,5,2025-12-01 18:05,2025-12-01,16:58:08
+-34.643813855,-58.375775664,11,media,Edesur,Capital Rp,Barracas,Constitucion,R:124-1-15/124-1-15,174,2025-12-01 18:05,2025-12-01,16:58:08
+-34.643809671,-58.375729675,11,media,Edesur,Capital Rp,Barracas,Constitucion,R:124-1-15/124-1-15,3,2025-12-01 18:05,2025-12-01,16:58:08
+-34.642544620,-58.375426500,11,media,Edesur,Capital Rp,Barracas,Constitucion,R:124-1-15/124-1-15,79,2025-12-01 18:05,2025-12-01,16:58:08
+-34.645506674,-58.374670797,11,media,Edesur,Capital Rp,Barracas,Constitucion,R:124-1-15/124-1-15,183,2025-12-01 18:05,2025-12-01,16:58:08
+-34.647390040,-58.381713295,11,media,Edesur,Capital Rp,Barracas,Constitucion,R:124-1-15/124-1-15,129,2025-12-01 18:05,2025-12-01,16:58:08
+-34.643536852,-58.378961306,11,media,Edesur,Capital Rp,Barracas,Constitucion,R:124-1-15/124-1-15,1,2025-12-01 18:05,2025-12-01,16:58:08
+-34.765709653,-58.406892662,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Heroes De Malvinas,R:076-2-23/076-2-23,306,2025-12-01 18:28,2025-12-01,16:58:08
+-34.764624569,-58.406084024,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Heroes De Malvinas,R:076-2-23/076-2-23,243,2025-12-01 18:28,2025-12-01,16:58:08
+-34.765008007,-58.407546326,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Heroes De Malvinas,R:076-2-23/076-2-23,31,2025-12-01 18:28,2025-12-01,16:58:08
+-34.458409056,-58.755917101,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Tortuguitas/252-Tr2/252-5538,49,Sin Datos,2025-12-01,16:58:08
+-34.810023836,-58.631174195,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5527,19,2025-12-01 14:00,2025-12-01,16:58:08
+-34.810613879,-58.630556725,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5527,11,2025-12-01 14:00,2025-12-01,16:58:08
+-34.400662143,-58.599294013,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,Sin Datos,2025-12-01,16:58:08
+-34.397346908,-58.602605295,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,73,Sin Datos,2025-12-01,16:58:08
+-34.393919003,-58.604077381,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,7,Sin Datos,2025-12-01,16:58:08
+-34.6606,-58.5736,22,baja,Edenor,La Matanza,Villa Luzuriaga,,,4,,2025-12-01,16:58:08
+-34.5962,-58.5325,22,baja,Edenor,Gral San Martin,Pte F Alcorta,,,2,,2025-12-01,16:58:08
+-34.4615,-58.7021,22,baja,Edenor,Malvinas Argentinas,El Triangulo,,,4,,2025-12-01,16:58:08
+-34.4948,-58.5891,22,baja,Edenor,San Isidro,Boulogne,,,1,,2025-12-01,16:58:08
+-34.6,-58.4408,21,baja,Edesur,Capital,Villa Crespo,,,4,,2025-12-01,16:58:08
+-34.6555,-58.4674,21,baja,Edesur,Capital,Parque Avellaneda,,,6,,2025-12-01,16:58:08
+-34.619,-58.4921,21,baja,Edesur,Capital,Floresta,,,5,,2025-12-01,16:58:08
+-34.6454,-58.3679,21,baja,Edesur,Capital,La Boca,,,26,,2025-12-01,16:58:08
+-34.61,-58.4032,21,baja,Edesur,Capital,Balvanera,,,4,,2025-12-01,16:58:08
+-34.6928,-58.3887,21,baja,Edesur,Lanus,Lanus,,,5,,2025-12-01,16:58:08
+-34.6182,-58.4742,21,baja,Edesur,Capital,Villa Sta. Rita,,,2,,2025-12-01,16:58:08
+-34.6915,-58.389,21,baja,Edesur,Lanus,Gerli,,,1,,2025-12-01,16:58:08
+-34.8114,-58.467,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,1,,2025-12-01,16:58:08
