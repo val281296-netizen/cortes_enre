@@ -6998,3 +6998,40 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6915,-58.389,21,baja,Edesur,Lanus,Gerli,,,1,,2025-12-02,10:50:13
 -34.6915,-58.3169,21,baja,Edesur,Avellaneda,Villa Dominico,,,2,,2025-12-02,10:50:13
 -34.8163,-58.2281,21,baja,Edesur,Florencio Varela,Bosques,,,3,,2025-12-02,10:50:13
+-34.819700755,-58.398674154,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-4-46/180-4-46,172,2025-12-02 20:00,2025-12-02,13:51:16
+-34.818390224,-58.396797644,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-4-46/180-4-46,405,2025-12-02 20:00,2025-12-02,13:51:16
+-34.599689077,-58.443545997,11,media,Edesur,Capital Gp,Villa Crespo,Villa Crespo,R:147-1-17/147-1-17,265,2025-12-02 13:26,2025-12-02,13:51:16
+-34.823691714,-58.399927424,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-36/180-3-36,449,2025-12-02 14:01,2025-12-02,13:51:16
+-34.828253172,-58.395985954,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-36/180-3-36,566,2025-12-02 14:01,2025-12-02,13:51:16
+-34.825837330,-58.398340814,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-36/180-3-36,213,2025-12-02 14:01,2025-12-02,13:51:16
+-34.826844148,-58.397357216,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-36/180-3-36,1,2025-12-02 14:01,2025-12-02,13:51:16
+-34.827996149,-58.397866684,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-36/180-3-36,1,2025-12-02 14:01,2025-12-02,13:51:16
+-34.538260973,-58.529222822,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,299,2025-12-02 13:00,2025-12-02,13:51:16
+-34.700279732,-58.598641824,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr2/63-5536,508,2025-12-02 12:00,2025-12-02,13:51:16
+-34.466181312,-58.760307318,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr2/252-5538,275,2025-12-02 13:00,2025-12-02,13:51:16
+-34.420057251,-58.978237039,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr4/158-5482,1,2025-12-02 13:00,2025-12-02,13:51:16
+-34.509152806,-58.561729794,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr2/56-5526,289,2025-12-02 13:00,2025-12-02,13:51:16
+-34.725221247,-58.521606952,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Tapiales/162-Tr2/162-5533,240,2025-12-02 12:00,2025-12-02,13:51:16
+-34.724134988,-58.520025597,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Tapiales/162-Tr2/162-5533,115,2025-12-02 12:00,2025-12-02,13:51:16
+-34.722118221,-58.525274709,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Tapiales/162-Tr2/162-5533,61,2025-12-02 12:00,2025-12-02,13:51:16
+-34.723398471,-58.517833487,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Tapiales/162-Tr2/162-5533,118,2025-12-02 12:00,2025-12-02,13:51:16
+-34.723936605,-58.518038384,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Tapiales/162-Tr2/162-5533,232,2025-12-02 12:00,2025-12-02,13:51:16
+-34.723283114,-58.523831914,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Tapiales/162-Tr2/162-5533,108,2025-12-02 12:00,2025-12-02,13:51:16
+-34.929552502,-58.938597328,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,101,2025-12-02 13:00,2025-12-02,13:51:16
+-34.405222020,-58.786107393,12,media,Edenor,Pilar,Luis Lagomarsino,S/D,R:Garin/454-Tr2/454-5528,48,2025-12-02 13:00,2025-12-02,13:51:16
+-34.406471706,-58.782791386,12,media,Edenor,Pilar,Luis Lagomarsino,S/D,R:Garin/454-Tr2/454-5528,158,2025-12-02 13:00,2025-12-02,13:51:16
+-34.657678298,-58.713346424,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5513,74,Sin Datos,2025-12-02,13:51:16
+-34.654746361,-58.716545468,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5513,128,2025-12-02 13:00,2025-12-02,13:51:16
+-34.653484028,-58.717953876,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5513,146,2025-12-02 13:00,2025-12-02,13:51:16
+-34.656544104,-58.715764453,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5513,390,Sin Datos,2025-12-02,13:51:16
+-34.648439429,-58.726328328,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5513,429,Sin Datos,2025-12-02,13:51:16
+-34.646342906,-58.731355625,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5513,3,Sin Datos,2025-12-02,13:51:16
+-34.659970986,-58.716531885,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5513,110,Sin Datos,2025-12-02,13:51:16
+-34.649640185,-58.722625762,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5513,142,Sin Datos,2025-12-02,13:51:16
+-34.649277504,-58.732047978,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5513,241,Sin Datos,2025-12-02,13:51:16
+-34.4707,-58.5303,22,baja,Edenor,San Isidro,San Isidro,,,11,,2025-12-02,13:51:16
+-34.6148,-58.8777,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,31,,2025-12-02,13:51:16
+-34.6915,-58.389,21,baja,Edesur,Lanus,Gerli,,,11,,2025-12-02,13:51:16
+-34.7334,-58.4093,21,baja,Edesur,Lomas De Zamora,Banfield,,,4,,2025-12-02,13:51:16
+-34.8163,-58.2281,21,baja,Edesur,Florencio Varela,Bosques,,,8,,2025-12-02,13:51:16
+-34.7334,-58.4096,21,baja,Edesur,Lomas De Zamora,Banfield,,,1,,2025-12-02,13:51:16
