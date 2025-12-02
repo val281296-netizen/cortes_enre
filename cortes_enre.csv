@@ -7184,3 +7184,42 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8172,-58.2279,21,baja,Edesur,Florencio Varela,Bosques,,,3,,2025-12-02,19:00:51
 -34.6531,-58.5065,21,baja,Edesur,Capital,Mataderos,,,1,,2025-12-02,19:00:51
 -34.7087,-58.4372,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,1,,2025-12-02,19:00:51
+-34.819700755,-58.398674154,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-4-46/180-4-46,172,2025-12-02 20:00,2025-12-02,20:45:17
+-34.818390224,-58.396797644,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-4-46/180-4-46,405,2025-12-02 20:00,2025-12-02,20:45:17
+-34.599689077,-58.443545997,11,media,Edesur,Capital Gp,Villa Crespo,Villa Crespo,R:147-1-17/147-1-17,265,Sin Datos,2025-12-02,20:45:17
+-34.828253172,-58.395985954,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-36/180-3-36,566,Sin Datos,2025-12-02,20:45:17
+-34.826844148,-58.397357216,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-36/180-3-36,1,Sin Datos,2025-12-02,20:45:17
+-34.827996149,-58.397866684,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-36/180-3-36,1,Sin Datos,2025-12-02,20:45:17
+-34.795062751,-58.273006027,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,271,Sin Datos,2025-12-02,20:45:17
+-34.988179957,-58.388949177,11,media,Edesur,San Vicente,Alejandro Korn,S/D,R:956-1-05/956-1-05,302,2025-12-02 20:22,2025-12-02,20:45:17
+-34.986994200,-58.385580300,11,media,Edesur,San Vicente,Alejandro Korn,S/D,R:956-1-05/956-1-05,163,2025-12-02 20:22,2025-12-02,20:45:17
+-34.988518078,-58.394550351,11,media,Edesur,San Vicente,Alejandro Korn,S/D,R:956-1-05/956-1-05,185,2025-12-02 20:22,2025-12-02,20:45:17
+-34.989994827,-58.386607033,11,media,Edesur,San Vicente,Alejandro Korn,S/D,R:956-1-05/956-1-05,279,2025-12-02 20:22,2025-12-02,20:45:17
+-34.994099990,-58.390480095,11,media,Edesur,San Vicente,Alejandro Korn,S/D,R:956-1-05/956-1-05,48,2025-12-02 20:22,2025-12-02,20:45:17
+-34.593274277,-58.587482302,12,media,Edenor,3 De Febrero,Martin Coronado,S/D,R:Rotonda/262-Tr2/262-5526,265,Sin Datos,2025-12-02,20:45:17
+-34.594841722,-58.585426692,12,media,Edenor,3 De Febrero,Martin Coronado,S/D,R:Rotonda/262-Tr2/262-5526,17,Sin Datos,2025-12-02,20:45:17
+-34.578583196,-58.552697121,12,media,Edenor,Gral San Martin,Juan M De Pueyrredon,S/D,R:Malaver/68-Tr2/68-5538,344,2025-12-02 19:00,2025-12-02,20:45:17
+-34.580734199,-58.550184383,12,media,Edenor,Gral San Martin,C Libertador San Mart?N,S/D,R:Malaver/68-Tr2/68-5538,701,2025-12-02 19:00,2025-12-02,20:45:17
+-34.657678298,-58.713346424,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5513,74,Sin Datos,2025-12-02,20:45:17
+-34.656544104,-58.715764453,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5513,390,Sin Datos,2025-12-02,20:45:17
+-34.648439429,-58.726328328,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5513,429,Sin Datos,2025-12-02,20:45:17
+-34.646342906,-58.731355625,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5513,3,Sin Datos,2025-12-02,20:45:17
+-34.659970986,-58.716531885,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5513,110,Sin Datos,2025-12-02,20:45:17
+-34.649640185,-58.722625762,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5513,142,Sin Datos,2025-12-02,20:45:17
+-34.649277504,-58.732047978,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5513,241,Sin Datos,2025-12-02,20:45:17
+-34.658811324,-58.720702762,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5513,456,2025-12-02 21:00,2025-12-02,20:45:17
+-34.662982669,-58.721616719,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5513,479,2025-12-02 21:00,2025-12-02,20:45:17
+-34.4963,-58.7571,22,baja,Edenor,Malvinas Argentinas,Tortuguitas,,,8,,2025-12-02,20:45:17
+-34.6953,-58.7735,22,baja,Edenor,Merlo,Merlo,,,26,,2025-12-02,20:45:17
+-34.5267,-58.7647,22,baja,Edenor,Jose C Paz,Jose C Paz,,,8,,2025-12-02,20:45:17
+-34.6409,-58.5609,22,baja,Edenor,La Matanza,Ramos Mejia,,,5,,2025-12-02,20:45:17
+-34.4224,-58.7356,22,baja,Edenor,Escobar,Garin,,,6,,2025-12-02,20:45:17
+-34.6915,-58.389,21,baja,Edesur,Lanus,Gerli,,,14,,2025-12-02,20:45:17
+-34.6343,-58.4097,21,baja,Edesur,Capital,Parque Patricios,,,26,,2025-12-02,20:45:17
+-34.7637,-58.2442,21,baja,Edesur,Berazategui,Berazategui,,,62,,2025-12-02,20:45:17
+-34.6029,-58.3972,21,baja,Edesur,Capital,Balvanera,,,9,,2025-12-02,20:45:17
+-34.6136,-58.3903,21,baja,Edesur,Capital,Monserrat,,,1,,2025-12-02,20:45:17
+-34.8172,-58.2279,21,baja,Edesur,Florencio Varela,Bosques,,,7,,2025-12-02,20:45:17
+-34.7087,-58.4372,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,1,,2025-12-02,20:45:17
+-34.7214,-58.3051,21,baja,Edesur,Quilmes,Bernal,,,8,,2025-12-02,20:45:17
+-34.6195,-58.4671,21,baja,Edesur,Capital,Flores,,,1,,2025-12-02,20:45:17
