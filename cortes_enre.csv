@@ -7350,3 +7350,32 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6397,-58.425,21,baja,Edesur,Capital,Parque Chacabuco,,,13,,2025-12-03,08:58:16
 -35.0313,-58.4205,21,baja,Edesur,San Vicente,San Vicente,,,3,,2025-12-03,08:58:16
 -34.7698,-58.4319,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,15,,2025-12-03,08:58:16
+-34.931305042,-58.384507324,11,media,Edesur,Pte Peron,Parque Las Naciones,Glew,R:277-4-48/277-4-48,88,2025-12-03 14:29,2025-12-03,10:52:22
+-34.926488044,-58.383267621,11,media,Edesur,Pte Peron,San Martin,Glew,R:277-4-48/277-4-48,249,2025-12-03 14:29,2025-12-03,10:52:22
+-34.923521516,-58.395703056,11,media,Edesur,Pte Peron,Villa Numancia Sur,Glew,R:277-4-48/277-4-48,258,2025-12-03 14:29,2025-12-03,10:52:22
+-34.924968706,-58.398974590,11,media,Edesur,Pte Peron,Villa Panamericana,Glew,R:277-4-48/277-4-48,397,2025-12-03 14:29,2025-12-03,10:52:22
+-34.923056680,-58.403177753,11,media,Edesur,Pte Peron,Villa Numancia Sur,Glew,R:277-4-48/277-4-48,278,2025-12-03 14:29,2025-12-03,10:52:22
+-34.923137327,-58.384709883,11,media,Edesur,Pte Peron,Villa Panamericana,Glew,R:277-4-48/277-4-48,312,2025-12-03 14:29,2025-12-03,10:52:22
+-34.923360697,-58.389640987,11,media,Edesur,Pte Peron,Villa Panamericana,Glew,R:277-4-48/277-4-48,228,2025-12-03 14:29,2025-12-03,10:52:22
+-34.926876303,-58.386901817,11,media,Edesur,Pte Peron,Villa Panamericana,Glew,R:277-4-48/277-4-48,200,2025-12-03 14:29,2025-12-03,10:52:22
+-34.926991383,-58.382315051,11,media,Edesur,Pte Peron,San Martin,Glew,R:277-4-48/277-4-48,146,2025-12-03 14:29,2025-12-03,10:52:22
+-34.928606085,-58.396340915,11,media,Edesur,Pte Peron,Villa Numancia Sur,Glew,R:277-4-48/277-4-48,42,2025-12-03 14:29,2025-12-03,10:52:22
+-34.937270009,-58.380140577,11,media,Edesur,Pte Peron,Parque Las Naciones,Glew,R:277-4-48/277-4-48,137,2025-12-03 14:29,2025-12-03,10:52:22
+-34.932658752,-58.383507357,11,media,Edesur,Pte Peron,Parque Las Naciones,Glew,R:277-4-48/277-4-48,148,2025-12-03 14:29,2025-12-03,10:52:22
+-34.254253226,-58.433639926,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2025-12-03 11:00,2025-12-03,10:52:22
+-34.226676680,-58.415762647,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2025-12-03 11:00,2025-12-03,10:52:22
+-34.248309088,-58.427621223,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2025-12-03 11:00,2025-12-03,10:52:22
+-34.229184793,-58.415414699,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,2025-12-03 11:00,2025-12-03,10:52:22
+-34.6409,-58.5609,22,baja,Edenor,La Matanza,Ramos Mejia,,,48,,2025-12-03,10:52:22
+-34.5885,-58.7905,22,baja,Edenor,Moreno,Trujui,,,7,,2025-12-03,10:52:22
+-34.6072,-58.8184,22,baja,Edenor,Moreno,Cuartel V,,,6,,2025-12-03,10:52:22
+-34.5915,-58.9847,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,47,,2025-12-03,10:52:22
+-34.6336,-58.8778,22,baja,Edenor,Moreno,Francisco Alvarez,,,15,,2025-12-03,10:52:22
+-34.455,-58.9496,22,baja,Edenor,Pilar,Pilar,,,10,,2025-12-03,10:52:22
+-34.6436,-58.8676,22,baja,Edenor,Moreno,Francisco Alvarez,,,22,,2025-12-03,10:52:22
+-34.4662,-58.5832,22,baja,Edenor,San Fernando,Virreyes,,,15,,2025-12-03,10:52:22
+-34.6864,-58.3578,21,baja,Edesur,Avellaneda,Sarandi,,,7,,2025-12-03,10:52:22
+-34.7214,-58.3051,21,baja,Edesur,Quilmes,Bernal,,,22,,2025-12-03,10:52:22
+-34.6299,-58.4764,21,baja,Edesur,Capital,Capital,,,18,,2025-12-03,10:52:22
+-34.6397,-58.425,21,baja,Edesur,Capital,Parque Chacabuco,,,13,,2025-12-03,10:52:22
+-34.7698,-58.4319,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,20,,2025-12-03,10:52:22
