@@ -7379,3 +7379,53 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6299,-58.4764,21,baja,Edesur,Capital,Capital,,,18,,2025-12-03,10:52:22
 -34.6397,-58.425,21,baja,Edesur,Capital,Parque Chacabuco,,,13,,2025-12-03,10:52:22
 -34.7698,-58.4319,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,20,,2025-12-03,10:52:22
+-34.784221153,-58.370917647,11,media,Edesur,Almirante Brown,Marmol,Rafael Calzada,R:189-4-47/189-4-47,413,2025-12-03 20:00,2025-12-03,13:51:31
+-34.785961777,-58.380876780,11,media,Edesur,Almirante Brown,Marmol,Rafael Calzada,R:189-4-47/189-4-47,447,2025-12-03 20:00,2025-12-03,13:51:31
+-34.785531714,-58.383961388,11,media,Edesur,Almirante Brown,Marmol,Rafael Calzada,R:189-4-47/189-4-47,298,2025-12-03 20:00,2025-12-03,13:51:31
+-34.781925385,-58.377247191,11,media,Edesur,Almirante Brown,Marmol,Rafael Calzada,R:189-4-47/189-4-47,552,2025-12-03 20:00,2025-12-03,13:51:31
+-34.787339257,-58.376689104,11,media,Edesur,Almirante Brown,Marmol,Rafael Calzada,R:189-4-47/189-4-47,372,2025-12-03 20:00,2025-12-03,13:51:31
+-34.786107751,-58.374374352,11,media,Edesur,Almirante Brown,Marmol,Rafael Calzada,R:189-4-47/189-4-47,223,2025-12-03 20:00,2025-12-03,13:51:31
+-34.783858886,-58.380875400,11,media,Edesur,Almirante Brown,Marmol,Rafael Calzada,R:189-4-47/189-4-47,49,2025-12-03 20:00,2025-12-03,13:51:31
+-35.020084786,-58.434441265,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-03/956-1-03,125,2025-12-03 16:00,2025-12-03,13:51:31
+-35.024511391,-58.430626988,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-03/956-1-03,98,2025-12-03 16:00,2025-12-03,13:51:31
+-34.924078706,-58.582927372,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Spegazzini,R:270-3-31/270-3-31,18,2025-12-03 14:07,2025-12-03,13:51:31
+-34.926248635,-58.581330316,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Spegazzini,R:270-3-31/270-3-31,7,2025-12-03 14:07,2025-12-03,13:51:31
+-34.921187383,-58.585101049,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Spegazzini,R:270-3-31/270-3-31,83,2025-12-03 14:07,2025-12-03,13:51:31
+-34.923314036,-58.588079691,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Spegazzini,R:270-3-31/270-3-31,88,2025-12-03 14:07,2025-12-03,13:51:31
+-34.925009270,-58.591319306,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Spegazzini,R:270-3-31/270-3-31,51,2025-12-03 14:07,2025-12-03,13:51:31
+-34.926785938,-58.594758572,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Spegazzini,R:270-3-31/270-3-31,73,2025-12-03 14:07,2025-12-03,13:51:31
+-34.925258462,-58.935547908,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,218,2025-12-03 12:30,2025-12-03,13:51:31
+-34.929552502,-58.938597328,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,101,2025-12-03 12:30,2025-12-03,13:51:31
+-34.926159694,-58.937729108,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,229,2025-12-03 12:30,2025-12-03,13:51:31
+-34.647688294,-58.881137131,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5513,120,2025-12-03 12:30,2025-12-03,13:51:31
+-34.696888754,-58.678221893,12,media,Edenor,Merlo,Libertad,S/D,R:Pontevedra/261-Tr1/261-5513,351,2025-12-03 13:00,2025-12-03,13:51:31
+-34.700254522,-58.682525329,12,media,Edenor,Merlo,Libertad,S/D,R:Pontevedra/261-Tr1/261-5513,326,2025-12-03 13:00,2025-12-03,13:51:31
+-34.540640384,-58.716267466,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr2/362-5522,348,2025-12-03 12:30,2025-12-03,13:51:31
+-34.447106061,-58.718831433,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5513,44,2025-12-03 12:55,2025-12-03,13:51:31
+-34.452254960,-58.734012986,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5513,52,2025-12-03 14:00,2025-12-03,13:51:31
+-34.454187611,-58.734629743,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5513,37,2025-12-03 14:00,2025-12-03,13:51:31
+-34.591520570,-58.984675343,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5471,149,2025-12-03 13:00,2025-12-03,13:51:31
+-34.254139565,-58.524002515,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,6,Sin Datos,2025-12-03,13:51:31
+-34.248683551,-58.523086679,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,7,Sin Datos,2025-12-03,13:51:31
+-34.243067322,-58.519216662,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2025-12-03,13:51:31
+-34.232176487,-58.510383400,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,8,Sin Datos,2025-12-03,13:51:31
+-34.230839382,-58.504108942,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2025-12-03,13:51:31
+-34.232264295,-58.498656278,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2025-12-03,13:51:31
+-34.239561118,-58.495768483,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,8,Sin Datos,2025-12-03,13:51:31
+-34.235174671,-58.496579192,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2025-12-03,13:51:31
+-34.6409,-58.5609,22,baja,Edenor,La Matanza,Ramos Mejia,,,48,,2025-12-03,13:51:31
+-34.5885,-58.7905,22,baja,Edenor,Moreno,Trujui,,,11,,2025-12-03,13:51:31
+-34.6072,-58.8184,22,baja,Edenor,Moreno,Cuartel V,,,2,,2025-12-03,13:51:31
+-34.4662,-58.5832,22,baja,Edenor,San Fernando,Virreyes,,,21,,2025-12-03,13:51:31
+-34.7146,-58.751,22,baja,Edenor,Merlo,Merlo,,,23,,2025-12-03,13:51:31
+-34.5853,-58.7904,22,baja,Edenor,Moreno,Trujui,,,4,,2025-12-03,13:51:31
+-34.651,-58.6166,22,baja,Edenor,Moron,Moron,,,4,,2025-12-03,13:51:31
+-34.5815,-58.4353,22,baja,Edenor,Capital Federal,Palermo,,,13,,2025-12-03,13:51:31
+-34.4708,-58.9005,22,baja,Edenor,Pilar,Pilar,,,1,,2025-12-03,13:51:31
+-34.6864,-58.3578,21,baja,Edesur,Avellaneda,Sarandi,,,8,,2025-12-03,13:51:31
+-34.7214,-58.3051,21,baja,Edesur,Quilmes,Bernal,,,22,,2025-12-03,13:51:31
+-34.7698,-58.4319,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,32,,2025-12-03,13:51:31
+-34.79,-58.313,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,5,,2025-12-03,13:51:31
+-34.79,-58.3783,21,baja,Edesur,Almirante Brown,Marmol,,,4,,2025-12-03,13:51:31
+-34.6538,-58.4152,21,baja,Edesur,Capital,Nueva Pompeya,,,3,,2025-12-03,13:51:31
+-34.6174,-58.4357,21,baja,Edesur,Capital,Capital,,,1,,2025-12-03,13:51:31
