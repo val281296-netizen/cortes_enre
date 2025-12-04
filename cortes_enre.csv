@@ -8285,3 +8285,87 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6108,-58.4817,21,baja,Edesur,Capital,Villa Sta. Rita,,,11,,2025-12-04,21:35:43
 -34.8069,-58.3605,21,baja,Edesur,Almirante Brown,Claypole,,,1,,2025-12-04,21:35:43
 -34.7939,-58.466,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,20,,2025-12-04,21:35:43
+-34.656227215,-58.490160849,11,media,Edesur,Capital Gp,Mataderos,Perito Moreno,R:048-2-22/048-2-22,116,Sin Datos,2025-12-04,23:33:40
+-34.794620501,-58.325767312,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-32/189-3-32,401,Sin Datos,2025-12-04,23:33:40
+-34.794956036,-58.330853829,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-32/189-3-32,564,Sin Datos,2025-12-04,23:33:40
+-34.796583984,-58.324112412,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-32/189-3-32,235,Sin Datos,2025-12-04,23:33:40
+-34.711162558,-58.434765665,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1718/087-2-1718,472,Sin Datos,2025-12-04,23:33:40
+-34.715277107,-58.430405689,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1718/087-2-1718,404,Sin Datos,2025-12-04,23:33:40
+-34.712210449,-58.436780089,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1718/087-2-1718,235,Sin Datos,2025-12-04,23:33:40
+-34.720485242,-58.425197864,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1718/087-2-1718,451,Sin Datos,2025-12-04,23:33:40
+-34.714691525,-58.430850629,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1718/087-2-1718,66,Sin Datos,2025-12-04,23:33:40
+-34.718055609,-58.430206437,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1718/087-2-1718,2,Sin Datos,2025-12-04,23:33:40
+-34.712473722,-58.430984781,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1718/087-2-1718,393,Sin Datos,2025-12-04,23:33:40
+-34.713272977,-58.432509200,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1718/087-2-1718,158,Sin Datos,2025-12-04,23:33:40
+-34.710264691,-58.431873556,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1718/087-2-1718,271,Sin Datos,2025-12-04,23:33:40
+-34.716278382,-58.429643992,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1718/087-2-1718,24,Sin Datos,2025-12-04,23:33:40
+-34.716667495,-58.429347790,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1718/087-2-1718,13,Sin Datos,2025-12-04,23:33:40
+-34.716716585,-58.428406463,11,media,Edesur,Lomas De Zamora,Villa Centenario,Escalada,R:087-2-1718/087-2-1718,44,Sin Datos,2025-12-04,23:33:40
+-34.716550886,-58.428094344,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1718/087-2-1718,2,Sin Datos,2025-12-04,23:33:40
+-34.716220289,-58.427430440,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1718/087-2-1718,6,Sin Datos,2025-12-04,23:33:40
+-34.716020660,-58.427039729,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1718/087-2-1718,49,Sin Datos,2025-12-04,23:33:40
+-34.717501558,-58.429146890,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1718/087-2-1718,36,Sin Datos,2025-12-04,23:33:40
+-34.717844844,-58.428446190,11,media,Edesur,Lomas De Zamora,Villa Centenario,Escalada,R:087-2-1718/087-2-1718,25,Sin Datos,2025-12-04,23:33:40
+-34.718696242,-58.427821103,11,media,Edesur,Lomas De Zamora,Villa Centenario,Escalada,R:087-2-1718/087-2-1718,359,Sin Datos,2025-12-04,23:33:40
+-34.716366604,-58.425532723,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-2-1718/087-2-1718,21,Sin Datos,2025-12-04,23:33:40
+-34.716559391,-58.425383281,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-2-1718/087-2-1718,5,Sin Datos,2025-12-04,23:33:40
+-34.716762044,-58.425226190,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-2-1718/087-2-1718,20,Sin Datos,2025-12-04,23:33:40
+-34.717454392,-58.424688574,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-2-1718/087-2-1718,73,Sin Datos,2025-12-04,23:33:40
+-34.718748521,-58.427051647,11,media,Edesur,Lomas De Zamora,Villa Centenario,Escalada,R:087-2-1718/087-2-1718,68,Sin Datos,2025-12-04,23:33:40
+-34.716914687,-58.425126408,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-2-1718/087-2-1718,42,Sin Datos,2025-12-04,23:33:40
+-34.717722341,-58.424552849,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-2-1718/087-2-1718,67,Sin Datos,2025-12-04,23:33:40
+-34.719810875,-58.422884704,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-2-1718/087-2-1718,7,Sin Datos,2025-12-04,23:33:40
+-34.718302950,-58.424041538,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-2-1718/087-2-1718,26,Sin Datos,2025-12-04,23:33:40
+-34.713174700,-58.436428382,11,media,Edesur,Lomas De Zamora,Villa Fiorito,Escalada,R:087-2-1718/087-2-1718,22,Sin Datos,2025-12-04,23:33:40
+-34.672181807,-58.381872438,11,media,Edesur,Avellaneda,Piñeyro,Gerli,R:186-3-37/186-3-37,1,Sin Datos,2025-12-04,23:33:40
+-34.614419745,-58.497992102,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-27/038-2-27,137,Sin Datos,2025-12-04,23:33:40
+-34.800490667,-58.462670652,11,media,Edesur,Esteban Echeverria,Luis Guillon,Santa Catalina,R:182-3-33/182-3-33,2,2025-12-05 00:32,2025-12-04,23:33:40
+-34.799908238,-58.463125207,11,media,Edesur,Esteban Echeverria,Luis Guillon,Santa Catalina,R:182-3-33/182-3-33,90,2025-12-05 00:32,2025-12-04,23:33:40
+-34.800424639,-58.461568389,11,media,Edesur,Esteban Echeverria,Luis Guillon,Santa Catalina,R:182-3-33/182-3-33,10,2025-12-05 00:32,2025-12-04,23:33:40
+-34.574840679,-58.866476784,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5525,370,Sin Datos,2025-12-04,23:33:40
+-34.681403302,-58.694883429,12,media,Edenor,Merlo,San Antonio De Padua,S/D,R:San Alberto/366-Tr2/366-5532,509,Sin Datos,2025-12-04,23:33:40
+-34.677343400,-58.694987203,12,media,Edenor,Merlo,San Antonio De Padua,S/D,R:San Alberto/366-Tr2/366-5532,449,Sin Datos,2025-12-04,23:33:40
+-34.683658351,-58.698751297,12,media,Edenor,Merlo,Libertad,S/D,R:San Alberto/366-Tr2/366-5532,337,Sin Datos,2025-12-04,23:33:40
+-34.428818468,-58.819529908,12,media,Edenor,Pilar,Del Viso,S/D,R:Matheu/51-Tr1/51-5515,120,2025-12-04 21:00,2025-12-04,23:33:40
+-34.6986,-58.7468,22,baja,Edenor,Merlo,Merlo,,,4,,2025-12-04,23:33:40
+-34.5651,-58.4805,22,baja,Edenor,Capital Federal,Coghlan,,,5,,2025-12-04,23:33:40
+-34.6522,-58.6863,22,baja,Edenor,Ituzaingo,Ituzaingo,,,63,,2025-12-04,23:33:40
+-34.4395,-58.7601,22,baja,Edenor,Pilar,Manuel Alberti,,,5,,2025-12-04,23:33:40
+-34.6751,-58.7792,22,baja,Edenor,Merlo,Merlo,,,9,,2025-12-04,23:33:40
+-34.59,-58.4478,22,baja,Edenor,Capital Federal,Chacarita,,,29,,2025-12-04,23:33:40
+-34.658,-58.6136,22,baja,Edenor,Moron,Moron,,,5,,2025-12-04,23:33:40
+-34.5885,-58.6126,22,baja,Edenor,3 De Febrero,Ejcto Militar (Tf),,,9,,2025-12-04,23:33:40
+-34.7484,-58.7094,22,baja,Edenor,Merlo,Pontevedra,,,36,,2025-12-04,23:33:40
+-34.6743,-58.7253,22,baja,Edenor,Merlo,Merlo,,,43,,2025-12-04,23:33:40
+-34.847,-58.6427,22,baja,Edenor,La Matanza,Virrey Del Pino,,,25,,2025-12-04,23:33:40
+-34.6559,-58.5405,22,baja,Edenor,La Matanza,Ramos Mejia,,,24,,2025-12-04,23:33:40
+-34.7885,-58.6133,22,baja,Edenor,La Matanza,Gonzalez Catan,,,4,,2025-12-04,23:33:40
+-34.6962,-58.5098,22,baja,Edenor,La Matanza,Villa Madero,,,4,,2025-12-04,23:33:40
+-34.5851,-58.4985,22,baja,Edenor,Capital Federal,Villa Pueyrred?N,,,24,,2025-12-04,23:33:40
+-34.6634,-58.7283,22,baja,Edenor,Merlo,Merlo,,,99,,2025-12-04,23:33:40
+-34.7068,-58.6707,22,baja,Edenor,Merlo,Libertad,,,21,,2025-12-04,23:33:40
+-34.5792,-58.4677,22,baja,Edenor,Capital Federal,Villa Ortuzar,,,41,,2025-12-04,23:33:40
+-34.5874,-58.7499,22,baja,Edenor,Moreno,Trujui,,,37,,2025-12-04,23:33:40
+-34.5489,-58.5932,22,baja,Edenor,Gral San Martin,C Jardin El Libertador,,,20,,2025-12-04,23:33:40
+-34.5902,-58.5403,22,baja,Edenor,Gral San Martin,Bernardo Monteagudo,,,4,,2025-12-04,23:33:40
+-34.4777,-58.9064,22,baja,Edenor,Pilar,Pilar,,,37,,2025-12-04,23:33:40
+-34.56,-58.4504,22,baja,Edenor,Capital Federal,Belgrano,,,4,,2025-12-04,23:33:40
+-34.6215,-58.4905,21,baja,Edesur,Capital,Floresta,,,23,,2025-12-04,23:33:40
+-34.6289,-58.4748,21,baja,Edesur,Capital,Flores,,,14,,2025-12-04,23:33:40
+-34.6933,-58.4193,21,baja,Edesur,Lanus,Lanus,,,5,,2025-12-04,23:33:40
+-34.7688,-58.2398,21,baja,Edesur,Berazategui,Berazategui,,,5,,2025-12-04,23:33:40
+-34.6143,-58.4724,21,baja,Edesur,Capital,Villa General Mitre,,,26,,2025-12-04,23:33:40
+-34.6111,-58.4049,21,baja,Edesur,Capital,Balvanera,,,2,,2025-12-04,23:33:40
+-34.822,-58.4712,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,4,,2025-12-04,23:33:40
+-34.6357,-58.4778,21,baja,Edesur,Capital,Floresta,,,48,,2025-12-04,23:33:40
+-34.7762,-58.2391,21,baja,Edesur,Berazategui,Berazategui,,,4,,2025-12-04,23:33:40
+-34.7259,-58.2691,21,baja,Edesur,Quilmes,Quilmes,,,4,,2025-12-04,23:33:40
+-34.6495,-58.3812,21,baja,Edesur,Capital,Barracas,,,10,,2025-12-04,23:33:40
+-34.6246,-58.4192,21,baja,Edesur,Capital,Boedo,,,2,,2025-12-04,23:33:40
+-34.7688,-58.211,21,baja,Edesur,Berazategui,Berazategui,,,9,,2025-12-04,23:33:40
+-34.6481,-58.3824,21,baja,Edesur,Capital,Barracas,,,8,,2025-12-04,23:33:40
+-34.793,-58.4689,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,11,,2025-12-04,23:33:40
+-34.6001,-58.4201,21,baja,Edesur,Capital,Almagro,,,24,,2025-12-04,23:33:40
+-34.637,-58.4055,21,baja,Edesur,Capital,Parque Patricios,,,4,,2025-12-04,23:33:40
+-34.8596,-58.1917,21,baja,Edesur,Florencio Varela,Ing. Allan,,,2,,2025-12-04,23:33:40
+-34.6457,-58.4222,21,baja,Edesur,Capital,Nueva Pompeya,,,1,,2025-12-04,23:33:40
