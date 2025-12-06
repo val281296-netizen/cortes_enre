@@ -10557,3 +10557,86 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.866,-58.5153,21,baja,Edesur,Ezeiza,Jose Maria Ezeiza,,,2,,2025-12-06,21:30:56
 -34.6667,-58.491,21,baja,Edesur,Capital,Villa Lugano,,,2,,2025-12-06,21:30:56
 -34.7107,-58.2656,21,baja,Edesur,Quilmes,Bernal,,,1,,2025-12-06,21:30:56
+-34.688850681,-58.299641412,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-2-25/077-2-25,31,2025-12-06 21:01,2025-12-06,23:32:16
+-34.689561769,-58.305912705,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-2-25/077-2-25,340,2025-12-06 21:01,2025-12-06,23:32:16
+-34.686871196,-58.306870809,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-2-25/077-2-25,495,2025-12-06 21:01,2025-12-06,23:32:16
+-34.687895896,-58.303268538,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-2-25/077-2-25,541,2025-12-06 21:01,2025-12-06,23:32:16
+-34.686396666,-58.297020472,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-2-25/077-2-25,3,2025-12-06 21:01,2025-12-06,23:32:16
+-34.688703621,-58.301289428,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-2-25/077-2-25,163,2025-12-06 21:01,2025-12-06,23:32:16
+-34.684955748,-58.305064995,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-2-25/077-2-25,1,2025-12-06 21:01,2025-12-06,23:32:16
+-34.686551463,-58.297196874,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-2-25/077-2-25,1,2025-12-06 21:01,2025-12-06,23:32:16
+-34.624908013,-58.419043080,11,media,Edesur,Capital Rp,Boedo,Independencia,R:020-2-25/020-2-25,43,2025-12-07 01:49,2025-12-06,23:32:16
+-34.627603792,-58.400014669,11,media,Edesur,Capital Rp,San Cristobal,Patricios,R:015-2-28/015-2-28,334,Sin Datos,2025-12-06,23:32:16
+-34.623401501,-58.475209304,11,media,Edesur,Capital Gp,Flores Gp,Santa Rita,R:143-4-45/143-4-45,184,2025-12-06 22:36,2025-12-06,23:32:16
+-34.405293623,-58.828383262,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,18,2025-12-06 23:00,2025-12-06,23:32:16
+-34.403089266,-58.828479293,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,48,2025-12-06 23:00,2025-12-06,23:32:16
+-34.410620609,-58.823951150,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,60,2025-12-06 23:00,2025-12-06,23:32:16
+-34.407425501,-58.827811090,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,73,2025-12-06 23:00,2025-12-06,23:32:16
+-34.409341242,-58.828544761,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,95,2025-12-06 23:00,2025-12-06,23:32:16
+-34.414312455,-58.826380816,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,107,2025-12-06 23:00,2025-12-06,23:32:16
+-34.406599268,-58.833215982,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,80,2025-12-06 23:00,2025-12-06,23:32:16
+-34.406044690,-58.837096167,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,66,2025-12-06 23:00,2025-12-06,23:32:16
+-34.412216585,-58.831312987,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,76,2025-12-06 23:00,2025-12-06,23:32:16
+-34.399056111,-58.831551726,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,16,2025-12-06 23:00,2025-12-06,23:32:16
+-34.414175532,-58.820036371,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,3,2025-12-06 23:00,2025-12-06,23:32:16
+-34.414893804,-58.815722038,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,1,2025-12-06 23:00,2025-12-06,23:32:16
+-34.393281096,-58.835943055,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,4,2025-12-06 23:00,2025-12-06,23:32:16
+-34.402137526,-58.829167313,12,media,Edenor,Escobar,Garin,S/D,R:Matheu/51-Tr1/51-5514,95,2025-12-06 23:00,2025-12-06,23:32:16
+-34.401006077,-58.827179427,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,42,2025-12-06 23:00,2025-12-06,23:32:16
+-34.402413361,-58.824486747,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Matheu/51-Tr1/51-5514,53,2025-12-06 23:00,2025-12-06,23:32:16
+-34.404830956,-58.824649943,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,26,2025-12-06 23:00,2025-12-06,23:32:16
+-34.408191410,-58.820518665,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Matheu/51-Tr1/51-5514,105,2025-12-06 23:00,2025-12-06,23:32:16
+-34.407976163,-58.822584601,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,44,2025-12-06 23:00,2025-12-06,23:32:16
+-34.412460539,-58.820558559,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,82,2025-12-06 23:00,2025-12-06,23:32:16
+-34.407678367,-58.824905028,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,91,2025-12-06 23:00,2025-12-06,23:32:16
+-34.497875934,-58.672083766,12,media,Edenor,Malvinas Argentinas,Villa De Mayo,S/D,R:Nogues/159-Tr1/159-5546,222,2025-12-07 00:00,2025-12-06,23:32:16
+-34.500615355,-58.677466882,12,media,Edenor,Malvinas Argentinas,Villa De Mayo,S/D,R:Nogues/159-Tr1/159-5546,411,2025-12-07 00:00,2025-12-06,23:32:16
+-34.503435989,-58.678519855,12,media,Edenor,Malvinas Argentinas,Villa De Mayo,S/D,R:Nogues/159-Tr1/159-5546,207,2025-12-07 00:00,2025-12-06,23:32:16
+-34.497320661,-58.691958023,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr1/159-5546,186,2025-12-07 00:00,2025-12-06,23:32:16
+-34.498652605,-58.690971041,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr1/159-5546,139,2025-12-07 00:00,2025-12-06,23:32:16
+-34.496820005,-58.695803194,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr1/159-5546,242,2025-12-07 00:00,2025-12-06,23:32:16
+-34.500110704,-58.689832735,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr1/159-5546,137,2025-12-07 00:00,2025-12-06,23:32:16
+-34.498282774,-58.694786561,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr1/159-5546,173,2025-12-07 00:00,2025-12-06,23:32:16
+-34.500659454,-58.685811668,12,media,Edenor,Malvinas Argentinas,Villa De Mayo,S/D,R:Nogues/159-Tr1/159-5546,316,2025-12-07 00:00,2025-12-06,23:32:16
+-34.499364895,-58.693889723,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr1/159-5546,106,2025-12-07 00:00,2025-12-06,23:32:16
+-34.501266674,-58.681205725,12,media,Edenor,Malvinas Argentinas,Villa De Mayo,S/D,R:Nogues/159-Tr1/159-5546,371,2025-12-07 00:00,2025-12-06,23:32:16
+-34.500675545,-58.688512508,12,media,Edenor,Malvinas Argentinas,Villa De Mayo,S/D,R:Nogues/159-Tr1/159-5546,201,2025-12-07 00:00,2025-12-06,23:32:16
+-34.499222068,-58.675632734,12,media,Edenor,Malvinas Argentinas,Villa De Mayo,S/D,R:Nogues/159-Tr1/159-5546,366,2025-12-07 00:00,2025-12-06,23:32:16
+-34.493630578,-58.694980292,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr1/159-5546,257,2025-12-07 00:00,2025-12-06,23:32:16
+-34.498691565,-58.684124118,12,media,Edenor,Malvinas Argentinas,Villa De Mayo,S/D,R:Nogues/159-Tr1/159-5546,423,2025-12-07 00:00,2025-12-06,23:32:16
+-34.502993269,-58.684125143,12,media,Edenor,Malvinas Argentinas,Villa De Mayo,S/D,R:Nogues/159-Tr1/159-5546,372,2025-12-07 00:00,2025-12-06,23:32:16
+-34.501054109,-58.692590705,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr1/159-5546,287,2025-12-07 00:00,2025-12-06,23:32:16
+-34.6942,-58.5774,22,baja,Edenor,La Matanza,Isidro Casanova,,,6,,2025-12-06,23:32:16
+-34.5799,-58.4818,22,baja,Edenor,Capital Federal,Villa Urquiza,,,4,,2025-12-06,23:32:16
+-34.491,-58.6627,22,baja,Edenor,Malvinas Argentinas,Villa De Mayo,,,34,,2025-12-06,23:32:16
+-34.5151,-58.4871,22,baja,Edenor,Vicente Lopez,Olivos,,,12,,2025-12-06,23:32:16
+-34.447,-58.6845,22,baja,Edenor,Tigre,Ricardo Rojas,,,31,,2025-12-06,23:32:16
+-34.7048,-58.5083,22,baja,Edenor,La Matanza,Tapiales,,,15,,2025-12-06,23:32:16
+-34.5387,-58.5848,22,baja,Edenor,Gral San Martin,C Jardin El Libertador,,,18,,2025-12-06,23:32:16
+-34.6644,-58.5721,22,baja,Edenor,La Matanza,Villa Luzuriaga,,,22,,2025-12-06,23:32:16
+-34.7055,-58.6853,22,baja,Edenor,Merlo,Libertad,,,1,,2025-12-06,23:32:16
+-34.5951,-59.0058,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,16,,2025-12-06,23:32:16
+-34.6266,-58.4205,21,baja,Edesur,Capital,Boedo,,,35,,2025-12-06,23:32:16
+-34.7798,-58.3115,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,14,,2025-12-06,23:32:16
+-34.7079,-58.3886,21,baja,Edesur,Lanus,Lanus,,,20,,2025-12-06,23:32:16
+-34.6632,-58.3597,21,baja,Edesur,Avellaneda,Avellaneda,,,37,,2025-12-06,23:32:16
+-34.8552,-58.5107,21,baja,Edesur,Ezeiza,Jose Maria Ezeiza,,,8,,2025-12-06,23:32:16
+-34.7289,-58.2645,21,baja,Edesur,Quilmes,Quilmes,,,11,,2025-12-06,23:32:16
+-34.6215,-58.4108,21,baja,Edesur,Capital,San Cristobal,,,9,,2025-12-06,23:32:16
+-34.7982,-58.3986,21,baja,Edesur,Almirante Brown,Adrogue,,,21,,2025-12-06,23:32:16
+-34.6144,-58.4305,21,baja,Edesur,Capital,Caballito,,,18,,2025-12-06,23:32:16
+-34.8091,-58.4457,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,4,,2025-12-06,23:32:16
+-34.6232,-58.3987,21,baja,Edesur,Capital,San Cristobal,,,16,,2025-12-06,23:32:16
+-34.7066,-58.3195,21,baja,Edesur,Avellaneda,Wilde,,,12,,2025-12-06,23:32:16
+-34.6147,-58.432,21,baja,Edesur,Capital,Caballito,,,8,,2025-12-06,23:32:16
+-34.6091,-58.5192,21,baja,Edesur,Capital,Villa Devoto,,,67,,2025-12-06,23:32:16
+-34.6023,-58.4196,21,baja,Edesur,Capital,Almagro,,,34,,2025-12-06,23:32:16
+-34.5987,-58.4311,21,baja,Edesur,Capital,Capital,,,19,,2025-12-06,23:32:16
+-34.7798,-58.3698,21,baja,Edesur,Almirante Brown,Marmol,,,2,,2025-12-06,23:32:16
+-34.8681,-58.3661,21,baja,Edesur,Almirante Brown,Glew,,,5,,2025-12-06,23:32:16
+-34.6925,-58.3213,21,baja,Edesur,Avellaneda,Villa Dominico,,,18,,2025-12-06,23:32:16
+-34.6932,-58.324,21,baja,Edesur,Avellaneda,Villa Dominico,,,13,,2025-12-06,23:32:16
+-34.7162,-58.3374,21,baja,Edesur,Avellaneda,Wilde,,,1,,2025-12-06,23:32:16
+-34.8226,-58.3828,21,baja,Edesur,Almirante Brown,Burzaco,,,4,,2025-12-06,23:32:16
+-34.7446,-58.3349,21,baja,Edesur,Quilmes,Bernal,,,1,,2025-12-06,23:32:16
+-34.7593,-58.359,21,baja,Edesur,Lomas De Zamora,Temperley,,,16,,2025-12-06,23:32:16
