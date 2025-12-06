@@ -10495,3 +10495,65 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.9384,-58.6175,21,baja,Edesur,Cañuelas,Maximo Paz,,,1,,2025-12-06,19:26:29
 -34.6244,-58.4237,21,baja,Edesur,Capital,Boedo,,,19,,2025-12-06,19:26:29
 -34.6023,-58.4196,21,baja,Edesur,Capital,Almagro,,,21,,2025-12-06,19:26:29
+-34.688850681,-58.299641412,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-2-25/077-2-25,31,2025-12-06 21:01,2025-12-06,21:30:56
+-34.689561769,-58.305912705,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-2-25/077-2-25,340,2025-12-06 21:01,2025-12-06,21:30:56
+-34.686871196,-58.306870809,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-2-25/077-2-25,495,2025-12-06 21:01,2025-12-06,21:30:56
+-34.687895896,-58.303268538,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-2-25/077-2-25,541,2025-12-06 21:01,2025-12-06,21:30:56
+-34.686396666,-58.297020472,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-2-25/077-2-25,3,2025-12-06 21:01,2025-12-06,21:30:56
+-34.688703621,-58.301289428,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-2-25/077-2-25,163,2025-12-06 21:01,2025-12-06,21:30:56
+-34.684955748,-58.305064995,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-2-25/077-2-25,1,2025-12-06 21:01,2025-12-06,21:30:56
+-34.686551463,-58.297196874,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-2-25/077-2-25,1,2025-12-06 21:01,2025-12-06,21:30:56
+-34.624908013,-58.419043080,11,media,Edesur,Capital Rp,Boedo,Independencia,R:020-2-25/020-2-25,43,2025-12-06 19:49,2025-12-06,21:30:56
+-34.627603792,-58.400014669,11,media,Edesur,Capital Rp,San Cristobal,Patricios,R:015-2-28/015-2-28,334,Sin Datos,2025-12-06,21:30:56
+-34.708422466,-58.274482492,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-3-31/077-3-31,1289,2025-12-07 02:10,2025-12-06,21:30:56
+-34.705837472,-58.269014426,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-3-31/077-3-31,212,2025-12-07 02:10,2025-12-06,21:30:56
+-34.719379348,-58.268302131,11,media,Edesur,Quilmes,Quilmes Oeste,Don Bosco,R:077-3-31/077-3-31,129,2025-12-07 02:10,2025-12-06,21:30:56
+-34.718849831,-58.268784981,11,media,Edesur,Quilmes,Quilmes Oeste,Don Bosco,R:077-3-31/077-3-31,15,2025-12-07 02:10,2025-12-06,21:30:56
+-34.712617954,-58.273902528,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-3-31/077-3-31,176,2025-12-07 02:10,2025-12-06,21:30:56
+-34.623401501,-58.475209304,11,media,Edesur,Capital Gp,Flores Gp,Santa Rita,R:143-4-45/143-4-45,184,2025-12-06 22:36,2025-12-06,21:30:56
+-34.624202535,-58.474832694,11,media,Edesur,Capital Gp,Flores Gp,Santa Rita,R:143-4-45/143-4-45,240,2025-12-06 22:36,2025-12-06,21:30:56
+-34.384000899,-58.702952747,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr3/154-5481/951-5511,55,Sin Datos,2025-12-06,21:30:56
+-34.609876436,-58.562063931,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Ciudadela/167-Tr2/167-5535,144,2025-12-06 20:43,2025-12-06,21:30:56
+-34.609708245,-58.558128038,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Ciudadela/167-Tr2/167-5535,234,2025-12-06 20:43,2025-12-06,21:30:56
+-34.612717713,-58.553226540,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Ciudadela/167-Tr2/167-5535,159,2025-12-06 20:43,2025-12-06,21:30:56
+-34.615620035,-58.552006831,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Ciudadela/167-Tr2/167-5535,309,2025-12-06 20:43,2025-12-06,21:30:56
+-34.613717781,-58.554589611,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Ciudadela/167-Tr2/167-5535,10,2025-12-06 20:43,2025-12-06,21:30:56
+-34.612296628,-58.557517018,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Ciudadela/167-Tr2/167-5535,502,2025-12-06 20:43,2025-12-06,21:30:56
+-34.608995563,-58.561403839,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Ciudadela/167-Tr2/167-5535,230,2025-12-06 20:43,2025-12-06,21:30:56
+-34.610003612,-58.558916700,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Ciudadela/167-Tr2/167-5535,276,2025-12-06 20:43,2025-12-06,21:30:56
+-34.610269654,-58.559581681,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Ciudadela/167-Tr2/167-5535,120,2025-12-06 20:43,2025-12-06,21:30:56
+-34.610951334,-58.560557788,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Ciudadela/167-Tr2/167-5535,389,2025-12-06 20:43,2025-12-06,21:30:56
+-34.6942,-58.5774,22,baja,Edenor,La Matanza,Isidro Casanova,,,5,,2025-12-06,21:30:56
+-34.6808,-58.732,22,baja,Edenor,Merlo,Merlo,,,16,,2025-12-06,21:30:56
+-34.491,-58.6627,22,baja,Edenor,Malvinas Argentinas,Villa De Mayo,,,34,,2025-12-06,21:30:56
+-34.5151,-58.4871,22,baja,Edenor,Vicente Lopez,Olivos,,,12,,2025-12-06,21:30:56
+-34.447,-58.6845,22,baja,Edenor,Tigre,Ricardo Rojas,,,31,,2025-12-06,21:30:56
+-34.7048,-58.5083,22,baja,Edenor,La Matanza,Tapiales,,,15,,2025-12-06,21:30:56
+-34.5387,-58.5848,22,baja,Edenor,Gral San Martin,C Jardin El Libertador,,,8,,2025-12-06,21:30:56
+-34.4951,-58.6138,22,baja,Edenor,Tigre,Don Torcuato,,,44,,2025-12-06,21:30:56
+-34.6246,-58.5438,22,baja,Edenor,3 De Febrero,Ciudadela,,,10,,2025-12-06,21:30:56
+-34.6644,-58.5721,22,baja,Edenor,La Matanza,Villa Luzuriaga,,,4,,2025-12-06,21:30:56
+-34.5752,-58.4897,22,baja,Edenor,Capital Federal,Villa Urquiza,,,33,,2025-12-06,21:30:56
+-34.6266,-58.4205,21,baja,Edesur,Capital,Boedo,,,35,,2025-12-06,21:30:56
+-34.7798,-58.3115,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,14,,2025-12-06,21:30:56
+-34.7678,-58.3103,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,9,,2025-12-06,21:30:56
+-34.7079,-58.3886,21,baja,Edesur,Lanus,Lanus,,,20,,2025-12-06,21:30:56
+-34.6632,-58.3597,21,baja,Edesur,Avellaneda,Avellaneda,,,35,,2025-12-06,21:30:56
+-34.8552,-58.5107,21,baja,Edesur,Ezeiza,Jose Maria Ezeiza,,,5,,2025-12-06,21:30:56
+-34.7289,-58.2645,21,baja,Edesur,Quilmes,Quilmes,,,11,,2025-12-06,21:30:56
+-34.6215,-58.4108,21,baja,Edesur,Capital,San Cristobal,,,9,,2025-12-06,21:30:56
+-34.7982,-58.3986,21,baja,Edesur,Almirante Brown,Adrogue,,,19,,2025-12-06,21:30:56
+-34.6144,-58.4305,21,baja,Edesur,Capital,Caballito,,,11,,2025-12-06,21:30:56
+-34.8091,-58.4457,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,4,,2025-12-06,21:30:56
+-34.6091,-58.5192,21,baja,Edesur,Capital,Villa Devoto,,,52,,2025-12-06,21:30:56
+-34.6244,-58.4237,21,baja,Edesur,Capital,Boedo,,,27,,2025-12-06,21:30:56
+-34.6023,-58.4196,21,baja,Edesur,Capital,Almagro,,,31,,2025-12-06,21:30:56
+-34.7798,-58.3698,21,baja,Edesur,Almirante Brown,Marmol,,,2,,2025-12-06,21:30:56
+-34.7506,-58.2977,21,baja,Edesur,Quilmes,Quilmes,,,5,,2025-12-06,21:30:56
+-34.8681,-58.3661,21,baja,Edesur,Almirante Brown,Glew,,,3,,2025-12-06,21:30:56
+-34.6925,-58.3213,21,baja,Edesur,Avellaneda,Villa Dominico,,,11,,2025-12-06,21:30:56
+-34.7866,-58.4549,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,5,,2025-12-06,21:30:56
+-34.7098,-58.2665,21,baja,Edesur,Quilmes,Bernal,,,2,,2025-12-06,21:30:56
+-34.866,-58.5153,21,baja,Edesur,Ezeiza,Jose Maria Ezeiza,,,2,,2025-12-06,21:30:56
+-34.6667,-58.491,21,baja,Edesur,Capital,Villa Lugano,,,2,,2025-12-06,21:30:56
+-34.7107,-58.2656,21,baja,Edesur,Quilmes,Bernal,,,1,,2025-12-06,21:30:56
