@@ -10780,3 +10780,73 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8226,-58.3828,21,baja,Edesur,Almirante Brown,Burzaco,,,4,,2025-12-07,07:30:56
 -34.6361,-58.5223,21,baja,Edesur,Capital,Liniers,,,2,,2025-12-07,07:30:56
 -34.6013,-58.4028,21,baja,Edesur,Capital,Balvanera,,,5,,2025-12-07,07:30:56
+-34.624908013,-58.419043080,11,media,Edesur,Capital Rp,Boedo,Independencia,R:020-2-25/020-2-25,43,2025-12-07 07:49,2025-12-07,09:34:37
+-34.636290640,-58.469191255,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-1-16/218-1-16,251,2025-12-07 07:29,2025-12-07,09:34:37
+-34.635550166,-58.468642508,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-1-16/218-1-16,27,2025-12-07 07:29,2025-12-07,09:34:37
+-34.635368924,-58.468099127,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-1-16/218-1-16,11,2025-12-07 07:29,2025-12-07,09:34:37
+-34.604187100,-58.411153692,11,media,Edesur,Capital Gp,Balvanera Gp,Independencia,R:020-2-23/020-2-23,264,2025-12-07 13:59,2025-12-07,09:34:37
+-34.606129105,-58.411961538,11,media,Edesur,Capital Gp,Balvanera Gp,Independencia,R:020-2-23/020-2-23,341,2025-12-07 13:59,2025-12-07,09:34:37
+-34.606678952,-58.413946495,11,media,Edesur,Capital Gp,Balvanera Gp,Independencia,R:020-2-23/020-2-23,207,2025-12-07 13:59,2025-12-07,09:34:37
+-34.607458008,-58.411948688,11,media,Edesur,Capital Gp,Balvanera Gp,Independencia,R:020-2-23/020-2-23,1,2025-12-07 13:59,2025-12-07,09:34:37
+-34.609540766,-58.414429073,11,media,Edesur,Capital Gp,Balvanera Gp,Independencia,R:020-2-23/020-2-23,267,2025-12-07 13:59,2025-12-07,09:34:37
+-34.604298565,-58.410246050,11,media,Edesur,Capital Gp,Balvanera Gp,Independencia,R:020-2-23/020-2-23,340,2025-12-07 13:59,2025-12-07,09:34:37
+-34.605710004,-58.409745329,11,media,Edesur,Capital Gp,Balvanera Gp,Independencia,R:020-2-23/020-2-23,56,2025-12-07 13:59,2025-12-07,09:34:37
+-34.606249330,-58.412563580,11,media,Edesur,Capital Gp,Balvanera Gp,Independencia,R:020-2-23/020-2-23,255,2025-12-07 13:59,2025-12-07,09:34:37
+-34.605331057,-58.414117765,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-2-23/020-2-23,542,2025-12-07 13:59,2025-12-07,09:34:37
+-34.605789157,-58.414381311,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-2-23/020-2-23,243,2025-12-07 13:59,2025-12-07,09:34:37
+-34.605882334,-58.411858595,11,media,Edesur,Capital Gp,Balvanera Gp,Independencia,R:020-2-23/020-2-23,120,2025-12-07 13:59,2025-12-07,09:34:37
+-34.606004672,-58.413311573,11,media,Edesur,Capital Gp,Balvanera Gp,Independencia,R:020-2-23/020-2-23,193,2025-12-07 13:59,2025-12-07,09:34:37
+-34.604499750,-58.409177397,11,media,Edesur,Capital Gp,Balvanera Gp,Independencia,R:020-2-23/020-2-23,352,2025-12-07 13:59,2025-12-07,09:34:37
+-34.604758184,-58.411390773,11,media,Edesur,Capital Gp,Balvanera Gp,Independencia,R:020-2-23/020-2-23,3,2025-12-07 13:59,2025-12-07,09:34:37
+-34.328420074,-58.586087972,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,18,Sin Datos,2025-12-07,09:34:37
+-34.332631626,-58.584317551,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,26,Sin Datos,2025-12-07,09:34:37
+-34.324791451,-58.584427961,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,16,Sin Datos,2025-12-07,09:34:37
+-34.309727793,-58.588469477,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,40,Sin Datos,2025-12-07,09:34:37
+-34.304101250,-58.589360325,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,9,Sin Datos,2025-12-07,09:34:37
+-34.296989832,-58.589856540,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,67,Sin Datos,2025-12-07,09:34:37
+-34.289506309,-58.586988895,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,12,Sin Datos,2025-12-07,09:34:37
+-34.316858557,-58.585694477,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,Sin Datos,2025-12-07,09:34:37
+-34.287068459,-58.585538815,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,28,Sin Datos,2025-12-07,09:34:37
+-34.282987472,-58.598019239,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,3,Sin Datos,2025-12-07,09:34:37
+-34.466206908,-58.560965163,12,media,Edenor,San Fernando,Victoria,S/D,R:Victoria/53-Tr2/53-5521,244,2025-12-07 10:00,2025-12-07,09:34:37
+-34.463511650,-58.554054432,12,media,Edenor,San Fernando,Victoria,S/D,R:Victoria/53-Tr2/53-5521,162,2025-12-07 10:00,2025-12-07,09:34:37
+-34.469445065,-58.566425114,12,media,Edenor,San Fernando,Victoria,S/D,R:Victoria/53-Tr2/53-5521,98,2025-12-07 10:00,2025-12-07,09:34:37
+-34.467524489,-58.562588818,12,media,Edenor,San Fernando,Victoria,S/D,R:Victoria/53-Tr2/53-5521,133,2025-12-07 10:00,2025-12-07,09:34:37
+-34.462922588,-58.553228524,12,media,Edenor,San Fernando,Victoria,S/D,R:Victoria/53-Tr2/53-5521,1,2025-12-07 10:00,2025-12-07,09:34:37
+-34.463663252,-58.556619727,12,media,Edenor,San Fernando,Victoria,S/D,R:Victoria/53-Tr2/53-5521,135,2025-12-07 10:00,2025-12-07,09:34:37
+-34.468406409,-58.564266412,12,media,Edenor,San Fernando,Victoria,S/D,R:Victoria/53-Tr2/53-5521,131,2025-12-07 10:00,2025-12-07,09:34:37
+-34.469718691,-58.566978836,12,media,Edenor,San Fernando,Victoria,S/D,R:Victoria/53-Tr2/53-5521,23,2025-12-07 10:00,2025-12-07,09:34:37
+-34.465898052,-58.559114308,12,media,Edenor,San Fernando,Victoria,S/D,R:Victoria/53-Tr2/53-5521,78,2025-12-07 10:00,2025-12-07,09:34:37
+-34.461605554,-58.551742988,12,media,Edenor,San Fernando,Victoria,S/D,R:Victoria/53-Tr2/53-5521,148,2025-12-07 10:00,2025-12-07,09:34:37
+-34.462482020,-58.563991594,12,media,Edenor,San Fernando,Victoria,S/D,R:Victoria/53-Tr2/53-5522,491,2025-12-07 08:53,2025-12-07,09:34:37
+-34.465406584,-58.566558567,12,media,Edenor,San Fernando,Victoria,S/D,R:Victoria/53-Tr2/53-5522,416,2025-12-07 08:53,2025-12-07,09:34:37
+-34.465687442,-58.569380218,12,media,Edenor,San Fernando,Victoria,S/D,R:Victoria/53-Tr2/53-5522,272,2025-12-07 08:53,2025-12-07,09:34:37
+-34.460897167,-58.560078089,12,media,Edenor,San Fernando,Victoria,S/D,R:Victoria/53-Tr2/53-5522,420,2025-12-07 08:53,2025-12-07,09:34:37
+-34.461954256,-58.559163728,12,media,Edenor,San Fernando,Victoria,S/D,R:Victoria/53-Tr2/53-5522,413,2025-12-07 08:53,2025-12-07,09:34:37
+-34.463131469,-58.561574972,12,media,Edenor,San Fernando,Victoria,S/D,R:Victoria/53-Tr2/53-5522,402,2025-12-07 08:53,2025-12-07,09:34:37
+-34.464846730,-58.565435368,12,media,Edenor,San Fernando,Victoria,S/D,R:Victoria/53-Tr2/53-5522,109,2025-12-07 08:53,2025-12-07,09:34:37
+-34.464120733,-58.564004340,12,media,Edenor,San Fernando,Victoria,S/D,R:Victoria/53-Tr2/53-5522,152,2025-12-07 08:53,2025-12-07,09:34:37
+-34.466714319,-58.569424301,12,media,Edenor,San Fernando,Victoria,S/D,R:Victoria/53-Tr2/53-5522,20,2025-12-07 08:53,2025-12-07,09:34:37
+-34.462384764,-58.559898089,12,media,Edenor,San Fernando,Victoria,S/D,R:Victoria/53-Tr2/53-5522,23,2025-12-07 08:53,2025-12-07,09:34:37
+-34.5921,-59.0016,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,7,,2025-12-07,09:34:37
+-34.6266,-58.4205,21,baja,Edesur,Capital,Boedo,,,37,,2025-12-07,09:34:37
+-34.7798,-58.3115,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,16,,2025-12-07,09:34:37
+-34.7079,-58.3886,21,baja,Edesur,Lanus,Lanus,,,20,,2025-12-07,09:34:37
+-34.6632,-58.3597,21,baja,Edesur,Avellaneda,Avellaneda,,,42,,2025-12-07,09:34:37
+-34.7136,-58.2939,21,baja,Edesur,Quilmes,Bernal,,,47,,2025-12-07,09:34:37
+-34.7136,-58.454,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,1,,2025-12-07,09:34:37
+-34.7207,-58.2697,21,baja,Edesur,Quilmes,Quilmes,,,7,,2025-12-07,09:34:37
+-34.8238,-58.3529,21,baja,Edesur,Almirante Brown,Claypole,,,5,,2025-12-07,09:34:37
+-34.6144,-58.4305,21,baja,Edesur,Capital,Caballito,,,39,,2025-12-07,09:34:37
+-34.6147,-58.432,21,baja,Edesur,Capital,Caballito,,,10,,2025-12-07,09:34:37
+-34.6023,-58.4196,21,baja,Edesur,Capital,Almagro,,,44,,2025-12-07,09:34:37
+-34.5987,-58.4311,21,baja,Edesur,Capital,Capital,,,35,,2025-12-07,09:34:37
+-34.8673,-58.3656,21,baja,Edesur,Almirante Brown,Glew,,,7,,2025-12-07,09:34:37
+-34.6932,-58.324,21,baja,Edesur,Avellaneda,Villa Dominico,,,19,,2025-12-07,09:34:37
+-34.7808,-58.2192,21,baja,Edesur,Berazategui,Berazategui,,,12,,2025-12-07,09:34:37
+-34.7073,-58.2716,21,baja,Edesur,Quilmes,Bernal,,,3,,2025-12-07,09:34:37
+-34.7828,-58.272,21,baja,Edesur,Florencio Varela,Florencio Varela,,,5,,2025-12-07,09:34:37
+-34.7096,-58.2737,21,baja,Edesur,Quilmes,Bernal,,,6,,2025-12-07,09:34:37
+-35.045,-58.4358,21,baja,Edesur,San Vicente,San Vicente,,,5,,2025-12-07,09:34:37
+-34.6361,-58.5223,21,baja,Edesur,Capital,Liniers,,,3,,2025-12-07,09:34:37
+-34.6013,-58.4028,21,baja,Edesur,Capital,Balvanera,,,6,,2025-12-07,09:34:37
