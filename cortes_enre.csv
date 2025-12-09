@@ -12065,3 +12065,38 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6083,-58.5194,21,baja,Edesur,Capital,Villa Devoto,,,70,,2025-12-09,19:25:14
 -34.6041,-58.3956,21,baja,Edesur,Capital,Balvanera,,,12,,2025-12-09,19:25:14
 -35.0409,-58.4404,21,baja,Edesur,San Vicente,San Vicente,,,1,,2025-12-09,19:25:14
+-35.019515231,-58.442898134,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-27/277-2-27,1,2025-12-09 19:00,2025-12-09,21:33:35
+-35.024863598,-58.448733021,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-27/277-2-27,4,2025-12-09 19:00,2025-12-09,21:33:35
+-35.026301430,-58.451093934,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-27/277-2-27,4,2025-12-09 19:00,2025-12-09,21:33:35
+-35.026967182,-58.451837003,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-27/277-2-27,4,2025-12-09 19:00,2025-12-09,21:33:35
+-35.020374525,-58.443840836,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-27/277-2-27,5,2025-12-09 19:00,2025-12-09,21:33:35
+-35.022142666,-58.445771670,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-27/277-2-27,1,2025-12-09 19:00,2025-12-09,21:33:35
+-35.019951160,-58.443373682,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-27/277-2-27,2,2025-12-09 19:00,2025-12-09,21:33:35
+-34.850894276,-58.498320540,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-21/083-2-21/083-3-33,206,Sin Datos,2025-12-09,21:33:35
+-34.851800617,-58.500189693,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-21/083-2-21/083-3-33,4,Sin Datos,2025-12-09,21:33:35
+-34.848390587,-58.500732054,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-21/083-2-21/083-3-33,462,Sin Datos,2025-12-09,21:33:35
+-34.852731105,-58.502042499,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-21/083-2-21/083-3-33,59,Sin Datos,2025-12-09,21:33:35
+-34.845924027,-58.503448807,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-21/083-2-21/083-3-33,257,Sin Datos,2025-12-09,21:33:35
+-34.838473306,-58.511416587,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-1-12/083-1-12,176,2025-12-09 20:13,2025-12-09,21:33:35
+-34.835748842,-58.508007835,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-1-12/083-1-12,1,2025-12-09 20:13,2025-12-09,21:33:35
+-34.837039357,-58.508595922,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-1-12/083-1-12,194,2025-12-09 20:13,2025-12-09,21:33:35
+-34.836147192,-58.512749304,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-1-12/083-1-12,182,2025-12-09 20:13,2025-12-09,21:33:35
+-34.834330047,-58.509015506,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-1-12/083-1-12,215,2025-12-09 20:13,2025-12-09,21:33:35
+-34.835231429,-58.510491715,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-1-12/083-1-12,6,2025-12-09 20:13,2025-12-09,21:33:35
+-34.839724876,-58.513909142,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-1-12/083-1-12,196,2025-12-09 20:13,2025-12-09,21:33:35
+-34.511,-58.4821,22,baja,Edenor,Vicente Lopez,Olivos,,,4,,2025-12-09,21:33:35
+-34.4687,-58.5718,22,baja,Edenor,San Fernando,Victoria,,,4,,2025-12-09,21:33:35
+-34.7176,-58.8057,22,baja,Edenor,Merlo,Mariano Acosta,,,44,,2025-12-09,21:33:35
+-34.5387,-58.7063,22,baja,Edenor,San Miguel,San Miguel,,,45,,2025-12-09,21:33:35
+-34.535,-58.7769,22,baja,Edenor,Jose C Paz,Jose C Paz,,,4,,2025-12-09,21:33:35
+-34.5848,-58.4435,22,baja,Edenor,Capital Federal,Palermo,,,1,,2025-12-09,21:33:35
+-34.3227,-58.7807,22,baja,Edenor,Escobar,Escobar,,,20,,2025-12-09,21:33:35
+-34.4696,-58.6482,22,baja,Edenor,Tigre,El Talar,,,11,,2025-12-09,21:33:35
+-34.5672,-58.4546,22,baja,Edenor,Capital Federal,Belgrano,,,4,,2025-12-09,21:33:35
+-34.3788,-58.8343,22,baja,Edenor,Escobar,Matheu,,,31,,2025-12-09,21:33:35
+-34.7225,-58.3173,21,baja,Edesur,Quilmes,Bernal,,,25,,2025-12-09,21:33:35
+-34.6211,-58.4909,21,baja,Edesur,Capital,Floresta,,,69,,2025-12-09,21:33:35
+-34.6036,-58.5078,21,baja,Edesur,Capital,Villa Devoto,,,17,,2025-12-09,21:33:35
+-34.649,-58.3833,21,baja,Edesur,Capital,Barracas,,,11,,2025-12-09,21:33:35
+-34.6041,-58.3956,21,baja,Edesur,Capital,Balvanera,,,17,,2025-12-09,21:33:35
+-34.7942,-58.329,21,baja,Edesur,Almirante Brown,Claypole,,,7,,2025-12-09,21:33:35
