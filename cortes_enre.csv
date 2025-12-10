@@ -12179,3 +12179,44 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6711,-58.4127,21,baja,Edesur,Lanus,Valentin Alsina,,,12,,2025-12-10,09:47:52
 -34.7129,-58.395,21,baja,Edesur,Lanus,Lanus,,,10,,2025-12-10,09:47:52
 -34.6141,-58.4993,21,baja,Edesur,Capital,Monte Castro,,,3,,2025-12-10,09:47:52
+-34.624982955,-58.379292944,11,media,Edesur,Capital Rp,Constitucion,Hernandarias,R:031-2-21/031-2-21,91,Sin Datos,2025-12-10,11:33:33
+-34.674538969,-58.533986704,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr2/164-5528,32,2025-12-10 12:30,2025-12-10,11:33:33
+-34.672430227,-58.536006413,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr2/164-5528,28,2025-12-10 12:30,2025-12-10,11:33:33
+-34.672971687,-58.535326074,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr2/164-5528,21,2025-12-10 12:30,2025-12-10,11:33:33
+-34.657895984,-58.769902887,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr2/258-5538,103,2025-12-10 11:00,2025-12-10,11:33:33
+-34.658793701,-58.767527778,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Paso Del Rey/258-Tr2/258-5538,55,2025-12-10 11:00,2025-12-10,11:33:33
+-34.656623928,-58.774849033,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr2/258-5538,95,2025-12-10 11:00,2025-12-10,11:33:33
+-34.369184558,-58.808611672,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5482/4-5523,25,2025-12-10 12:30,2025-12-10,11:33:33
+-34.562940456,-58.712744475,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Mu?Iz/265-Tr1/265-5511,289,Sin Datos,2025-12-10,11:33:33
+-34.565108047,-58.719508160,12,media,Edenor,San Miguel,San Miguel,S/D,R:Mu?Iz/265-Tr1/265-5511,239,Sin Datos,2025-12-10,11:33:33
+-34.559929689,-58.710792760,12,media,Edenor,San Miguel,San Miguel,S/D,R:Mu?Iz/265-Tr1/265-5511,236,Sin Datos,2025-12-10,11:33:33
+-34.559789583,-58.728647599,12,media,Edenor,San Miguel,San Miguel,S/D,R:Mu?Iz/265-Tr1/265-5511,60,Sin Datos,2025-12-10,11:33:33
+-34.567088530,-58.717163985,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Mu?Iz/265-Tr1/265-5511,418,Sin Datos,2025-12-10,11:33:33
+-34.703796469,-58.763345971,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr2/361-5526,1,2025-12-10 12:00,2025-12-10,11:33:33
+-34.709624236,-58.769496761,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Libertad/361-Tr2/361-5526,412,2025-12-10 12:00,2025-12-10,11:33:33
+-34.701639007,-58.756935512,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr2/361-5526,214,2025-12-10 12:00,2025-12-10,11:33:33
+-34.713507187,-58.773674978,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Libertad/361-Tr2/361-5526,171,2025-12-10 12:00,2025-12-10,11:33:33
+-34.713851001,-58.768910096,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Libertad/361-Tr2/361-5526,111,2025-12-10 12:00,2025-12-10,11:33:33
+-34.717085104,-58.764583389,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Libertad/361-Tr2/361-5526,65,2025-12-10 12:00,2025-12-10,11:33:33
+-34.699576455,-58.759811852,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr2/361-5526,402,2025-12-10 12:00,2025-12-10,11:33:33
+-34.701664974,-58.766379935,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr2/361-5526,678,2025-12-10 12:00,2025-12-10,11:33:33
+-34.711897619,-58.763402644,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Libertad/361-Tr2/361-5526,190,2025-12-10 12:00,2025-12-10,11:33:33
+-34.717454252,-58.755865286,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Libertad/361-Tr2/361-5526,38,2025-12-10 12:00,2025-12-10,11:33:33
+-34.714252538,-58.776693449,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Libertad/361-Tr2/361-5526,268,2025-12-10 12:00,2025-12-10,11:33:33
+-34.705541222,-58.752676886,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr2/361-5526,138,2025-12-10 12:00,2025-12-10,11:33:33
+-34.706675727,-58.766586758,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Libertad/361-Tr2/361-5526,134,2025-12-10 12:00,2025-12-10,11:33:33
+-34.709650219,-58.766510003,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Libertad/361-Tr2/361-5526,18,2025-12-10 12:00,2025-12-10,11:33:33
+-34.718811297,-58.759264259,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Libertad/361-Tr2/361-5526,455,2025-12-10 12:00,2025-12-10,11:33:33
+-34.705321208,-58.765108451,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr2/361-5526,37,2025-12-10 12:00,2025-12-10,11:33:33
+-34.707397750,-58.764084247,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Libertad/361-Tr2/361-5526,39,2025-12-10 12:00,2025-12-10,11:33:33
+-34.706944845,-58.770178197,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Libertad/361-Tr2/361-5526,199,2025-12-10 12:00,2025-12-10,11:33:33
+-34.698227151,-58.761724611,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr2/361-5526,241,2025-12-10 12:00,2025-12-10,11:33:33
+-34.5672,-58.4546,22,baja,Edenor,Capital Federal,Belgrano,,,4,,2025-12-10,11:33:33
+-34.5811,-58.4135,22,baja,Edenor,Capital Federal,Palermo,,,42,,2025-12-10,11:33:33
+-34.6297,-58.8005,22,baja,Edenor,Moreno,Moreno,,,15,,2025-12-10,11:33:33
+-34.5676,-58.4559,22,baja,Edenor,Capital Federal,Belgrano,,,8,,2025-12-10,11:33:33
+-34.6029,-58.7765,22,baja,Edenor,Moreno,Moreno,,,75,,2025-12-10,11:33:33
+-34.6711,-58.4127,21,baja,Edesur,Lanus,Valentin Alsina,,,12,,2025-12-10,11:33:33
+-34.7129,-58.395,21,baja,Edesur,Lanus,Lanus,,,12,,2025-12-10,11:33:33
+-34.7789,-58.2997,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,3,,2025-12-10,11:33:33
+-34.6141,-58.4993,21,baja,Edesur,Capital,Monte Castro,,,7,,2025-12-10,11:33:33
