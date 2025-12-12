@@ -14353,3 +14353,48 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6249,-58.511,21,baja,Edesur,Capital,Villa Luro,,,44,,2025-12-12,15:43:47
 -34.6209,-58.4468,21,baja,Edesur,Capital,Caballito,,,27,,2025-12-12,15:43:47
 -34.6392,-58.4532,21,baja,Edesur,Capital,Flores,,,56,,2025-12-12,15:43:47
+-35.037259821,-58.716791122,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-2-27/271-2-27,3,Sin Datos,2025-12-12,17:42:06
+-35.036520530,-58.708735811,11,media,Edesur,Cañuelas,Zona Rural 3,Canuelas,R:271-2-27/271-2-27,1,Sin Datos,2025-12-12,17:42:06
+-34.624100842,-58.419194960,11,media,Edesur,Capital Rp,Boedo,Caballito,R:122-3-37/122-3-37,454,2025-12-12 18:00,2025-12-12,17:42:06
+-34.634545564,-58.469045696,11,media,Edesur,Capital Gp,Flores Gp,Perito Moreno,R:048-3-36/048-3-36,819,2025-12-12 18:43,2025-12-12,17:42:06
+-34.635923379,-58.469891493,11,media,Edesur,Capital Gp,Flores Gp,Perito Moreno,R:048-3-36/048-3-36,90,2025-12-12 18:43,2025-12-12,17:42:06
+-34.636979307,-58.471427709,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-3-36/048-3-36,170,2025-12-12 18:43,2025-12-12,17:42:06
+-34.637298570,-58.472685152,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-3-36/048-3-36,373,2025-12-12 18:43,2025-12-12,17:42:06
+-34.635398411,-58.473996582,11,media,Edesur,Capital Gp,Floresta,Perito Moreno,R:048-3-36/048-3-36,292,2025-12-12 18:43,2025-12-12,17:42:06
+-34.635681732,-58.476196132,11,media,Edesur,Capital Gp,Floresta,Perito Moreno,R:048-3-36/048-3-36,266,2025-12-12 18:43,2025-12-12,17:42:06
+-34.636458870,-58.471941629,11,media,Edesur,Capital Gp,Floresta,Perito Moreno,R:048-3-36/048-3-36,425,2025-12-12 18:43,2025-12-12,17:42:06
+-34.635789435,-58.480458946,11,media,Edesur,Capital Gp,Velez Sarfield,Perito Moreno,R:048-3-36/048-3-36,195,2025-12-12 18:43,2025-12-12,17:42:06
+-34.637545052,-58.473210362,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-3-36/048-3-36,90,2025-12-12 18:43,2025-12-12,17:42:06
+-34.634923510,-58.468598042,11,media,Edesur,Capital Gp,Flores Gp,Perito Moreno,R:048-3-36/048-3-36,44,2025-12-12 18:43,2025-12-12,17:42:06
+-34.637023720,-58.471760667,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-3-36/048-3-36,12,2025-12-12 18:43,2025-12-12,17:42:06
+-34.634975999,-58.468763618,11,media,Edesur,Capital Gp,Flores Gp,Perito Moreno,R:048-3-36/048-3-36,16,2025-12-12 18:43,2025-12-12,17:42:06
+-34.635047323,-58.473018316,11,media,Edesur,Capital Gp,Floresta,Perito Moreno,R:048-3-36/048-3-36,118,2025-12-12 18:43,2025-12-12,17:42:06
+-34.634082841,-58.470242042,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-1-16/218-1-16,45,2025-12-12 18:38,2025-12-12,17:42:06
+-34.773599187,-58.248584168,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-53/080-5-53,681,2025-12-12 22:17,2025-12-12,17:42:06
+-34.776534736,-58.244324170,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-53/080-5-53,415,2025-12-12 22:17,2025-12-12,17:42:06
+-34.772346326,-58.246281729,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-53/080-5-53,345,2025-12-12 22:17,2025-12-12,17:42:06
+-34.778079818,-58.247325536,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-53/080-5-53,325,2025-12-12 22:17,2025-12-12,17:42:06
+-34.482885681,-58.536882890,12,media,Edenor,San Isidro,San Isidro,S/D,R:San Isidro/152-Tr2/152-5516,44,Sin Datos,2025-12-12,17:42:06
+-34.448672474,-58.569615040,12,media,Edenor,San Fernando,San Fernando,S/D,R:San Fernando/351-Tr1/351-5512,177,2025-12-12 16:40,2025-12-12,17:42:06
+-34.447795064,-58.571628614,12,media,Edenor,San Fernando,San Fernando,S/D,R:San Fernando/351-Tr1/351-5512,488,2025-12-12 16:40,2025-12-12,17:42:06
+-34.317460510,-58.821400336,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5527,4,2025-12-12 17:20,2025-12-12,17:42:06
+-34.678,-58.5598,22,baja,Edenor,La Matanza,San Justo,,,4,,2025-12-12,17:42:06
+-34.6115,-58.7947,22,baja,Edenor,Moreno,Moreno,,,5,,2025-12-12,17:42:06
+-34.6524,-58.6612,22,baja,Edenor,Ituzaingo,Ituzaingo,,,4,,2025-12-12,17:42:06
+-34.6098,-58.5638,22,baja,Edenor,3 De Febrero,Caseros,,,10,,2025-12-12,17:42:06
+-34.5801,-58.5364,22,baja,Edenor,Gral San Martin,C Libertador San Mart?N,,,5,,2025-12-12,17:42:06
+-34.5246,-58.7553,22,baja,Edenor,Jose C Paz,Jose C Paz,,,8,,2025-12-12,17:42:06
+-34.5741,-58.5223,22,baja,Edenor,Gral San Martin,Villa Maipu,,,27,,2025-12-12,17:42:06
+-34.6845,-58.526,22,baja,Edenor,La Matanza,La Tablada,,,35,,2025-12-12,17:42:06
+-34.6045,-58.96,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,1,,2025-12-12,17:42:06
+-34.7882,-58.86,22,baja,Edenor,Marcos Paz,Marcos Paz,,,4,,2025-12-12,17:42:06
+-34.5065,-58.708,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,7,,2025-12-12,17:42:06
+-34.7501,-58.2094,21,baja,Edesur,Berazategui,Berazategui,,,5,,2025-12-12,17:42:06
+-34.627,-58.4713,21,baja,Edesur,Capital,Flores,,,28,,2025-12-12,17:42:06
+-34.6759,-58.384,21,baja,Edesur,Avellaneda,Avellaneda,,,7,,2025-12-12,17:42:06
+-34.8328,-58.4091,21,baja,Edesur,Almirante Brown,Burzaco,,,2,,2025-12-12,17:42:06
+-34.5911,-58.4402,21,baja,Edesur,Capital,Villa Crespo,,,7,,2025-12-12,17:42:06
+-34.6392,-58.4532,21,baja,Edesur,Capital,Flores,,,74,,2025-12-12,17:42:06
+-34.7216,-58.3961,21,baja,Edesur,Lanus,Remedios De Escalada,,,7,,2025-12-12,17:42:06
+-34.7392,-58.4011,21,baja,Edesur,Lomas De Zamora,Banfield,,,12,,2025-12-12,17:42:06
+-35.0311,-58.4193,21,baja,Edesur,San Vicente,San Vicente,,,4,,2025-12-12,17:42:06
