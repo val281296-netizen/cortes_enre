@@ -15786,3 +15786,50 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6924,-58.4152,21,baja,Edesur,Lanus,Lanus,,,3,,2025-12-14,07:32:51
 -34.7624,-58.2261,21,baja,Edesur,Berazategui,Berazategui,,,17,,2025-12-14,07:32:51
 -34.8131,-58.2343,21,baja,Edesur,Florencio Varela,Florencio Varela,,,14,,2025-12-14,07:32:51
+-34.661859097,-58.363440372,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-1-13/279-1-13,11,Sin Datos,2025-12-14,09:35:33
+-34.673211365,-58.344756715,11,media,Edesur,Avellaneda,Sarandi,Sarandi,R:172-1-12/172-1-12,501,2025-12-14 15:05,2025-12-14,09:35:33
+-34.675209725,-58.350168656,11,media,Edesur,Avellaneda,Sarandi,Sarandi,R:172-1-12/172-1-12,575,2025-12-14 15:05,2025-12-14,09:35:33
+-34.672751475,-58.342383381,11,media,Edesur,Avellaneda,Sarandi,Sarandi,R:172-1-12/172-1-12,257,2025-12-14 15:05,2025-12-14,09:35:33
+-34.675571485,-58.343776274,11,media,Edesur,Avellaneda,Sarandi,Sarandi,R:172-1-12/172-1-12,457,2025-12-14 15:05,2025-12-14,09:35:33
+-34.682031632,-58.339613877,11,media,Edesur,Avellaneda,Sarandi,Sarandi,R:172-1-12/172-1-12,351,2025-12-14 15:05,2025-12-14,09:35:33
+-34.693768388,-58.335941433,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-1-12/172-1-12,343,2025-12-14 15:05,2025-12-14,09:35:33
+-34.687923726,-58.341105277,11,media,Edesur,Avellaneda,Sarandi,Sarandi,R:172-1-12/172-1-12,1,2025-12-14 15:05,2025-12-14,09:35:33
+-34.609881601,-58.710860260,12,media,Edenor,Ituzaingo,Villa Udaondo,S/D,R:Moron/67-Tr4,1,Sin Datos,2025-12-14,09:35:33
+-34.609467654,-58.711086770,12,media,Edenor,Ituzaingo,Villa Udaondo,S/D,R:Moron/67-Tr4,1,Sin Datos,2025-12-14,09:35:33
+-34.610778805,-58.693105917,12,media,Edenor,Ituzaingo,Villa Udaondo,S/D,R:Moron/67-Tr4,135,Sin Datos,2025-12-14,09:35:33
+-34.614988926,-58.698018153,12,media,Edenor,Ituzaingo,Villa Udaondo,S/D,R:Moron/67-Tr4,166,Sin Datos,2025-12-14,09:35:33
+-34.606537581,-58.708626755,12,media,Edenor,Ituzaingo,Villa Udaondo,S/D,R:Moron/67-Tr4,1,Sin Datos,2025-12-14,09:35:33
+-34.611513632,-58.695977211,12,media,Edenor,Ituzaingo,Villa Udaondo,S/D,R:Moron/67-Tr4,203,Sin Datos,2025-12-14,09:35:33
+-34.619696491,-58.703289498,12,media,Edenor,Ituzaingo,Villa Udaondo,S/D,R:Moron/67-Tr4,98,Sin Datos,2025-12-14,09:35:33
+-34.615594627,-58.703286274,12,media,Edenor,Ituzaingo,Villa Udaondo,S/D,R:Moron/67-Tr4,319,Sin Datos,2025-12-14,09:35:33
+-34.610605079,-58.710051956,12,media,Edenor,Ituzaingo,Villa Udaondo,S/D,R:Moron/67-Tr4,145,Sin Datos,2025-12-14,09:35:33
+-34.6115,-58.7947,22,baja,Edenor,Moreno,Moreno,,,5,,2025-12-14,09:35:33
+-34.7513,-58.5871,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,8,,2025-12-14,09:35:33
+-34.6362,-58.8262,22,baja,Edenor,Moreno,La Reja,,,10,,2025-12-14,09:35:33
+-34.63,-58.7939,22,baja,Edenor,Moreno,Moreno,,,26,,2025-12-14,09:35:33
+-34.593,-58.6469,22,baja,Edenor,Hurlingham,Hurlingham,,,4,,2025-12-14,09:35:33
+-34.5818,-58.7629,22,baja,Edenor,Moreno,Trujui,,,48,,2025-12-14,09:35:33
+-34.6989,-58.5266,22,baja,Edenor,La Matanza,La Tablada,,,4,,2025-12-14,09:35:33
+-34.7264,-58.6068,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,4,,2025-12-14,09:35:33
+-34.6042,-58.7804,22,baja,Edenor,Moreno,Moreno,,,33,,2025-12-14,09:35:33
+-34.6759,-58.5138,22,baja,Edenor,La Matanza,La Tablada,,,4,,2025-12-14,09:35:33
+-34.5899,-58.5443,22,baja,Edenor,Gral San Martin,C Libertador San Mart?N,,,30,,2025-12-14,09:35:33
+-34.6706,-58.7245,22,baja,Edenor,Merlo,Merlo,,,8,,2025-12-14,09:35:33
+-34.5425,-58.7866,22,baja,Edenor,Jose C Paz,Jose C Paz,,,10,,2025-12-14,09:35:33
+-34.45,-58.8754,22,baja,Edenor,Pilar,Pilar,,,58,,2025-12-14,09:35:33
+-34.5837,-58.6521,22,baja,Edenor,Hurlingham,William Morris,,,1,,2025-12-14,09:35:33
+-34.6061,-58.4016,21,baja,Edesur,Capital,Balvanera,,,45,,2025-12-14,09:35:33
+-34.6496,-58.4896,21,baja,Edesur,Capital,Capital,,,44,,2025-12-14,09:35:33
+-34.6067,-58.4939,21,baja,Edesur,Capital,Villa Del Parque,,,1,,2025-12-14,09:35:33
+-34.7495,-58.4348,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,48,,2025-12-14,09:35:33
+-34.9039,-58.2749,21,baja,Edesur,Florencio Varela,Florencio Varela,,,6,,2025-12-14,09:35:33
+-34.6457,-58.4222,21,baja,Edesur,Capital,Nueva Pompeya,,,23,,2025-12-14,09:35:33
+-34.7996,-58.2987,21,baja,Edesur,Florencio Varela,Florencio Varela,,,20,,2025-12-14,09:35:33
+-34.732,-58.3614,21,baja,Edesur,Lanus,Monte Chingolo,,,3,,2025-12-14,09:35:33
+-34.7733,-58.4748,21,baja,Edesur,Esteban Echeverria,9 De Abril,,,9,,2025-12-14,09:35:33
+-34.8042,-58.3577,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,1,,2025-12-14,09:35:33
+-34.7256,-58.4384,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,27,,2025-12-14,09:35:33
+-34.8047,-58.4228,21,baja,Edesur,Lomas De Zamora,Lavallol,,,43,,2025-12-14,09:35:33
+-34.6924,-58.4152,21,baja,Edesur,Lanus,Lanus,,,3,,2025-12-14,09:35:33
+-34.8131,-58.2343,21,baja,Edesur,Florencio Varela,Florencio Varela,,,15,,2025-12-14,09:35:33
+-34.7082,-58.4012,21,baja,Edesur,Lanus,Lanus,,,5,,2025-12-14,09:35:33
