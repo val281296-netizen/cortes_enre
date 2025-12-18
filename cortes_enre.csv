@@ -4035,3 +4035,75 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7039,-58.3826,21,baja,Edesur,Lanus,Lanus,,,1,,2025-12-18,13:46:41
 -34.8168,-58.2735,21,baja,Edesur,Florencio Varela,Florencio Varela,,,21,,2025-12-18,13:46:41
 
+-34.913491780,-58.405481984,11,media,Edesur,Pte Peron,San Roque,Glew,R:277-4-46/277-4-46,225,2025-12-18 12:36,2025-12-18,13:51:42
+-34.915669785,-58.409740030,11,media,Edesur,Pte Peron,San Roque,Glew,R:277-4-46/277-4-46,125,2025-12-18 12:36,2025-12-18,13:51:42
+-34.915265346,-58.405924675,11,media,Edesur,Pte Peron,Villa Numancia Norte,Glew,R:277-4-46/277-4-46,84,2025-12-18 12:36,2025-12-18,13:51:42
+-34.920206200,-58.407387462,11,media,Edesur,Pte Peron,Villa Numancia Norte,Glew,R:277-4-46/277-4-46,224,2025-12-18 12:36,2025-12-18,13:51:42
+-34.917777176,-58.409236611,11,media,Edesur,Pte Peron,Villa Numancia Norte,Glew,R:277-4-46/277-4-46,248,2025-12-18 12:36,2025-12-18,13:51:42
+-34.912065558,-58.401606946,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-4-46/277-4-46,261,2025-12-18 12:36,2025-12-18,13:51:42
+-34.915688023,-58.407385360,11,media,Edesur,Pte Peron,Villa Numancia Norte,Glew,R:277-4-46/277-4-46,201,2025-12-18 12:36,2025-12-18,13:51:42
+-34.919043455,-58.403396765,11,media,Edesur,Pte Peron,Villa Numancia Norte,Glew,R:277-4-46/277-4-46,309,2025-12-18 12:36,2025-12-18,13:51:42
+-34.916613913,-58.405159411,11,media,Edesur,Pte Peron,Villa Numancia Norte,Glew,R:277-4-46/277-4-46,78,2025-12-18 12:36,2025-12-18,13:51:42
+-34.592674035,-58.439693062,11,media,Edesur,Capital Gp,Villa Crespo,Villa Crespo,R:147-2-26/147-2-26,84,2025-12-18 18:00,2025-12-18,13:51:42
+-34.777481805,-58.352869407,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-2-25/189-2-25,552,2025-12-18 12:58,2025-12-18,13:51:42
+-35.007170255,-58.770945730,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-16/271-1-16,2,2025-12-18 13:10,2025-12-18,13:51:42
+-35.007809861,-58.770269436,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-16/271-1-16,3,2025-12-18 13:10,2025-12-18,13:51:42
+-35.008412111,-58.769176198,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-16/271-1-16,3,2025-12-18 13:10,2025-12-18,13:51:42
+-35.009461777,-58.771243388,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-16/271-1-16,2,2025-12-18 13:10,2025-12-18,13:51:42
+-34.837390398,-58.492488445,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-1-17/083-1-17,592,2025-12-18 13:15,2025-12-18,13:51:42
+-34.839338355,-58.488867815,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-1-17/083-1-17,236,2025-12-18 13:15,2025-12-18,13:51:42
+-34.841526700,-58.493297078,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-1-17/083-1-17,393,2025-12-18 13:15,2025-12-18,13:51:42
+-34.604585803,-58.461991882,11,media,Edesur,Capital Gp,Villa General Mitre,Santa Rita,R:143-3-35/143-3-35,101,2025-12-18 16:00,2025-12-18,13:51:42
+-34.764858264,-58.812538414,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5521,56,2025-12-18 18:00,2025-12-18,13:51:42
+-34.619605269,-58.903078895,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5517,243,2025-12-18 12:25,2025-12-18,13:51:42
+-34.335119204,-58.773975465,12,media,Edenor,Escobar,Escobar,S/D,R:Manzone/257-Tr1/257-5512,80,2025-12-18 12:30,2025-12-18,13:51:42
+-34.336294989,-58.772743883,12,media,Edenor,Escobar,Escobar,S/D,R:Manzone/257-Tr1/257-5512,41,2025-12-18 12:30,2025-12-18,13:51:42
+-34.337305595,-58.771970920,12,media,Edenor,Escobar,Escobar,S/D,R:Manzone/257-Tr1/257-5512,91,2025-12-18 12:30,2025-12-18,13:51:42
+-34.685774985,-58.503696303,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr1/162-5541,419,2025-12-18 18:00,2025-12-18,13:51:42
+-34.700784623,-58.725683043,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr2/361-5525,314,2025-12-18 19:00,2025-12-18,13:51:42
+-34.699114128,-58.724366096,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr2/361-5525,431,2025-12-18 19:00,2025-12-18,13:51:42
+-34.557096717,-58.774164532,12,media,Edenor,San Miguel,San Miguel,S/D,R:San Miguel/165-Tr1/165-5514,21,2025-12-18 17:40,2025-12-18,13:51:42
+-34.557044114,-58.771323614,12,media,Edenor,San Miguel,San Miguel,S/D,R:San Miguel/165-Tr1/165-5514,37,2025-12-18 17:40,2025-12-18,13:51:42
+-34.556956883,-58.772745850,12,media,Edenor,San Miguel,San Miguel,S/D,R:San Miguel/165-Tr1/165-5514,46,2025-12-18 17:40,2025-12-18,13:51:42
+-34.557878235,-58.773743989,12,media,Edenor,San Miguel,San Miguel,S/D,R:San Miguel/165-Tr1/165-5514,28,2025-12-18 17:40,2025-12-18,13:51:42
+-34.557502157,-58.769449336,12,media,Edenor,San Miguel,San Miguel,S/D,R:San Miguel/165-Tr1/165-5514,52,2025-12-18 17:40,2025-12-18,13:51:42
+-34.558621202,-58.772149527,12,media,Edenor,San Miguel,San Miguel,S/D,R:San Miguel/165-Tr1/165-5514,38,2025-12-18 17:40,2025-12-18,13:51:42
+-34.555568472,-58.772046793,12,media,Edenor,San Miguel,San Miguel,S/D,R:San Miguel/165-Tr1/165-5514,75,2025-12-18 17:40,2025-12-18,13:51:42
+-34.558983136,-58.770453894,12,media,Edenor,S/D,S/D,S/D,R:San Miguel/165-Tr1/165-5514,35,2025-12-18 17:40,2025-12-18,13:51:42
+-34.559685556,-58.771720732,12,media,Edenor,San Miguel,San Miguel,S/D,R:San Miguel/165-Tr1/165-5514,26,2025-12-18 17:40,2025-12-18,13:51:42
+-34.558747504,-58.769477161,12,media,Edenor,San Miguel,San Miguel,S/D,R:San Miguel/165-Tr1/165-5514,20,2025-12-18 17:40,2025-12-18,13:51:42
+-34.559965738,-58.770802983,12,media,Edenor,San Miguel,San Miguel,S/D,R:San Miguel/165-Tr1/165-5514,25,2025-12-18 17:40,2025-12-18,13:51:42
+-34.557852889,-58.768519934,12,media,Edenor,San Miguel,San Miguel,S/D,R:San Miguel/165-Tr1/165-5514,23,2025-12-18 17:40,2025-12-18,13:51:42
+-34.522230908,-58.754006964,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Nogues/159-Tr2/159-5534,43,2025-12-18 14:30,2025-12-18,13:51:42
+-34.671159085,-58.627890392,12,media,Edenor,Moron,Moron,S/D,R:V. Luzuriaga/64-Tr2/64-5535,99,2025-12-18 14:30,2025-12-18,13:51:42
+-34.671896564,-58.628807286,12,media,Edenor,Moron,Moron,S/D,R:V. Luzuriaga/64-Tr2/64-5535,261,2025-12-18 14:30,2025-12-18,13:51:42
+-34.357524219,-58.570165466,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,28,2025-12-18 12:00,2025-12-18,13:51:42
+-34.359673967,-58.574164176,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,45,2025-12-18 13:00,2025-12-18,13:51:42
+-34.362417916,-58.579110384,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,63,2025-12-18 13:00,2025-12-18,13:51:42
+-34.505633455,-58.767010800,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Del Viso/251-Tr1/251-5544,520,2025-12-18 13:00,2025-12-18,13:51:42
+-34.577298423,-58.447661897,12,media,Edenor,Capital Federal,Colegiales,S/D,R:Colegiales/46-Tr1/46-5546,527,2025-12-18 14:00,2025-12-18,13:51:42
+-34.578672370,-58.451102345,12,media,Edenor,Capital Federal,Colegiales,S/D,R:Colegiales/46-Tr1/46-5546,317,2025-12-18 14:00,2025-12-18,13:51:42
+-34.579021008,-58.451772291,12,media,Edenor,Capital Federal,Colegiales,S/D,R:Colegiales/46-Tr1/46-5546,419,2025-12-18 14:00,2025-12-18,13:51:42
+-34.578834735,-58.450057325,12,media,Edenor,Capital Federal,Colegiales,S/D,R:Colegiales/46-Tr1/46-5546,446,2025-12-18 14:00,2025-12-18,13:51:42
+-34.578749529,-58.447553625,12,media,Edenor,Capital Federal,Colegiales,S/D,R:Colegiales/46-Tr1/46-5546,489,2025-12-18 14:00,2025-12-18,13:51:42
+-34.577171869,-58.450530376,12,media,Edenor,Capital Federal,Colegiales,S/D,R:Colegiales/46-Tr1/46-5546,379,2025-12-18 14:00,2025-12-18,13:51:42
+-34.582134212,-58.452294177,12,media,Edenor,Capital Federal,Colegiales,S/D,R:Colegiales/46-Tr1/46-5546,69,2025-12-18 14:00,2025-12-18,13:51:42
+-34.577142346,-58.448800368,12,media,Edenor,Capital Federal,Colegiales,S/D,R:Colegiales/46-Tr1/46-5546,304,2025-12-18 14:00,2025-12-18,13:51:42
+-34.575877074,-58.448126611,12,media,Edenor,Capital Federal,Colegiales,S/D,R:Colegiales/46-Tr1/46-5546,394,2025-12-18 14:00,2025-12-18,13:51:42
+-34.575686633,-58.449269215,12,media,Edenor,Capital Federal,Saavedra,S/D,R:Colegiales/46-Tr1/46-5546,254,2025-12-18 14:00,2025-12-18,13:51:42
+-34.583706388,-58.460982427,12,media,Edenor,Capital Federal,Chacarita,S/D,R:Colegiales/46-Tr1/46-5546,247,2025-12-18 14:00,2025-12-18,13:51:42
+-34.584730119,-58.463114159,12,media,Edenor,Capital Federal,Villa Ortuzar,S/D,R:Colegiales/46-Tr1/46-5546,234,2025-12-18 14:00,2025-12-18,13:51:42
+-34.582798734,-58.460138270,12,media,Edenor,Capital Federal,Chacarita,S/D,R:Colegiales/46-Tr1/46-5546,376,2025-12-18 14:00,2025-12-18,13:51:42
+-34.581885785,-58.452749973,12,media,Edenor,Capital Federal,Colegiales,S/D,R:Colegiales/46-Tr1/46-5546,107,2025-12-18 14:00,2025-12-18,13:51:42
+-34.5813,-58.4669,22,baja,Edenor,Capital Federal,Villa Ortuzar,,,21,,2025-12-18,13:51:42
+-34.6517,-58.5376,22,baja,Edenor,La Matanza,Ramos Mejia,,,1,,2025-12-18,13:51:42
+-34.4187,-58.5978,22,baja,Edenor,Tigre,Ciudad De Tigre,,,1,,2025-12-18,13:51:42
+-34.5907,-58.4032,22,baja,Edenor,Capital Federal,Recoleta,,,4,,2025-12-18,13:51:42
+-34.616,-58.5649,22,baja,Edenor,3 De Febrero,Caseros,,,15,,2025-12-18,13:51:42
+-34.7281,-58.2886,21,baja,Edesur,Quilmes,Quilmes,,,1,,2025-12-18,13:51:42
+-34.6263,-58.4772,21,baja,Edesur,Capital,Floresta,,,26,,2025-12-18,13:51:42
+-34.8984,-58.5467,21,baja,Edesur,Ezeiza,Tristan Suarez,,,4,,2025-12-18,13:51:42
+-34.7376,-58.4438,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,4,,2025-12-18,13:51:42
+-34.6881,-58.4081,21,baja,Edesur,Lanus,Lanus,,,6,,2025-12-18,13:51:42
+-34.7039,-58.3826,21,baja,Edesur,Lanus,Lanus,,,1,,2025-12-18,13:51:42
+-34.8168,-58.2735,21,baja,Edesur,Florencio Varela,Florencio Varela,,,21,,2025-12-18,13:51:42
