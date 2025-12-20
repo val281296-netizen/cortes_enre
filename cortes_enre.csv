@@ -6102,3 +6102,79 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6864,-58.3983,21,baja,Edesur,Lanus,Lanus,,,8,,2025-12-20,17:33:11
 -34.7312,-58.3453,21,baja,Edesur,Lanus,Monte Chingolo,,,3,,2025-12-20,17:33:11
 -34.7476,-58.3298,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,1,,2025-12-20,17:33:11
+-34.740591030,-58.478110111,11,media,Edesur,Lomas De Zamora,Ingeniero Budge,Transradio,R:281-2-21/281-2-21,44,2025-12-20 20:04,2025-12-20,19:27:46
+-34.740442974,-58.479046070,11,media,Edesur,Lomas De Zamora,Ingeniero Budge,Transradio,R:281-2-21/281-2-21,93,2025-12-20 20:04,2025-12-20,19:27:46
+-34.746406686,-58.480128472,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-21/281-2-21,232,2025-12-20 20:04,2025-12-20,19:27:46
+-34.745440022,-58.476877933,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-21/281-2-21,710,2025-12-20 20:04,2025-12-20,19:27:46
+-34.712181308,-58.265111269,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-4-42/073-4-42,771,2025-12-20 21:00,2025-12-20,19:27:46
+-34.711442124,-58.265859407,11,media,Edesur,Quilmes,Bernal,Quilmes,R:073-4-42/073-4-42,1,2025-12-20 21:00,2025-12-20,19:27:46
+-34.739396710,-58.413642862,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-1-13/076-1-13,810,Sin Datos,2025-12-20,19:27:46
+-34.727556232,-58.396745148,11,media,Edesur,Lanus,Remedios De Escalada,S/D,R:,16,2025-12-21 09:19,2025-12-20,19:27:46
+-34.892296405,-58.300498657,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-56/286-5-56,5,2025-12-20 21:12,2025-12-20,19:27:46
+-34.881970184,-58.290538238,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-56/286-5-56,2,2025-12-20 21:12,2025-12-20,19:27:46
+-34.883386537,-58.293239760,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-56/286-5-56,1,2025-12-20 21:12,2025-12-20,19:27:46
+-34.883672626,-58.293829089,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-56/286-5-56,1,2025-12-20 21:12,2025-12-20,19:27:46
+-34.879605058,-58.286091804,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-56/286-5-56,2,2025-12-20 21:12,2025-12-20,19:27:46
+-34.884814549,-58.295718259,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-56/286-5-56,1,2025-12-20 21:12,2025-12-20,19:27:46
+-34.709182551,-58.336682618,11,media,Edesur,Avellaneda,Wilde,Sarandi,R:172-3-33/172-3-33,437,2025-12-20 19:37,2025-12-20,19:27:46
+-34.709617557,-58.337192975,11,media,Edesur,Avellaneda,Wilde,Sarandi,R:172-3-33/172-3-33,1,2025-12-20 19:37,2025-12-20,19:27:46
+-34.701512531,-58.280164840,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-3-32/077-3-32,9,2025-12-20 19:32,2025-12-20,19:27:46
+-34.700744242,-58.279252803,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-3-32/077-3-32,2,2025-12-20 19:32,2025-12-20,19:27:46
+-34.699794231,-58.278126309,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-3-32/077-3-32,22,2025-12-20 19:32,2025-12-20,19:27:46
+-34.701355720,-58.279132001,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-3-32/077-3-32,4,2025-12-20 19:32,2025-12-20,19:27:46
+-34.677762193,-58.484507247,11,media,Edesur,Capital Gp,Villa Lugano,Lugano,R:035-2-17/035-2-17,1,2025-12-20 20:33,2025-12-20,19:27:46
+-34.678073208,-58.488329675,11,media,Edesur,Capital Gp,Villa Lugano,Lugano,R:035-2-17/035-2-17,847,2025-12-20 20:33,2025-12-20,19:27:46
+-34.677246910,-58.490059513,11,media,Edesur,Capital Gp,Villa Lugano,Lugano,R:035-2-17/035-2-17,834,2025-12-20 20:33,2025-12-20,19:27:46
+-34.677628159,-58.491225054,11,media,Edesur,Capital Gp,Villa Lugano,Lugano,R:035-2-17/035-2-17,411,2025-12-20 20:33,2025-12-20,19:27:46
+-34.678303537,-58.492096873,11,media,Edesur,Capital Gp,Villa Lugano,Lugano,R:035-2-17/035-2-17,276,2025-12-20 20:33,2025-12-20,19:27:46
+-34.678502833,-58.493589522,11,media,Edesur,Capital Gp,Villa Lugano,Lugano,R:035-2-17/035-2-17,202,2025-12-20 20:33,2025-12-20,19:27:46
+-34.678476903,-58.494840091,11,media,Edesur,Capital Gp,Villa Lugano,Lugano,R:035-2-17/035-2-17,398,2025-12-20 20:33,2025-12-20,19:27:46
+-34.678810006,-58.491255252,11,media,Edesur,Capital Gp,Villa Lugano,Lugano,R:035-2-17/035-2-17,127,2025-12-20 20:33,2025-12-20,19:27:46
+-34.677490735,-58.495983806,11,media,Edesur,Capital Gp,Villa Lugano,Lugano,R:035-2-17/035-2-17,141,2025-12-20 20:33,2025-12-20,19:27:46
+-34.681434607,-58.489692001,11,media,Edesur,Capital Gp,Villa Lugano,Lugano,R:035-2-17/035-2-17,183,2025-12-20 20:33,2025-12-20,19:27:46
+-34.676800207,-58.495344880,11,media,Edesur,Capital Gp,Villa Lugano,Lugano,R:035-2-17/035-2-17,59,2025-12-20 20:33,2025-12-20,19:27:46
+-34.680171340,-58.488115538,11,media,Edesur,Capital Gp,Villa Lugano,Lugano,R:035-2-17/035-2-17,1,2025-12-20 20:33,2025-12-20,19:27:46
+-34.443328678,-58.589315276,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr1/153-5513,401,2025-12-20 17:00,2025-12-20,19:27:46
+-34.442360092,-58.588221689,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr1/153-5513,216,2025-12-20 19:00,2025-12-20,19:27:46
+-34.320098855,-58.623662991,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,20,Sin Datos,2025-12-20,19:27:46
+-34.355712618,-58.616171014,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,62,Sin Datos,2025-12-20,19:27:46
+-34.345438931,-58.623981156,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,45,Sin Datos,2025-12-20,19:27:46
+-34.356749776,-58.621164169,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,77,Sin Datos,2025-12-20,19:27:46
+-34.327509779,-58.622201755,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,35,Sin Datos,2025-12-20,19:27:46
+-34.334977758,-58.623286818,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,Sin Datos,2025-12-20,19:27:46
+-34.505760520,-58.764189821,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Nogues/159-Tr2/159-5533,106,2025-12-20 17:00,2025-12-20,19:27:46
+-34.505211098,-58.764573593,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Nogues/159-Tr2/159-5533,1,2025-12-20 17:00,2025-12-20,19:27:46
+-34.512987245,-58.758376471,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Nogues/159-Tr2/159-5533,2,2025-12-20 17:00,2025-12-20,19:27:46
+-34.447647391,-58.665250993,12,media,Edenor,Tigre,General Pacheco,S/D,R:Talar/58-Tr4/58-5541,432,2025-12-20 17:00,2025-12-20,19:27:46
+-34.4593,-58.9516,22,baja,Edenor,Pilar,Pilar,,,28,,2025-12-20,19:27:46
+-34.6395,-58.5331,22,baja,Edenor,3 De Febrero,Ciudadela,,,8,,2025-12-20,19:27:46
+-34.6423,-58.6068,22,baja,Edenor,Moron,Haedo,,,11,,2025-12-20,19:27:46
+-34.6449,-58.5965,22,baja,Edenor,Moron,Haedo,,,5,,2025-12-20,19:27:46
+-34.6416,-58.6025,22,baja,Edenor,Moron,Haedo,,,14,,2025-12-20,19:27:46
+-34.6416,-58.5884,22,baja,Edenor,Moron,Haedo,,,6,,2025-12-20,19:27:46
+-34.6407,-58.5984,22,baja,Edenor,Moron,Haedo,,,7,,2025-12-20,19:27:46
+-34.6438,-58.5973,22,baja,Edenor,Moron,Haedo,,,4,,2025-12-20,19:27:46
+-34.6405,-58.5977,22,baja,Edenor,Moron,Haedo,,,6,,2025-12-20,19:27:46
+-34.6104,-58.732,22,baja,Edenor,Moreno,Trujui,,,78,,2025-12-20,19:27:46
+-34.6837,-58.6988,22,baja,Edenor,Merlo,Libertad,,,18,,2025-12-20,19:27:46
+-34.6612,-58.612,22,baja,Edenor,Moron,Moron,,,4,,2025-12-20,19:27:46
+-34.677,-58.5292,22,baja,Edenor,La Matanza,La Tablada,,,10,,2025-12-20,19:27:46
+-34.6715,-58.7087,22,baja,Edenor,Merlo,San Antonio De Padua,,,29,,2025-12-20,19:27:46
+-34.6286,-58.5859,22,baja,Edenor,Moron,El Palomar,,,4,,2025-12-20,19:27:46
+-34.5342,-58.5117,22,baja,Edenor,Vicente Lopez,Florida (Oeste),,,4,,2025-12-20,19:27:46
+-34.5882,-58.5481,22,baja,Edenor,Gral San Martin,C Libertador San Mart?N,,,26,,2025-12-20,19:27:46
+-34.6135,-58.5793,22,baja,Edenor,3 De Febrero,Caseros,,,33,,2025-12-20,19:27:46
+-34.3836,-58.5595,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,24,,2025-12-20,19:27:46
+-34.5319,-58.4853,22,baja,Edenor,Vicente Lopez,Florida,,,33,,2025-12-20,19:27:46
+-34.6922,-58.7475,22,baja,Edenor,Merlo,Merlo,,,6,,2025-12-20,19:27:46
+-34.7591,-58.2016,21,baja,Edesur,Berazategui,Berazategui,,,151,,2025-12-20,19:27:46
+-34.8561,-58.54,21,baja,Edesur,Ezeiza,Barrio La Union,,,8,,2025-12-20,19:27:46
+-34.6112,-58.4207,21,baja,Edesur,Capital,Almagro,,,4,,2025-12-20,19:27:46
+-34.6562,-58.5035,21,baja,Edesur,Capital,Mataderos,,,64,,2025-12-20,19:27:46
+-34.7443,-58.4597,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,5,,2025-12-20,19:27:46
+-34.7284,-58.3218,21,baja,Edesur,Quilmes,Bernal,,,6,,2025-12-20,19:27:46
+-34.7223,-58.3075,21,baja,Edesur,Quilmes,Bernal,,,7,,2025-12-20,19:27:46
+-34.6858,-58.3887,21,baja,Edesur,Lanus,Gerli,,,12,,2025-12-20,19:27:46
+-34.6864,-58.3983,21,baja,Edesur,Lanus,Lanus,,,12,,2025-12-20,19:27:46
+-34.7312,-58.3453,21,baja,Edesur,Lanus,Monte Chingolo,,,3,,2025-12-20,19:27:46
+-34.7009,-58.2857,21,baja,Edesur,Quilmes,Bernal,,,2,,2025-12-20,19:27:46
