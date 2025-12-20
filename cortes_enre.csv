@@ -5743,3 +5743,65 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6299,-58.3639,21,baja,Edesur,Capital,La Boca,,,6,,2025-12-20,07:32:42
 -34.7736,-58.2824,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,10,,2025-12-20,07:32:42
 -34.7019,-58.4014,21,baja,Edesur,Lanus,Lanus,,,13,,2025-12-20,07:32:42
+-34.597956568,-58.420286380,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,612,2025-12-20 13:48,2025-12-20,09:35:11
+-34.598953372,-58.422614070,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,439,2025-12-20 13:48,2025-12-20,09:35:11
+-34.598983616,-58.418448334,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,183,2025-12-20 13:48,2025-12-20,09:35:11
+-34.598544348,-58.423565557,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,470,2025-12-20 13:48,2025-12-20,09:35:11
+-34.598399779,-58.418702403,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,26,2025-12-20 13:48,2025-12-20,09:35:11
+-34.598953982,-58.423225165,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,211,2025-12-20 13:48,2025-12-20,09:35:11
+-34.598884677,-58.427637966,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,215,2025-12-20 13:48,2025-12-20,09:35:11
+-34.598541421,-58.425102368,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,312,2025-12-20 13:48,2025-12-20,09:35:11
+-34.601348899,-58.418499643,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,348,2025-12-20 13:48,2025-12-20,09:35:11
+-34.598159247,-58.426179129,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,524,2025-12-20 13:48,2025-12-20,09:35:11
+-34.598309277,-58.427217174,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,212,2025-12-20 13:48,2025-12-20,09:35:11
+-34.598444438,-58.420418811,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,1,2025-12-20 13:48,2025-12-20,09:35:11
+-34.598726196,-58.425135369,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,1,2025-12-20 13:48,2025-12-20,09:35:11
+-34.598162000,-58.426360155,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,40,2025-12-20 13:48,2025-12-20,09:35:11
+-34.599133677,-58.421818676,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,484,2025-12-20 13:48,2025-12-20,09:35:11
+-34.410269112,-58.588413452,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,6,Sin Datos,2025-12-20,09:35:11
+-34.407300011,-58.591858933,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,6,Sin Datos,2025-12-20,09:35:11
+-34.408104427,-58.591210805,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,Sin Datos,2025-12-20,09:35:11
+-34.387679561,-58.593896707,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,Sin Datos,2025-12-20,09:35:11
+-34.406004917,-58.592668783,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,13,Sin Datos,2025-12-20,09:35:11
+-34.389982704,-58.593128206,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,56,Sin Datos,2025-12-20,09:35:11
+-34.399180290,-58.592102821,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,64,Sin Datos,2025-12-20,09:35:11
+-34.467829029,-58.646360689,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr4/58-5543,72,2025-12-20 08:28,2025-12-20,09:35:11
+-34.461019571,-58.634266901,12,media,Edenor,Tigre,General Pacheco,S/D,R:Talar/58-Tr4/58-5543,70,2025-12-20 08:28,2025-12-20,09:35:11
+-34.453575365,-58.630569707,12,media,Edenor,Tigre,General Pacheco,S/D,R:Talar/58-Tr4/58-5543,176,2025-12-20 08:28,2025-12-20,09:35:11
+-34.462683561,-58.638502437,12,media,Edenor,Tigre,General Pacheco,S/D,R:Talar/58-Tr4/58-5543,244,2025-12-20 08:28,2025-12-20,09:35:11
+-34.458998595,-58.632085860,12,media,Edenor,Tigre,General Pacheco,S/D,R:Talar/58-Tr4/58-5543,49,2025-12-20 08:28,2025-12-20,09:35:11
+-34.459886687,-58.631328815,12,media,Edenor,Tigre,General Pacheco,S/D,R:Talar/58-Tr4/58-5543,217,2025-12-20 08:28,2025-12-20,09:35:11
+-34.454032544,-58.631409622,12,media,Edenor,Tigre,General Pacheco,S/D,R:Talar/58-Tr4/58-5543,633,2025-12-20 08:28,2025-12-20,09:35:11
+-34.457711238,-58.633045515,12,media,Edenor,Tigre,General Pacheco,S/D,R:Talar/58-Tr4/58-5543,236,2025-12-20 08:28,2025-12-20,09:35:11
+-34.554835615,-58.838569563,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,80,2025-12-20 10:00,2025-12-20,09:35:11
+-34.556308671,-58.834804239,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,39,2025-12-20 10:00,2025-12-20,09:35:11
+-34.561292611,-58.838870500,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,3,2025-12-20 10:00,2025-12-20,09:35:11
+-34.564503331,-58.839283315,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,11,2025-12-20 10:00,2025-12-20,09:35:11
+-34.566417353,-58.837119841,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,17,2025-12-20 10:00,2025-12-20,09:35:11
+-34.567883457,-58.834725766,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,11,2025-12-20 10:00,2025-12-20,09:35:11
+-34.562127574,-58.840106891,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,1,2025-12-20 10:00,2025-12-20,09:35:11
+-34.559257282,-58.835806137,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,6,2025-12-20 10:00,2025-12-20,09:35:11
+-34.559115663,-58.836985534,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,4,2025-12-20 10:00,2025-12-20,09:35:11
+-34.558698343,-58.836862925,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,1,2025-12-20 10:00,2025-12-20,09:35:11
+-34.558443045,-58.830654415,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,10,2025-12-20 10:00,2025-12-20,09:35:11
+-34.560835979,-58.839664665,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,1,2025-12-20 10:00,2025-12-20,09:35:11
+-34.551811941,-58.839293937,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,82,2025-12-20 10:00,2025-12-20,09:35:11
+-34.561075729,-58.835513842,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,3,2025-12-20 10:00,2025-12-20,09:35:11
+-34.558117765,-58.843658695,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,134,2025-12-20 10:00,2025-12-20,09:35:11
+-34.555928922,-58.846061555,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,98,2025-12-20 10:00,2025-12-20,09:35:11
+-34.555392002,-58.835745456,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,4,2025-12-20 10:00,2025-12-20,09:35:11
+-34.563359934,-58.839886458,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,9,2025-12-20 10:00,2025-12-20,09:35:11
+-34.3567,-58.6212,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,15,,2025-12-20,09:35:11
+-34.572,-58.4738,22,baja,Edenor,Capital Federal,Villa Urquiza,,,27,,2025-12-20,09:35:11
+-34.5616,-58.6912,22,baja,Edenor,San Miguel,Bella Vista,,,4,,2025-12-20,09:35:11
+-34.5897,-58.4767,22,baja,Edenor,Capital Federal,Agronomia,,,8,,2025-12-20,09:35:11
+-34.5859,-58.4892,22,baja,Edenor,Capital Federal,Villa Urquiza,,,10,,2025-12-20,09:35:11
+-34.5907,-58.4823,22,baja,Edenor,Capital Federal,Agronomia,,,34,,2025-12-20,09:35:11
+-34.7757,-58.4137,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,1,,2025-12-20,09:35:11
+-34.7591,-58.2016,21,baja,Edesur,Berazategui,Berazategui,,,147,,2025-12-20,09:35:11
+-34.6252,-58.4379,21,baja,Edesur,Capital,Caballito,,,6,,2025-12-20,09:35:11
+-34.5982,-58.4541,21,baja,Edesur,Capital,Villa Crespo,,,5,,2025-12-20,09:35:11
+-34.743,-58.3916,21,baja,Edesur,Lomas De Zamora,Banfield,,,59,,2025-12-20,09:35:11
+-34.6299,-58.3639,21,baja,Edesur,Capital,La Boca,,,7,,2025-12-20,09:35:11
+-34.7736,-58.2824,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,10,,2025-12-20,09:35:11
+-34.7019,-58.4014,21,baja,Edesur,Lanus,Lanus,,,14,,2025-12-20,09:35:11
