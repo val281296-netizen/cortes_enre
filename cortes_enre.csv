@@ -9349,3 +9349,53 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6229,-58.4989,21,baja,Edesur,Capital,Velez Sarfield,,,43,,2025-12-24,13:50:10
 -34.7721,-58.3943,21,baja,Edesur,Lomas De Zamora,Temperley,,,6,,2025-12-24,13:50:10
 -34.656,-58.3582,21,baja,Edesur,Avellaneda,Avellaneda,,,14,,2025-12-24,13:50:10
+-34.628225933,-58.496121457,11,media,Edesur,Capital Gp,Velez Sarfield,Luro,R:038-4-43/038-4-43,663,2025-12-24 17:04,2025-12-24,15:41:20
+-34.628182249,-58.497101631,11,media,Edesur,Capital Gp,Velez Sarfield,Luro,R:038-4-43/038-4-43,342,2025-12-24 17:04,2025-12-24,15:41:20
+-34.633136845,-58.492164900,11,media,Edesur,Capital Gp,Velez Sarfield,Luro,R:038-4-43/038-4-43,482,2025-12-24 17:04,2025-12-24,15:41:20
+-34.630819135,-58.495298431,11,media,Edesur,Capital Gp,Velez Sarfield,Luro,R:038-4-43/038-4-43,572,2025-12-24 17:04,2025-12-24,15:41:20
+-34.840061513,-58.964052849,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,Sin Datos,2025-12-24,15:41:20
+-34.842482653,-58.966538184,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,5,Sin Datos,2025-12-24,15:41:20
+-34.856695902,-58.981442110,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2025-12-24,15:41:20
+-34.844565094,-58.976317152,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2025-12-24,15:41:20
+-34.891268963,-58.902645223,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2025-12-24,15:41:20
+-34.891008907,-58.902915316,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2025-12-24,15:41:20
+-34.497956081,-58.650993976,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr2/58-5528,25,2025-12-24 14:00,2025-12-24,15:41:20
+-34.678691418,-58.519238632,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr1/65-5514,449,Sin Datos,2025-12-24,15:41:20
+-34.677487792,-58.520978580,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr1/65-5514,1,Sin Datos,2025-12-24,15:41:20
+-34.388196382,-58.561291503,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,8,2025-12-24 16:00,2025-12-24,15:41:20
+-34.610680231,-58.727147656,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr1/256-5541,209,2025-12-24 15:00,2025-12-24,15:41:20
+-34.287721166,-58.792636658,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5522,41,2025-12-24 16:00,2025-12-24,15:41:20
+-34.6423,-58.6068,22,baja,Edenor,Moron,Haedo,,,15,,2025-12-24,15:41:20
+-34.6449,-58.5965,22,baja,Edenor,Moron,Haedo,,,8,,2025-12-24,15:41:20
+-34.6416,-58.6025,22,baja,Edenor,Moron,Haedo,,,15,,2025-12-24,15:41:20
+-34.6416,-58.5884,22,baja,Edenor,Moron,Haedo,,,6,,2025-12-24,15:41:20
+-34.6407,-58.5984,22,baja,Edenor,Moron,Haedo,,,7,,2025-12-24,15:41:20
+-34.6438,-58.5973,22,baja,Edenor,Moron,Haedo,,,5,,2025-12-24,15:41:20
+-34.6405,-58.5977,22,baja,Edenor,Moron,Haedo,,,6,,2025-12-24,15:41:20
+-34.5405,-58.5609,22,baja,Edenor,Gral San Martin,Villa Ballester,,,4,,2025-12-24,15:41:20
+-34.4757,-58.5952,22,baja,Edenor,Tigre,Don Torcuato,,,3,,2025-12-24,15:41:20
+-34.5812,-58.5099,22,baja,Edenor,Capital Federal,Villa Pueyrred?N,,,5,,2025-12-24,15:41:20
+-34.7315,-58.5822,22,baja,Edenor,La Matanza,Isidro Casanova,,,23,,2025-12-24,15:41:20
+-34.4707,-58.5146,22,baja,Edenor,San Isidro,San Isidro,,,11,,2025-12-24,15:41:20
+-34.629,-58.9304,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,28,,2025-12-24,15:41:20
+-34.6107,-58.7272,22,baja,Edenor,Moreno,Trujui,,,8,,2025-12-24,15:41:20
+-34.5856,-58.6099,22,baja,Edenor,3 De Febrero,Ejcto Militar (Tf),,,11,,2025-12-24,15:41:20
+-34.5811,-58.5095,22,baja,Edenor,Capital Federal,Villa Pueyrred?N,,,9,,2025-12-24,15:41:20
+-34.5223,-58.5592,22,baja,Edenor,San Isidro,Villa Adelina (Si),,,11,,2025-12-24,15:41:20
+-34.7503,-58.5873,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,9,,2025-12-24,15:41:20
+-34.565,-58.6832,22,baja,Edenor,San Miguel,Bella Vista,,,4,,2025-12-24,15:41:20
+-34.6273,-58.4588,21,baja,Edesur,Capital,Flores,,,15,,2025-12-24,15:41:20
+-34.6218,-58.4975,21,baja,Edesur,Capital,Floresta,,,16,,2025-12-24,15:41:20
+-34.6288,-58.4736,21,baja,Edesur,Capital,Flores,,,5,,2025-12-24,15:41:20
+-34.6047,-58.4875,21,baja,Edesur,Capital,Villa Del Parque,,,71,,2025-12-24,15:41:20
+-34.6535,-58.4797,21,baja,Edesur,Capital,Capital,,,8,,2025-12-24,15:41:20
+-34.6341,-58.4301,21,baja,Edesur,Capital,Parque Chacabuco,,,97,,2025-12-24,15:41:20
+-34.6313,-58.4946,21,baja,Edesur,Capital,Velez Sarfield,,,90,,2025-12-24,15:41:20
+-34.7658,-58.2171,21,baja,Edesur,Berazategui,Berazategui,,,46,,2025-12-24,15:41:20
+-34.7676,-58.2154,21,baja,Edesur,Berazategui,Berazategui,,,23,,2025-12-24,15:41:20
+-34.6229,-58.4989,21,baja,Edesur,Capital,Velez Sarfield,,,47,,2025-12-24,15:41:20
+-34.8035,-58.3599,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,6,,2025-12-24,15:41:20
+-34.7158,-58.41,21,baja,Edesur,Lanus,Remedios De Escalada,,,3,,2025-12-24,15:41:20
+-34.8735,-58.3967,21,baja,Edesur,Almirante Brown,Longchamps,,,11,,2025-12-24,15:41:20
+-34.71,-58.2757,21,baja,Edesur,Quilmes,Bernal,,,1,,2025-12-24,15:41:20
+-34.8595,-58.2075,21,baja,Edesur,Florencio Varela,Ing. Allan,,,3,,2025-12-24,15:41:20
