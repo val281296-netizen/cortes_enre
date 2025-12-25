@@ -10055,3 +10055,78 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5981,-58.5009,21,baja,Edesur,Capital,Villa Devoto,,,9,,2025-12-25,09:48:38
 -34.8075,-58.4351,21,baja,Edesur,Lomas De Zamora,Lavallol,,,34,,2025-12-25,09:48:38
 -34.6583,-58.5139,21,baja,Edesur,Capital,Mataderos,,,2,,2025-12-25,09:48:38
+-34.421427557,-58.790396250,12,media,Edenor,Pilar,Luis Lagomarsino,S/D,R:Garin/454-Tr1/454-5514,37,Sin Datos,2025-12-25,11:37:12
+-34.563023602,-58.688764797,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr5/67-5543/8-5507/8-5506,184,2025-12-25 11:00,2025-12-25,11:37:12
+-34.429491777,-58.793362229,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Garin/454-Tr2/454-5524,58,2025-12-25 12:00,2025-12-25,11:37:12
+-34.430292444,-58.800145105,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Garin/454-Tr2/454-5524,38,2025-12-25 12:00,2025-12-25,11:37:12
+-34.426748521,-58.802915624,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Garin/454-Tr2/454-5524,74,2025-12-25 12:00,2025-12-25,11:37:12
+-34.422792683,-58.805628988,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Garin/454-Tr2/454-5524,79,2025-12-25 12:00,2025-12-25,11:37:12
+-34.434191128,-58.799804522,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Garin/454-Tr2/454-5524,57,2025-12-25 12:00,2025-12-25,11:37:12
+-34.437390042,-58.800928710,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Garin/454-Tr2/454-5524,60,2025-12-25 12:00,2025-12-25,11:37:12
+-34.433888251,-58.801304101,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Garin/454-Tr2/454-5524,62,2025-12-25 12:00,2025-12-25,11:37:12
+-34.430006936,-58.805923397,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Garin/454-Tr2/454-5524,39,2025-12-25 12:00,2025-12-25,11:37:12
+-34.427639786,-58.810544369,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Garin/454-Tr2/454-5524,99,2025-12-25 12:00,2025-12-25,11:37:12
+-34.428155713,-58.790740531,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Garin/454-Tr2/454-5524,218,2025-12-25 12:00,2025-12-25,11:37:12
+-34.431095997,-58.798798902,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Garin/454-Tr2/454-5524,1,2025-12-25 12:00,2025-12-25,11:37:12
+-34.435269100,-58.805114790,12,media,Edenor,Pilar,Del Viso,S/D,R:Garin/454-Tr2/454-5524,30,2025-12-25 12:00,2025-12-25,11:37:12
+-34.437930778,-58.802979751,12,media,Edenor,Pilar,Del Viso,S/D,R:Garin/454-Tr2/454-5524,28,2025-12-25 12:00,2025-12-25,11:37:12
+-34.431016958,-58.796285585,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Garin/454-Tr2/454-5524,44,2025-12-25 12:00,2025-12-25,11:37:12
+-34.431889594,-58.794018303,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Garin/454-Tr2/454-5524,73,2025-12-25 12:00,2025-12-25,11:37:12
+-34.422083862,-58.796107582,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Garin/454-Tr2/454-5524,37,2025-12-25 12:00,2025-12-25,11:37:12
+-34.420923741,-58.799642117,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Garin/454-Tr2/454-5524,62,2025-12-25 12:00,2025-12-25,11:37:12
+-34.423047985,-58.798068584,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Garin/454-Tr2/454-5524,63,2025-12-25 12:00,2025-12-25,11:37:12
+-34.429849136,-58.794060580,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Garin/454-Tr2/454-5524,13,2025-12-25 12:00,2025-12-25,11:37:12
+-34.434195298,-58.804105598,12,media,Edenor,Pilar,Del Viso,S/D,R:Garin/454-Tr2/454-5524,13,2025-12-25 12:00,2025-12-25,11:37:12
+-34.433334709,-58.805992244,12,media,Edenor,Pilar,Del Viso,S/D,R:Garin/454-Tr2/454-5524,18,2025-12-25 12:00,2025-12-25,11:37:12
+-34.432033411,-58.792005530,12,media,Edenor,Pilar,Pilar,S/D,R:Garin/454-Tr2/454-5524,26,2025-12-25 12:00,2025-12-25,11:37:12
+-34.429608896,-58.809524896,12,media,Edenor,Pilar,Del Viso,S/D,R:Garin/454-Tr2/454-5524,54,2025-12-25 12:00,2025-12-25,11:37:12
+-34.6423,-58.6068,22,baja,Edenor,Moron,Haedo,,,15,,2025-12-25,11:37:12
+-34.6449,-58.5965,22,baja,Edenor,Moron,Haedo,,,8,,2025-12-25,11:37:12
+-34.6416,-58.6025,22,baja,Edenor,Moron,Haedo,,,15,,2025-12-25,11:37:12
+-34.6416,-58.5884,22,baja,Edenor,Moron,Haedo,,,6,,2025-12-25,11:37:12
+-34.6407,-58.5984,22,baja,Edenor,Moron,Haedo,,,7,,2025-12-25,11:37:12
+-34.6438,-58.5973,22,baja,Edenor,Moron,Haedo,,,5,,2025-12-25,11:37:12
+-34.6405,-58.5977,22,baja,Edenor,Moron,Haedo,,,6,,2025-12-25,11:37:12
+-34.6615,-58.8425,22,baja,Edenor,Moreno,La Reja,,,1,,2025-12-25,11:37:12
+-34.4285,-58.7813,22,baja,Edenor,Pilar,Luis Lagomarsino,,,19,,2025-12-25,11:37:12
+-34.6229,-58.8002,22,baja,Edenor,Moreno,Moreno,,,17,,2025-12-25,11:37:12
+-34.7349,-58.7966,22,baja,Edenor,Merlo,Mariano Acosta,,,5,,2025-12-25,11:37:12
+-34.6633,-58.5663,22,baja,Edenor,La Matanza,Ramos Mejia,,,102,,2025-12-25,11:37:12
+-34.6191,-58.6503,22,baja,Edenor,Hurlingham,Villa Tesei,,,5,,2025-12-25,11:37:12
+-34.6832,-58.5723,22,baja,Edenor,La Matanza,San Justo,,,12,,2025-12-25,11:37:12
+-34.6652,-58.5896,22,baja,Edenor,La Matanza,Villa Luzuriaga,,,67,,2025-12-25,11:37:12
+-34.5912,-58.839,22,baja,Edenor,Moreno,Francisco Alvarez,,,6,,2025-12-25,11:37:12
+-34.669,-58.8251,22,baja,Edenor,Moreno,Moreno,,,1,,2025-12-25,11:37:12
+-34.6218,-58.4975,21,baja,Edesur,Capital,Floresta,,,15,,2025-12-25,11:37:12
+-34.7671,-58.2218,21,baja,Edesur,Berazategui,Berazategui,,,49,,2025-12-25,11:37:12
+-34.7676,-58.2154,21,baja,Edesur,Berazategui,Berazategui,,,31,,2025-12-25,11:37:12
+-34.6908,-58.3674,21,baja,Edesur,Avellaneda,Avellaneda,,,20,,2025-12-25,11:37:12
+-34.6056,-58.393,21,baja,Edesur,Capital,Balvanera,,,12,,2025-12-25,11:37:12
+-34.7623,-58.2668,21,baja,Edesur,Quilmes,Ezpeleta,,,80,,2025-12-25,11:37:12
+-34.8614,-58.4038,21,baja,Edesur,Almirante Brown,Longchamps,,,13,,2025-12-25,11:37:12
+-35.0456,-58.771,21,baja,Edesur,Cañuelas,Cañuelas,,,5,,2025-12-25,11:37:12
+-34.6835,-58.3525,21,baja,Edesur,Avellaneda,Sarandi,,,15,,2025-12-25,11:37:12
+-34.7481,-58.4212,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,13,,2025-12-25,11:37:12
+-34.9202,-58.4006,21,baja,Edesur,Pte Peron,Villa Numancia Sur,,,11,,2025-12-25,11:37:12
+-34.709,-58.3421,21,baja,Edesur,Avellaneda,Villa Dominico,,,72,,2025-12-25,11:37:12
+-34.693,-58.38,21,baja,Edesur,Lanus,Gerli,,,31,,2025-12-25,11:37:12
+-34.6327,-58.3779,21,baja,Edesur,Capital,Barracas,,,38,,2025-12-25,11:37:12
+-34.6756,-58.4247,21,baja,Edesur,Lanus,Valentin Alsina,,,19,,2025-12-25,11:37:12
+-34.7575,-58.4199,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,10,,2025-12-25,11:37:12
+-34.6458,-58.472,21,baja,Edesur,Capital,Parque Avellaneda,,,26,,2025-12-25,11:37:12
+-34.7879,-58.2634,21,baja,Edesur,Florencio Varela,Florencio Varela,,,26,,2025-12-25,11:37:12
+-34.7782,-58.3005,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,4,,2025-12-25,11:37:12
+-34.7054,-58.3844,21,baja,Edesur,Lanus,Lanus,,,11,,2025-12-25,11:37:12
+-34.6959,-58.4028,21,baja,Edesur,Lanus,Lanus,,,27,,2025-12-25,11:37:12
+-34.7499,-58.4235,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,5,,2025-12-25,11:37:12
+-34.6441,-58.436,21,baja,Edesur,Capital,Parque Chacabuco,,,29,,2025-12-25,11:37:12
+-34.7399,-58.4278,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,18,,2025-12-25,11:37:12
+-34.6727,-58.3913,21,baja,Edesur,Avellaneda,Piñeyro,,,5,,2025-12-25,11:37:12
+-34.7931,-58.3984,21,baja,Edesur,Almirante Brown,Adrogue,,,18,,2025-12-25,11:37:12
+-34.7309,-58.3607,21,baja,Edesur,Lanus,Monte Chingolo,,,30,,2025-12-25,11:37:12
+-34.6979,-58.3357,21,baja,Edesur,Avellaneda,Villa Dominico,,,10,,2025-12-25,11:37:12
+-34.5981,-58.5009,21,baja,Edesur,Capital,Villa Devoto,,,10,,2025-12-25,11:37:12
+-34.8075,-58.4351,21,baja,Edesur,Lomas De Zamora,Lavallol,,,34,,2025-12-25,11:37:12
+-34.6157,-58.4052,21,baja,Edesur,Capital,Balvanera,,,15,,2025-12-25,11:37:12
+-34.6583,-58.5139,21,baja,Edesur,Capital,Mataderos,,,3,,2025-12-25,11:37:12
+-34.708,-58.3524,21,baja,Edesur,Avellaneda,Villa Dominico,,,2,,2025-12-25,11:37:12
