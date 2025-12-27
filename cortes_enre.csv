@@ -11409,3 +11409,51 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7817,-58.3735,21,baja,Edesur,Almirante Brown,Marmol,,,18,,2025-12-27,11:21:46
 -34.7953,-58.4749,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,11,,2025-12-27,11:21:46
 -34.7115,-58.4607,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,14,,2025-12-27,11:21:46
+-34.874621776,-58.340317503,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Glew,R:277-3-35/277-3-35,5,2025-12-27 16:00,2025-12-27,13:33:06
+-34.863713466,-58.319908190,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Glew,R:277-3-35/277-3-35,5,2025-12-27 16:00,2025-12-27,13:33:06
+-34.876393751,-58.343714753,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Glew,R:277-3-35/277-3-35,1,2025-12-27 16:00,2025-12-27,13:33:06
+-34.866453794,-58.325358773,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Glew,R:277-3-35/277-3-35,4,2025-12-27 16:00,2025-12-27,13:33:06
+-34.858773050,-58.316732504,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Glew,R:277-3-35/277-3-35,1,2025-12-27 16:00,2025-12-27,13:33:06
+-34.859407774,-58.312045613,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Glew,R:277-3-35/277-3-35,1,2025-12-27 16:00,2025-12-27,13:33:06
+-34.860068889,-58.313198929,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Glew,R:277-3-35/277-3-35,2,2025-12-27 16:00,2025-12-27,13:33:06
+-34.876757868,-58.344412698,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Glew,R:277-3-35/277-3-35,8,2025-12-27 16:00,2025-12-27,13:33:06
+-34.872295301,-58.336027480,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Glew,R:277-3-35/277-3-35,7,2025-12-27 16:00,2025-12-27,13:33:06
+-34.878435312,-58.343850374,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Glew,R:277-3-35/277-3-35,320,2025-12-27 16:00,2025-12-27,13:33:06
+-34.874542192,-58.346025010,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Glew,R:277-3-35/277-3-35,38,2025-12-27 16:00,2025-12-27,13:33:06
+-34.873834559,-58.346554587,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Glew,R:277-3-35/277-3-35,6,2025-12-27 16:00,2025-12-27,13:33:06
+-34.731276504,-58.398430659,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-2-2526/087-2-2526,116,2025-12-27 12:47,2025-12-27,13:33:06
+-34.732798355,-58.399262755,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-2-2526/087-2-2526,30,2025-12-27 12:47,2025-12-27,13:33:06
+-34.773841181,-58.799126141,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,156,2025-12-27 15:00,2025-12-27,13:33:06
+-34.778902590,-58.797439703,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,81,2025-12-27 15:00,2025-12-27,13:33:06
+-34.776453306,-58.802203929,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,67,2025-12-27 15:00,2025-12-27,13:33:06
+-34.558291500,-58.463451048,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Libertador/41-Tr1/41-5513,153,2025-12-27 13:00,2025-12-27,13:33:06
+-34.462973011,-58.664920860,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr4/58-5541,84,2025-12-27 11:00,2025-12-27,13:33:06
+-34.661035052,-58.526448394,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5544,477,2025-12-27 13:00,2025-12-27,13:33:06
+-34.467679907,-58.912368555,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5516,276,2025-12-27 13:00,2025-12-27,13:33:06
+-34.7238,-58.7256,22,baja,Edenor,Merlo,Pontevedra,,,9,,2025-12-27,13:33:06
+-34.6543,-58.5851,22,baja,Edenor,La Matanza,Villa Luzuriaga,,,4,,2025-12-27,13:33:06
+-34.4518,-58.6432,22,baja,Edenor,Tigre,General Pacheco,,,1,,2025-12-27,13:33:06
+-34.5843,-58.4068,22,baja,Edenor,Capital Federal,Palermo,,,5,,2025-12-27,13:33:06
+-34.4428,-58.9081,22,baja,Edenor,Pilar,Pilar,,,10,,2025-12-27,13:33:06
+-34.6629,-58.6034,22,baja,Edenor,Moron,Moron,,,4,,2025-12-27,13:33:06
+-34.6204,-58.7546,22,baja,Edenor,Moreno,Paso Del Rey,,,4,,2025-12-27,13:33:06
+-34.6414,-58.7603,22,baja,Edenor,Moreno,Paso Del Rey,,,15,,2025-12-27,13:33:06
+-34.581,-58.5559,22,baja,Edenor,Gral San Martin,Juan M De Pueyrredon,,,6,,2025-12-27,13:33:06
+-34.6743,-58.7253,22,baja,Edenor,Merlo,Merlo,,,43,,2025-12-27,13:33:06
+-34.5448,-58.5642,22,baja,Edenor,Gral San Martin,Villa Ballester,,,5,,2025-12-27,13:33:06
+-34.5229,-58.8071,22,baja,Edenor,Jose C Paz,Jose C Paz,,,1,,2025-12-27,13:33:06
+-34.6685,-58.4445,21,baja,Edesur,Capital,Villa Soldati,,,8,,2025-12-27,13:33:06
+-34.819,-58.4753,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,20,,2025-12-27,13:33:06
+-34.6565,-58.5021,21,baja,Edesur,Capital,Mataderos,,,10,,2025-12-27,13:33:06
+-34.6287,-58.4757,21,baja,Edesur,Capital,Floresta,,,14,,2025-12-27,13:33:06
+-34.6068,-58.3996,21,baja,Edesur,Capital,Balvanera,,,9,,2025-12-27,13:33:06
+-34.7348,-58.4211,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,61,,2025-12-27,13:33:06
+-34.6251,-58.4136,21,baja,Edesur,Capital,Boedo,,,6,,2025-12-27,13:33:06
+-34.732,-58.368,21,baja,Edesur,Lanus,Monte Chingolo,,,19,,2025-12-27,13:33:06
+-34.6796,-58.4064,21,baja,Edesur,Lanus,Valentin Alsina,,,1,,2025-12-27,13:33:06
+-34.7817,-58.3735,21,baja,Edesur,Almirante Brown,Marmol,,,18,,2025-12-27,13:33:06
+-34.8407,-58.5089,21,baja,Edesur,Ezeiza,Jose Maria Ezeiza,,,50,,2025-12-27,13:33:06
+-34.6352,-58.4376,21,baja,Edesur,Capital,Parque Chacabuco,,,27,,2025-12-27,13:33:06
+-34.7115,-58.4607,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,29,,2025-12-27,13:33:06
+-34.6357,-58.4389,21,baja,Edesur,Capital,Parque Chacabuco,,,23,,2025-12-27,13:33:06
+-34.9167,-58.3733,21,baja,Edesur,Pte Peron,Guernica,,,11,,2025-12-27,13:33:06
