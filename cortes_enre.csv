@@ -13289,3 +13289,53 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6479,-58.3721,21,baja,Edesur,Capital,Barracas,,,15,,2025-12-29,07:32:26
 -34.7766,-58.3753,21,baja,Edesur,Lomas De Zamora,Temperley,,,11,,2025-12-29,07:32:26
 -34.7836,-58.3098,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,5,,2025-12-29,07:32:26
+-34.846937872,-58.466496129,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-38/083-3-38,232,Sin Datos,2025-12-29,09:37:21
+-34.838865645,-58.459509338,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-38/083-3-38,189,Sin Datos,2025-12-29,09:37:21
+-34.847313330,-58.470021534,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-38/083-3-38,26,Sin Datos,2025-12-29,09:37:21
+-34.856490000,-58.502354303,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-3-38/083-3-38,60,Sin Datos,2025-12-29,09:37:21
+-34.846008622,-58.465780281,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-38/083-3-38,237,Sin Datos,2025-12-29,09:37:21
+-34.837916053,-58.464057508,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-38/083-3-38,259,Sin Datos,2025-12-29,09:37:21
+-34.842341373,-58.462903348,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-38/083-3-38,383,Sin Datos,2025-12-29,09:37:21
+-34.841214988,-58.460094481,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-38/083-3-38,133,Sin Datos,2025-12-29,09:37:21
+-34.836680220,-58.466520047,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-38/083-3-38,175,Sin Datos,2025-12-29,09:37:21
+-34.840768197,-58.463005133,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-38/083-3-38,254,Sin Datos,2025-12-29,09:37:21
+-34.961276869,-58.389835454,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,4,Sin Datos,2025-12-29,09:37:21
+-34.963418445,-58.384053721,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,77,Sin Datos,2025-12-29,09:37:21
+-34.964759275,-58.389700274,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,74,Sin Datos,2025-12-29,09:37:21
+-34.961628988,-58.392307022,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,24,Sin Datos,2025-12-29,09:37:21
+-34.961743055,-58.385521338,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,214,Sin Datos,2025-12-29,09:37:21
+-34.963845893,-58.385830897,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,25,Sin Datos,2025-12-29,09:37:21
+-34.763695181,-58.389439302,11,media,Edesur,Lomas De Zamora,Temperley,Temperley,R:084-2-25/084-2-25,479,2025-12-29 09:04,2025-12-29,09:37:21
+-34.766162111,-58.389361126,11,media,Edesur,Lomas De Zamora,Temperley,Temperley,R:084-2-25/084-2-25,420,2025-12-29 09:04,2025-12-29,09:37:21
+-34.794157012,-58.392730455,11,media,Edesur,Almirante Brown,Adrogue,S/D,R:952-1-01/952-1-01,259,2025-12-29 10:45,2025-12-29,09:37:21
+-34.517377529,-58.717082295,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,269,2025-12-29 10:00,2025-12-29,09:37:21
+-34.516148270,-58.705237193,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,175,2025-12-29 10:00,2025-12-29,09:37:21
+-34.510113746,-58.694340875,12,media,Edenor,Malvinas Argentinas,Malvinas Argentinas,S/D,R:Nogues/159-Tr2/159-5521,224,2025-12-29 10:00,2025-12-29,09:37:21
+-34.513314501,-58.701848139,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,188,2025-12-29 10:00,2025-12-29,09:37:21
+-34.509753122,-58.698184161,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,181,2025-12-29 10:00,2025-12-29,09:37:21
+-34.508869313,-58.696901899,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,185,2025-12-29 10:00,2025-12-29,09:37:21
+-34.513563017,-58.720010163,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,104,2025-12-29 10:00,2025-12-29,09:37:21
+-34.519120174,-58.711950118,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,3,2025-12-29 10:00,2025-12-29,09:37:21
+-34.519019508,-58.708252323,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,280,2025-12-29 10:00,2025-12-29,09:37:21
+-34.520646250,-58.709930348,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,1,2025-12-29 10:00,2025-12-29,09:37:21
+-34.517368741,-58.706314126,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,61,2025-12-29 10:00,2025-12-29,09:37:21
+-34.512967573,-58.720492104,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,118,2025-12-29 10:00,2025-12-29,09:37:21
+-34.515319139,-58.718694956,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,488,2025-12-29 10:00,2025-12-29,09:37:21
+-34.517232578,-58.714115955,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,330,2025-12-29 10:00,2025-12-29,09:37:21
+-34.511634626,-58.721597519,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,301,2025-12-29 10:00,2025-12-29,09:37:21
+-34.6249,-58.7741,22,baja,Edenor,Moreno,Moreno,,,1,,2025-12-29,09:37:21
+-34.8311,-58.6511,22,baja,Edenor,La Matanza,Virrey Del Pino,,,16,,2025-12-29,09:37:21
+-34.7244,-58.5488,22,baja,Edenor,La Matanza,Ciudad Evita,,,12,,2025-12-29,09:37:21
+-34.8402,-58.2744,21,baja,Edesur,Florencio Varela,Florencio Varela,,,1,,2025-12-29,09:37:21
+-34.7362,-58.3446,21,baja,Edesur,Lanus,Monte Chingolo,,,21,,2025-12-29,09:37:21
+-34.7052,-58.3712,21,baja,Edesur,Lanus,Gerli,,,19,,2025-12-29,09:37:21
+-34.6794,-58.4839,21,baja,Edesur,Capital,Villa Lugano,,,34,,2025-12-29,09:37:21
+-34.804,-58.3891,21,baja,Edesur,Almirante Brown,Adrogue,,,124,,2025-12-29,09:37:21
+-34.6167,-58.4597,21,baja,Edesur,Capital,Flores,,,37,,2025-12-29,09:37:21
+-34.7407,-58.3527,21,baja,Edesur,Lomas De Zamora,Banfield,,,4,,2025-12-29,09:37:21
+-34.7432,-58.2847,21,baja,Edesur,Quilmes,Quilmes,,,27,,2025-12-29,09:37:21
+-34.6915,-58.4292,21,baja,Edesur,Lanus,Lanus,,,55,,2025-12-29,09:37:21
+-34.672,-58.4742,21,baja,Edesur,Capital,Villa Lugano,,,27,,2025-12-29,09:37:21
+-34.7194,-58.3311,21,baja,Edesur,Avellaneda,Wilde,,,18,,2025-12-29,09:37:21
+-34.795,-58.4774,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,9,,2025-12-29,09:37:21
+-34.7836,-58.3098,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,8,,2025-12-29,09:37:21
