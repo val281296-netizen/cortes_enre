@@ -14746,3 +14746,83 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6347,-58.4576,21,baja,Edesur,Capital,Flores,,,20,,2025-12-30,07:28:23
 -34.7864,-58.2999,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,3,,2025-12-30,07:28:23
 -34.8198,-58.4698,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,1,,2025-12-30,07:28:23
+-34.604904655,-58.376496446,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-4-44/115-4-44,2,2025-12-30 11:11,2025-12-30,09:32:10
+-34.605164142,-58.380381763,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-24/115-2-24,5,2025-12-30 11:43,2025-12-30,09:32:10
+-34.604528660,-58.377511508,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-24/115-2-24,39,2025-12-30 11:43,2025-12-30,09:32:10
+-34.604964607,-58.377505593,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-24/115-2-24,17,2025-12-30 11:43,2025-12-30,09:32:10
+-34.605008965,-58.378209501,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-24/115-2-24,70,2025-12-30 11:43,2025-12-30,09:32:10
+-34.604557069,-58.377966551,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-24/115-2-24,26,2025-12-30 11:43,2025-12-30,09:32:10
+-34.593549303,-58.442217129,11,media,Edesur,Capital Gp,Villa Crespo,Parque Centenario,R:049-4-43/049-4-43,47,Sin Datos,2025-12-30,09:32:10
+-34.593624717,-58.442327525,11,media,Edesur,Capital Gp,Villa Crespo,Parque Centenario,R:049-4-43/049-4-43,45,Sin Datos,2025-12-30,09:32:10
+-34.667003546,-58.357479802,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-2-22/279-2-22,1,2025-12-30 11:59,2025-12-30,09:32:10
+-34.667173890,-58.359397461,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-2-22/279-2-22,253,2025-12-30 11:59,2025-12-30,09:32:10
+-34.666087251,-58.360183155,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-2-22/279-2-22,526,2025-12-30 11:59,2025-12-30,09:32:10
+-34.666187467,-58.358661243,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-2-22/279-2-22,141,2025-12-30 11:59,2025-12-30,09:32:10
+-34.665486494,-58.364301297,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-2-22/279-2-22,125,2025-12-30 11:59,2025-12-30,09:32:10
+-34.666901611,-58.361333424,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-2-22/279-2-22,2,2025-12-30 11:59,2025-12-30,09:32:10
+-34.631072609,-58.370452950,11,media,Edesur,Capital Rp,La Boca,Hernandarias,R:031-2-28/031-2-28,450,2025-12-30 08:03,2025-12-30,09:32:10
+-34.629701746,-58.368643805,11,media,Edesur,Capital Rp,La Boca,Hernandarias,R:031-2-28/031-2-28,562,2025-12-30 08:03,2025-12-30,09:32:10
+-34.629591833,-58.368136191,11,media,Edesur,Capital Rp,La Boca,Hernandarias,R:031-2-28/031-2-28,151,2025-12-30 08:03,2025-12-30,09:32:10
+-34.631423937,-58.370362303,11,media,Edesur,Capital Rp,La Boca,Hernandarias,R:031-2-28/031-2-28,40,2025-12-30 08:03,2025-12-30,09:32:10
+-34.442838977,-58.733064721,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5513,156,2025-12-30 09:00,2025-12-30,09:32:10
+-34.661725851,-58.664124074,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:Castelar/61-Tr2/61-5538,338,Sin Datos,2025-12-30,09:32:10
+-34.653818289,-58.644468473,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr2/61-5524,273,2025-12-30 08:00,2025-12-30,09:32:10
+-34.652450187,-58.645823958,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr2/61-5524,100,2025-12-30 08:00,2025-12-30,09:32:10
+-34.653632696,-58.646014755,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr2/61-5524,287,2025-12-30 08:00,2025-12-30,09:32:10
+-34.653781373,-58.644664684,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr2/61-5524,254,2025-12-30 08:00,2025-12-30,09:32:10
+-34.650546729,-58.643342849,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr2/61-5524,338,2025-12-30 08:00,2025-12-30,09:32:10
+-34.651870765,-58.648427353,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr2/61-5524,478,2025-12-30 08:00,2025-12-30,09:32:10
+-34.652456794,-58.645288402,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr2/61-5524,270,2025-12-30 08:00,2025-12-30,09:32:10
+-34.6572,-58.5725,22,baja,Edenor,La Matanza,Ramos Mejia,,,19,,2025-12-30,09:32:10
+-34.6462,-58.561,22,baja,Edenor,La Matanza,Ramos Mejia,,,21,,2025-12-30,09:32:10
+-34.4543,-58.7346,22,baja,Edenor,Escobar,Garin,,,0,,2025-12-30,09:32:10
+-34.7024,-58.6588,22,baja,Edenor,Merlo,Libertad,,,1,,2025-12-30,09:32:10
+-34.3537,-58.8178,22,baja,Edenor,Escobar,Escobar,,,56,,2025-12-30,09:32:10
+-34.6229,-58.9339,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,38,,2025-12-30,09:32:10
+-34.6296,-58.7861,22,baja,Edenor,Moreno,Moreno,,,35,,2025-12-30,09:32:10
+-34.46,-58.7693,22,baja,Edenor,Pilar,Manuel Alberti,,,21,,2025-12-30,09:32:10
+-34.6074,-58.7733,22,baja,Edenor,Moreno,Moreno,,,14,,2025-12-30,09:32:10
+-34.7443,-58.5827,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,69,,2025-12-30,09:32:10
+-34.5591,-58.7289,22,baja,Edenor,San Miguel,San Miguel,,,1,,2025-12-30,09:32:10
+-34.7006,-58.489,22,baja,Edenor,La Matanza,Villa Madero,,,1,,2025-12-30,09:32:10
+-34.4631,-58.7738,22,baja,Edenor,Pilar,Manuel Alberti,,,4,,2025-12-30,09:32:10
+-34.4789,-58.7277,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,1,,2025-12-30,09:32:10
+-34.7715,-58.6527,22,baja,Edenor,La Matanza,Gonzalez Catan,,,16,,2025-12-30,09:32:10
+-34.6042,-58.7368,22,baja,Edenor,Moreno,Trujui,,,8,,2025-12-30,09:32:10
+-34.7026,-58.5664,22,baja,Edenor,La Matanza,San Justo,,,27,,2025-12-30,09:32:10
+-34.5424,-58.5468,22,baja,Edenor,Gral San Martin,Gregoria Matorras,,,36,,2025-12-30,09:32:10
+-34.7675,-58.6049,22,baja,Edenor,La Matanza,Gonzalez Catan,,,26,,2025-12-30,09:32:10
+-34.4289,-58.7399,22,baja,Edenor,Escobar,Garin,,,4,,2025-12-30,09:32:10
+-34.6653,-58.6778,22,baja,Edenor,Ituzaingo,Ituzaingo,,,9,,2025-12-30,09:32:10
+-34.771,-58.8384,22,baja,Edenor,Marcos Paz,Marcos Paz,,,1,,2025-12-30,09:32:10
+-34.8405,-58.438,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,7,,2025-12-30,09:32:10
+-34.614,-58.3961,21,baja,Edesur,Capital,Balvanera,,,81,,2025-12-30,09:32:10
+-34.7224,-58.3815,21,baja,Edesur,Lanus,Remedios De Escalada,,,7,,2025-12-30,09:32:10
+-34.7956,-58.4751,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,13,,2025-12-30,09:32:10
+-34.7367,-58.3758,21,baja,Edesur,Lanus,Monte Chingolo,,,11,,2025-12-30,09:32:10
+-34.6751,-58.4303,21,baja,Edesur,Lanus,Lanus,,,2,,2025-12-30,09:32:10
+-34.6402,-58.4229,21,baja,Edesur,Capital,Nueva Pompeya,,,8,,2025-12-30,09:32:10
+-34.6119,-58.4197,21,baja,Edesur,Capital,Almagro,,,47,,2025-12-30,09:32:10
+-34.8,-58.2947,21,baja,Edesur,Florencio Varela,Florencio Varela,,,7,,2025-12-30,09:32:10
+-34.6057,-58.4593,21,baja,Edesur,Capital,Capital,,,83,,2025-12-30,09:32:10
+-34.6276,-58.5175,21,baja,Edesur,Capital,Versalles,,,6,,2025-12-30,09:32:10
+-34.5991,-58.4364,21,baja,Edesur,Capital,Villa Crespo,,,6,,2025-12-30,09:32:10
+-34.714,-58.4211,21,baja,Edesur,Lanus,Remedios De Escalada,,,2,,2025-12-30,09:32:10
+-34.8049,-58.361,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,16,,2025-12-30,09:32:10
+-34.7611,-58.3652,21,baja,Edesur,Lomas De Zamora,Temperley,,,6,,2025-12-30,09:32:10
+-34.7663,-58.2262,21,baja,Edesur,Berazategui,Berazategui,,,11,,2025-12-30,09:32:10
+-34.7154,-58.4249,21,baja,Edesur,Lanus,Remedios De Escalada,,,44,,2025-12-30,09:32:10
+-34.6296,-58.4429,21,baja,Edesur,Capital,Parque Chacabuco,,,95,,2025-12-30,09:32:10
+-34.7578,-58.2991,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,13,,2025-12-30,09:32:10
+-34.6138,-58.4721,21,baja,Edesur,Capital,Villa General Mitre,,,5,,2025-12-30,09:32:10
+-34.6023,-58.468,21,baja,Edesur,Capital,Villa General Mitre,,,5,,2025-12-30,09:32:10
+-34.7937,-58.4818,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,3,,2025-12-30,09:32:10
+-34.8665,-58.1802,21,baja,Edesur,Berazategui,El Pato,,,6,,2025-12-30,09:32:10
+-34.7361,-58.3089,21,baja,Edesur,Quilmes,Quilmes,,,3,,2025-12-30,09:32:10
+-34.6472,-58.4204,21,baja,Edesur,Capital,Nueva Pompeya,,,14,,2025-12-30,09:32:10
+-34.6274,-58.4443,21,baja,Edesur,Capital,Caballito,,,51,,2025-12-30,09:32:10
+-34.7662,-58.2935,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,9,,2025-12-30,09:32:10
+-34.6289,-58.3737,21,baja,Edesur,Capital,Barracas,,,22,,2025-12-30,09:32:10
+-34.7859,-58.2999,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,7,,2025-12-30,09:32:10
+-34.6387,-58.4469,21,baja,Edesur,Capital,Parque Chacabuco,,,3,,2025-12-30,09:32:10
+-34.6666,-58.3513,21,baja,Edesur,Avellaneda,Avellaneda,,,1,,2025-12-30,09:32:10
