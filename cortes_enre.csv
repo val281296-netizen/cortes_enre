@@ -21066,3 +21066,73 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7288,-58.4257,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,17,,2026-01-01,21:25:53
 -34.8697,-58.364,21,baja,Edesur,Almirante Brown,Glew,,,9,,2026-01-01,21:25:53
 -34.7208,-58.3695,21,baja,Edesur,Lanus,Lanus,,,12,,2026-01-01,21:25:53
+-34.604606685,-58.372094958,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-1-08/022-1-08,15,2026-01-02 01:27,2026-01-01,23:26:19
+-34.604631490,-58.372520564,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-1-08/022-1-08,13,2026-01-02 01:27,2026-01-01,23:26:19
+-34.604618992,-58.372306118,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-1-08/022-1-08,1,2026-01-02 01:27,2026-01-01,23:26:19
+-34.608001306,-58.374641216,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-3-21/022-3-21,3,2026-01-01 22:53,2026-01-01,23:26:19
+-34.614918085,-58.429753387,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-2-24/020-2-24,396,2026-01-02 00:09,2026-01-01,23:26:19
+-34.604905413,-58.373740874,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,N:022-1-07/022-1-07,1,2026-01-01 23:13,2026-01-01,23:26:19
+-34.605107595,-58.373856150,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,N:022-1-07/022-1-07,2,2026-01-01 23:13,2026-01-01,23:26:19
+-34.604180792,-58.371824311,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,N:022-1-07/022-1-07,1,2026-01-01 23:13,2026-01-01,23:26:19
+-34.604195113,-58.372068028,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,N:022-1-07/022-1-07,19,2026-01-01 23:13,2026-01-01,23:26:19
+-34.604205548,-58.372245625,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,N:022-1-07/022-1-07,1,2026-01-01 23:13,2026-01-01,23:26:19
+-34.605237098,-58.374349175,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,N:022-1-07/022-1-07,23,2026-01-01 23:13,2026-01-01,23:26:19
+-34.601243245,-58.496373333,11,media,Edesur,Capital Gp,Villa Del Parque,Devoto,R:027-2-13/027-2-13,94,2026-01-02 00:29,2026-01-01,23:26:19
+-34.737676409,-58.401123508,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-2526/087-2-2526,152,2026-01-01 21:14,2026-01-01,23:26:19
+-34.601894964,-58.372507795,11,media,Edesur,Capital Rp,San Nicolas,Reconquista,R:211-2-13/211-2-13,26,2026-01-01 21:10,2026-01-01,23:26:19
+-34.601560007,-58.371792439,11,media,Edesur,Capital Rp,San Nicolas,Reconquista,R:211-2-13/211-2-13,1,2026-01-01 21:10,2026-01-01,23:26:19
+-34.694589791,-58.402669093,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-1-12/186-1-12,1,2026-01-02 00:04,2026-01-01,23:26:19
+-34.710302870,-58.406706710,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-4-48/186-4-48,816,Sin Datos,2026-01-01,23:26:19
+-34.614759946,-58.429388438,11,media,Edesur,Capital Gp,Almagro,Caballito,R:122-4-45/122-4-45,173,2026-01-02 01:55,2026-01-01,23:26:19
+-34.591339158,-58.384916104,11,media,Edesur,Capital Rp,Retiro,Parana,R:117-4-45/117-4-45,21,2026-01-01 22:19,2026-01-01,23:26:19
+-34.951317802,-58.385344693,11,media,Edesur,Pte Peron,Parque Las Naciones,Glew,R:277-4-48/277-4-48,62,Sin Datos,2026-01-01,23:26:19
+-34.609305022,-58.380038245,11,media,Edesur,Capital Rp,Monserrat,Rivadavia,R:022-1-09/022-1-09,96,2026-01-01 21:35,2026-01-01,23:26:19
+-34.608730114,-58.381199315,11,media,Edesur,Capital Rp,Monserrat,Rivadavia,R:022-1-09/022-1-09,13,2026-01-01 21:35,2026-01-01,23:26:19
+-34.802998951,-58.445031144,11,media,Edesur,Esteban Echeverria,Luis Guillon,Santa Catalina,R:182-1-11/182-1-11,339,2026-01-02 03:07,2026-01-01,23:26:19
+-34.5677,-58.4412,22,baja,Edenor,Capital Federal,Palermo,,,24,,2026-01-01,23:26:19
+-34.572,-58.7209,22,baja,Edenor,San Miguel,Muñiz,,,4,,2026-01-01,23:26:19
+-34.6117,-58.8275,22,baja,Edenor,Moreno,La Reja,,,4,,2026-01-01,23:26:19
+-34.8559,-58.6551,22,baja,Edenor,La Matanza,Virrey Del Pino,,,19,,2026-01-01,23:26:19
+-34.7615,-58.6506,22,baja,Edenor,La Matanza,Gonzalez Catan,,,4,,2026-01-01,23:26:19
+-34.6258,-58.5807,22,baja,Edenor,Moron,El Palomar,,,4,,2026-01-01,23:26:19
+-34.7683,-58.5966,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,18,,2026-01-01,23:26:19
+-34.3274,-58.5984,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,11,,2026-01-01,23:26:19
+-34.5717,-58.5513,22,baja,Edenor,Gral San Martin,Yapeyu,,,29,,2026-01-01,23:26:19
+-34.6188,-58.7967,22,baja,Edenor,Moreno,Moreno,,,59,,2026-01-01,23:26:19
+-34.739,-58.4012,21,baja,Edesur,Lomas De Zamora,Banfield,,,19,,2026-01-01,23:26:19
+-34.6829,-58.3431,21,baja,Edesur,Avellaneda,Sarandi,,,4,,2026-01-01,23:26:19
+-34.7695,-58.4268,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,70,,2026-01-01,23:26:19
+-34.7475,-58.4573,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,15,,2026-01-01,23:26:19
+-34.6844,-58.475,21,baja,Edesur,Capital,Villa Riachuelo,,,42,,2026-01-01,23:26:19
+-34.7423,-58.4475,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,5,,2026-01-01,23:26:19
+-34.6314,-58.4464,21,baja,Edesur,Capital,Parque Chacabuco,,,76,,2026-01-01,23:26:19
+-34.6285,-58.4149,21,baja,Edesur,Capital,Boedo,,,21,,2026-01-01,23:26:19
+-34.7259,-58.448,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,3,,2026-01-01,23:26:19
+-34.7218,-58.3096,21,baja,Edesur,Quilmes,Bernal,,,69,,2026-01-01,23:26:19
+-34.6145,-58.4193,21,baja,Edesur,Capital,Almagro,,,11,,2026-01-01,23:26:19
+-34.6211,-58.4354,21,baja,Edesur,Capital,Caballito,,,78,,2026-01-01,23:26:19
+-34.6329,-58.5174,21,baja,Edesur,Capital,Versalles,,,56,,2026-01-01,23:26:19
+-34.6134,-58.4479,21,baja,Edesur,Capital,Capital,,,11,,2026-01-01,23:26:19
+-34.6288,-58.5087,21,baja,Edesur,Capital,Villa Luro,,,55,,2026-01-01,23:26:19
+-34.6025,-58.4859,21,baja,Edesur,Capital,Villa Del Parque,,,65,,2026-01-01,23:26:19
+-34.5975,-58.4904,21,baja,Edesur,Capital,Villa Del Parque,,,58,,2026-01-01,23:26:19
+-34.6298,-58.3753,21,baja,Edesur,Capital,Barracas,,,54,,2026-01-01,23:26:19
+-34.6555,-58.5146,21,baja,Edesur,Capital,Mataderos,,,165,,2026-01-01,23:26:19
+-34.5939,-58.4396,21,baja,Edesur,Capital,Villa Crespo,,,10,,2026-01-01,23:26:19
+-34.7082,-58.432,21,baja,Edesur,Lanus,Lanus,,,14,,2026-01-01,23:26:19
+-34.6922,-58.3665,21,baja,Edesur,Avellaneda,Sarandi,,,19,,2026-01-01,23:26:19
+-34.93,-58.6067,21,baja,Edesur,Ezeiza,Carlos Spegazzinni,,,20,,2026-01-01,23:26:19
+-34.6345,-58.3971,21,baja,Edesur,Capital,Parque Patricios,,,9,,2026-01-01,23:26:19
+-34.8187,-58.3593,21,baja,Edesur,Almirante Brown,Claypole,,,8,,2026-01-01,23:26:19
+-34.7056,-58.3906,21,baja,Edesur,Lanus,Lanus,,,5,,2026-01-01,23:26:19
+-34.6225,-58.4177,21,baja,Edesur,Capital,Boedo,,,7,,2026-01-01,23:26:19
+-34.649,-58.5098,21,baja,Edesur,Capital,Liniers,,,49,,2026-01-01,23:26:19
+-34.6243,-58.4071,21,baja,Edesur,Capital,San Cristobal,,,20,,2026-01-01,23:26:19
+-34.6111,-58.4269,21,baja,Edesur,Capital,Almagro,,,2,,2026-01-01,23:26:19
+-34.676,-58.3843,21,baja,Edesur,Avellaneda,Avellaneda,,,4,,2026-01-01,23:26:19
+-34.7317,-58.301,21,baja,Edesur,Quilmes,Quilmes,,,4,,2026-01-01,23:26:19
+-34.7437,-58.2614,21,baja,Edesur,Quilmes,Quilmes,,,6,,2026-01-01,23:26:19
+-34.7208,-58.3695,21,baja,Edesur,Lanus,Lanus,,,14,,2026-01-01,23:26:19
+-34.5942,-58.3834,21,baja,Edesur,Capital,Retiro,,,2,,2026-01-01,23:26:19
+-34.6468,-58.4349,21,baja,Edesur,Capital,Nueva Pompeya,,,6,,2026-01-01,23:26:19
+-34.8059,-58.4447,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,1,,2026-01-01,23:26:19
