@@ -22155,3 +22155,47 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7114,-58.2952,21,baja,Edesur,Quilmes,Bernal,,,11,,2026-01-03,05:28:33
 -34.6307,-58.3765,21,baja,Edesur,Capital,Barracas,,,2,,2026-01-03,05:28:33
 -34.7403,-58.4265,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,1,,2026-01-03,05:28:33
+-34.611218876,-58.384926362,11,media,Edesur,Capital Rp,Monserrat,Pozos,R:023-4-42/023-4-42,146,2026-01-03 10:00,2026-01-03,07:25:14
+-34.760767664,-58.191452457,11,media,Edesur,Berazategui,Berazategui Centro,Rigolleau,R:179-1-11/179-1-11,345,2026-01-03 06:24,2026-01-03,07:25:14
+-34.758483880,-58.193642438,11,media,Edesur,Berazategui,Berazategui Centro,Rigolleau,R:179-1-11/179-1-11,452,2026-01-03 06:24,2026-01-03,07:25:14
+-34.758677456,-58.186897375,11,media,Edesur,Berazategui,Berazategui Centro,Rigolleau,R:179-1-11/179-1-11,389,2026-01-03 06:24,2026-01-03,07:25:14
+-34.621673433,-58.458976110,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-1-14/218-1-14,225,2026-01-03 10:33,2026-01-03,07:25:14
+-34.829934303,-58.429899678,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-4-41/180-4-41,209,2026-01-03 09:05,2026-01-03,07:25:14
+-34.829302261,-58.429111365,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-4-41/180-4-41,8,2026-01-03 09:05,2026-01-03,07:25:14
+-34.827549276,-58.426015336,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-4-41/180-4-41,15,2026-01-03 09:05,2026-01-03,07:25:14
+-34.480628936,-58.764541734,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr1/252-5548,243,Sin Datos,2026-01-03,07:25:14
+-34.7966,-58.6171,22,baja,Edenor,La Matanza,Gonzalez Catan,,,4,,2026-01-03,07:25:14
+-34.6301,-58.7944,22,baja,Edenor,Moreno,Moreno,,,10,,2026-01-03,07:25:14
+-34.6272,-58.7951,22,baja,Edenor,Moreno,Moreno,,,13,,2026-01-03,07:25:14
+-34.5991,-58.5012,21,baja,Edesur,Capital,Villa Devoto,,,25,,2026-01-03,07:25:14
+-34.6507,-58.5071,21,baja,Edesur,Capital,Mataderos,,,51,,2026-01-03,07:25:14
+-34.6243,-58.4071,21,baja,Edesur,Capital,San Cristobal,,,36,,2026-01-03,07:25:14
+-34.632,-58.4614,21,baja,Edesur,Capital,Capital,,,105,,2026-01-03,07:25:14
+-34.6217,-58.4166,21,baja,Edesur,Capital,Boedo,,,2,,2026-01-03,07:25:14
+-34.6033,-58.4064,21,baja,Edesur,Capital,Balvanera,,,5,,2026-01-03,07:25:14
+-34.6042,-58.458,21,baja,Edesur,Capital,Villa Crespo,,,38,,2026-01-03,07:25:14
+-34.6089,-58.4631,21,baja,Edesur,Capital,Villa General Mitre,,,13,,2026-01-03,07:25:14
+-34.6116,-58.415,21,baja,Edesur,Capital,Almagro,,,20,,2026-01-03,07:25:14
+-34.6003,-58.4443,21,baja,Edesur,Capital,Villa Crespo,,,9,,2026-01-03,07:25:14
+-34.7333,-58.2735,21,baja,Edesur,Quilmes,Quilmes,,,2,,2026-01-03,07:25:14
+-34.5981,-58.5213,21,baja,Edesur,Capital,Villa Devoto,,,12,,2026-01-03,07:25:14
+-34.8034,-58.4692,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,29,,2026-01-03,07:25:14
+-34.6963,-58.4021,21,baja,Edesur,Lanus,Lanus,,,16,,2026-01-03,07:25:14
+-34.7326,-58.4288,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,41,,2026-01-03,07:25:14
+-34.6301,-58.4986,21,baja,Edesur,Capital,Velez Sarfield,,,5,,2026-01-03,07:25:14
+-34.6034,-58.4367,21,baja,Edesur,Capital,Villa Crespo,,,9,,2026-01-03,07:25:14
+-34.6175,-58.443,21,baja,Edesur,Capital,Caballito,,,5,,2026-01-03,07:25:14
+-34.7283,-58.2985,21,baja,Edesur,Quilmes,Quilmes,,,68,,2026-01-03,07:25:14
+-34.6183,-58.3975,21,baja,Edesur,Capital,Balvanera,,,14,,2026-01-03,07:25:14
+-34.6464,-58.4106,21,baja,Edesur,Capital,Parque Patricios,,,15,,2026-01-03,07:25:14
+-34.7779,-58.3744,21,baja,Edesur,Lomas De Zamora,Temperley,,,20,,2026-01-03,07:25:14
+-34.5959,-58.4288,21,baja,Edesur,Capital,Villa Crespo,,,29,,2026-01-03,07:25:14
+-34.6378,-58.498,21,baja,Edesur,Capital,Villa Luro,,,2,,2026-01-03,07:25:14
+-34.7024,-58.3936,21,baja,Edesur,Lanus,Lanus,,,16,,2026-01-03,07:25:14
+-34.6294,-58.4028,21,baja,Edesur,Capital,Parque Patricios,,,5,,2026-01-03,07:25:14
+-34.7661,-58.1999,21,baja,Edesur,Berazategui,Berazategui,,,14,,2026-01-03,07:25:14
+-34.6028,-58.4197,21,baja,Edesur,Capital,Almagro,,,35,,2026-01-03,07:25:14
+-34.6006,-58.427,21,baja,Edesur,Capital,Almagro,,,14,,2026-01-03,07:25:14
+-34.7114,-58.2952,21,baja,Edesur,Quilmes,Bernal,,,11,,2026-01-03,07:25:14
+-34.6307,-58.3765,21,baja,Edesur,Capital,Barracas,,,4,,2026-01-03,07:25:14
+-34.7403,-58.4265,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,1,,2026-01-03,07:25:14
