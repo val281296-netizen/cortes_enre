@@ -23538,3 +23538,47 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.63,-58.4741,21,baja,Edesur,Capital,Flores,,,68,,2026-01-05,13:45:11
 -34.6035,-58.426,21,baja,Edesur,Capital,Almagro,,,2,,2026-01-05,13:45:11
 -34.5958,-58.5146,21,baja,Edesur,Capital,Capital,,,1,,2026-01-05,13:45:11
+-34.711093443,-58.384315920,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-08/087-1-08,240,2026-01-05 20:23,2026-01-05,15:31:02
+-34.711114507,-58.384338571,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-08/087-1-08,316,2026-01-05 20:23,2026-01-05,15:31:02
+-34.714029020,-58.382241358,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-08/087-1-08,326,2026-01-05 20:23,2026-01-05,15:31:02
+-34.711328982,-58.379402728,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-08/087-1-08,733,2026-01-05 20:23,2026-01-05,15:31:02
+-34.709183642,-58.387465770,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-08/087-1-08,366,2026-01-05 20:23,2026-01-05,15:31:02
+-34.709201420,-58.387486309,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-08/087-1-08,60,2026-01-05 20:23,2026-01-05,15:31:02
+-34.709189560,-58.385113608,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-08/087-1-08,208,2026-01-05 20:23,2026-01-05,15:31:02
+-34.710754826,-58.385730129,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-08/087-1-08,9,2026-01-05 20:23,2026-01-05,15:31:02
+-34.708580907,-58.386807852,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-08/087-1-08,18,2026-01-05 20:23,2026-01-05,15:31:02
+-34.707507788,-58.384748621,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-08/087-1-08,74,2026-01-05 20:23,2026-01-05,15:31:02
+-34.707375719,-58.386814636,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-08/087-1-08,229,2026-01-05 20:23,2026-01-05,15:31:02
+-34.540902723,-58.557212163,12,media,Edenor,Gral San Martin,Villa Ballester,S/D,R:J. L. Suarez/266-Tr1/266-5513,330,2026-01-05 14:40,2026-01-05,15:31:02
+-34.695346881,-58.790029461,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5515,237,2026-01-05 15:00,2026-01-05,15:31:02
+-34.667091638,-58.798693223,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr2/258-5521,321,Sin Datos,2026-01-05,15:31:02
+-34.589271529,-58.763722522,12,media,Edenor,Moreno,Trujui,S/D,R:Trujui/364-Tr1/364-5548,299,2026-01-05 13:10,2026-01-05,15:31:02
+-34.516130109,-58.784572814,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr2/254-5525,265,Sin Datos,2026-01-05,15:31:02
+-34.313106161,-58.710119283,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,21,2026-01-05 16:00,2026-01-05,15:31:02
+-34.301592937,-58.727268561,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,5,2026-01-05 16:00,2026-01-05,15:31:02
+-34.308721640,-58.713653321,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,2026-01-05 16:00,2026-01-05,15:31:02
+-34.300775479,-58.722236372,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,10,2026-01-05 16:00,2026-01-05,15:31:02
+-34.845019751,-58.665799510,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5515,45,2026-01-05 16:00,2026-01-05,15:31:02
+-34.841731374,-58.670021733,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5515,1,2026-01-05 16:00,2026-01-05,15:31:02
+-34.840501770,-58.671512822,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5515,4,2026-01-05 16:00,2026-01-05,15:31:02
+-34.842898998,-58.668311094,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5515,2,2026-01-05 16:00,2026-01-05,15:31:02
+-34.841365058,-58.667183686,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5515,2,2026-01-05 16:00,2026-01-05,15:31:02
+-34.441980953,-58.707587806,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,R:Ford/151-Tr1/151-5512,1,2026-01-05 13:00,2026-01-05,15:31:02
+-34.6792,-58.5927,22,baja,Edenor,La Matanza,Villa Luzuriaga,,,2,,2026-01-05,15:31:02
+-34.5847,-58.4571,22,baja,Edenor,Capital Federal,Chacarita,,,18,,2026-01-05,15:31:02
+-34.4498,-58.67,22,baja,Edenor,Tigre,General Pacheco,,,4,,2026-01-05,15:31:02
+-34.7258,-58.5663,22,baja,Edenor,La Matanza,Ciudad Evita,,,4,,2026-01-05,15:31:02
+-34.5794,-58.4535,22,baja,Edenor,Capital Federal,Colegiales,,,1,,2026-01-05,15:31:02
+-34.5168,-58.5601,22,baja,Edenor,San Isidro,Boulogne,,,1,,2026-01-05,15:31:02
+-34.5738,-58.5809,22,baja,Edenor,Gral San Martin,Billinghurst,,,36,,2026-01-05,15:31:02
+-34.7052,-58.7406,22,baja,Edenor,Merlo,Merlo,,,1,,2026-01-05,15:31:02
+-34.6,-58.4383,21,baja,Edesur,Capital,Villa Crespo,,,25,,2026-01-05,15:31:02
+-34.6474,-58.5195,21,baja,Edesur,Capital,Capital,,,6,,2026-01-05,15:31:02
+-34.661,-58.4374,21,baja,Edesur,Capital,Villa Soldati,,,20,,2026-01-05,15:31:02
+-34.6258,-58.4302,21,baja,Edesur,Capital,Caballito,,,5,,2026-01-05,15:31:02
+-34.6296,-58.5257,21,baja,Edesur,Capital,Versalles,,,11,,2026-01-05,15:31:02
+-34.6187,-58.481,21,baja,Edesur,Capital,Villa Sta. Rita,,,11,,2026-01-05,15:31:02
+-34.5941,-58.3962,21,baja,Edesur,Capital,Recoleta,,,6,,2026-01-05,15:31:02
+-34.63,-58.4741,21,baja,Edesur,Capital,Flores,,,77,,2026-01-05,15:31:02
+-34.6076,-58.3845,21,baja,Edesur,Capital,San Nicolas,,,4,,2026-01-05,15:31:02
+-35.0183,-58.4475,21,baja,Edesur,San Vicente,San Vicente,,,1,,2026-01-05,15:31:02
