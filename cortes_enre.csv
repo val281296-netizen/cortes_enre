@@ -23502,3 +23502,39 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6296,-58.5257,21,baja,Edesur,Capital,Versalles,,,9,,2026-01-05,11:25:51
 -34.6187,-58.481,21,baja,Edesur,Capital,Villa Sta. Rita,,,7,,2026-01-05,11:25:51
 -34.63,-58.4741,21,baja,Edesur,Capital,Flores,,,36,,2026-01-05,11:25:51
+-34.604905413,-58.373740874,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,N:022-1-07/022-1-07,1,2026-01-05 11:13,2026-01-05,13:45:11
+-34.540902723,-58.557212163,12,media,Edenor,Gral San Martin,Villa Ballester,S/D,R:J. L. Suarez/266-Tr1/266-5513,330,2026-01-05 14:40,2026-01-05,13:45:11
+-34.515509559,-58.514455147,12,media,Edenor,Vicente Lopez,Olivos,S/D,R:Edison/57-Tr1/57-5513,172,2026-01-05 13:00,2026-01-05,13:45:11
+-34.695346881,-58.790029461,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5515,237,2026-01-05 15:00,2026-01-05,13:45:11
+-34.650353030,-58.886283575,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5526,22,2026-01-05 12:15,2026-01-05,13:45:11
+-34.587378974,-58.883561807,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr2/263-5521,334,2026-01-05 12:30,2026-01-05,13:45:11
+-34.667091638,-58.798693223,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr2/258-5521,321,2026-01-05 12:25,2026-01-05,13:45:11
+-34.589271529,-58.763722522,12,media,Edenor,Moreno,Trujui,S/D,R:Trujui/364-Tr1/364-5548,299,2026-01-05 13:10,2026-01-05,13:45:11
+-34.516130109,-58.784572814,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr2/254-5525,265,2026-01-05 12:05,2026-01-05,13:45:11
+-34.313106161,-58.710119283,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,21,2026-01-05 16:00,2026-01-05,13:45:11
+-34.301592937,-58.727268561,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,5,2026-01-05 16:00,2026-01-05,13:45:11
+-34.308721640,-58.713653321,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,2026-01-05 16:00,2026-01-05,13:45:11
+-34.300775479,-58.722236372,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,10,2026-01-05 16:00,2026-01-05,13:45:11
+-34.845019751,-58.665799510,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5515,45,2026-01-05 16:00,2026-01-05,13:45:11
+-34.841731374,-58.670021733,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5515,1,2026-01-05 16:00,2026-01-05,13:45:11
+-34.840501770,-58.671512822,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5515,4,2026-01-05 16:00,2026-01-05,13:45:11
+-34.842898998,-58.668311094,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5515,2,2026-01-05 16:00,2026-01-05,13:45:11
+-34.841365058,-58.667183686,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5515,2,2026-01-05 16:00,2026-01-05,13:45:11
+-34.441980953,-58.707587806,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,R:Ford/151-Tr1/151-5512,1,2026-01-05 13:00,2026-01-05,13:45:11
+-34.6792,-58.5927,22,baja,Edenor,La Matanza,Villa Luzuriaga,,,2,,2026-01-05,13:45:11
+-34.5655,-58.4793,22,baja,Edenor,Capital Federal,Coghlan,,,6,,2026-01-05,13:45:11
+-34.5847,-58.4571,22,baja,Edenor,Capital Federal,Chacarita,,,8,,2026-01-05,13:45:11
+-34.7702,-58.657,22,baja,Edenor,La Matanza,Gonzalez Catan,,,8,,2026-01-05,13:45:11
+-34.4498,-58.67,22,baja,Edenor,Tigre,General Pacheco,,,2,,2026-01-05,13:45:11
+-34.7258,-58.5663,22,baja,Edenor,La Matanza,Ciudad Evita,,,4,,2026-01-05,13:45:11
+-34.6,-58.4383,21,baja,Edesur,Capital,Villa Crespo,,,24,,2026-01-05,13:45:11
+-34.6474,-58.5195,21,baja,Edesur,Capital,Capital,,,6,,2026-01-05,13:45:11
+-34.6201,-58.3902,21,baja,Edesur,Capital,Constitucion,,,1,,2026-01-05,13:45:11
+-34.661,-58.4374,21,baja,Edesur,Capital,Villa Soldati,,,15,,2026-01-05,13:45:11
+-34.6258,-58.4302,21,baja,Edesur,Capital,Caballito,,,4,,2026-01-05,13:45:11
+-34.6296,-58.5257,21,baja,Edesur,Capital,Versalles,,,11,,2026-01-05,13:45:11
+-34.6187,-58.481,21,baja,Edesur,Capital,Villa Sta. Rita,,,7,,2026-01-05,13:45:11
+-34.5941,-58.3962,21,baja,Edesur,Capital,Recoleta,,,6,,2026-01-05,13:45:11
+-34.63,-58.4741,21,baja,Edesur,Capital,Flores,,,68,,2026-01-05,13:45:11
+-34.6035,-58.426,21,baja,Edesur,Capital,Almagro,,,2,,2026-01-05,13:45:11
+-34.5958,-58.5146,21,baja,Edesur,Capital,Capital,,,1,,2026-01-05,13:45:11
