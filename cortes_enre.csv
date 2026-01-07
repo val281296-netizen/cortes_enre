@@ -24483,3 +24483,40 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6886,-58.32,21,baja,Edesur,Avellaneda,Villa Dominico,,,16,,2026-01-07,15:33:00
 -34.7223,-58.3329,21,baja,Edesur,Avellaneda,Wilde,,,16,,2026-01-07,15:33:00
 -34.6458,-58.4268,21,baja,Edesur,Capital,Nueva Pompeya,,,1,,2026-01-07,15:33:00
+-34.797549949,-58.425121001,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-15/182-1-15,98,Sin Datos,2026-01-07,17:31:43
+-34.614276310,-58.426841394,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-4-46/020-4-46,627,2026-01-07 16:29,2026-01-07,17:31:43
+-34.614759946,-58.429388438,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-4-46/020-4-46,173,2026-01-07 16:29,2026-01-07,17:31:43
+-34.620537167,-58.445830999,11,media,Edesur,Capital Rp,Caballito Rp,Alberdi,R:218-1-13/218-1-13,1035,2026-01-07 16:33,2026-01-07,17:31:43
+-34.618974263,-58.446266626,11,media,Edesur,Capital Gp,Caballito Gp,Alberdi,R:218-1-13/218-1-13,1,2026-01-07 16:33,2026-01-07,17:31:43
+-34.619033470,-58.446252456,11,media,Edesur,Capital Gp,Caballito Gp,Alberdi,R:218-1-13/218-1-13,289,2026-01-07 16:33,2026-01-07,17:31:43
+-34.619092546,-58.446238317,11,media,Edesur,Capital Gp,Caballito Gp,Alberdi,R:218-1-13/218-1-13,192,2026-01-07 16:33,2026-01-07,17:31:43
+-34.662351417,-58.417993913,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-3-31/186-3-31,23,2026-01-07 18:00,2026-01-07,17:31:43
+-34.662350461,-58.417974491,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-3-31/186-3-31,123,2026-01-07 18:00,2026-01-07,17:31:43
+-34.660312038,-58.416145758,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-3-31/186-3-31,6,2026-01-07 18:00,2026-01-07,17:31:43
+-34.668207049,-58.418051957,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-3-31/186-3-31,2,2026-01-07 18:00,2026-01-07,17:31:43
+-34.662650567,-58.416059816,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-3-31/186-3-31,150,2026-01-07 18:00,2026-01-07,17:31:43
+-34.702659981,-58.392508979,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-3-36/186-3-36,87,2026-01-07 21:52,2026-01-07,17:31:43
+-34.764830574,-58.402906977,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-2-24/182-2-24,146,2026-01-07 23:11,2026-01-07,17:31:43
+-34.762616445,-58.402721105,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-2-24/182-2-24,188,2026-01-07 23:11,2026-01-07,17:31:43
+-34.765374223,-58.402265792,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-2-24/182-2-24,87,2026-01-07 23:11,2026-01-07,17:31:43
+-34.584819790,-58.580320511,12,media,Edenor,3 De Febrero,Villa Bosch,S/D,R:Rotonda/262-Tr2/262-5534,604,2026-01-07 14:30,2026-01-07,17:31:43
+-34.704664786,-58.735719700,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr1/361-5515,577,Sin Datos,2026-01-07,17:31:43
+-34.519,-58.7242,22,baja,Edenor,Jose C Paz,Jose C Paz,,,5,,2026-01-07,17:31:43
+-34.6163,-58.5332,22,baja,Edenor,3 De Febrero,Villa Raffo,,,6,,2026-01-07,17:31:43
+-34.6705,-58.5502,22,baja,Edenor,La Matanza,San Justo,,,16,,2026-01-07,17:31:43
+-34.5456,-58.7067,22,baja,Edenor,San Miguel,San Miguel,,,19,,2026-01-07,17:31:43
+-34.7004,-58.6645,22,baja,Edenor,Merlo,Libertad,,,62,,2026-01-07,17:31:43
+-34.7745,-58.6105,22,baja,Edenor,La Matanza,Gonzalez Catan,,,4,,2026-01-07,17:31:43
+-34.9135,-58.376,21,baja,Edesur,Pte Peron,Guernica,,,18,,2026-01-07,17:31:43
+-34.6144,-58.4711,21,baja,Edesur,Capital,Villa General Mitre,,,29,,2026-01-07,17:31:43
+-34.8827,-58.5683,21,baja,Edesur,Ezeiza,Tristan Suarez,,,50,,2026-01-07,17:31:43
+-34.8277,-58.1988,21,baja,Edesur,Florencio Varela,Bosques,,,56,,2026-01-07,17:31:43
+-34.6705,-58.3976,21,baja,Edesur,Lanus,Valentin Alsina,,,12,,2026-01-07,17:31:43
+-34.6623,-58.403,21,baja,Edesur,Avellaneda,Piñeyro,,,4,,2026-01-07,17:31:43
+-34.7223,-58.3329,21,baja,Edesur,Avellaneda,Wilde,,,24,,2026-01-07,17:31:43
+-34.6394,-58.4467,21,baja,Edesur,Capital,Parque Chacabuco,,,1,,2026-01-07,17:31:43
+-34.6769,-58.3843,21,baja,Edesur,Avellaneda,Avellaneda,,,12,,2026-01-07,17:31:43
+-34.6859,-58.3715,21,baja,Edesur,Avellaneda,Gerli,,,2,,2026-01-07,17:31:43
+-34.6054,-58.4263,21,baja,Edesur,Capital,Almagro,,,5,,2026-01-07,17:31:43
+-34.744,-58.2783,21,baja,Edesur,Quilmes,Quilmes,,,1,,2026-01-07,17:31:43
+-34.6625,-58.4146,21,baja,Edesur,Lanus,Valentin Alsina,,,1,,2026-01-07,17:31:43
