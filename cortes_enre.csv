@@ -24385,3 +24385,38 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5961,-58.4019,21,baja,Edesur,Capital,Recoleta,,,4,,2026-01-07,11:26:42
 -34.8067,-58.3593,21,baja,Edesur,Almirante Brown,Claypole,,,13,,2026-01-07,11:26:42
 -34.8277,-58.1988,21,baja,Edesur,Florencio Varela,Bosques,,,27,,2026-01-07,11:26:42
+-34.797549949,-58.425121001,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-15/182-1-15,98,2026-01-07 13:22,2026-01-07,13:43:44
+-34.614276310,-58.426841394,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-4-46/020-4-46,627,Sin Datos,2026-01-07,13:43:44
+-34.614759946,-58.429388438,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-4-46/020-4-46,173,Sin Datos,2026-01-07,13:43:44
+-34.584819790,-58.580320511,12,media,Edenor,3 De Febrero,Villa Bosch,S/D,R:Rotonda/262-Tr2/262-5534,604,2026-01-07 14:30,2026-01-07,13:43:44
+-34.541272878,-58.529226834,12,media,Edenor,Vicente Lopez,Florida (Oeste),S/D,R:Munro/55-Tr2/55-5537,65,2026-01-07 12:30,2026-01-07,13:43:44
+-34.704053796,-58.592292640,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr1/63-5544,214,2026-01-07 13:00,2026-01-07,13:43:44
+-34.552582879,-58.690866554,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Ara San Juan/362-Tr2/362-5528,350,2026-01-07 12:15,2026-01-07,13:43:44
+-34.580823321,-58.724966638,12,media,Edenor,San Miguel,San Miguel,S/D,R:Mu?Iz/265-Tr1/265-5517,1,2026-01-07 12:25,2026-01-07,13:43:44
+-34.486161872,-58.754399597,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Nogues/159-Tr1/159-5542,215,2026-01-07 11:00,2026-01-07,13:43:44
+-34.487930578,-58.755037741,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Nogues/159-Tr1/159-5542,146,2026-01-07 11:00,2026-01-07,13:43:44
+-34.753314748,-58.610580802,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5525,153,2026-01-07 13:00,2026-01-07,13:43:44
+-34.649399353,-58.596619478,12,media,Edenor,Moron,Haedo,S/D,R:V. Luzuriaga/64-Tr1/64-5544,146,2026-01-07 14:00,2026-01-07,13:43:44
+-34.177232949,-58.614115843,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2026-01-07 16:40,2026-01-07,13:43:44
+-34.174134659,-58.612803677,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,2026-01-07 16:40,2026-01-07,13:43:44
+-34.178845333,-58.614588795,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2026-01-07 16:40,2026-01-07,13:43:44
+-34.199007087,-58.622314250,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,5,2026-01-07 16:40,2026-01-07,13:43:44
+-34.488273117,-58.662803384,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5528,273,2026-01-07 12:25,2026-01-07,13:43:44
+-34.386545520,-58.818335317,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr2/51-5523,193,2026-01-07 12:00,2026-01-07,13:43:44
+-34.386523232,-58.811314755,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr2/51-5523,153,2026-01-07 12:00,2026-01-07,13:43:44
+-34.385266446,-58.809000365,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr2/51-5523,71,2026-01-07 12:00,2026-01-07,13:43:44
+-34.387810025,-58.813821925,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr2/51-5523,206,2026-01-07 12:00,2026-01-07,13:43:44
+-34.430937696,-58.884444599,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr2/260-5522,119,2026-01-07 13:00,2026-01-07,13:43:44
+-34.519,-58.7242,22,baja,Edenor,Jose C Paz,Jose C Paz,,,5,,2026-01-07,13:43:44
+-34.5236,-58.821,22,baja,Edenor,Moreno,Cuartel V,,,24,,2026-01-07,13:43:44
+-34.7213,-58.5654,22,baja,Edenor,La Matanza,Ciudad Evita,,,19,,2026-01-07,13:43:44
+-34.5161,-58.9414,22,baja,Edenor,Pilar,Pilar,,,19,,2026-01-07,13:43:44
+-34.5946,-58.495,22,baja,Edenor,Capital Federal,Agronomia,,,6,,2026-01-07,13:43:44
+-34.4518,-58.9815,22,baja,Edenor,Pilar,Fatima,,,15,,2026-01-07,13:43:44
+-34.5903,-58.4975,22,baja,Edenor,Capital Federal,Villa Pueyrred?N,,,5,,2026-01-07,13:43:44
+-34.5902,-58.6332,22,baja,Edenor,Hurlingham,Hurlingham,,,5,,2026-01-07,13:43:44
+-34.7125,-58.3731,21,baja,Edesur,Lanus,Lanus,,,10,,2026-01-07,13:43:44
+-34.6145,-58.4713,21,baja,Edesur,Capital,Capital,,,21,,2026-01-07,13:43:44
+-34.8827,-58.5683,21,baja,Edesur,Ezeiza,Tristan Suarez,,,49,,2026-01-07,13:43:44
+-34.8277,-58.1988,21,baja,Edesur,Florencio Varela,Bosques,,,40,,2026-01-07,13:43:44
+-34.7094,-58.3703,21,baja,Edesur,Lanus,Lanus,,,11,,2026-01-07,13:43:44
