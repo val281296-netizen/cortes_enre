@@ -24554,3 +24554,40 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6093,-58.3955,21,baja,Edesur,Capital,Balvanera,,,7,,2026-01-07,19:25:43
 -34.64,-58.445,21,baja,Edesur,Capital,Parque Chacabuco,,,1,,2026-01-07,19:25:43
 -34.6054,-58.4263,21,baja,Edesur,Capital,Almagro,,,4,,2026-01-07,19:25:43
+-34.620537167,-58.445830999,11,media,Edesur,Capital Rp,Caballito Rp,Alberdi,R:218-1-13/218-1-13,1035,2026-01-07 22:33,2026-01-07,21:27:20
+-34.701214632,-58.395230355,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-3-36/186-3-36,516,2026-01-07 21:52,2026-01-07,21:27:20
+-34.704966342,-58.392518928,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-3-36/186-3-36,292,2026-01-07 21:52,2026-01-07,21:27:20
+-34.702659981,-58.392508979,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-3-36/186-3-36,87,2026-01-07 21:52,2026-01-07,21:27:20
+-34.705916108,-58.392491523,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-3-36/186-3-36,314,2026-01-07 21:52,2026-01-07,21:27:20
+-34.703733920,-58.392409379,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-3-36/186-3-36,319,2026-01-07 21:52,2026-01-07,21:27:20
+-34.701923440,-58.393110655,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-3-36/186-3-36,133,2026-01-07 21:52,2026-01-07,21:27:20
+-34.703296850,-58.393998507,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-3-36/186-3-36,29,2026-01-07 21:52,2026-01-07,21:27:20
+-34.702177930,-58.392570568,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-3-36/186-3-36,1,2026-01-07 21:52,2026-01-07,21:27:20
+-34.764830574,-58.402906977,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-2-24/182-2-24,146,2026-01-07 23:11,2026-01-07,21:27:20
+-34.762616445,-58.402721105,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-2-24/182-2-24,188,2026-01-07 23:11,2026-01-07,21:27:20
+-34.763423783,-58.343897538,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-4-45/184-4-45,1,2026-01-07 19:41,2026-01-07,21:27:20
+-34.764212328,-58.339763389,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-4-45/184-4-45,417,2026-01-07 19:41,2026-01-07,21:27:20
+-34.760834263,-58.343049849,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-4-45/184-4-45,98,2026-01-07 19:41,2026-01-07,21:27:20
+-34.764786053,-58.346753008,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-4-45/184-4-45,1,2026-01-07 19:41,2026-01-07,21:27:20
+-34.763770809,-58.344950998,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-4-45/184-4-45,175,2026-01-07 19:41,2026-01-07,21:27:20
+-34.765051198,-58.344586388,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-4-45/184-4-45,503,2026-01-07 19:41,2026-01-07,21:27:20
+-34.925125533,-58.365785528,11,media,Edesur,Pte Peron,Quintas Agricolas,Glew,R:277-3-32/277-3-32,263,2026-01-07 21:36,2026-01-07,21:27:20
+-34.925267589,-58.374110311,11,media,Edesur,Pte Peron,Quintas Agricolas,Glew,R:277-3-32/277-3-32,27,2026-01-07 21:36,2026-01-07,21:27:20
+-34.922931998,-58.367206542,11,media,Edesur,Pte Peron,Quintas Agricolas,Glew,R:277-3-32/277-3-32,17,2026-01-07 21:36,2026-01-07,21:27:20
+-34.923024496,-58.373233874,11,media,Edesur,Pte Peron,25 De Mayo,Glew,R:277-3-32/277-3-32,97,2026-01-07 21:36,2026-01-07,21:27:20
+-34.926639556,-58.363073764,11,media,Edesur,Pte Peron,Quintas Agricolas,Glew,R:277-3-32/277-3-32,1,2026-01-07 21:36,2026-01-07,21:27:20
+-34.929711079,-58.372635619,11,media,Edesur,Pte Peron,Quintas Agricolas,Glew,R:277-3-32/277-3-32,135,2026-01-07 21:36,2026-01-07,21:27:20
+-34.923164808,-58.374630829,11,media,Edesur,Pte Peron,25 De Mayo,Glew,R:277-3-32/277-3-32,194,2026-01-07 21:36,2026-01-07,21:27:20
+-34.922687162,-58.369549869,11,media,Edesur,Pte Peron,25 De Mayo,Glew,R:277-3-32/277-3-32,211,2026-01-07 21:36,2026-01-07,21:27:20
+-34.927798052,-58.365404727,11,media,Edesur,Pte Peron,Quintas Agricolas,Glew,R:277-3-32/277-3-32,19,2026-01-07 21:36,2026-01-07,21:27:20
+-34.519,-58.7242,22,baja,Edenor,Jose C Paz,Jose C Paz,,,5,,2026-01-07,21:27:20
+-34.5236,-58.8211,22,baja,Edenor,Moreno,Cuartel V,,,7,,2026-01-07,21:27:20
+-34.5039,-58.7599,22,baja,Edenor,Jose C Paz,Jose C Paz,,,21,,2026-01-07,21:27:20
+-34.6642,-58.5586,22,baja,Edenor,La Matanza,Ramos Mejia,,,6,,2026-01-07,21:27:20
+-34.5708,-58.4931,22,baja,Edenor,Capital Federal,Villa Urquiza,,,27,,2026-01-07,21:27:20
+-34.698,-58.3021,21,baja,Edesur,Avellaneda,Wilde,,,13,,2026-01-07,21:27:20
+-34.6705,-58.3976,21,baja,Edesur,Lanus,Valentin Alsina,,,37,,2026-01-07,21:27:20
+-34.7026,-58.3949,21,baja,Edesur,Lanus,Lanus,,,51,,2026-01-07,21:27:20
+-34.6623,-58.403,21,baja,Edesur,Avellaneda,Piñeyro,,,5,,2026-01-07,21:27:20
+-34.7812,-58.2063,21,baja,Edesur,Berazategui,V. España,,,3,,2026-01-07,21:27:20
+-34.8947,-58.5443,21,baja,Edesur,Ezeiza,Tristan Suarez,,,2,,2026-01-07,21:27:20
