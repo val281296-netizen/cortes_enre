@@ -24520,3 +24520,37 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6054,-58.4263,21,baja,Edesur,Capital,Almagro,,,5,,2026-01-07,17:31:43
 -34.744,-58.2783,21,baja,Edesur,Quilmes,Quilmes,,,1,,2026-01-07,17:31:43
 -34.6625,-58.4146,21,baja,Edesur,Lanus,Valentin Alsina,,,1,,2026-01-07,17:31:43
+-34.797549949,-58.425121001,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-15/182-1-15,98,Sin Datos,2026-01-07,19:25:43
+-34.614276310,-58.426841394,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-4-46/020-4-46,627,2026-01-07 16:29,2026-01-07,19:25:43
+-34.614759946,-58.429388438,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-4-46/020-4-46,173,2026-01-07 16:29,2026-01-07,19:25:43
+-34.620537167,-58.445830999,11,media,Edesur,Capital Rp,Caballito Rp,Alberdi,R:218-1-13/218-1-13,1035,2026-01-07 16:33,2026-01-07,19:25:43
+-34.701214632,-58.395230355,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-3-36/186-3-36,516,2026-01-07 21:52,2026-01-07,19:25:43
+-34.702659981,-58.392508979,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-3-36/186-3-36,87,2026-01-07 21:52,2026-01-07,19:25:43
+-34.701923440,-58.393110655,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-3-36/186-3-36,133,2026-01-07 21:52,2026-01-07,19:25:43
+-34.702177930,-58.392570568,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-3-36/186-3-36,1,2026-01-07 21:52,2026-01-07,19:25:43
+-34.764830574,-58.402906977,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-2-24/182-2-24,146,2026-01-07 23:11,2026-01-07,19:25:43
+-34.762616445,-58.402721105,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-2-24/182-2-24,188,2026-01-07 23:11,2026-01-07,19:25:43
+-34.765374223,-58.402265792,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-2-24/182-2-24,87,2026-01-07 23:11,2026-01-07,19:25:43
+-34.763423783,-58.343897538,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-4-45/184-4-45,1,2026-01-07 19:41,2026-01-07,19:25:43
+-34.764212328,-58.339763389,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-4-45/184-4-45,417,2026-01-07 19:41,2026-01-07,19:25:43
+-34.760834263,-58.343049849,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-4-45/184-4-45,98,2026-01-07 19:41,2026-01-07,19:25:43
+-34.764786053,-58.346753008,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-4-45/184-4-45,1,2026-01-07 19:41,2026-01-07,19:25:43
+-34.763770809,-58.344950998,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-4-45/184-4-45,175,2026-01-07 19:41,2026-01-07,19:25:43
+-34.765051198,-58.344586388,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-4-45/184-4-45,503,2026-01-07 19:41,2026-01-07,19:25:43
+-34.584819790,-58.580320511,12,media,Edenor,3 De Febrero,Villa Bosch,S/D,R:Rotonda/262-Tr2/262-5534,604,Sin Datos,2026-01-07,19:25:43
+-34.519,-58.7242,22,baja,Edenor,Jose C Paz,Jose C Paz,,,5,,2026-01-07,19:25:43
+-34.5838,-58.7734,22,baja,Edenor,Moreno,Trujui,,,24,,2026-01-07,19:25:43
+-34.7745,-58.6105,22,baja,Edenor,La Matanza,Gonzalez Catan,,,4,,2026-01-07,19:25:43
+-34.5695,-58.4491,22,baja,Edenor,Capital Federal,Palermo,,,4,,2026-01-07,19:25:43
+-34.5236,-58.8211,22,baja,Edenor,Moreno,Cuartel V,,,5,,2026-01-07,19:25:43
+-34.5039,-58.7599,22,baja,Edenor,Jose C Paz,Jose C Paz,,,21,,2026-01-07,19:25:43
+-34.9135,-58.376,21,baja,Edesur,Pte Peron,Guernica,,,22,,2026-01-07,19:25:43
+-34.6144,-58.4711,21,baja,Edesur,Capital,Villa General Mitre,,,29,,2026-01-07,19:25:43
+-34.8827,-58.5683,21,baja,Edesur,Ezeiza,Tristan Suarez,,,46,,2026-01-07,19:25:43
+-34.698,-58.3021,21,baja,Edesur,Avellaneda,Wilde,,,14,,2026-01-07,19:25:43
+-34.6705,-58.3976,21,baja,Edesur,Lanus,Valentin Alsina,,,23,,2026-01-07,19:25:43
+-34.7026,-58.3949,21,baja,Edesur,Lanus,Lanus,,,56,,2026-01-07,19:25:43
+-34.6623,-58.403,21,baja,Edesur,Avellaneda,Piñeyro,,,4,,2026-01-07,19:25:43
+-34.6093,-58.3955,21,baja,Edesur,Capital,Balvanera,,,7,,2026-01-07,19:25:43
+-34.64,-58.445,21,baja,Edesur,Capital,Parque Chacabuco,,,1,,2026-01-07,19:25:43
+-34.6054,-58.4263,21,baja,Edesur,Capital,Almagro,,,4,,2026-01-07,19:25:43
