@@ -324,3 +324,52 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6627,-58.3663,21,baja,Edesur,Avellaneda,Avellaneda,,,10,,2026-01-09,17:29:01
 -34.7123,-58.3459,21,baja,Edesur,Avellaneda,Villa Dominico,,,12,,2026-01-09,17:29:01
 -34.8285,-58.1986,21,baja,Edesur,Florencio Varela,Bosques,,,3,,2026-01-09,17:29:01
+-34.762616445,-58.402721105,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Heroes De Malvinas,R:076-2-21/076-2-21,188,Sin Datos,2026-01-09,19:25:29
+-34.760537267,-58.402260361,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Heroes De Malvinas,R:076-2-21/076-2-21,55,2026-01-09 16:58,2026-01-09,19:25:29
+-34.654186661,-58.390376408,11,media,Edesur,Capital Rp,Barracas,Barracas,R:024-2-26/024-2-26,38,Sin Datos,2026-01-09,19:25:29
+-34.871346931,-58.543996355,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,116,2026-01-09 21:00,2026-01-09,19:25:29
+-34.882668719,-58.554946086,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,197,2026-01-09 21:00,2026-01-09,19:25:29
+-34.887293720,-58.550607588,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,317,2026-01-09 21:00,2026-01-09,19:25:29
+-34.880880116,-58.551418318,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,167,2026-01-09 21:00,2026-01-09,19:25:29
+-34.891107963,-58.547677621,11,media,Edesur,Ezeiza,Tristan Suarez,Echeverria,R:083-2-25/083-2-25,278,2026-01-09 21:00,2026-01-09,19:25:29
+-34.876204455,-58.546937960,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,121,2026-01-09 21:00,2026-01-09,19:25:29
+-34.883575404,-58.557026214,11,media,Edesur,Ezeiza,Tristan Suarez,Echeverria,R:083-2-25/083-2-25,38,2026-01-09 21:00,2026-01-09,19:25:29
+-34.878399686,-58.552744752,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,2,2026-01-09 21:00,2026-01-09,19:25:29
+-34.885155650,-58.554967992,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,15,2026-01-09 21:00,2026-01-09,19:25:29
+-34.884424908,-58.553843946,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,90,2026-01-09 21:00,2026-01-09,19:25:29
+-34.889379868,-58.551437498,11,media,Edesur,Ezeiza,Tristan Suarez,Echeverria,R:083-2-25/083-2-25,17,2026-01-09 21:00,2026-01-09,19:25:29
+-34.893006439,-58.547914000,11,media,Edesur,Ezeiza,Tristan Suarez,Echeverria,R:083-2-25/083-2-25,26,2026-01-09 21:00,2026-01-09,19:25:29
+-34.785326923,-58.332308624,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-31/189-3-31,22,2026-01-09 18:01,2026-01-09,19:25:29
+-34.785043710,-58.331397669,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-31/189-3-31,24,2026-01-09 18:01,2026-01-09,19:25:29
+-34.786293283,-58.332546896,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-31/189-3-31,21,2026-01-09 18:01,2026-01-09,19:25:29
+-34.785699251,-58.331406036,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-31/189-3-31,17,2026-01-09 18:01,2026-01-09,19:25:29
+-34.785333944,-58.330733613,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-31/189-3-31,10,2026-01-09 18:01,2026-01-09,19:25:29
+-34.784995256,-58.330075058,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-31/189-3-31,34,2026-01-09 18:01,2026-01-09,19:25:29
+-34.785957212,-58.331912898,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-31/189-3-31,8,2026-01-09 18:01,2026-01-09,19:25:29
+-34.786182549,-58.331771011,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-31/189-3-31,19,2026-01-09 18:01,2026-01-09,19:25:29
+-34.786900776,-58.332995476,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-31/189-3-31,18,2026-01-09 18:01,2026-01-09,19:25:29
+-34.785933253,-58.330865243,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-31/189-3-31,19,2026-01-09 18:01,2026-01-09,19:25:29
+-34.785199512,-58.329764480,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-31/189-3-31,16,2026-01-09 18:01,2026-01-09,19:25:29
+-34.786782745,-58.332163815,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-31/189-3-31,9,2026-01-09 18:01,2026-01-09,19:25:29
+-34.786448654,-58.331497179,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-31/189-3-31,11,2026-01-09 18:01,2026-01-09,19:25:29
+-34.786315172,-58.331232916,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-31/189-3-31,6,2026-01-09 18:01,2026-01-09,19:25:29
+-34.786142464,-58.330891001,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-31/189-3-31,17,2026-01-09 18:01,2026-01-09,19:25:29
+-34.785718620,-58.330087077,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-31/189-3-31,7,2026-01-09 18:01,2026-01-09,19:25:29
+-34.785623916,-58.329902505,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-31/189-3-31,5,2026-01-09 18:01,2026-01-09,19:25:29
+-34.785476866,-58.329615917,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-31/189-3-31,11,2026-01-09 18:01,2026-01-09,19:25:29
+-34.787473398,-58.332658559,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-31/189-3-31,30,2026-01-09 18:01,2026-01-09,19:25:29
+-34.786546125,-58.331540530,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-31/189-3-31,21,2026-01-09 18:01,2026-01-09,19:25:29
+-34.786728543,-58.330358558,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-31/189-3-31,22,2026-01-09 18:01,2026-01-09,19:25:29
+-34.785877624,-58.329289739,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-31/189-3-31,11,2026-01-09 18:01,2026-01-09,19:25:29
+-34.786060218,-58.329165262,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-31/189-3-31,5,2026-01-09 18:01,2026-01-09,19:25:29
+-34.785144725,-58.330365687,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-31/189-3-31,4,2026-01-09 18:01,2026-01-09,19:25:29
+-34.591161792,-58.409882391,12,media,Edenor,Capital Federal,Palermo,S/D,R:Melo/237-Tr2/237-5537,6,2026-01-09 21:30,2026-01-09,19:25:29
+-34.4858,-58.6611,22,baja,Edenor,Tigre,El Talar,,,4,,2026-01-09,19:25:29
+-34.5589,-58.4605,22,baja,Edenor,Capital Federal,Belgrano,,,17,,2026-01-09,19:25:29
+-34.6271,-58.5077,21,baja,Edesur,Capital,Monte Castro,,,5,,2026-01-09,19:25:29
+-34.6147,-58.4317,21,baja,Edesur,Capital,Caballito,,,47,,2026-01-09,19:25:29
+-34.6603,-58.3676,21,baja,Edesur,Avellaneda,Avellaneda,,,21,,2026-01-09,19:25:29
+-34.7477,-58.4489,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,7,,2026-01-09,19:25:29
+-34.7781,-58.2119,21,baja,Edesur,Berazategui,V. España,,,42,,2026-01-09,19:25:29
+-34.7123,-58.3459,21,baja,Edesur,Avellaneda,Villa Dominico,,,17,,2026-01-09,19:25:29
+-34.614,-58.4045,21,baja,Edesur,Capital,Balvanera,,,9,,2026-01-09,19:25:29
