@@ -25995,3 +25995,25 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.9167,-58.374,21,baja,Edesur,Pte Peron,Guernica,,,26,,2026-01-09,09:34:48
 -34.7611,-58.3652,21,baja,Edesur,Lomas De Zamora,Temperley,,,5,,2026-01-09,09:34:48
 -34.6041,-58.4578,21,baja,Edesur,Capital,Villa Crespo,,,5,,2026-01-09,09:34:48
+-34.661428167,-58.367225803,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-1-12/279-1-12,392,2026-01-09 08:42,2026-01-09,11:25:49
+-34.762616445,-58.402721105,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Heroes De Malvinas,R:076-2-21/076-2-21,188,2026-01-09 09:24,2026-01-09,11:25:49
+-34.655609094,-58.348405409,11,media,Edesur,Avellaneda,Dock Sud,Isla Maciel,R:072-1-03/072-1-03,1,2026-01-09 12:50,2026-01-09,11:25:49
+-34.655455742,-58.349059942,11,media,Edesur,Avellaneda,Dock Sud,Isla Maciel,R:072-1-03/072-1-03,37,2026-01-09 12:50,2026-01-09,11:25:49
+-34.376718717,-58.618834979,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,2026-01-09 13:56,2026-01-09,11:25:49
+-34.376585259,-58.616992258,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,10,2026-01-09 13:56,2026-01-09,11:25:49
+-34.377402213,-58.622048485,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,2026-01-09 13:56,2026-01-09,11:25:49
+-34.293246718,-58.545040357,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,2026-01-09 10:00,2026-01-09,11:25:49
+-34.292215497,-58.549001162,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,8,2026-01-09 10:00,2026-01-09,11:25:49
+-34.559615328,-58.461552080,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr1/114-5517,498,2026-01-09 09:28,2026-01-09,11:25:49
+-34.561785145,-58.459447260,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr1/114-5517,205,2026-01-09 09:28,2026-01-09,11:25:49
+-34.559575086,-58.462404360,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr1/114-5517,229,2026-01-09 09:28,2026-01-09,11:25:49
+-34.560594731,-58.461027133,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr1/114-5517,79,2026-01-09 09:28,2026-01-09,11:25:49
+-34.559758261,-58.461196921,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr1/114-5517,77,2026-01-09 09:28,2026-01-09,11:25:49
+-34.46,-59.0055,22,baja,Edenor,Pilar,Manzanares,,,5,,2026-01-09,11:25:49
+-34.3692,-58.8157,22,baja,Edenor,Escobar,Escobar,,,10,,2026-01-09,11:25:49
+-34.7204,-58.5661,22,baja,Edenor,La Matanza,Ciudad Evita,,,32,,2026-01-09,11:25:49
+-34.4741,-58.9295,22,baja,Edenor,Pilar,Pilar,,,7,,2026-01-09,11:25:49
+-34.7145,-58.2941,21,baja,Edesur,Quilmes,Bernal,,,4,,2026-01-09,11:25:49
+-34.9167,-58.374,21,baja,Edesur,Pte Peron,Guernica,,,26,,2026-01-09,11:25:49
+-34.7611,-58.3652,21,baja,Edesur,Lomas De Zamora,Temperley,,,5,,2026-01-09,11:25:49
+-34.6041,-58.4578,21,baja,Edesur,Capital,Villa Crespo,,,6,,2026-01-09,11:25:49
