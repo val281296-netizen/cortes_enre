@@ -1,0 +1,70 @@
+latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada,fecha_descarga,hora_descarga
+-34.661428167,-58.367225803,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-1-12/279-1-12,392,2026-01-09 14:42,2026-01-09,12:49:28
+-34.762616445,-58.402721105,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Heroes De Malvinas,R:076-2-21/076-2-21,188,Sin Datos,2026-01-09,12:49:28
+-34.588029986,-58.596012746,12,media,Edenor,3 De Febrero,Martin Coronado,S/D,R:Rotonda/262-Tr1/262-5515,218,Sin Datos,2026-01-09,12:49:28
+-34.462071312,-58.909315902,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5527,107,2026-01-09 12:15,2026-01-09,12:49:28
+-34.692516866,-58.500897626,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr2/162-5527,267,2026-01-09 16:00,2026-01-09,12:49:28
+-34.690528144,-58.497175155,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr2/162-5527,202,2026-01-09 16:00,2026-01-09,12:49:28
+-34.692418246,-58.499348876,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr2/162-5527,22,2026-01-09 16:00,2026-01-09,12:49:28
+-34.691467979,-58.498207641,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr2/162-5527,73,2026-01-09 16:00,2026-01-09,12:49:28
+-34.805470556,-58.626848324,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr1/168-5511,341,2026-01-09 13:00,2026-01-09,12:49:28
+-34.810830405,-58.622091893,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,363,2026-01-09 13:00,2026-01-09,12:49:28
+-34.810787387,-58.624850037,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,109,2026-01-09 13:00,2026-01-09,12:49:28
+-34.811810955,-58.623938895,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,87,2026-01-09 13:00,2026-01-09,12:49:28
+-34.814836932,-58.627222506,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,21,2026-01-09 13:00,2026-01-09,12:49:28
+-34.814026993,-58.624169705,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,15,2026-01-09 13:00,2026-01-09,12:49:28
+-34.815189295,-58.625368956,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,15,2026-01-09 13:00,2026-01-09,12:49:28
+-34.814065613,-58.623272968,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,35,2026-01-09 13:00,2026-01-09,12:49:28
+-34.816233953,-58.625566103,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,24,2026-01-09 13:00,2026-01-09,12:49:28
+-34.815470257,-58.624346984,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,10,2026-01-09 13:00,2026-01-09,12:49:28
+-34.814959164,-58.623483112,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,10,2026-01-09 13:00,2026-01-09,12:49:28
+-34.815637949,-58.623695376,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,14,2026-01-09 13:00,2026-01-09,12:49:28
+-34.815035206,-58.622539489,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,40,2026-01-09 13:00,2026-01-09,12:49:28
+-34.806405518,-58.623085907,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr1/168-5511,233,2026-01-09 13:00,2026-01-09,12:49:28
+-34.812117572,-58.624600894,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,24,2026-01-09 13:00,2026-01-09,12:49:28
+-34.814244493,-58.621104717,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,25,2026-01-09 13:00,2026-01-09,12:49:28
+-34.813725655,-58.620100579,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,15,2026-01-09 13:00,2026-01-09,12:49:28
+-34.808891916,-58.625451512,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr1/168-5511,163,2026-01-09 13:00,2026-01-09,12:49:28
+-34.808324510,-58.617155784,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,146,2026-01-09 13:00,2026-01-09,12:49:28
+-34.804477782,-58.625495957,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr1/168-5511,182,2026-01-09 13:00,2026-01-09,12:49:28
+-34.803418879,-58.626701964,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr1/168-5511,61,2026-01-09 13:00,2026-01-09,12:49:28
+-34.808889739,-58.618389314,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,332,2026-01-09 13:00,2026-01-09,12:49:28
+-34.815567086,-58.626406280,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,11,2026-01-09 13:00,2026-01-09,12:49:28
+-34.814495531,-58.623821651,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,10,2026-01-09 13:00,2026-01-09,12:49:28
+-34.813063188,-58.618744240,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,26,2026-01-09 13:00,2026-01-09,12:49:28
+-34.803465150,-58.622458541,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr1/168-5511,285,2026-01-09 13:00,2026-01-09,12:49:28
+-34.815781414,-58.623961487,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,55,2026-01-09 13:00,2026-01-09,12:49:28
+-34.803850983,-58.628738539,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr1/168-5511,155,2026-01-09 13:00,2026-01-09,12:49:28
+-34.813058388,-58.626338307,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,313,2026-01-09 13:00,2026-01-09,12:49:28
+-34.806431680,-58.612684985,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,118,2026-01-09 13:00,2026-01-09,12:49:28
+-34.867729564,-58.944540140,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2026-01-09 16:00,2026-01-09,12:49:28
+-34.864206302,-58.949164424,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2026-01-09 16:00,2026-01-09,12:49:28
+-34.864776019,-58.940878213,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2026-01-09 16:00,2026-01-09,12:49:28
+-34.717085104,-58.764583389,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Libertad/361-Tr2/361-5526,65,2026-01-09 12:30,2026-01-09,12:49:28
+-34.593351981,-58.847034804,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr3/263-5472/952-5511,66,2026-01-09 14:00,2026-01-09,12:49:28
+-34.596282945,-58.844105538,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr3/263-5472/952-5511,94,2026-01-09 14:00,2026-01-09,12:49:28
+-34.585898797,-58.854401724,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr3/263-5472/952-5511,83,2026-01-09 14:00,2026-01-09,12:49:28
+-34.589410980,-58.851014800,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr3/263-5472/952-5511,55,2026-01-09 14:00,2026-01-09,12:49:28
+-34.591921219,-58.848485219,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr3/263-5472/952-5511,2,2026-01-09 14:00,2026-01-09,12:49:28
+-34.452404539,-58.932001402,12,media,Edenor,Pilar,Pilar,S/D,R:Matheu/51-Tr4/51-5481,149,2026-01-09 12:55,2026-01-09,12:49:28
+-34.450526371,-58.930633093,12,media,Edenor,Pilar,Pilar,S/D,R:Matheu/51-Tr4/51-5481,48,2026-01-09 12:55,2026-01-09,12:49:28
+-34.450720378,-58.925285435,12,media,Edenor,Pilar,Pilar,S/D,R:Matheu/51-Tr4/51-5481,215,2026-01-09 12:55,2026-01-09,12:49:28
+-34.453160082,-58.933862799,12,media,Edenor,Pilar,Pilar,S/D,R:Matheu/51-Tr4/51-5481,168,2026-01-09 12:55,2026-01-09,12:49:28
+-34.449834623,-58.925713184,12,media,Edenor,Pilar,Pilar,S/D,R:Matheu/51-Tr4/51-5481,125,2026-01-09 12:55,2026-01-09,12:49:28
+-34.451226895,-58.928160941,12,media,Edenor,Pilar,Pilar,S/D,R:Matheu/51-Tr4/51-5481,42,2026-01-09 12:55,2026-01-09,12:49:28
+-34.454291023,-58.932299892,12,media,Edenor,Pilar,Pilar,S/D,R:Matheu/51-Tr4/51-5481,55,2026-01-09 12:55,2026-01-09,12:49:28
+-34.585826269,-58.886857154,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5521,42,2026-01-09 12:30,2026-01-09,12:49:28
+-34.557985150,-58.754061456,12,media,Edenor,San Miguel,San Miguel,S/D,R:San Miguel/165-Tr2/165-5525,109,2026-01-09 12:45,2026-01-09,12:49:28
+-34.474108531,-58.929541847,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,45,2026-01-09 13:25,2026-01-09,12:49:28
+-34.293246718,-58.545040357,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,2026-01-09 10:00,2026-01-09,12:49:28
+-34.292215497,-58.549001162,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,8,2026-01-09 10:00,2026-01-09,12:49:28
+-34.561785145,-58.459447260,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr1/114-5517,205,Sin Datos,2026-01-09,12:49:28
+-34.46,-59.0055,22,baja,Edenor,Pilar,Manzanares,,,5,,2026-01-09,12:49:28
+-34.3692,-58.8157,22,baja,Edenor,Escobar,Escobar,,,10,,2026-01-09,12:49:28
+-34.7204,-58.5661,22,baja,Edenor,La Matanza,Ciudad Evita,,,32,,2026-01-09,12:49:28
+-34.7183,-58.6348,22,baja,Edenor,La Matanza,Rafael Castillo,,,1,,2026-01-09,12:49:28
+-34.5585,-58.7532,22,baja,Edenor,San Miguel,San Miguel,,,1,,2026-01-09,12:49:28
+-34.7145,-58.2941,21,baja,Edesur,Quilmes,Bernal,,,4,,2026-01-09,12:49:28
+-34.9167,-58.374,21,baja,Edesur,Pte Peron,Guernica,,,25,,2026-01-09,12:49:28
+-34.7611,-58.3652,21,baja,Edesur,Lomas De Zamora,Temperley,,,7,,2026-01-09,12:49:28
+-34.6041,-58.4578,21,baja,Edesur,Capital,Villa Crespo,,,6,,2026-01-09,12:49:28
