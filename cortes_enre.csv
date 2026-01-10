@@ -1497,3 +1497,36 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7691,-58.4165,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,5,,2026-01-10,19:20:29
 -34.6274,-58.3833,21,baja,Edesur,Capital,Constitucion,,,4,,2026-01-10,19:20:29
 -34.6334,-58.4402,21,baja,Edesur,Capital,Parque Chacabuco,,,47,,2026-01-10,19:20:29
+-34.715940436,-58.443659376,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-2-26/089-2-26,105,2026-01-10 20:27,2026-01-10,21:24:03
+-34.716142663,-58.447893454,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-2-26/089-2-26,1,2026-01-10 20:27,2026-01-10,21:24:03
+-34.714945728,-58.445924528,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-2-26/089-2-26,57,2026-01-10 20:27,2026-01-10,21:24:03
+-35.204699006,-58.486704210,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,1,Sin Datos,2026-01-10,21:24:03
+-35.205051889,-58.491090715,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,1,Sin Datos,2026-01-10,21:24:03
+-35.200086122,-58.471595868,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,1,Sin Datos,2026-01-10,21:24:03
+-35.212634616,-58.481320475,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,1,Sin Datos,2026-01-10,21:24:03
+-35.220736480,-58.479123854,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,1,Sin Datos,2026-01-10,21:24:03
+-35.210115158,-58.454577747,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,1,Sin Datos,2026-01-10,21:24:03
+-35.235569217,-58.467415435,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,1,Sin Datos,2026-01-10,21:24:03
+-35.291205661,-58.572895596,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-1-14/271-1-14,1,Sin Datos,2026-01-10,21:24:03
+-35.268508815,-58.548541841,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,Sin Datos,2026-01-10,21:24:03
+-35.256706143,-58.508466173,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,2,Sin Datos,2026-01-10,21:24:03
+-35.238091218,-58.471354633,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,Sin Datos,2026-01-10,21:24:03
+-35.281100640,-58.558764737,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-1-14/271-1-14,1,Sin Datos,2026-01-10,21:24:03
+-35.261807623,-58.518628013,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,Sin Datos,2026-01-10,21:24:03
+-35.241616999,-58.478441705,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,Sin Datos,2026-01-10,21:24:03
+-34.4731,-58.761,22,baja,Edenor,Malvinas Argentinas,Tortuguitas,,,5,,2026-01-10,21:24:03
+-34.6529,-58.6159,22,baja,Edenor,Moron,Moron,,,6,,2026-01-10,21:24:03
+-34.6291,-58.8377,22,baja,Edenor,Moreno,La Reja,,,5,,2026-01-10,21:24:03
+-34.6838,-58.667,22,baja,Edenor,Moron,Castelar,,,4,,2026-01-10,21:24:03
+-34.5392,-58.763,22,baja,Edenor,Jose C Paz,Jose C Paz,,,21,,2026-01-10,21:24:03
+-34.8065,-58.4345,21,baja,Edesur,Lomas De Zamora,Lavallol,,,9,,2026-01-10,21:24:03
+-34.7282,-58.4235,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,54,,2026-01-10,21:24:03
+-34.8509,-58.5279,21,baja,Edesur,Ezeiza,Jose Maria Ezeiza,,,8,,2026-01-10,21:24:03
+-34.7354,-58.2612,21,baja,Edesur,Quilmes,Quilmes,,,23,,2026-01-10,21:24:03
+-34.5982,-58.3843,21,baja,Edesur,Capital,Retiro,,,5,,2026-01-10,21:24:03
+-34.7402,-58.2319,21,baja,Edesur,Quilmes,Ezpeleta,,,6,,2026-01-10,21:24:03
+-34.8267,-58.4437,21,baja,Edesur,Almirante Brown,Adrogue,,,34,,2026-01-10,21:24:03
+-34.7691,-58.4165,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,5,,2026-01-10,21:24:03
+-34.6274,-58.3833,21,baja,Edesur,Capital,Constitucion,,,5,,2026-01-10,21:24:03
+-34.6334,-58.4402,21,baja,Edesur,Capital,Parque Chacabuco,,,71,,2026-01-10,21:24:03
+-34.6361,-58.4121,21,baja,Edesur,Capital,Boedo,,,5,,2026-01-10,21:24:03
