@@ -1698,3 +1698,37 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.595,-58.4382,21,baja,Edesur,Capital,Villa Crespo,,,5,,2026-01-11,13:34:20
 -34.6214,-58.4673,21,baja,Edesur,Capital,Flores,,,1,,2026-01-11,13:34:20
 -34.7527,-58.3844,21,baja,Edesur,Lomas De Zamora,Banfield,,,3,,2026-01-11,13:34:20
+-34.749364856,-58.217918721,11,media,Edesur,Berazategui,Berazategui Centro,Sobral,R:175-1-11/175-1-11,452,2026-01-11 13:00,2026-01-11,15:26:36
+-34.747793178,-58.215028674,11,media,Edesur,Berazategui,Berazategui Centro,Sobral,R:175-1-11/175-1-11,112,2026-01-11 13:00,2026-01-11,15:26:36
+-34.745757920,-58.214138454,11,media,Edesur,Berazategui,Berazategui Centro,Sobral,R:175-1-11/175-1-11,47,2026-01-11 13:00,2026-01-11,15:26:36
+-34.748369607,-58.213780064,11,media,Edesur,Berazategui,Berazategui Centro,Sobral,R:175-1-11/175-1-11,42,2026-01-11 13:00,2026-01-11,15:26:36
+-34.746202880,-58.209944863,11,media,Edesur,Berazategui,Berazategui Centro,Sobral,R:175-1-11/175-1-11,66,2026-01-11 13:00,2026-01-11,15:26:36
+-34.747568556,-58.218521309,11,media,Edesur,Quilmes,Ezpeleta,Sobral,R:175-1-11/175-1-11,125,2026-01-11 13:00,2026-01-11,15:26:36
+-34.745082564,-58.212578038,11,media,Edesur,Berazategui,Berazategui Centro,Sobral,R:175-1-11/175-1-11,67,2026-01-11 13:00,2026-01-11,15:26:36
+-34.879129489,-58.382281380,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-2-24/277-2-24,311,2026-01-11 13:03,2026-01-11,15:26:36
+-34.750698255,-58.583160334,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5524,104,2026-01-11 15:00,2026-01-11,15:26:36
+-34.751039961,-58.583546676,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5524,88,2026-01-11 15:00,2026-01-11,15:26:36
+-34.724974750,-58.784466666,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5515,160,2026-01-11 15:00,2026-01-11,15:26:36
+-34.723572462,-58.786382528,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5515,206,2026-01-11 15:00,2026-01-11,15:26:36
+-34.521383843,-58.757320774,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr2/254-5526,1,2026-01-11 14:20,2026-01-11,15:26:36
+-34.521801105,-58.758127553,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr2/254-5526,153,2026-01-11 14:20,2026-01-11,15:26:36
+-34.394691123,-58.976013883,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr3/357-5481,3,Sin Datos,2026-01-11,15:26:36
+-34.396826027,-58.970062003,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr3/357-5481,11,Sin Datos,2026-01-11,15:26:36
+-34.395941093,-58.964474407,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr3/357-5481,48,Sin Datos,2026-01-11,15:26:36
+-34.394725410,-58.963139656,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr3/357-5481,6,Sin Datos,2026-01-11,15:26:36
+-34.398217483,-58.980171032,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr3/357-5481,1,Sin Datos,2026-01-11,15:26:36
+-34.348232183,-58.793959330,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5527,324,Sin Datos,2026-01-11,15:26:36
+-34.672564587,-58.985457201,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,11,2026-01-11 12:30,2026-01-11,15:26:36
+-34.619723113,-58.736115285,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5533,22,Sin Datos,2026-01-11,15:26:36
+-34.4548,-58.5639,22,baja,Edenor,San Fernando,San Fernando,,,19,,2026-01-11,15:26:36
+-34.7598,-58.6492,22,baja,Edenor,La Matanza,Gonzalez Catan,,,25,,2026-01-11,15:26:36
+-34.6252,-58.7783,22,baja,Edenor,Moreno,Moreno,,,24,,2026-01-11,15:26:36
+-34.8065,-58.4345,21,baja,Edesur,Lomas De Zamora,Lavallol,,,9,,2026-01-11,15:26:36
+-34.7509,-58.3855,21,baja,Edesur,Lomas De Zamora,Banfield,,,96,,2026-01-11,15:26:36
+-34.6018,-58.4511,21,baja,Edesur,Capital,Villa Crespo,,,14,,2026-01-11,15:26:36
+-34.6273,-58.4414,21,baja,Edesur,Capital,Caballito,,,14,,2026-01-11,15:26:36
+-34.595,-58.4382,21,baja,Edesur,Capital,Villa Crespo,,,5,,2026-01-11,15:26:36
+-34.6316,-58.4967,21,baja,Edesur,Capital,Velez Sarfield,,,8,,2026-01-11,15:26:36
+-34.6117,-58.3945,21,baja,Edesur,Capital,Balvanera,,,11,,2026-01-11,15:26:36
+-34.6078,-58.3955,21,baja,Edesur,Capital,Balvanera,,,5,,2026-01-11,15:26:36
+-34.6369,-58.5039,21,baja,Edesur,Capital,Capital,,,1,,2026-01-11,15:26:36
