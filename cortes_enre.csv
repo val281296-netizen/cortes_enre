@@ -1667,3 +1667,34 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7253,-58.2591,21,baja,Edesur,Quilmes,Quilmes,,,3,,2026-01-11,11:22:47
 -34.7509,-58.3855,21,baja,Edesur,Lomas De Zamora,Banfield,,,12,,2026-01-11,11:22:47
 -34.6018,-58.4511,21,baja,Edesur,Capital,Villa Crespo,,,9,,2026-01-11,11:22:47
+-34.749364856,-58.217918721,11,media,Edesur,Berazategui,Berazategui Centro,Sobral,R:175-1-11/175-1-11,452,2026-01-11 13:00,2026-01-11,13:34:20
+-34.747793178,-58.215028674,11,media,Edesur,Berazategui,Berazategui Centro,Sobral,R:175-1-11/175-1-11,112,2026-01-11 13:00,2026-01-11,13:34:20
+-34.745757920,-58.214138454,11,media,Edesur,Berazategui,Berazategui Centro,Sobral,R:175-1-11/175-1-11,47,2026-01-11 13:00,2026-01-11,13:34:20
+-34.748369607,-58.213780064,11,media,Edesur,Berazategui,Berazategui Centro,Sobral,R:175-1-11/175-1-11,42,2026-01-11 13:00,2026-01-11,13:34:20
+-34.746202880,-58.209944863,11,media,Edesur,Berazategui,Berazategui Centro,Sobral,R:175-1-11/175-1-11,66,2026-01-11 13:00,2026-01-11,13:34:20
+-34.747568556,-58.218521309,11,media,Edesur,Quilmes,Ezpeleta,Sobral,R:175-1-11/175-1-11,125,2026-01-11 13:00,2026-01-11,13:34:20
+-34.745082564,-58.212578038,11,media,Edesur,Berazategui,Berazategui Centro,Sobral,R:175-1-11/175-1-11,67,2026-01-11 13:00,2026-01-11,13:34:20
+-34.879129489,-58.382281380,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-2-24/277-2-24,311,2026-01-11 13:03,2026-01-11,13:34:20
+-34.750698255,-58.583160334,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5524,104,2026-01-11 15:00,2026-01-11,13:34:20
+-34.751039961,-58.583546676,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5524,88,2026-01-11 15:00,2026-01-11,13:34:20
+-34.724974750,-58.784466666,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5515,160,2026-01-11 15:00,2026-01-11,13:34:20
+-34.723572462,-58.786382528,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5515,206,2026-01-11 15:00,2026-01-11,13:34:20
+-34.521383843,-58.757320774,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr2/254-5526,1,2026-01-11 14:20,2026-01-11,13:34:20
+-34.521801105,-58.758127553,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr2/254-5526,153,2026-01-11 14:20,2026-01-11,13:34:20
+-34.394691123,-58.976013883,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr3/357-5481,3,2026-01-11 12:00,2026-01-11,13:34:20
+-34.396826027,-58.970062003,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr3/357-5481,11,2026-01-11 12:00,2026-01-11,13:34:20
+-34.395941093,-58.964474407,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr3/357-5481,48,2026-01-11 12:00,2026-01-11,13:34:20
+-34.394725410,-58.963139656,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr3/357-5481,6,2026-01-11 12:00,2026-01-11,13:34:20
+-34.398217483,-58.980171032,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr3/357-5481,1,2026-01-11 12:00,2026-01-11,13:34:20
+-34.6252,-58.7783,22,baja,Edenor,Moreno,Moreno,,,24,,2026-01-11,13:34:20
+-34.7158,-58.7998,22,baja,Edenor,Merlo,Mariano Acosta,,,1,,2026-01-11,13:34:20
+-34.8065,-58.4345,21,baja,Edesur,Lomas De Zamora,Lavallol,,,9,,2026-01-11,13:34:20
+-34.8509,-58.5279,21,baja,Edesur,Ezeiza,Jose Maria Ezeiza,,,16,,2026-01-11,13:34:20
+-34.7253,-58.2591,21,baja,Edesur,Quilmes,Quilmes,,,3,,2026-01-11,13:34:20
+-34.7509,-58.3855,21,baja,Edesur,Lomas De Zamora,Banfield,,,97,,2026-01-11,13:34:20
+-34.6018,-58.4511,21,baja,Edesur,Capital,Villa Crespo,,,10,,2026-01-11,13:34:20
+-34.9021,-58.3623,21,baja,Edesur,Pte Peron,Guernica,,,6,,2026-01-11,13:34:20
+-34.6774,-58.3509,21,baja,Edesur,Avellaneda,Sarandi,,,3,,2026-01-11,13:34:20
+-34.595,-58.4382,21,baja,Edesur,Capital,Villa Crespo,,,5,,2026-01-11,13:34:20
+-34.6214,-58.4673,21,baja,Edesur,Capital,Flores,,,1,,2026-01-11,13:34:20
+-34.7527,-58.3844,21,baja,Edesur,Lomas De Zamora,Banfield,,,3,,2026-01-11,13:34:20
