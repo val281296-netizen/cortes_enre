@@ -2175,3 +2175,61 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6035,-58.5489,22,baja,Edenor,3 De Febrero,Santos Lugares,,,56,,2026-01-12,13:47:14
 -34.8065,-58.4345,21,baja,Edesur,Lomas De Zamora,Lavallol,,,11,,2026-01-12,13:47:14
 -34.6334,-58.4836,21,baja,Edesur,Capital,Velez Sarfield,,,13,,2026-01-12,13:47:14
+-34.762616445,-58.402721105,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-2-24/182-2-24,188,2026-01-12 15:48,2026-01-12,15:33:15
+-34.736457084,-58.620055229,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5542,9,2026-01-12 15:00,2026-01-12,15:33:15
+-34.736011658,-58.619635275,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5542,11,2026-01-12 15:00,2026-01-12,15:33:15
+-34.735820568,-58.620807056,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr1/451-5542,8,2026-01-12 15:00,2026-01-12,15:33:15
+-34.735458337,-58.620679746,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr1/451-5542,14,2026-01-12 15:00,2026-01-12,15:33:15
+-34.734859862,-58.620897103,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr1/451-5542,8,2026-01-12 15:00,2026-01-12,15:33:15
+-34.735580814,-58.619989475,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr1/451-5542,30,2026-01-12 15:00,2026-01-12,15:33:15
+-34.739152860,-58.614671337,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5542,429,2026-01-12 15:00,2026-01-12,15:33:15
+-34.739702232,-58.617198516,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5542,226,2026-01-12 15:00,2026-01-12,15:33:15
+-34.737502527,-58.619986209,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5542,29,2026-01-12 15:00,2026-01-12,15:33:15
+-34.741255258,-58.618318587,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5542,298,2026-01-12 15:00,2026-01-12,15:33:15
+-34.680265032,-58.513024942,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr1/65-5514,392,2026-01-12 13:00,2026-01-12,15:33:15
+-34.674538969,-58.533986704,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr2/164-5528,32,2026-01-12 13:00,2026-01-12,15:33:15
+-34.672971687,-58.535326074,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr2/164-5528,21,2026-01-12 13:00,2026-01-12,15:33:15
+-34.716955223,-58.799054872,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5525,301,2026-01-12 16:00,2026-01-12,15:33:15
+-34.940467175,-58.911807479,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,4,2026-01-12 16:00,2026-01-12,15:33:15
+-34.937839072,-58.920643849,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,6,2026-01-12 16:00,2026-01-12,15:33:15
+-34.932462005,-58.922298018,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2026-01-12 16:00,2026-01-12,15:33:15
+-34.929344695,-58.926523845,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,3,2026-01-12 16:00,2026-01-12,15:33:15
+-34.458409056,-58.755917101,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Tortuguitas/252-Tr2/252-5538,48,2026-01-12 12:30,2026-01-12,15:33:15
+-34.400330662,-58.786446018,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Garin/454-Tr1/454-5515,275,Sin Datos,2026-01-12,15:33:15
+-34.402188349,-58.785508922,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Garin/454-Tr1/454-5515,118,Sin Datos,2026-01-12,15:33:15
+-34.239670874,-58.488612824,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,23,Sin Datos,2026-01-12,15:33:15
+-34.229231658,-58.486799725,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,14,Sin Datos,2026-01-12,15:33:15
+-34.216760572,-58.498825190,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,12,Sin Datos,2026-01-12,15:33:15
+-34.197934829,-58.499507548,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-01-12,15:33:15
+-34.717674942,-58.525326174,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Matanza/65-Tr4/65-5542,60,Sin Datos,2026-01-12,15:33:15
+-34.720178484,-58.528060307,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Matanza/65-Tr4/65-5542,168,Sin Datos,2026-01-12,15:33:15
+-34.722268760,-58.530285360,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Matanza/65-Tr4/65-5542,251,Sin Datos,2026-01-12,15:33:15
+-34.719639282,-58.525179423,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Matanza/65-Tr4/65-5542,230,Sin Datos,2026-01-12,15:33:15
+-34.717158544,-58.526674650,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Matanza/65-Tr4/65-5542,256,Sin Datos,2026-01-12,15:33:15
+-34.721478311,-58.529376482,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Matanza/65-Tr4/65-5542,133,Sin Datos,2026-01-12,15:33:15
+-34.717523484,-58.527962548,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Matanza/65-Tr4/65-5542,297,Sin Datos,2026-01-12,15:33:15
+-34.317637192,-58.519044119,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2026-01-12 13:00,2026-01-12,15:33:15
+-34.318723988,-58.534047967,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,6,2026-01-12 13:00,2026-01-12,15:33:15
+-34.312871793,-58.512384830,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-01-12 13:00,2026-01-12,15:33:15
+-34.314133371,-58.532329527,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-01-12 13:00,2026-01-12,15:33:15
+-34.314930035,-58.534574950,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,2026-01-12 13:00,2026-01-12,15:33:15
+-34.307593565,-58.536181417,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,5,2026-01-12 13:00,2026-01-12,15:33:15
+-34.307000075,-58.533444764,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-01-12 13:00,2026-01-12,15:33:15
+-34.325566791,-58.529779837,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-01-12 13:00,2026-01-12,15:33:15
+-34.402093590,-58.561078562,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,11,2026-01-12 13:00,2026-01-12,15:33:15
+-34.5676,-58.4559,22,baja,Edenor,Capital Federal,Belgrano,,,57,,2026-01-12,15:33:15
+-34.4781,-58.8259,22,baja,Edenor,Pilar,Pte Derqui,,,26,,2026-01-12,15:33:15
+-34.4579,-58.9029,22,baja,Edenor,Pilar,Pilar,,,9,,2026-01-12,15:33:15
+-34.72,-58.5318,22,baja,Edenor,La Matanza,Ciudad Evita,,,4,,2026-01-12,15:33:15
+-34.4478,-58.897,22,baja,Edenor,Pilar,Pilar,,,4,,2026-01-12,15:33:15
+-34.735,-58.7395,22,baja,Edenor,Merlo,Mariano Acosta,,,16,,2026-01-12,15:33:15
+-34.617,-58.6512,22,baja,Edenor,Hurlingham,Villa Tesei,,,1,,2026-01-12,15:33:15
+-34.728,-58.6578,22,baja,Edenor,La Matanza,Gonzalez Catan,,,12,,2026-01-12,15:33:15
+-34.405,-58.6035,22,baja,Edenor,Tigre,Rincon De Milberg,,,8,,2026-01-12,15:33:15
+-34.4416,-58.8108,22,baja,Edenor,Pilar,Del Viso,,,5,,2026-01-12,15:33:15
+-34.6662,-58.5283,22,baja,Edenor,La Matanza,Lomas Del Mirador,,,4,,2026-01-12,15:33:15
+-34.8065,-58.4345,21,baja,Edesur,Lomas De Zamora,Lavallol,,,11,,2026-01-12,15:33:15
+-34.6334,-58.4836,21,baja,Edesur,Capital,Velez Sarfield,,,20,,2026-01-12,15:33:15
+-34.6274,-58.3833,21,baja,Edesur,Capital,Constitucion,,,15,,2026-01-12,15:33:15
+-34.6239,-58.4763,21,baja,Edesur,Capital,Flores,,,11,,2026-01-12,15:33:15
+-34.6572,-58.5132,21,baja,Edesur,Capital,Mataderos,,,7,,2026-01-12,15:33:15
