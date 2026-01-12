@@ -2471,3 +2471,54 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7549,-58.3899,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,7,,2026-01-12,21:28:14
 -34.8993,-58.547,21,baja,Edesur,Ezeiza,Tristan Suarez,,,1,,2026-01-12,21:28:14
 -34.7775,-58.3571,21,baja,Edesur,Almirante Brown,Marmol,,,1,,2026-01-12,21:28:14
+-34.806903125,-58.266385185,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-52/286-5-52,522,2026-01-13 01:26,2026-01-12,23:22:29
+-34.803273556,-58.264244354,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-52/286-5-52,38,2026-01-13 01:26,2026-01-12,23:22:29
+-34.592816161,-58.373916937,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-3-37/025-3-37,1,2026-01-13 00:38,2026-01-12,23:22:29
+-34.589052768,-58.373920104,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-3-37/025-3-37,4,2026-01-13 00:38,2026-01-12,23:22:29
+-34.590496018,-58.371480197,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-3-37/025-3-37,1,2026-01-13 00:38,2026-01-12,23:22:29
+-34.587728234,-58.374052559,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-3-37/025-3-37,1,2026-01-13 00:38,2026-01-12,23:22:29
+-34.498039992,-58.927376156,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,47,2026-01-13 12:15,2026-01-12,23:22:29
+-34.497766231,-58.934620815,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,99,2026-01-13 12:15,2026-01-12,23:22:29
+-34.503664850,-58.934539587,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,10,2026-01-13 12:15,2026-01-12,23:22:29
+-34.496388982,-58.932209925,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,10,2026-01-13 12:15,2026-01-12,23:22:29
+-34.495181717,-58.929496770,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,58,2026-01-13 12:15,2026-01-12,23:22:29
+-34.500719786,-58.925317872,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,2,2026-01-13 12:15,2026-01-12,23:22:29
+-34.499812827,-58.934966818,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,120,2026-01-13 12:15,2026-01-12,23:22:29
+-34.491860319,-58.932092432,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,68,2026-01-13 12:15,2026-01-12,23:22:29
+-34.501151552,-58.929143653,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,79,2026-01-13 12:15,2026-01-12,23:22:29
+-34.491970118,-58.924129235,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,3,2026-01-13 12:15,2026-01-12,23:22:29
+-34.502533413,-58.923886243,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,1,2026-01-13 12:15,2026-01-12,23:22:29
+-34.419505381,-58.691286715,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr1/59-5511,319,Sin Datos,2026-01-12,23:22:29
+-34.721478311,-58.529376482,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Matanza/65-Tr4/65-5542,133,2026-01-12 23:20,2026-01-12,23:22:29
+-34.5872,-58.4995,22,baja,Edenor,Capital Federal,Villa Pueyrred?N,,,16,,2026-01-12,23:22:29
+-34.8224,-58.6484,22,baja,Edenor,La Matanza,Virrey Del Pino,,,22,,2026-01-12,23:22:29
+-34.7215,-58.7978,22,baja,Edenor,Merlo,Mariano Acosta,,,6,,2026-01-12,23:22:29
+-34.7537,-58.6182,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,36,,2026-01-12,23:22:29
+-34.783,-58.8395,22,baja,Edenor,Marcos Paz,Marcos Paz,,,30,,2026-01-12,23:22:29
+-34.6582,-58.7994,22,baja,Edenor,Moreno,Moreno,,,22,,2026-01-12,23:22:29
+-34.641,-58.7384,22,baja,Edenor,Moreno,Paso Del Rey,,,61,,2026-01-12,23:22:29
+-34.6024,-58.5273,22,baja,Edenor,3 De Febrero,Saenz Pe?A,,,1,,2026-01-12,23:22:29
+-34.6803,-58.513,22,baja,Edenor,La Matanza,La Tablada,,,19,,2026-01-12,23:22:29
+-34.4238,-58.6879,22,baja,Edenor,Tigre,Benavidez,,,60,,2026-01-12,23:22:29
+-34.4518,-58.6432,22,baja,Edenor,Tigre,General Pacheco,,,4,,2026-01-12,23:22:29
+-34.8065,-58.4345,21,baja,Edesur,Lomas De Zamora,Lavallol,,,12,,2026-01-12,23:22:29
+-34.7074,-58.3212,21,baja,Edesur,Avellaneda,Wilde,,,5,,2026-01-12,23:22:29
+-34.6274,-58.3833,21,baja,Edesur,Capital,Constitucion,,,25,,2026-01-12,23:22:29
+-34.688,-58.4255,21,baja,Edesur,Lanus,Lanus,,,88,,2026-01-12,23:22:29
+-34.9163,-58.3721,21,baja,Edesur,Pte Peron,Guernica,,,9,,2026-01-12,23:22:29
+-34.6173,-58.3767,21,baja,Edesur,Capital,San Telmo,,,5,,2026-01-12,23:22:29
+-34.6572,-58.5132,21,baja,Edesur,Capital,Mataderos,,,30,,2026-01-12,23:22:29
+-34.9777,-58.4924,21,baja,Edesur,San Vicente,San Vicente,,,19,,2026-01-12,23:22:29
+-34.646,-58.4347,21,baja,Edesur,Capital,Parque Chacabuco,,,9,,2026-01-12,23:22:29
+-34.6175,-58.4373,21,baja,Edesur,Capital,Caballito,,,8,,2026-01-12,23:22:29
+-34.6266,-58.4163,21,baja,Edesur,Capital,Boedo,,,16,,2026-01-12,23:22:29
+-34.6227,-58.3997,21,baja,Edesur,Capital,San Cristobal,,,81,,2026-01-12,23:22:29
+-34.5936,-58.4443,21,baja,Edesur,Capital,Villa Crespo,,,6,,2026-01-12,23:22:29
+-34.7651,-58.1838,21,baja,Edesur,Berazategui,Berazategui,,,14,,2026-01-12,23:22:29
+-34.8188,-58.2817,21,baja,Edesur,Florencio Varela,Florencio Varela,,,7,,2026-01-12,23:22:29
+-34.7549,-58.3899,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,13,,2026-01-12,23:22:29
+-34.8794,-58.414,21,baja,Edesur,Pte Peron,America Unida,,,7,,2026-01-12,23:22:29
+-34.9192,-58.6117,21,baja,Edesur,Ezeiza,Carlos Spegazzinni,,,2,,2026-01-12,23:22:29
+-34.7778,-58.281,21,baja,Edesur,Florencio Varela,Florencio Varela,,,14,,2026-01-12,23:22:29
+-34.725,-58.3179,21,baja,Edesur,Quilmes,Bernal,,,5,,2026-01-12,23:22:29
+-34.7841,-58.1621,21,baja,Edesur,Berazategui,Platanos,,,1,,2026-01-12,23:22:29
