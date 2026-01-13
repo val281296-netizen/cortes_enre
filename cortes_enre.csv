@@ -2827,3 +2827,65 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7503,-58.5005,21,baja,Edesur,Esteban Echeverria,9 De Abril,,,2,,2026-01-13,05:32:11
 -34.7086,-58.4496,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,10,,2026-01-13,05:32:11
 -34.7965,-58.3901,21,baja,Edesur,Almirante Brown,Adrogue,,,2,,2026-01-13,05:32:11
+-34.767469460,-58.343484960,11,media,Edesur,Almirante Brown,San Jose,Rafael Calzada,R:189-4-47/189-4-47,201,2026-01-13 08:38,2026-01-13,07:31:00
+-34.735338922,-58.497494545,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-3-31/281-3-31,213,2026-01-13 07:15,2026-01-13,07:31:00
+-34.730172921,-58.495898278,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-3-31/281-3-31,114,2026-01-13 07:15,2026-01-13,07:31:00
+-34.732859851,-58.498837874,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-3-31/281-3-31,183,2026-01-13 07:15,2026-01-13,07:31:00
+-34.731809356,-58.494078282,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-3-31/281-3-31,6,2026-01-13 07:15,2026-01-13,07:31:00
+-34.729217242,-58.495935927,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-3-31/281-3-31,3,2026-01-13 07:15,2026-01-13,07:31:00
+-34.733222757,-58.493043026,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-3-31/281-3-31,2,2026-01-13 07:15,2026-01-13,07:31:00
+-34.734760352,-58.494391657,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-3-31/281-3-31,1,2026-01-13 07:15,2026-01-13,07:31:00
+-34.735805466,-58.496288067,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-3-31/281-3-31,2,2026-01-13 07:15,2026-01-13,07:31:00
+-34.733289347,-58.495611124,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-3-31/281-3-31,207,2026-01-13 07:15,2026-01-13,07:31:00
+-34.821489855,-58.220185864,11,media,Edesur,Florencio Varela,Bosques,Ezpeleta,R:080-1-01/080-1-01,57,Sin Datos,2026-01-13,07:31:00
+-34.795510727,-58.387860864,11,media,Edesur,Almirante Brown,Adrogue,Santa Catalina,R:182-2-21/182-2-21,263,Sin Datos,2026-01-13,07:31:00
+-34.601193688,-58.470873541,11,media,Edesur,Capital Gp,La Paternal,Santa Rita,R:143-4-43/143-4-43,200,2026-01-13 09:06,2026-01-13,07:31:00
+-34.600007510,-58.471459950,11,media,Edesur,Capital Gp,La Paternal,Santa Rita,R:143-4-43/143-4-43,64,2026-01-13 09:06,2026-01-13,07:31:00
+-34.601126838,-58.471058257,11,media,Edesur,Capital Gp,La Paternal,Santa Rita,R:143-4-43/143-4-43,137,2026-01-13 09:06,2026-01-13,07:31:00
+-34.4115,-58.7422,22,baja,Edenor,Escobar,Garin,,,12,,2026-01-13,07:31:00
+-34.497,-58.7456,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,2,,2026-01-13,07:31:00
+-34.4641,-58.8464,22,baja,Edenor,Pilar,La Lonja,,,21,,2026-01-13,07:31:00
+-34.4518,-58.6432,22,baja,Edenor,Tigre,General Pacheco,,,4,,2026-01-13,07:31:00
+-34.5743,-58.7152,22,baja,Edenor,San Miguel,Bella Vista,,,11,,2026-01-13,07:31:00
+-34.3515,-58.7286,22,baja,Edenor,Escobar,Escobar,,,16,,2026-01-13,07:31:00
+-34.5281,-58.7286,22,baja,Edenor,San Miguel,San Miguel,,,27,,2026-01-13,07:31:00
+-34.5921,-58.7286,22,baja,Edenor,San Miguel,Bella Vista,,,19,,2026-01-13,07:31:00
+-34.7021,-58.4748,22,baja,Edenor,La Matanza,Villa Madero,,,17,,2026-01-13,07:31:00
+-34.6745,-58.5172,22,baja,Edenor,La Matanza,La Tablada,,,5,,2026-01-13,07:31:00
+-34.676,-58.829,22,baja,Edenor,Moreno,Moreno,,,12,,2026-01-13,07:31:00
+-34.586,-58.7411,22,baja,Edenor,San Miguel,San Miguel,,,20,,2026-01-13,07:31:00
+-34.5669,-58.4715,22,baja,Edenor,Capital Federal,Coghlan,,,21,,2026-01-13,07:31:00
+-34.4632,-58.6695,22,baja,Edenor,Tigre,El Talar,,,4,,2026-01-13,07:31:00
+-34.6583,-58.694,22,baja,Edenor,Ituzaingo,Ituzaingo,,,42,,2026-01-13,07:31:00
+-34.5714,-58.4613,22,baja,Edenor,Capital Federal,Belgrano,,,26,,2026-01-13,07:31:00
+-34.7343,-58.5885,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,33,,2026-01-13,07:31:00
+-34.8065,-58.4345,21,baja,Edesur,Lomas De Zamora,Lavallol,,,12,,2026-01-13,07:31:00
+-34.7074,-58.3212,21,baja,Edesur,Avellaneda,Wilde,,,7,,2026-01-13,07:31:00
+-34.6859,-58.4269,21,baja,Edesur,Lanus,Lanus,,,107,,2026-01-13,07:31:00
+-34.9163,-58.3721,21,baja,Edesur,Pte Peron,Guernica,,,10,,2026-01-13,07:31:00
+-34.6778,-58.484,21,baja,Edesur,Capital,Villa Lugano,,,55,,2026-01-13,07:31:00
+-34.6572,-58.5132,21,baja,Edesur,Capital,Mataderos,,,37,,2026-01-13,07:31:00
+-34.646,-58.4347,21,baja,Edesur,Capital,Parque Chacabuco,,,9,,2026-01-13,07:31:00
+-34.6175,-58.4373,21,baja,Edesur,Capital,Caballito,,,8,,2026-01-13,07:31:00
+-34.7527,-58.3643,21,baja,Edesur,Lomas De Zamora,Temperley,,,4,,2026-01-13,07:31:00
+-34.5936,-58.4443,21,baja,Edesur,Capital,Villa Crespo,,,6,,2026-01-13,07:31:00
+-34.7651,-58.1838,21,baja,Edesur,Berazategui,Berazategui,,,16,,2026-01-13,07:31:00
+-34.81,-58.2169,21,baja,Edesur,Florencio Varela,Bosques,,,5,,2026-01-13,07:31:00
+-34.8188,-58.2817,21,baja,Edesur,Florencio Varela,Florencio Varela,,,7,,2026-01-13,07:31:00
+-34.756,-58.3911,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,23,,2026-01-13,07:31:00
+-34.725,-58.3179,21,baja,Edesur,Quilmes,Bernal,,,7,,2026-01-13,07:31:00
+-34.7311,-58.3579,21,baja,Edesur,Lanus,Monte Chingolo,,,32,,2026-01-13,07:31:00
+-34.7322,-58.4706,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,9,,2026-01-13,07:31:00
+-34.7864,-58.303,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,6,,2026-01-13,07:31:00
+-34.7058,-58.4374,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,34,,2026-01-13,07:31:00
+-34.7552,-58.3825,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,35,,2026-01-13,07:31:00
+-34.7847,-58.199,21,baja,Edesur,Berazategui,Ranelagh,,,8,,2026-01-13,07:31:00
+-34.7213,-58.3013,21,baja,Edesur,Quilmes,Bernal,,,22,,2026-01-13,07:31:00
+-34.6911,-58.473,21,baja,Edesur,Capital,Villa Riachuelo,,,6,,2026-01-13,07:31:00
+-34.7552,-58.488,21,baja,Edesur,Esteban Echeverria,9 De Abril,,,7,,2026-01-13,07:31:00
+-34.777,-58.2818,21,baja,Edesur,Florencio Varela,Florencio Varela,,,7,,2026-01-13,07:31:00
+-34.7503,-58.5005,21,baja,Edesur,Esteban Echeverria,9 De Abril,,,2,,2026-01-13,07:31:00
+-34.7086,-58.4496,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,11,,2026-01-13,07:31:00
+-34.7965,-58.3901,21,baja,Edesur,Almirante Brown,Adrogue,,,3,,2026-01-13,07:31:00
+-34.7265,-58.4391,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,5,,2026-01-13,07:31:00
+-34.7191,-58.3599,21,baja,Edesur,Lanus,Lanus,,,2,,2026-01-13,07:31:00
