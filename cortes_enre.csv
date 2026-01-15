@@ -7743,3 +7743,564 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8412,-58.2753,21,baja,Edesur,Florencio Varela,Florencio Varela,,,2,,2026-01-15,21:28:16
 -34.6046,-58.4925,21,baja,Edesur,Capital,Villa Del Parque,,,2,,2026-01-15,21:28:16
 -34.7625,-58.3521,21,baja,Edesur,Almirante Brown,San Jose,,,1,,2026-01-15,21:28:16
+-34.827920925,-58.414639145,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-4-46/180-4-46,238,Sin Datos,2026-01-15,23:28:07
+-34.826231088,-58.415126463,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-4-46/180-4-46,19,Sin Datos,2026-01-15,23:28:07
+-34.826271730,-58.415645645,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-4-46/180-4-46,32,Sin Datos,2026-01-15,23:28:07
+-34.824848722,-58.417111960,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-4-46/180-4-46,85,Sin Datos,2026-01-15,23:28:07
+-34.825522920,-58.416669334,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-4-46/180-4-46,18,Sin Datos,2026-01-15,23:28:07
+-34.826576888,-58.415876871,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-4-46/180-4-46,8,Sin Datos,2026-01-15,23:28:07
+-34.826983738,-58.415579802,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-4-46/180-4-46,11,Sin Datos,2026-01-15,23:28:07
+-34.825754252,-58.417265918,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-4-46/180-4-46,30,Sin Datos,2026-01-15,23:28:07
+-34.826751787,-58.416635687,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-4-46/180-4-46,23,Sin Datos,2026-01-15,23:28:07
+-34.827014676,-58.416538977,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-4-46/180-4-46,15,Sin Datos,2026-01-15,23:28:07
+-34.825488191,-58.418610976,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-4-46/180-4-46,22,Sin Datos,2026-01-15,23:28:07
+-34.826253144,-58.418062918,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-4-46/180-4-46,15,Sin Datos,2026-01-15,23:28:07
+-34.827737592,-58.417658094,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-4-46/180-4-46,8,Sin Datos,2026-01-15,23:28:07
+-34.827905179,-58.417538434,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-4-46/180-4-46,8,Sin Datos,2026-01-15,23:28:07
+-34.827535117,-58.418156386,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-4-46/180-4-46,25,Sin Datos,2026-01-15,23:28:07
+-34.828207350,-58.415667177,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-4-46/180-4-46,6,Sin Datos,2026-01-15,23:28:07
+-34.828364187,-58.415539683,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-4-46/180-4-46,11,Sin Datos,2026-01-15,23:28:07
+-34.584322812,-58.375987140,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-2-25/025-2-25,1,2026-01-15 22:18,2026-01-15,23:28:07
+-34.583843302,-58.375968222,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-2-25/025-2-25,4,2026-01-15 22:18,2026-01-15,23:28:07
+-34.585078601,-58.380465422,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-2-25/025-2-25,2,2026-01-15 22:18,2026-01-15,23:28:07
+-34.584825464,-58.379182904,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-2-25/025-2-25,1,2026-01-15 22:18,2026-01-15,23:28:07
+-34.961850714,-58.647449831,11,media,Edesur,Cañuelas,Zona Rural 9,Spegazzini,R:270-2-23/270-2-23,1,2026-01-16 00:53,2026-01-15,23:28:07
+-34.950448399,-58.633207300,11,media,Edesur,Cañuelas,Zona Rural 9,Spegazzini,R:270-2-23/270-2-23,1,2026-01-16 00:53,2026-01-15,23:28:07
+-34.966638858,-58.651809714,11,media,Edesur,Cañuelas,Casares,Spegazzini,R:270-2-23/270-2-23,304,2026-01-16 00:53,2026-01-15,23:28:07
+-34.972882087,-58.663808467,11,media,Edesur,Cañuelas,Zona Rural 1,Spegazzini,R:270-2-23/270-2-23,47,2026-01-16 00:53,2026-01-15,23:28:07
+-34.968761864,-58.658622095,11,media,Edesur,Cañuelas,Zona Rural 1,Spegazzini,R:270-2-23/270-2-23,1,2026-01-16 00:53,2026-01-15,23:28:07
+-34.965021256,-58.646969460,11,media,Edesur,Cañuelas,Zona Rural 9,Spegazzini,R:270-2-23/270-2-23,3,2026-01-16 00:53,2026-01-15,23:28:07
+-34.967872464,-58.625035039,11,media,Edesur,Cañuelas,Zona Rural 8,Spegazzini,R:270-2-23/270-2-23,1,2026-01-16 00:53,2026-01-15,23:28:07
+-34.969577463,-58.652020539,11,media,Edesur,Cañuelas,Casares,Spegazzini,R:270-2-23/270-2-23,20,2026-01-16 00:53,2026-01-15,23:28:07
+-34.989681679,-58.600056681,11,media,Edesur,Cañuelas,Zona Rural 8,Spegazzini,R:270-2-23/270-2-23,2,2026-01-16 00:53,2026-01-15,23:28:07
+-34.967742231,-58.645793926,11,media,Edesur,Cañuelas,Zona Rural 8,Spegazzini,R:270-2-23/270-2-23,21,2026-01-16 00:53,2026-01-15,23:28:07
+-34.968992422,-58.647989272,11,media,Edesur,Cañuelas,Zona Rural 8,Spegazzini,R:270-2-23/270-2-23,15,2026-01-16 00:53,2026-01-15,23:28:07
+-34.970375157,-58.650399194,11,media,Edesur,Cañuelas,Zona Rural 8,Spegazzini,R:270-2-23/270-2-23,51,2026-01-16 00:53,2026-01-15,23:28:07
+-34.984825256,-58.612933320,11,media,Edesur,Cañuelas,Zona Rural 8,Spegazzini,R:270-2-23/270-2-23,1,2026-01-16 00:53,2026-01-15,23:28:07
+-35.091202934,-58.458591365,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.057494804,-58.422035605,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,3,2026-01-16 00:02,2026-01-15,23:28:07
+-35.064259900,-58.415884370,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.061499925,-58.418803644,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,4,2026-01-16 00:02,2026-01-15,23:28:07
+-35.057647772,-58.413711507,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,5,2026-01-16 00:02,2026-01-15,23:28:07
+-35.204699006,-58.486704210,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.096997882,-58.465063038,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,2,2026-01-16 00:02,2026-01-15,23:28:07
+-35.096956398,-58.461605801,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.092180687,-58.459679006,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.086744189,-58.456991960,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.084234814,-58.453338660,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,2,2026-01-16 00:02,2026-01-15,23:28:07
+-35.079820121,-58.449195441,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,2,2026-01-16 00:02,2026-01-15,23:28:07
+-35.118141015,-58.535814048,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,3,2026-01-16 00:02,2026-01-15,23:28:07
+-35.099066668,-58.467338456,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,2,2026-01-16 00:02,2026-01-15,23:28:07
+-35.205051889,-58.491090715,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.200086122,-58.471595868,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.212634616,-58.481320475,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.220736480,-58.479123854,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.210115158,-58.454577747,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.235569217,-58.467415435,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.186840397,-58.629438696,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,3,2026-01-16 00:02,2026-01-15,23:28:07
+-35.204501033,-58.609073971,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.199992601,-58.619637406,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.193433373,-58.628127168,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.189781354,-58.611211379,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.188445591,-58.558052453,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,3,2026-01-16 00:02,2026-01-15,23:28:07
+-35.216697443,-58.589450892,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,5,2026-01-16 00:02,2026-01-15,23:28:07
+-35.220869517,-58.584466070,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,3,2026-01-16 00:02,2026-01-15,23:28:07
+-35.203755519,-58.547521221,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.209803873,-58.602225089,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.333699478,-58.586040681,11,media,Edesur,Cañuelas,Zona Rural 5,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.209048765,-58.568088498,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,2,2026-01-16 00:02,2026-01-15,23:28:07
+-35.296546747,-58.603156434,11,media,Edesur,Cañuelas,Udaondo,Canuelas,R:271-1-14/271-1-14,4,2026-01-16 00:02,2026-01-15,23:28:07
+-35.235629745,-58.572564723,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.184700304,-58.566662990,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.193940443,-58.567482157,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.196767762,-58.581942545,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,2,2026-01-16 00:02,2026-01-15,23:28:07
+-35.218518611,-58.571763124,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.225333099,-58.576229442,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.303914895,-58.592637437,11,media,Edesur,Cañuelas,Zona Rural 5,Canuelas,R:271-1-14/271-1-14,4,2026-01-16 00:02,2026-01-15,23:28:07
+-35.315369322,-58.587811805,11,media,Edesur,Cañuelas,Zona Rural 5,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.350112891,-58.581928224,11,media,Edesur,Cañuelas,Zona Rural 5,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.365018058,-58.578353447,11,media,Edesur,Cañuelas,Zona Rural 5,Canuelas,R:271-1-14/271-1-14,4,2026-01-16 00:02,2026-01-15,23:28:07
+-35.372409767,-58.576903385,11,media,Edesur,Cañuelas,Zona Rural 5,Canuelas,R:271-1-14/271-1-14,2,2026-01-16 00:02,2026-01-15,23:28:07
+-35.378476492,-58.575219645,11,media,Edesur,Cañuelas,Zona Rural 5,Canuelas,R:271-1-14/271-1-14,2,2026-01-16 00:02,2026-01-15,23:28:07
+-35.388451353,-58.600723986,11,media,Edesur,Cañuelas,Zona Rural 5,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.391542457,-58.605866539,11,media,Edesur,Cañuelas,Zona Rural 5,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.348973616,-58.557875932,11,media,Edesur,Cañuelas,Zona Rural 5,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.384210335,-58.575228928,11,media,Edesur,Cañuelas,Zona Rural 5,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.387168101,-58.572957142,11,media,Edesur,Cañuelas,Zona Rural 5,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.389180938,-58.571098458,11,media,Edesur,Cañuelas,Zona Rural 5,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.414664255,-58.575516503,11,media,Edesur,Cañuelas,Zona Rural 5,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.258453207,-58.586430907,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.285902141,-58.591725924,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.283631933,-58.590983846,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-1-14/271-1-14,2,2026-01-16 00:02,2026-01-15,23:28:07
+-35.280529984,-58.586698762,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-1-14/271-1-14,2,2026-01-16 00:02,2026-01-15,23:28:07
+-35.279032073,-58.588600280,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-1-14/271-1-14,5,2026-01-16 00:02,2026-01-15,23:28:07
+-35.255493320,-58.576272845,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.291205661,-58.572895596,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.268508815,-58.548541841,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.267745456,-58.531684014,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.256706143,-58.508466173,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,2,2026-01-16 00:02,2026-01-15,23:28:07
+-35.238091218,-58.471354633,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.351976146,-58.557433347,11,media,Edesur,Cañuelas,Zona Rural 5,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.281100640,-58.558764737,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.310202064,-58.609693006,11,media,Edesur,Cañuelas,Zona Rural 5,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.261807623,-58.518628013,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-35.300402730,-58.597588118,11,media,Edesur,Cañuelas,Udaondo,Canuelas,R:271-1-14/271-1-14,172,2026-01-16 00:02,2026-01-15,23:28:07
+-35.241616999,-58.478441705,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,2026-01-16 00:02,2026-01-15,23:28:07
+-34.796340314,-58.213487776,11,media,Edesur,Berazategui,Sourigues,Ezpeleta,R:080-1-11/080-1-11,182,2026-01-15 21:57,2026-01-15,23:28:07
+-34.793064251,-58.206541697,11,media,Edesur,Berazategui,Ranelagh,Ezpeleta,R:080-1-11/080-1-11,181,2026-01-15 21:57,2026-01-15,23:28:07
+-34.793476473,-58.210124709,11,media,Edesur,Berazategui,Ranelagh,Ezpeleta,R:080-1-11/080-1-11,351,2026-01-15 21:57,2026-01-15,23:28:07
+-34.797106521,-58.216756817,11,media,Edesur,Berazategui,Sourigues,Ezpeleta,R:080-1-11/080-1-11,120,2026-01-15 21:57,2026-01-15,23:28:07
+-34.716618540,-58.309677203,11,media,Edesur,Quilmes,Bernal,S/D,R:,655,2026-01-15 22:23,2026-01-15,23:28:07
+-34.721170553,-58.311193785,11,media,Edesur,Quilmes,Bernal,S/D,R:,541,2026-01-15 22:23,2026-01-15,23:28:07
+-34.718871042,-58.312010583,11,media,Edesur,Quilmes,Bernal,S/D,R:,508,2026-01-15 22:23,2026-01-15,23:28:07
+-34.720435743,-58.314322494,11,media,Edesur,Quilmes,Bernal,S/D,R:,3,2026-01-15 22:23,2026-01-15,23:28:07
+-34.687656982,-58.349414368,11,media,Edesur,Avellaneda,Sarandi,S/D,R:,11,2026-01-15 22:03,2026-01-15,23:28:07
+-35.017012874,-58.420743004,11,media,Edesur,San Vicente,San Vicente,S/D,S/D,177,2026-01-16 00:47,2026-01-15,23:28:07
+-35.018963954,-58.418075507,11,media,Edesur,San Vicente,San Vicente,S/D,S/D,3,2026-01-16 00:47,2026-01-15,23:28:07
+-35.019345502,-58.424481946,11,media,Edesur,San Vicente,San Vicente,S/D,S/D,281,2026-01-16 00:47,2026-01-15,23:28:07
+-35.015219123,-58.417821815,11,media,Edesur,San Vicente,San Vicente,S/D,S/D,125,2026-01-16 00:47,2026-01-15,23:28:07
+-35.017308326,-58.426053301,11,media,Edesur,San Vicente,San Vicente,S/D,S/D,2,2026-01-16 00:47,2026-01-15,23:28:07
+-34.855509156,-58.530340262,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-4-42/083-4-42,276,2026-01-16 00:32,2026-01-15,23:28:07
+-34.852928679,-58.525872122,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-4-42/083-4-42,399,2026-01-16 00:32,2026-01-15,23:28:07
+-34.854495101,-58.529049151,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-4-42/083-4-42,300,2026-01-16 00:32,2026-01-15,23:28:07
+-34.855719414,-58.527270885,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-4-42/083-4-42,346,2026-01-16 00:32,2026-01-15,23:28:07
+-34.857810052,-58.529648047,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-4-42/083-4-42,94,2026-01-16 00:32,2026-01-15,23:28:07
+-34.852356396,-58.522703087,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-4-42/083-4-42,70,2026-01-16 00:32,2026-01-15,23:28:07
+-34.859249588,-58.532798667,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-4-42/083-4-42,243,2026-01-16 00:32,2026-01-15,23:28:07
+-34.856157020,-58.535168938,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-4-42/083-4-42,365,2026-01-16 00:32,2026-01-15,23:28:07
+-34.852609702,-58.523469275,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-4-42/083-4-42,6,2026-01-16 00:32,2026-01-15,23:28:07
+-34.838534637,-58.424762540,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-33/180-3-33,1,2026-01-16 00:39,2026-01-15,23:28:07
+-34.838606415,-58.427937008,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-33/180-3-33,2,2026-01-16 00:39,2026-01-15,23:28:07
+-34.838990541,-58.425692623,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-33/180-3-33,12,2026-01-16 00:39,2026-01-15,23:28:07
+-34.836674235,-58.425641665,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-33/180-3-33,1,2026-01-16 00:39,2026-01-15,23:28:07
+-34.836733184,-58.421145952,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-33/180-3-33,8,2026-01-16 00:39,2026-01-15,23:28:07
+-34.836696475,-58.429341249,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-33/180-3-33,1,2026-01-16 00:39,2026-01-15,23:28:07
+-34.871358534,-58.264126981,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,55,2026-01-15 22:27,2026-01-15,23:28:07
+-34.873888940,-58.262073017,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,5,2026-01-15 22:27,2026-01-15,23:28:07
+-34.877734404,-58.254879073,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,19,2026-01-15 22:27,2026-01-15,23:28:07
+-34.878978989,-58.257334208,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,1,2026-01-15 22:27,2026-01-15,23:28:07
+-34.880615963,-58.259192582,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,20,2026-01-15 22:27,2026-01-15,23:28:07
+-34.877489414,-58.263691118,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,2,2026-01-15 22:27,2026-01-15,23:28:07
+-34.872230207,-58.263419450,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,14,2026-01-15 22:27,2026-01-15,23:28:07
+-34.875333886,-58.264152401,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,22,2026-01-15 22:27,2026-01-15,23:28:07
+-34.882250691,-58.258534349,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,1,2026-01-15 22:27,2026-01-15,23:28:07
+-34.879069077,-58.266630479,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,3,2026-01-15 22:27,2026-01-15,23:28:07
+-34.878645130,-58.265902943,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,1,2026-01-15 22:27,2026-01-15,23:28:07
+-34.875588061,-58.268797662,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,22,2026-01-15 22:27,2026-01-15,23:28:07
+-34.876192541,-58.270882416,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,11,2026-01-15 22:27,2026-01-15,23:28:07
+-34.874087436,-58.266009740,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,1,2026-01-15 22:27,2026-01-15,23:28:07
+-34.876798048,-58.262434116,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,2,2026-01-15 22:27,2026-01-15,23:28:07
+-34.879319123,-58.267095147,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,1,2026-01-15 22:27,2026-01-15,23:28:07
+-34.880192004,-58.256192698,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,1,2026-01-15 22:27,2026-01-15,23:28:07
+-34.880097327,-58.261304598,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,10,2026-01-15 22:27,2026-01-15,23:28:07
+-34.784916689,-58.299879567,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,40,2026-01-16 00:54,2026-01-15,23:28:07
+-34.784666128,-58.305760809,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,437,2026-01-16 00:54,2026-01-15,23:28:07
+-34.781656947,-58.302080471,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,1,2026-01-16 00:54,2026-01-15,23:28:07
+-34.784873279,-58.304791348,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,12,2026-01-16 00:54,2026-01-15,23:28:07
+-34.783374842,-58.301270820,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,24,2026-01-16 00:54,2026-01-15,23:28:07
+-34.783507906,-58.302562692,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,21,2026-01-16 00:54,2026-01-15,23:28:07
+-34.783900768,-58.300061713,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,24,2026-01-16 00:54,2026-01-15,23:28:07
+-34.786908904,-58.301909511,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,17,2026-01-16 00:54,2026-01-15,23:28:07
+-34.786296780,-58.300976614,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,14,2026-01-16 00:54,2026-01-15,23:28:07
+-34.787140021,-58.302307957,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,12,2026-01-16 00:54,2026-01-15,23:28:07
+-34.786811904,-58.301776995,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,5,2026-01-16 00:54,2026-01-15,23:28:07
+-34.785826460,-58.300189138,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,18,2026-01-16 00:54,2026-01-15,23:28:07
+-34.785578453,-58.299777662,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,5,2026-01-16 00:54,2026-01-15,23:28:07
+-34.787211402,-58.301630094,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,10,2026-01-16 00:54,2026-01-15,23:28:07
+-34.786695188,-58.300942635,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,10,2026-01-16 00:54,2026-01-15,23:28:07
+-34.786163239,-58.300333175,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,14,2026-01-16 00:54,2026-01-15,23:28:07
+-34.786526487,-58.299989591,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,19,2026-01-16 00:54,2026-01-15,23:28:07
+-34.787323629,-58.300360050,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,9,2026-01-16 00:54,2026-01-15,23:28:07
+-34.786847911,-58.299680811,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,11,2026-01-16 00:54,2026-01-15,23:28:07
+-34.787130450,-58.299412465,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,3,2026-01-16 00:54,2026-01-15,23:28:07
+-34.786970340,-58.299019012,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,5,2026-01-16 00:54,2026-01-15,23:28:07
+-34.787737362,-58.299969207,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,3,2026-01-16 00:54,2026-01-15,23:28:07
+-34.785388226,-58.299464553,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,12,2026-01-16 00:54,2026-01-15,23:28:07
+-34.785685711,-58.299626360,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,7,2026-01-16 00:54,2026-01-15,23:28:07
+-34.787928229,-58.300581790,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,7,2026-01-16 00:54,2026-01-15,23:28:07
+-34.786529122,-58.302258975,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,37,2026-01-16 00:54,2026-01-15,23:28:07
+-34.779148408,-58.284122379,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-24/189-2-24,493,2026-01-16 00:54,2026-01-15,23:28:07
+-34.783190050,-58.291478162,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-24/189-2-24,531,2026-01-16 00:54,2026-01-15,23:28:07
+-34.783913156,-58.295540951,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-24/189-2-24,332,2026-01-16 00:54,2026-01-15,23:28:07
+-34.781181210,-58.287805700,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-24/189-2-24,665,2026-01-16 00:54,2026-01-15,23:28:07
+-34.783467405,-58.297559996,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-24/189-2-24,3,2026-01-16 00:54,2026-01-15,23:28:07
+-34.785292142,-58.294543828,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-24/189-2-24,294,2026-01-16 00:54,2026-01-15,23:28:07
+-34.789817643,-58.294755300,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-24/189-2-24,139,2026-01-16 00:54,2026-01-15,23:28:07
+-34.788302694,-58.296849864,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-24/189-2-24,200,2026-01-16 00:54,2026-01-15,23:28:07
+-34.780237396,-58.292076316,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-24/189-2-24,121,2026-01-16 00:54,2026-01-15,23:28:07
+-34.847397139,-58.230261962,11,media,Edesur,Florencio Varela,Florencio Varela,Gutierrez Ii,R:174-2-25/174-2-25,17,2026-01-15 22:24,2026-01-15,23:28:07
+-34.846152328,-58.231201315,11,media,Edesur,Florencio Varela,Florencio Varela,Gutierrez Ii,R:174-2-25/174-2-25,66,2026-01-15 22:24,2026-01-15,23:28:07
+-34.844784457,-58.232190307,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,102,2026-01-15 22:24,2026-01-15,23:28:07
+-34.842843119,-58.233617622,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,4,2026-01-15 22:24,2026-01-15,23:28:07
+-34.841423234,-58.234665883,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,38,2026-01-15 22:24,2026-01-15,23:28:07
+-34.857494985,-58.214142317,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-25/174-2-25,13,2026-01-15 22:24,2026-01-15,23:28:07
+-34.848644756,-58.229345631,11,media,Edesur,Florencio Varela,Florencio Varela,Gutierrez Ii,R:174-2-25/174-2-25,69,2026-01-15 22:24,2026-01-15,23:28:07
+-34.855863157,-58.210379208,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-25/174-2-25,64,2026-01-15 22:24,2026-01-15,23:28:07
+-34.857604474,-58.219420337,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-25/174-2-25,3,2026-01-15 22:24,2026-01-15,23:28:07
+-34.857567475,-58.217717339,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-25/174-2-25,4,2026-01-15 22:24,2026-01-15,23:28:07
+-34.831674413,-58.212013016,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,3,2026-01-15 22:24,2026-01-15,23:28:07
+-34.842281369,-58.210570403,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,5,2026-01-15 22:24,2026-01-15,23:28:07
+-34.839191176,-58.236336335,11,media,Edesur,Florencio Varela,Florencio Varela,Gutierrez Ii,R:174-2-25/174-2-25,118,2026-01-15 22:24,2026-01-15,23:28:07
+-34.841368744,-58.210181240,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,1,2026-01-15 22:24,2026-01-15,23:28:07
+-34.857393223,-58.210329773,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-25/174-2-25,10,2026-01-15 22:24,2026-01-15,23:28:07
+-34.847423115,-58.211231282,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,5,2026-01-15 22:24,2026-01-15,23:28:07
+-34.857540259,-58.221743132,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-25/174-2-25,3,2026-01-15 22:24,2026-01-15,23:28:07
+-34.865447161,-58.213006020,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-25/174-2-25,29,2026-01-15 22:24,2026-01-15,23:28:07
+-34.863234727,-58.210313087,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-25/174-2-25,7,2026-01-15 22:24,2026-01-15,23:28:07
+-34.863363306,-58.208069297,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-25/174-2-25,16,2026-01-15 22:24,2026-01-15,23:28:07
+-34.867252065,-58.210388992,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-25/174-2-25,30,2026-01-15 22:24,2026-01-15,23:28:07
+-34.865922819,-58.207334996,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-25/174-2-25,27,2026-01-15 22:24,2026-01-15,23:28:07
+-34.867314436,-58.208173900,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-25/174-2-25,79,2026-01-15 22:24,2026-01-15,23:28:07
+-34.865278850,-58.205799616,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-25/174-2-25,75,2026-01-15 22:24,2026-01-15,23:28:07
+-34.866118382,-58.209014035,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-25/174-2-25,24,2026-01-15 22:24,2026-01-15,23:28:07
+-34.834590545,-58.231705639,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,19,2026-01-15 22:24,2026-01-15,23:28:07
+-34.835377800,-58.231482649,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,30,2026-01-15 22:24,2026-01-15,23:28:07
+-34.835594656,-58.231184585,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,27,2026-01-15 22:24,2026-01-15,23:28:07
+-34.835509049,-58.230109023,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,15,2026-01-15 22:24,2026-01-15,23:28:07
+-34.837690582,-58.228272937,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,33,2026-01-15 22:24,2026-01-15,23:28:07
+-34.837882466,-58.228037243,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,44,2026-01-15 22:24,2026-01-15,23:28:07
+-34.838633742,-58.227122973,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,49,2026-01-15 22:24,2026-01-15,23:28:07
+-34.835414263,-58.232598894,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,27,2026-01-15 22:24,2026-01-15,23:28:07
+-34.836306761,-58.230999855,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,28,2026-01-15 22:24,2026-01-15,23:28:07
+-34.836169066,-58.232232940,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,30,2026-01-15 22:24,2026-01-15,23:28:07
+-34.836363900,-58.231966970,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,17,2026-01-15 22:24,2026-01-15,23:28:07
+-34.836556839,-58.231710659,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,12,2026-01-15 22:24,2026-01-15,23:28:07
+-34.837189101,-58.230839994,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,28,2026-01-15 22:24,2026-01-15,23:28:07
+-34.837699009,-58.230134385,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,26,2026-01-15 22:24,2026-01-15,23:28:07
+-34.839818343,-58.228385891,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,42,2026-01-15 22:24,2026-01-15,23:28:07
+-34.836223088,-58.233462551,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,17,2026-01-15 22:24,2026-01-15,23:28:07
+-34.836968364,-58.233892545,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,26,2026-01-15 22:24,2026-01-15,23:28:07
+-34.837475198,-58.233195970,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,13,2026-01-15 22:24,2026-01-15,23:28:07
+-34.837833845,-58.232703184,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,6,2026-01-15 22:24,2026-01-15,23:28:07
+-34.837281221,-58.232015110,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,14,2026-01-15 22:24,2026-01-15,23:28:07
+-34.838616471,-58.231626392,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,40,2026-01-15 22:24,2026-01-15,23:28:07
+-34.838810506,-58.231359153,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,17,2026-01-15 22:24,2026-01-15,23:28:07
+-34.839301155,-58.230683473,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,36,2026-01-15 22:24,2026-01-15,23:28:07
+-34.839691746,-58.229368710,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,50,2026-01-15 22:24,2026-01-15,23:28:07
+-34.840573702,-58.228917576,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,27,2026-01-15 22:24,2026-01-15,23:28:07
+-34.837187799,-58.234509771,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,12,2026-01-15 22:24,2026-01-15,23:28:07
+-34.838445039,-58.235855062,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,18,2026-01-15 22:24,2026-01-15,23:28:07
+-34.837897307,-58.234201064,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,45,2026-01-15 22:24,2026-01-15,23:28:07
+-34.838376829,-58.233543192,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,25,2026-01-15 22:24,2026-01-15,23:28:07
+-34.838521492,-58.233319517,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,39,2026-01-15 22:24,2026-01-15,23:28:07
+-34.839310283,-58.234168172,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,108,2026-01-15 22:24,2026-01-15,23:28:07
+-34.839503244,-58.232003688,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,34,2026-01-15 22:24,2026-01-15,23:28:07
+-34.840216847,-58.231042628,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,33,2026-01-15 22:24,2026-01-15,23:28:07
+-34.840895990,-58.230098242,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,16,2026-01-15 22:24,2026-01-15,23:28:07
+-34.840850816,-58.232930928,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,38,2026-01-15 22:24,2026-01-15,23:28:07
+-34.841346688,-58.232251288,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,33,2026-01-15 22:24,2026-01-15,23:28:07
+-34.841844530,-58.231666602,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,37,2026-01-15 22:24,2026-01-15,23:28:07
+-34.842860627,-58.232736234,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,34,2026-01-15 22:24,2026-01-15,23:28:07
+-34.842267898,-58.230987351,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,31,2026-01-15 22:24,2026-01-15,23:28:07
+-34.843558858,-58.233091344,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,49,2026-01-15 22:24,2026-01-15,23:28:07
+-34.841015626,-58.228314748,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,12,2026-01-15 22:24,2026-01-15,23:28:07
+-34.836942185,-58.234263964,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,12,2026-01-15 22:24,2026-01-15,23:28:07
+-34.838012879,-58.232760436,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,3,2026-01-15 22:24,2026-01-15,23:28:07
+-34.841037881,-58.230824467,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,39,2026-01-15 22:24,2026-01-15,23:28:07
+-34.842695579,-58.230400073,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,37,2026-01-15 22:24,2026-01-15,23:28:07
+-34.843218102,-58.229683610,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,30,2026-01-15 22:24,2026-01-15,23:28:07
+-34.843670172,-58.229064364,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,48,2026-01-15 22:24,2026-01-15,23:28:07
+-34.843973744,-58.230554222,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,18,2026-01-15 22:24,2026-01-15,23:28:07
+-34.841313985,-58.229517852,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,17,2026-01-15 22:24,2026-01-15,23:28:07
+-34.841499726,-58.229261608,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,22,2026-01-15 22:24,2026-01-15,23:28:07
+-34.842692167,-58.227623678,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,23,2026-01-15 22:24,2026-01-15,23:28:07
+-34.835613672,-58.230226262,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,14,2026-01-15 22:24,2026-01-15,23:28:07
+-34.842593232,-58.227766357,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,14,2026-01-15 22:24,2026-01-15,23:28:07
+-34.844119381,-58.228449271,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,27,2026-01-15 22:24,2026-01-15,23:28:07
+-34.840501140,-58.229075990,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,43,2026-01-15 22:24,2026-01-15,23:28:07
+-34.845454732,-58.229325052,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,3,2026-01-15 22:24,2026-01-15,23:28:07
+-34.848379078,-58.227082004,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,51,2026-01-15 22:24,2026-01-15,23:28:07
+-34.848317746,-58.228759399,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,9,2026-01-15 22:24,2026-01-15,23:28:07
+-34.848937852,-58.226693706,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,48,2026-01-15 22:24,2026-01-15,23:28:07
+-34.848936488,-58.228184872,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,7,2026-01-15 22:24,2026-01-15,23:28:07
+-34.850148349,-58.227490274,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,13,2026-01-15 22:24,2026-01-15,23:28:07
+-34.849802950,-58.226798728,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,29,2026-01-15 22:24,2026-01-15,23:28:07
+-34.845832427,-58.228802322,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,6,2026-01-15 22:24,2026-01-15,23:28:07
+-34.838123556,-58.206111764,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,479,2026-01-15 22:24,2026-01-15,23:28:07
+-34.846422841,-58.229571806,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,15,2026-01-15 22:24,2026-01-15,23:28:07
+-34.858236108,-58.211106095,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-25/174-2-25,1,2026-01-15 22:24,2026-01-15,23:28:07
+-34.841534364,-58.206139028,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,130,2026-01-15 22:24,2026-01-15,23:28:07
+-34.840963228,-58.208249569,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,112,2026-01-15 22:24,2026-01-15,23:28:07
+-34.842464034,-58.208529332,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,150,2026-01-15 22:24,2026-01-15,23:28:07
+-34.842115286,-58.209430426,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,133,2026-01-15 22:24,2026-01-15,23:28:07
+-34.861077744,-58.208742124,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-25/174-2-25,5,2026-01-15 22:24,2026-01-15,23:28:07
+-34.840189759,-58.223647204,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,2,2026-01-15 22:24,2026-01-15,23:28:07
+-34.862420284,-58.205857846,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-25/174-2-25,307,2026-01-15 22:24,2026-01-15,23:28:07
+-34.866647133,-58.211945162,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-25/174-2-25,3,2026-01-15 22:24,2026-01-15,23:28:07
+-34.845192952,-58.211022870,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,1,2026-01-15 22:24,2026-01-15,23:28:07
+-34.852846480,-58.209793693,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-25/174-2-25,33,2026-01-15 22:24,2026-01-15,23:28:07
+-34.849471600,-58.228757800,11,media,Edesur,Florencio Varela,Florencio Varela,Gutierrez Ii,R:174-2-25/174-2-25,1,2026-01-15 22:24,2026-01-15,23:28:07
+-34.836459594,-58.229987199,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,29,2026-01-15 22:24,2026-01-15,23:28:07
+-34.836729791,-58.229612152,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,44,2026-01-15 22:24,2026-01-15,23:28:07
+-34.800950913,-58.424817339,11,media,Edesur,Lomas De Zamora,Lavallol,Almirante Brown,R:180-2-24/180-2-24/182-1-12,420,2026-01-16 00:25,2026-01-15,23:28:07
+-34.802091680,-58.426167230,11,media,Edesur,Lomas De Zamora,Lavallol,Almirante Brown,R:180-2-24/180-2-24/182-1-12,15,2026-01-16 00:25,2026-01-15,23:28:07
+-34.800170119,-58.427656073,11,media,Edesur,Lomas De Zamora,Lavallol,Almirante Brown,R:180-2-24/180-2-24/182-1-12,109,2026-01-16 00:25,2026-01-15,23:28:07
+-34.956951161,-58.362066299,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-4-48/277-4-48,8,2026-01-16 01:58,2026-01-15,23:28:07
+-34.954307978,-58.357019776,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-4-48/277-4-48,1,2026-01-16 01:58,2026-01-15,23:28:07
+-34.954414551,-58.376340075,11,media,Edesur,Pte Peron,Zona Rural Ii Pp,Glew,R:277-4-48/277-4-48,3,2026-01-16 01:58,2026-01-15,23:28:07
+-34.957539753,-58.354657135,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-4-48/277-4-48,4,2026-01-16 01:58,2026-01-15,23:28:07
+-34.949160213,-58.364607202,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-4-48/277-4-48,3,2026-01-16 01:58,2026-01-15,23:28:07
+-34.953705816,-58.364468661,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-4-48/277-4-48,2,2026-01-16 01:58,2026-01-15,23:28:07
+-34.951719636,-58.377255322,11,media,Edesur,Pte Peron,Zona Rural Ii Pp,Glew,R:277-4-48/277-4-48,5,2026-01-16 01:58,2026-01-15,23:28:07
+-34.954547858,-58.366050726,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-4-48/277-4-48,5,2026-01-16 01:58,2026-01-15,23:28:07
+-34.959150612,-58.358392383,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-4-48/277-4-48,2,2026-01-16 01:58,2026-01-15,23:28:07
+-34.722404209,-58.245868116,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-3-32/073-3-32,277,2026-01-16 00:09,2026-01-15,23:28:07
+-34.720884917,-58.242955289,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-3-32/073-3-32,229,2026-01-16 00:09,2026-01-15,23:28:07
+-34.724269381,-58.248415754,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-3-32/073-3-32,216,2026-01-16 00:09,2026-01-15,23:28:07
+-34.720855873,-58.240692265,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-3-32/073-3-32,194,2026-01-16 00:09,2026-01-15,23:28:07
+-34.837663270,-58.471513101,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-36/083-3-36,187,2026-01-16 02:45,2026-01-15,23:28:07
+-34.832807010,-58.475905244,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-36/083-3-36,559,2026-01-16 02:45,2026-01-15,23:28:07
+-34.833572786,-58.475339635,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-36/083-3-36,139,2026-01-16 02:45,2026-01-15,23:28:07
+-34.831907232,-58.476569813,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-36/083-3-36,61,2026-01-16 02:45,2026-01-15,23:28:07
+-34.834430033,-58.479292403,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-36/083-3-36,11,2026-01-16 02:45,2026-01-15,23:28:07
+-34.833552263,-58.477527852,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-36/083-3-36,26,2026-01-16 02:45,2026-01-15,23:28:07
+-34.834475349,-58.476528080,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-36/083-3-36,5,2026-01-16 02:45,2026-01-15,23:28:07
+-34.834926076,-58.479026479,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-36/083-3-36,2,2026-01-16 02:45,2026-01-15,23:28:07
+-34.836232714,-58.481644455,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-36/083-3-36,4,2026-01-16 02:45,2026-01-15,23:28:07
+-34.836823348,-58.473021232,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-36/083-3-36,107,2026-01-16 02:45,2026-01-15,23:28:07
+-34.839814559,-58.467022619,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-36/083-3-36,203,2026-01-16 02:45,2026-01-15,23:28:07
+-34.835953275,-58.468141927,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-36/083-3-36,196,2026-01-16 02:45,2026-01-15,23:28:07
+-34.839628042,-58.471761355,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-36/083-3-36,259,2026-01-16 02:45,2026-01-15,23:28:07
+-34.841750127,-58.368523411,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-1-07/082-1-07,298,2026-01-15 23:04,2026-01-15,23:28:07
+-34.847088094,-58.369231737,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-1-07/082-1-07,310,2026-01-15 23:04,2026-01-15,23:28:07
+-34.843047081,-58.367478069,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-1-07/082-1-07,1,2026-01-15 23:04,2026-01-15,23:28:07
+-34.846194242,-58.371152869,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-1-07/082-1-07,146,2026-01-15 23:04,2026-01-15,23:28:07
+-34.845295214,-58.369494244,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-1-07/082-1-07,124,2026-01-15 23:04,2026-01-15,23:28:07
+-34.843531971,-58.369285846,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-1-07/082-1-07,1,2026-01-15 23:04,2026-01-15,23:28:07
+-34.846819978,-58.366192738,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-1-07/082-1-07,397,2026-01-15 23:04,2026-01-15,23:28:07
+-34.674988194,-58.339078128,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,313,2026-01-16 04:55,2026-01-15,23:28:07
+-34.672990104,-58.338042467,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,156,2026-01-16 04:55,2026-01-15,23:28:07
+-34.674842046,-58.337714233,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,564,2026-01-16 04:55,2026-01-15,23:28:07
+-34.672999776,-58.337344462,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,199,2026-01-16 04:55,2026-01-15,23:28:07
+-34.658532162,-58.350641140,11,media,Edesur,Avellaneda,Avellaneda,Isla Maciel,R:072-2-29/072-2-29,633,2026-01-16 04:55,2026-01-15,23:28:07
+-34.664205445,-58.348936762,11,media,Edesur,Avellaneda,Avellaneda,Isla Maciel,R:072-2-29/072-2-29,828,2026-01-16 04:55,2026-01-15,23:28:07
+-34.667666371,-58.346359163,11,media,Edesur,Avellaneda,Avellaneda,Isla Maciel,R:072-2-29/072-2-29,630,2026-01-16 04:55,2026-01-15,23:28:07
+-34.662363529,-58.339071359,11,media,Edesur,Avellaneda,Dock Sud,Isla Maciel,R:072-2-29/072-2-29,255,2026-01-16 04:55,2026-01-15,23:28:07
+-34.669947187,-58.342402908,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,483,2026-01-16 04:55,2026-01-15,23:28:07
+-34.669686733,-58.338386190,11,media,Edesur,Avellaneda,Zona De Reserva,Isla Maciel,R:072-2-29/072-2-29,21,2026-01-16 04:55,2026-01-15,23:28:07
+-34.662447205,-58.333447877,11,media,Edesur,Avellaneda,Dock Sud,Isla Maciel,R:072-2-29/072-2-29,68,2026-01-16 04:55,2026-01-15,23:28:07
+-34.669106938,-58.339401213,11,media,Edesur,Avellaneda,Zona De Reserva,Isla Maciel,R:072-2-29/072-2-29,8,2026-01-16 04:55,2026-01-15,23:28:07
+-34.663387215,-58.352678161,11,media,Edesur,Avellaneda,Avellaneda,Isla Maciel,R:072-2-29/072-2-29,359,2026-01-16 04:55,2026-01-15,23:28:07
+-34.675250348,-58.335929295,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,142,2026-01-16 04:55,2026-01-15,23:28:07
+-34.675171220,-58.340040519,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,1,2026-01-16 04:55,2026-01-15,23:28:07
+-34.671431739,-58.339431903,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,19,2026-01-16 04:55,2026-01-15,23:28:07
+-34.680504527,-58.757897663,12,media,Edenor,Merlo,Merlo,S/D,N:Guemes/111-Tr2/111-5531,143,Sin Datos,2026-01-15,23:28:07
+-34.924513326,-58.779977137,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr2/353-5526,1,Sin Datos,2026-01-15,23:28:07
+-34.920885329,-58.771166653,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr2/353-5526,2,Sin Datos,2026-01-15,23:28:07
+-34.912663570,-58.782396796,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr2/353-5526,1,Sin Datos,2026-01-15,23:28:07
+-34.928275259,-58.771253745,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr2/353-5526,3,Sin Datos,2026-01-15,23:28:07
+-34.892506963,-58.737913792,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5514,1,Sin Datos,2026-01-15,23:28:07
+-34.893232488,-58.730806302,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5514,2,Sin Datos,2026-01-15,23:28:07
+-34.848777825,-58.642880899,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5536,345,Sin Datos,2026-01-15,23:28:07
+-34.852459029,-58.640027874,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5536,373,Sin Datos,2026-01-15,23:28:07
+-34.853570279,-58.644267718,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5536,337,Sin Datos,2026-01-15,23:28:07
+-34.847025244,-58.642680019,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5536,205,Sin Datos,2026-01-15,23:28:07
+-34.850731562,-58.638129484,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5536,144,Sin Datos,2026-01-15,23:28:07
+-34.847870447,-58.641628440,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5536,120,Sin Datos,2026-01-15,23:28:07
+-34.849154608,-58.640073479,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5536,181,Sin Datos,2026-01-15,23:28:07
+-34.730184786,-58.570256288,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr1/451-5512,420,Sin Datos,2026-01-15,23:28:07
+-34.436409275,-58.812003345,12,media,Edenor,Pilar,Del Viso,S/D,R:Matheu/51-Tr1/51-5515,220,2026-01-15 21:00,2026-01-15,23:28:07
+-34.612369869,-58.990762627,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,68,2026-01-15 21:00,2026-01-15,23:28:07
+-34.369978736,-58.506648971,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-01-15 23:00,2026-01-15,23:28:07
+-34.388586706,-58.530575065,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,2026-01-15 23:00,2026-01-15,23:28:07
+-34.376694308,-58.522460244,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,22,2026-01-15 23:00,2026-01-15,23:28:07
+-34.374584057,-58.519370646,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2026-01-15 23:00,2026-01-15,23:28:07
+-34.370462224,-58.518667042,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,9,2026-01-15 23:00,2026-01-15,23:28:07
+-34.374981789,-58.502151714,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,2026-01-15 23:00,2026-01-15,23:28:07
+-34.334880174,-58.531719482,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2026-01-15 23:00,2026-01-15,23:28:07
+-34.312360045,-58.540663126,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,6,2026-01-15 23:00,2026-01-15,23:28:07
+-34.324417071,-58.500087163,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2026-01-15 23:00,2026-01-15,23:28:07
+-34.317637192,-58.519044119,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2026-01-15 23:00,2026-01-15,23:28:07
+-34.332542105,-58.511704574,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,2026-01-15 23:00,2026-01-15,23:28:07
+-34.333695285,-58.505274792,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-01-15 23:00,2026-01-15,23:28:07
+-34.318723988,-58.534047967,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,6,2026-01-15 23:00,2026-01-15,23:28:07
+-34.374163371,-58.496356393,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-01-15 23:00,2026-01-15,23:28:07
+-34.312871793,-58.512384830,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-01-15 23:00,2026-01-15,23:28:07
+-34.334334907,-58.506572832,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2026-01-15 23:00,2026-01-15,23:28:07
+-34.314133371,-58.532329527,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-01-15 23:00,2026-01-15,23:28:07
+-34.338691022,-58.485684972,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-01-15 23:00,2026-01-15,23:28:07
+-34.322946864,-58.498039400,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-01-15 23:00,2026-01-15,23:28:07
+-34.359326354,-58.491354733,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-01-15 23:00,2026-01-15,23:28:07
+-34.333759160,-58.513133316,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-01-15 23:00,2026-01-15,23:28:07
+-34.360200204,-58.502092390,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,16,2026-01-15 23:00,2026-01-15,23:28:07
+-34.340112465,-58.558238816,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,21,2026-01-15 23:00,2026-01-15,23:28:07
+-34.385399832,-58.530822252,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2026-01-15 23:00,2026-01-15,23:28:07
+-34.314930035,-58.534574950,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,2026-01-15 23:00,2026-01-15,23:28:07
+-34.307593565,-58.536181417,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,5,2026-01-15 23:00,2026-01-15,23:28:07
+-34.307000075,-58.533444764,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-01-15 23:00,2026-01-15,23:28:07
+-34.329437865,-58.532678739,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,2026-01-15 23:00,2026-01-15,23:28:07
+-34.309043526,-58.544577576,12,media,Edenor,Tigre,Nordelta,S/D,R:Tigre/153-Tr1/153-5517,1,2026-01-15 23:00,2026-01-15,23:28:07
+-34.391026786,-58.527208227,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,10,2026-01-15 23:00,2026-01-15,23:28:07
+-34.346232372,-58.546970649,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-01-15 23:00,2026-01-15,23:28:07
+-34.350199669,-58.546682841,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,2026-01-15 23:00,2026-01-15,23:28:07
+-34.332745819,-58.532434543,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,2026-01-15 23:00,2026-01-15,23:28:07
+-34.332016063,-58.504031129,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,5,2026-01-15 23:00,2026-01-15,23:28:07
+-34.361105904,-58.504742578,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,2026-01-15 23:00,2026-01-15,23:28:07
+-34.344220203,-58.547253039,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-01-15 23:00,2026-01-15,23:28:07
+-34.355155193,-58.546018898,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,6,2026-01-15 23:00,2026-01-15,23:28:07
+-34.330860214,-58.552270029,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,2026-01-15 23:00,2026-01-15,23:28:07
+-34.363663850,-58.513655480,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-01-15 23:00,2026-01-15,23:28:07
+-34.349839831,-58.513975754,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,2026-01-15 23:00,2026-01-15,23:28:07
+-34.368877236,-58.515236833,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,2026-01-15 23:00,2026-01-15,23:28:07
+-34.335236596,-58.550573783,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2026-01-15 23:00,2026-01-15,23:28:07
+-34.392386918,-58.528332590,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2026-01-15 23:00,2026-01-15,23:28:07
+-34.340255048,-58.524269418,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2026-01-15 23:00,2026-01-15,23:28:07
+-34.335956929,-58.531554528,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-01-15 23:00,2026-01-15,23:28:07
+-34.325566791,-58.529779837,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-01-15 23:00,2026-01-15,23:28:07
+-34.375627596,-58.525475168,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-01-15 23:00,2026-01-15,23:28:07
+-34.333246773,-58.563432369,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-01-15 23:00,2026-01-15,23:28:07
+-34.344349888,-58.527968050,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-01-15 23:00,2026-01-15,23:28:07
+-34.339443618,-58.530204840,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2026-01-15 23:00,2026-01-15,23:28:07
+-34.355634230,-58.507785695,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,19,2026-01-15 23:00,2026-01-15,23:28:07
+-34.363548861,-58.506760230,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,11,2026-01-15 23:00,2026-01-15,23:28:07
+-34.386908718,-58.532856871,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,2026-01-15 23:00,2026-01-15,23:28:07
+-34.354158257,-58.508846650,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,12,2026-01-15 23:00,2026-01-15,23:28:07
+-34.378698891,-58.558434137,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,27,2026-01-15 23:00,2026-01-15,23:28:07
+-34.383571497,-58.559402602,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,140,2026-01-15 23:00,2026-01-15,23:28:07
+-34.371819829,-58.559269704,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,62,2026-01-15 23:00,2026-01-15,23:28:07
+-34.377910665,-58.552755884,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,18,2026-01-15 23:00,2026-01-15,23:28:07
+-34.376819905,-58.555710030,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,73,2026-01-15 23:00,2026-01-15,23:28:07
+-34.351320981,-58.512273584,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,9,2026-01-15 23:00,2026-01-15,23:28:07
+-34.382421115,-58.546167989,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,25,2026-01-15 23:00,2026-01-15,23:28:07
+-34.385481000,-58.539133963,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2026-01-15 23:00,2026-01-15,23:28:07
+-34.355560015,-58.536888192,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,52,2026-01-15 23:00,2026-01-15,23:28:07
+-34.363075184,-58.536677673,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,37,2026-01-15 23:00,2026-01-15,23:28:07
+-34.356089724,-58.544381255,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,12,2026-01-15 23:00,2026-01-15,23:28:07
+-34.360294221,-58.542173707,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,38,2026-01-15 23:00,2026-01-15,23:28:07
+-34.371498969,-58.535342001,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,20,2026-01-15 23:00,2026-01-15,23:28:07
+-34.368785187,-58.529725781,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,46,2026-01-15 23:00,2026-01-15,23:28:07
+-34.366002350,-58.540220484,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,9,2026-01-15 23:00,2026-01-15,23:28:07
+-34.377951398,-58.533891273,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,33,2026-01-15 23:00,2026-01-15,23:28:07
+-34.376957744,-58.536259303,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,19,2026-01-15 23:00,2026-01-15,23:28:07
+-34.383197657,-58.534078308,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,5,2026-01-15 23:00,2026-01-15,23:28:07
+-34.310103433,-58.568834025,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,24,2026-01-15 23:00,2026-01-15,23:28:07
+-34.317862670,-58.569567150,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,34,2026-01-15 23:00,2026-01-15,23:28:07
+-34.326621097,-58.570899905,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,51,2026-01-15 23:00,2026-01-15,23:28:07
+-34.333912958,-58.566836525,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,14,2026-01-15 23:00,2026-01-15,23:28:07
+-34.334607434,-58.560265993,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,5,2026-01-15 23:00,2026-01-15,23:28:07
+-34.343217259,-58.560177802,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,32,2026-01-15 23:00,2026-01-15,23:28:07
+-34.350073368,-58.562186415,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,11,2026-01-15 23:00,2026-01-15,23:28:07
+-34.358791574,-58.563844331,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,19,2026-01-15 23:00,2026-01-15,23:28:07
+-34.347907112,-58.520250377,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,2026-01-15 23:00,2026-01-15,23:28:07
+-34.368076225,-58.526337946,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,47,2026-01-15 23:00,2026-01-15,23:28:07
+-34.344573299,-58.539353344,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,12,2026-01-15 23:00,2026-01-15,23:28:07
+-34.346961922,-58.544689928,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,30,2026-01-15 23:00,2026-01-15,23:28:07
+-34.362009772,-58.527990676,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,6,2026-01-15 23:00,2026-01-15,23:28:07
+-34.353607379,-58.527212143,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,2026-01-15 23:00,2026-01-15,23:28:07
+-34.343364427,-58.528266113,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,21,2026-01-15 23:00,2026-01-15,23:28:07
+-34.386683346,-58.537556584,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,2026-01-15 23:00,2026-01-15,23:28:07
+-34.393988852,-58.527127723,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,20,2026-01-15 23:00,2026-01-15,23:28:07
+-34.330087002,-58.562504782,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,9,2026-01-15 23:00,2026-01-15,23:28:07
+-34.332217386,-58.561523785,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,2026-01-15 23:00,2026-01-15,23:28:07
+-34.325895749,-58.533813765,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,18,2026-01-15 23:00,2026-01-15,23:28:07
+-34.330956419,-58.538890176,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,11,2026-01-15 23:00,2026-01-15,23:28:07
+-34.339435280,-58.540332459,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,11,2026-01-15 23:00,2026-01-15,23:28:07
+-34.345416270,-58.519823795,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2026-01-15 23:00,2026-01-15,23:28:07
+-34.345941979,-58.517684995,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2026-01-15 23:00,2026-01-15,23:28:07
+-34.345976349,-58.524159342,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,7,2026-01-15 23:00,2026-01-15,23:28:07
+-34.380605099,-58.549367336,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,11,2026-01-15 23:00,2026-01-15,23:28:07
+-34.361090902,-58.510236246,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,11,2026-01-15 23:00,2026-01-15,23:28:07
+-34.365763835,-58.509026274,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,13,2026-01-15 23:00,2026-01-15,23:28:07
+-34.373176561,-58.503745812,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-01-15 23:00,2026-01-15,23:28:07
+-34.377546903,-58.499740290,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2026-01-15 23:00,2026-01-15,23:28:07
+-34.343648755,-58.521164712,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,2026-01-15 23:00,2026-01-15,23:28:07
+-34.335556818,-58.527011012,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,12,2026-01-15 23:00,2026-01-15,23:28:07
+-34.329584301,-58.528480359,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,10,2026-01-15 23:00,2026-01-15,23:28:07
+-34.326400035,-58.529315510,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2026-01-15 23:00,2026-01-15,23:28:07
+-34.358701975,-58.501745977,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,11,2026-01-15 23:00,2026-01-15,23:28:07
+-34.6012,-58.5914,22,baja,Edenor,3 De Febrero,C J Lomas Del Palomar,,,4,,2026-01-15,23:28:07
+-34.5841,-58.4733,22,baja,Edenor,Capital Federal,Villa Ortuzar,,,30,,2026-01-15,23:28:07
+-34.4621,-58.6947,22,baja,Edenor,Malvinas Argentinas,El Triangulo,,,6,,2026-01-15,23:28:07
+-34.453,-58.6126,22,baja,Edenor,Tigre,Troncos Del Talar,,,9,,2026-01-15,23:28:07
+-34.6535,-58.7581,22,baja,Edenor,Moreno,Paso Del Rey,,,17,,2026-01-15,23:28:07
+-34.5504,-58.4611,22,baja,Edenor,Capital Federal,Nu?Ez,,,83,,2026-01-15,23:28:07
+-34.5684,-58.4504,22,baja,Edenor,Capital Federal,Belgrano,,,7,,2026-01-15,23:28:07
+-34.7005,-58.6207,22,baja,Edenor,La Matanza,Rafael Castillo,,,20,,2026-01-15,23:28:07
+-34.6005,-58.7551,22,baja,Edenor,Moreno,Trujui,,,29,,2026-01-15,23:28:07
+-34.6849,-58.5219,22,baja,Edenor,La Matanza,La Tablada,,,4,,2026-01-15,23:28:07
+-34.7526,-58.6989,22,baja,Edenor,Merlo,Pontevedra,,,6,,2026-01-15,23:28:07
+-34.5589,-58.4606,22,baja,Edenor,Capital Federal,Belgrano,,,17,,2026-01-15,23:28:07
+-34.5763,-58.4574,22,baja,Edenor,Capital Federal,Colegiales,,,7,,2026-01-15,23:28:07
+-34.5079,-58.5073,22,baja,Edenor,Vicente Lopez,Olivos,,,35,,2026-01-15,23:28:07
+-34.6968,-58.4863,22,baja,Edenor,La Matanza,Villa Madero,,,8,,2026-01-15,23:28:07
+-34.529,-58.743,22,baja,Edenor,Jose C Paz,Jose C Paz,,,28,,2026-01-15,23:28:07
+-34.4946,-58.4991,22,baja,Edenor,San Isidro,Martinez,,,11,,2026-01-15,23:28:07
+-34.5024,-58.5277,22,baja,Edenor,San Isidro,Martinez,,,39,,2026-01-15,23:28:07
+-34.7037,-58.6752,22,baja,Edenor,Merlo,Libertad,,,15,,2026-01-15,23:28:07
+-34.5941,-58.4688,22,baja,Edenor,Capital Federal,La Paternal,,,9,,2026-01-15,23:28:07
+-34.557,-58.4852,22,baja,Edenor,Capital Federal,Saavedra,,,7,,2026-01-15,23:28:07
+-34.5526,-58.4952,22,baja,Edenor,Capital Federal,Saavedra,,,10,,2026-01-15,23:28:07
+-34.5665,-58.4635,22,baja,Edenor,Capital Federal,Belgrano,,,35,,2026-01-15,23:28:07
+-34.5736,-58.5706,22,baja,Edenor,Gral San Martin,Juan M De Pueyrredon,,,31,,2026-01-15,23:28:07
+-34.5804,-58.487,22,baja,Edenor,Capital Federal,Villa Urquiza,,,20,,2026-01-15,23:28:07
+-34.4065,-58.7828,22,baja,Edenor,Pilar,Luis Lagomarsino,,,15,,2026-01-15,23:28:07
+-34.5697,-58.7418,22,baja,Edenor,San Miguel,San Miguel,,,4,,2026-01-15,23:28:07
+-34.6495,-58.6022,22,baja,Edenor,Moron,Haedo,,,1,,2026-01-15,23:28:07
+-34.7122,-58.5972,22,baja,Edenor,La Matanza,Isidro Casanova,,,10,,2026-01-15,23:28:07
+-34.6434,-58.5434,22,baja,Edenor,3 De Febrero,Ciudadela,,,12,,2026-01-15,23:28:07
+-34.6577,-58.6169,22,baja,Edenor,Moron,Moron,,,4,,2026-01-15,23:28:07
+-34.61,-58.4031,21,baja,Edesur,Capital,Balvanera,,,32,,2026-01-15,23:28:07
+-34.7642,-58.3889,21,baja,Edesur,Lomas De Zamora,Temperley,,,40,,2026-01-15,23:28:07
+-34.7036,-58.3932,21,baja,Edesur,Lanus,Lanus,,,12,,2026-01-15,23:28:07
+-34.6035,-58.4006,21,baja,Edesur,Capital,Balvanera,,,15,,2026-01-15,23:28:07
+-34.6112,-58.4054,21,baja,Edesur,Capital,Balvanera,,,47,,2026-01-15,23:28:07
+-34.7246,-58.3985,21,baja,Edesur,Lanus,Remedios De Escalada,,,19,,2026-01-15,23:28:07
+-34.7699,-58.2708,21,baja,Edesur,Florencio Varela,Florencio Varela,,,29,,2026-01-15,23:28:07
+-34.7666,-58.2186,21,baja,Edesur,Berazategui,Berazategui,,,5,,2026-01-15,23:28:07
+-34.794,-58.3953,21,baja,Edesur,Almirante Brown,Adrogue,,,24,,2026-01-15,23:28:07
+-34.738,-58.4456,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,6,,2026-01-15,23:28:07
+-34.7883,-58.3237,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,18,,2026-01-15,23:28:07
+-34.6966,-58.3397,21,baja,Edesur,Avellaneda,Villa Dominico,,,44,,2026-01-15,23:28:07
+-34.7837,-58.2723,21,baja,Edesur,Florencio Varela,Florencio Varela,,,3,,2026-01-15,23:28:07
+-34.6837,-58.3545,21,baja,Edesur,Avellaneda,Sarandi,,,267,,2026-01-15,23:28:07
+-34.796,-58.3571,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,23,,2026-01-15,23:28:07
+-34.6919,-58.3892,21,baja,Edesur,Lanus,Lanus,,,5,,2026-01-15,23:28:07
+-34.896,-58.402,21,baja,Edesur,Almirante Brown,Glew,,,18,,2026-01-15,23:28:07
+-34.6723,-58.3509,21,baja,Edesur,Avellaneda,Avellaneda,,,165,,2026-01-15,23:28:07
+-34.6866,-58.3991,21,baja,Edesur,Lanus,Lanus,,,43,,2026-01-15,23:28:07
+-34.7779,-58.3582,21,baja,Edesur,Almirante Brown,Marmol,,,7,,2026-01-15,23:28:07
+-34.7482,-58.2288,21,baja,Edesur,Quilmes,Ezpeleta,,,113,,2026-01-15,23:28:07
+-34.7837,-58.295,21,baja,Edesur,Florencio Varela,Florencio Varela,,,34,,2026-01-15,23:28:07
+-34.8488,-58.4848,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,56,,2026-01-15,23:28:07
+-34.6714,-58.4835,21,baja,Edesur,Capital,Villa Lugano,,,36,,2026-01-15,23:28:07
+-34.6238,-58.4821,21,baja,Edesur,Capital,Villa Sta. Rita,,,10,,2026-01-15,23:28:07
+-34.8173,-58.3888,21,baja,Edesur,Almirante Brown,Burzaco,,,2,,2026-01-15,23:28:07
+-34.608,-58.3906,21,baja,Edesur,Capital,San Nicolas,,,12,,2026-01-15,23:28:07
+-34.599,-58.5024,21,baja,Edesur,Capital,Villa Devoto,,,595,,2026-01-15,23:28:07
+-34.5965,-58.4007,21,baja,Edesur,Capital,Recoleta,,,8,,2026-01-15,23:28:07
+-34.7683,-58.2428,21,baja,Edesur,Berazategui,Berazategui,,,16,,2026-01-15,23:28:07
+-34.6906,-58.314,21,baja,Edesur,Avellaneda,Wilde,,,24,,2026-01-15,23:28:07
+-34.6302,-58.3747,21,baja,Edesur,Capital,Barracas,,,39,,2026-01-15,23:28:07
+-34.6321,-58.3588,21,baja,Edesur,Capital,La Boca,,,17,,2026-01-15,23:28:07
+-34.6248,-58.3714,21,baja,Edesur,Capital,San Telmo,,,19,,2026-01-15,23:28:07
+-34.6387,-58.3656,21,baja,Edesur,Capital,La Boca,,,18,,2026-01-15,23:28:07
+-34.7373,-58.2248,21,baja,Edesur,Quilmes,Ezpeleta,,,9,,2026-01-15,23:28:07
+-34.7571,-58.2624,21,baja,Edesur,Quilmes,Quilmes,,,15,,2026-01-15,23:28:07
+-34.6059,-58.4276,21,baja,Edesur,Capital,Capital,,,19,,2026-01-15,23:28:07
+-34.7433,-58.3013,21,baja,Edesur,Quilmes,Quilmes,,,9,,2026-01-15,23:28:07
+-34.7441,-58.2163,21,baja,Edesur,Quilmes,Ezpeleta,,,7,,2026-01-15,23:28:07
+-34.7236,-58.3239,21,baja,Edesur,Quilmes,Bernal,,,9,,2026-01-15,23:28:07
+-34.7253,-58.2591,21,baja,Edesur,Quilmes,Quilmes,,,3,,2026-01-15,23:28:07
+-34.7317,-58.3584,21,baja,Edesur,Lanus,Monte Chingolo,,,42,,2026-01-15,23:28:07
+-34.633,-58.3778,21,baja,Edesur,Capital,Barracas,,,13,,2026-01-15,23:28:07
+-34.6186,-58.3739,21,baja,Edesur,Capital,San Telmo,,,2,,2026-01-15,23:28:07
+-34.8264,-58.2342,21,baja,Edesur,Florencio Varela,Bosques,,,1,,2026-01-15,23:28:07
+-34.7725,-58.276,21,baja,Edesur,Florencio Varela,Florencio Varela,,,1,,2026-01-15,23:28:07
+-34.6503,-58.3796,21,baja,Edesur,Capital,Barracas,,,15,,2026-01-15,23:28:07
+-34.6179,-58.4708,21,baja,Edesur,Capital,Villa General Mitre,,,75,,2026-01-15,23:28:07
+-34.7557,-58.3275,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,3,,2026-01-15,23:28:07
+-34.6521,-58.371,21,baja,Edesur,Capital,Barracas,,,2,,2026-01-15,23:28:07
+-34.7766,-58.2814,21,baja,Edesur,Florencio Varela,Florencio Varela,,,1,,2026-01-15,23:28:07
+-34.7883,-58.2886,21,baja,Edesur,Florencio Varela,Florencio Varela,,,1,,2026-01-15,23:28:07
+-34.6059,-58.4222,21,baja,Edesur,Capital,Capital,,,1,,2026-01-15,23:28:07
+-34.6043,-58.3783,21,baja,Edesur,Capital,San Nicolas,,,3,,2026-01-15,23:28:07
+-34.7638,-58.194,21,baja,Edesur,Berazategui,Berazategui,,,4,,2026-01-15,23:28:07
+-34.7322,-58.3408,21,baja,Edesur,Lanus,Monte Chingolo,,,7,,2026-01-15,23:28:07
+-34.6635,-58.3652,21,baja,Edesur,Avellaneda,Avellaneda,,,13,,2026-01-15,23:28:07
+-34.5957,-58.4531,21,baja,Edesur,Capital,La Paternal,,,1,,2026-01-15,23:28:07
+-34.604,-58.4574,21,baja,Edesur,Capital,Villa Crespo,,,9,,2026-01-15,23:28:07
+-34.6232,-58.4856,21,baja,Edesur,Capital,Floresta,,,1,,2026-01-15,23:28:07
+-34.6854,-58.4738,21,baja,Edesur,Capital,Villa Riachuelo,,,15,,2026-01-15,23:28:07
+-34.6264,-58.4703,21,baja,Edesur,Capital,Flores,,,2,,2026-01-15,23:28:07
+-34.5958,-58.4352,21,baja,Edesur,Capital,Capital,,,1,,2026-01-15,23:28:07
+-34.821,-58.2677,21,baja,Edesur,Florencio Varela,Florencio Varela,,,1,,2026-01-15,23:28:07
