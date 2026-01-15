@@ -4357,3 +4357,62 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6149,-58.4272,21,baja,Edesur,Capital,Almagro,,,38,,2026-01-15,05:32:40
 -34.6149,-58.4292,21,baja,Edesur,Capital,Almagro,,,15,,2026-01-15,05:32:40
 -34.6684,-58.3922,21,baja,Edesur,Avellaneda,Avellaneda,,,5,,2026-01-15,05:32:40
+-34.603755905,-58.377279495,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-22/115-2-22,159,2026-01-15 06:35,2026-01-15,07:31:35
+-34.604082498,-58.377254455,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-22/115-2-22,48,2026-01-15 06:35,2026-01-15,07:31:35
+-34.664583245,-58.375576756,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-2-25/279-2-25,1,2026-01-15 06:42,2026-01-15,07:31:35
+-34.664284837,-58.375585111,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-2-25/279-2-25,111,2026-01-15 06:42,2026-01-15,07:31:35
+-34.661480166,-58.388540621,11,media,Edesur,Avellaneda,Avellaneda,Pineyro,R:079-5-54/079-5-54,2,2026-01-15 05:58,2026-01-15,07:31:35
+-34.664909891,-58.388144304,11,media,Edesur,Avellaneda,Avellaneda,Pineyro,R:079-5-54/079-5-54,217,2026-01-15 05:58,2026-01-15,07:31:35
+-34.664290694,-58.384668518,11,media,Edesur,Avellaneda,Avellaneda,Pineyro,R:079-5-54/079-5-54,54,2026-01-15 05:58,2026-01-15,07:31:35
+-34.665935101,-58.390238539,11,media,Edesur,Avellaneda,Avellaneda,Pineyro,R:079-5-54/079-5-54,101,2026-01-15 05:58,2026-01-15,07:31:35
+-34.666553605,-58.390223724,11,media,Edesur,Avellaneda,Avellaneda,Pineyro,R:079-5-54/079-5-54,5,2026-01-15 05:58,2026-01-15,07:31:35
+-34.601905731,-58.458615226,11,media,Edesur,Capital Gp,La Paternal,Villa Crespo,R:147-1-13/147-1-13,474,2026-01-15 12:06,2026-01-15,07:31:35
+-34.601917867,-58.462385208,11,media,Edesur,Capital Gp,La Paternal,Villa Crespo,R:147-1-13/147-1-13,540,2026-01-15 12:06,2026-01-15,07:31:35
+-34.603191501,-58.458978885,11,media,Edesur,Capital Gp,La Paternal,Villa Crespo,R:147-1-13/147-1-13,167,2026-01-15 12:06,2026-01-15,07:31:35
+-34.602822490,-58.458325177,11,media,Edesur,Capital Gp,La Paternal,Villa Crespo,R:147-1-13/147-1-13,272,2026-01-15 12:06,2026-01-15,07:31:35
+-34.602482274,-58.462522462,11,media,Edesur,Capital Gp,La Paternal,Villa Crespo,R:147-1-13/147-1-13,476,2026-01-15 12:06,2026-01-15,07:31:35
+-34.6012,-58.5914,22,baja,Edenor,3 De Febrero,C J Lomas Del Palomar,,,4,,2026-01-15,07:31:35
+-34.6509,-58.7176,22,baja,Edenor,Merlo,Merlo,,,4,,2026-01-15,07:31:35
+-34.3275,-58.6222,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,7,,2026-01-15,07:31:35
+-34.5523,-58.8136,22,baja,Edenor,Moreno,Cuartel V,,,31,,2026-01-15,07:31:35
+-34.4609,-58.5694,22,baja,Edenor,San Fernando,Virreyes,,,11,,2026-01-15,07:31:35
+-34.5846,-58.4872,22,baja,Edenor,Capital Federal,Villa Urquiza,,,10,,2026-01-15,07:31:35
+-34.4879,-58.7384,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,15,,2026-01-15,07:31:35
+-34.7015,-58.4797,22,baja,Edenor,La Matanza,Villa Madero,,,5,,2026-01-15,07:31:35
+-34.5735,-58.5302,22,baja,Edenor,Gral San Martin,Villa Maipu,,,21,,2026-01-15,07:31:35
+-34.6097,-58.7058,22,baja,Edenor,Ituzaingo,Villa Udaondo,,,5,,2026-01-15,07:31:35
+-34.6534,-58.5806,22,baja,Edenor,La Matanza,Ramos Mejia,,,72,,2026-01-15,07:31:35
+-34.6227,-58.793,22,baja,Edenor,Moreno,Moreno,,,21,,2026-01-15,07:31:35
+-34.6677,-58.6064,22,baja,Edenor,Moron,Moron,,,24,,2026-01-15,07:31:35
+-34.4234,-58.6883,22,baja,Edenor,Tigre,Benavidez,,,10,,2026-01-15,07:31:35
+-34.5358,-58.5868,22,baja,Edenor,Gral San Martin,C Jardin El Libertador,,,1,,2026-01-15,07:31:35
+-34.7018,-58.3389,21,baja,Edesur,Avellaneda,Villa Dominico,,,9,,2026-01-15,07:31:35
+-34.7096,-58.3995,21,baja,Edesur,Lanus,Lanus,,,25,,2026-01-15,07:31:35
+-34.6159,-58.4761,21,baja,Edesur,Capital,Villa Sta. Rita,,,11,,2026-01-15,07:31:35
+-34.7754,-58.4141,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,108,,2026-01-15,07:31:35
+-34.6861,-58.3429,21,baja,Edesur,Avellaneda,Sarandi,,,9,,2026-01-15,07:31:35
+-34.7389,-58.2918,21,baja,Edesur,Quilmes,Quilmes,,,4,,2026-01-15,07:31:35
+-34.6191,-58.4422,21,baja,Edesur,Capital,Caballito,,,18,,2026-01-15,07:31:35
+-34.6915,-58.389,21,baja,Edesur,Lanus,Gerli,,,18,,2026-01-15,07:31:35
+-34.753,-58.4009,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,47,,2026-01-15,07:31:35
+-34.7673,-58.4137,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,86,,2026-01-15,07:31:35
+-34.7468,-58.3969,21,baja,Edesur,Lomas De Zamora,Banfield,,,24,,2026-01-15,07:31:35
+-34.7991,-58.4226,21,baja,Edesur,Lomas De Zamora,Lavallol,,,8,,2026-01-15,07:31:35
+-34.7703,-58.3104,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,2,,2026-01-15,07:31:35
+-34.7201,-58.2603,21,baja,Edesur,Quilmes,Quilmes,,,13,,2026-01-15,07:31:35
+-34.732,-58.3585,21,baja,Edesur,Lanus,Monte Chingolo,,,50,,2026-01-15,07:31:35
+-34.7156,-58.4,21,baja,Edesur,Lanus,Remedios De Escalada,,,25,,2026-01-15,07:31:35
+-34.7495,-58.3213,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,16,,2026-01-15,07:31:35
+-34.7186,-58.4685,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,10,,2026-01-15,07:31:35
+-34.61,-58.4031,21,baja,Edesur,Capital,Balvanera,,,20,,2026-01-15,07:31:35
+-34.8016,-58.4252,21,baja,Edesur,Lomas De Zamora,Lavallol,,,7,,2026-01-15,07:31:35
+-34.6308,-58.435,21,baja,Edesur,Capital,Parque Chacabuco,,,5,,2026-01-15,07:31:35
+-34.7015,-58.3955,21,baja,Edesur,Lanus,Lanus,,,9,,2026-01-15,07:31:35
+-34.7036,-58.3932,21,baja,Edesur,Lanus,Lanus,,,5,,2026-01-15,07:31:35
+-34.6035,-58.4006,21,baja,Edesur,Capital,Balvanera,,,5,,2026-01-15,07:31:35
+-34.707,-58.4341,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,24,,2026-01-15,07:31:35
+-34.7282,-58.2521,21,baja,Edesur,Quilmes,Quilmes,,,22,,2026-01-15,07:31:35
+-34.7229,-58.3295,21,baja,Edesur,Avellaneda,Wilde,,,29,,2026-01-15,07:31:35
+-34.6149,-58.4272,21,baja,Edesur,Capital,Almagro,,,61,,2026-01-15,07:31:35
+-34.6149,-58.4292,21,baja,Edesur,Capital,Almagro,,,23,,2026-01-15,07:31:35
+-34.7265,-58.4391,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,1,,2026-01-15,07:31:35
