@@ -10574,3 +10574,47 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8943,-58.5615,21,baja,Edesur,Ezeiza,Tristan Suarez,,,6,,2026-01-17,13:33:22
 -34.6934,-58.3401,21,baja,Edesur,Avellaneda,Villa Dominico,,,15,,2026-01-17,13:33:22
 -34.6665,-58.381,21,baja,Edesur,Avellaneda,Avellaneda,,,25,,2026-01-17,13:33:22
+-34.693768388,-58.335941433,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-1-12/172-1-12,342,2026-01-17 18:01,2026-01-17,15:26:21
+-34.742528625,-58.238229206,11,media,Edesur,Quilmes,Ezpeleta,Sobral,R:175-2-21/175-2-21,1,2026-01-17 13:23,2026-01-17,15:26:21
+-34.805803079,-58.449115908,11,media,Edesur,Esteban Echeverria,Luis Guillon,Almirante Brown,R:180-2-24/180-2-24,323,2026-01-17 13:26,2026-01-17,15:26:21
+-34.803279639,-58.454220816,11,media,Edesur,Esteban Echeverria,Luis Guillon,Almirante Brown,R:180-2-24/180-2-24,577,2026-01-17 13:26,2026-01-17,15:26:21
+-34.809770716,-58.449099243,11,media,Edesur,Esteban Echeverria,Luis Guillon,Almirante Brown,R:180-2-24/180-2-24,337,2026-01-17 13:26,2026-01-17,15:26:21
+-34.809985789,-58.454242679,11,media,Edesur,Esteban Echeverria,Luis Guillon,Almirante Brown,R:180-2-24/180-2-24,272,2026-01-17 13:26,2026-01-17,15:26:21
+-34.806936874,-58.451157556,11,media,Edesur,Esteban Echeverria,Luis Guillon,Almirante Brown,R:180-2-24/180-2-24,12,2026-01-17 13:26,2026-01-17,15:26:21
+-34.859279836,-58.384276369,11,media,Edesur,Almirante Brown,Longchamps,Burzaco,R:082-2-23/082-2-23,423,2026-01-17 14:04,2026-01-17,15:26:21
+-34.653492158,-58.511055866,11,media,Edesur,Capital Gp,Mataderos,Liniers,R:043-1-13/043-1-13,528,2026-01-17 18:00,2026-01-17,15:26:21
+-34.885403931,-58.899646886,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2026-01-17,15:26:21
+-34.879586378,-58.907369180,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,3,Sin Datos,2026-01-17,15:26:21
+-34.891268963,-58.902645223,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2026-01-17,15:26:21
+-34.891008907,-58.902915316,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2026-01-17,15:26:21
+-34.886735311,-58.908229328,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2026-01-17,15:26:21
+-34.889740150,-58.917764966,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2026-01-17,15:26:21
+-34.866152072,-58.904620837,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2026-01-17,15:26:21
+-34.893917099,-58.919816493,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,98,Sin Datos,2026-01-17,15:26:21
+-34.882451403,-58.910324373,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2026-01-17,15:26:21
+-34.896310320,-58.923532073,12,media,Edenor,S/D,S/D,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,80,Sin Datos,2026-01-17,15:26:21
+-34.144061030,-58.573670984,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-01-17,15:26:21
+-34.148032073,-58.565781937,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-01-17,15:26:21
+-34.478001142,-58.721047985,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5526,185,Sin Datos,2026-01-17,15:26:21
+-34.486848694,-58.724520973,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5526,411,Sin Datos,2026-01-17,15:26:21
+-34.4879,-58.6151,22,baja,Edenor,Tigre,Don Torcuato,,,9,,2026-01-17,15:26:21
+-34.3681,-58.8707,22,baja,Edenor,Pilar,Zelaya,,,22,,2026-01-17,15:26:21
+-34.6045,-58.7397,22,baja,Edenor,Moreno,Trujui,,,4,,2026-01-17,15:26:21
+-34.5815,-58.43,22,baja,Edenor,Capital Federal,Palermo,,,10,,2026-01-17,15:26:21
+-34.8909,-58.5533,21,baja,Edesur,Ezeiza,Tristan Suarez,,,50,,2026-01-17,15:26:21
+-34.923,-58.7052,21,baja,Edesur,Cañuelas,Santa Anita,,,9,,2026-01-17,15:26:21
+-34.7823,-58.2274,21,baja,Edesur,Berazategui,Berazategui,,,20,,2026-01-17,15:26:21
+-34.6347,-58.4781,21,baja,Edesur,Capital,Floresta,,,18,,2026-01-17,15:26:21
+-34.635,-58.4582,21,baja,Edesur,Capital,Capital,,,22,,2026-01-17,15:26:21
+-34.8781,-58.4868,21,baja,Edesur,Esteban Echeverria,Canning,,,9,,2026-01-17,15:26:21
+-34.7116,-58.3437,21,baja,Edesur,Avellaneda,Villa Dominico,,,2,,2026-01-17,15:26:21
+-34.5976,-58.3733,21,baja,Edesur,Capital,Retiro,,,8,,2026-01-17,15:26:21
+-34.6348,-58.4066,21,baja,Edesur,Capital,Parque Patricios,,,33,,2026-01-17,15:26:21
+-34.723,-58.3229,21,baja,Edesur,Quilmes,Bernal,,,14,,2026-01-17,15:26:21
+-34.8272,-58.2091,21,baja,Edesur,Florencio Varela,Bosques,,,3,,2026-01-17,15:26:21
+-34.8094,-58.4457,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,4,,2026-01-17,15:26:21
+-34.6568,-58.4148,21,baja,Edesur,Capital,Nueva Pompeya,,,6,,2026-01-17,15:26:21
+-34.8943,-58.5615,21,baja,Edesur,Ezeiza,Tristan Suarez,,,8,,2026-01-17,15:26:21
+-34.6934,-58.3401,21,baja,Edesur,Avellaneda,Villa Dominico,,,42,,2026-01-17,15:26:21
+-34.9125,-58.5574,21,baja,Edesur,Ezeiza,Tristan Suarez,,,2,,2026-01-17,15:26:21
+-34.619,-58.4422,21,baja,Edesur,Capital,Caballito,,,25,,2026-01-17,15:26:21
