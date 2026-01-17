@@ -10350,3 +10350,44 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6292,-58.51,21,baja,Edesur,Capital,Villa Luro,,,11,,2026-01-16,23:26:59
 -34.6348,-58.4067,21,baja,Edesur,Capital,Parque Patricios,,,15,,2026-01-16,23:26:59
 -34.7413,-58.24,21,baja,Edesur,Quilmes,Ezpeleta,,,14,,2026-01-16,23:26:59
+-34.724269381,-58.248415754,11,media,Edesur,Quilmes,Quilmes Este,Sobral,R:175-2-24/175-2-24,216,Sin Datos,2026-01-17,02:53:01
+-34.693768388,-58.335941433,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-1-12/172-1-12,342,2026-01-17 00:01,2026-01-17,02:53:01
+-34.742528625,-58.238229206,11,media,Edesur,Quilmes,Ezpeleta,Sobral,R:175-2-21/175-2-21,1,2026-01-17 01:23,2026-01-17,02:53:01
+-34.854520920,-58.404610602,11,media,Edesur,Almirante Brown,Longchamps,Almirante Brown,R:180-4-44/180-4-44,182,2026-01-17 02:12,2026-01-17,02:53:01
+-34.856003369,-58.404962255,11,media,Edesur,Almirante Brown,Longchamps,Almirante Brown,R:180-4-44/180-4-44,8,2026-01-17 02:12,2026-01-17,02:53:01
+-34.868158621,-58.408645609,11,media,Edesur,Almirante Brown,Longchamps,Almirante Brown,R:180-4-44/180-4-44,1,2026-01-17 02:12,2026-01-17,02:53:01
+-34.857389655,-58.405295679,11,media,Edesur,Almirante Brown,Longchamps,Almirante Brown,R:180-4-44/180-4-44,35,2026-01-17 02:12,2026-01-17,02:53:01
+-34.862515497,-58.406504693,11,media,Edesur,Almirante Brown,Longchamps,Almirante Brown,R:180-4-44/180-4-44,134,2026-01-17 02:12,2026-01-17,02:53:01
+-34.860537535,-58.404558746,11,media,Edesur,Almirante Brown,Longchamps,Almirante Brown,R:180-4-44/180-4-44,21,2026-01-17 02:12,2026-01-17,02:53:01
+-34.859541990,-58.404076118,11,media,Edesur,Almirante Brown,Longchamps,Almirante Brown,R:180-4-44/180-4-44,34,2026-01-17 02:12,2026-01-17,02:53:01
+-34.859219468,-58.404918861,11,media,Edesur,Almirante Brown,Longchamps,Almirante Brown,R:180-4-44/180-4-44,36,2026-01-17 02:12,2026-01-17,02:53:01
+-34.857338559,-58.404480222,11,media,Edesur,Almirante Brown,Longchamps,Almirante Brown,R:180-4-44/180-4-44,27,2026-01-17 02:12,2026-01-17,02:53:01
+-34.858979849,-58.404437382,11,media,Edesur,Almirante Brown,Longchamps,Almirante Brown,R:180-4-44/180-4-44,22,2026-01-17 02:12,2026-01-17,02:53:01
+-34.860649605,-58.406053529,11,media,Edesur,Almirante Brown,Longchamps,Almirante Brown,R:180-4-44/180-4-44,30,2026-01-17 02:12,2026-01-17,02:53:01
+-34.860253135,-58.402312813,11,media,Edesur,Almirante Brown,Longchamps,Almirante Brown,R:180-4-44/180-4-44,252,2026-01-17 02:12,2026-01-17,02:53:01
+-34.863913789,-58.405621712,11,media,Edesur,Almirante Brown,Longchamps,Almirante Brown,R:180-4-44/180-4-44,241,2026-01-17 02:12,2026-01-17,02:53:01
+-34.863997827,-58.402125036,11,media,Edesur,Almirante Brown,Longchamps,Almirante Brown,R:180-4-44/180-4-44,233,2026-01-17 02:12,2026-01-17,02:53:01
+-34.353653886,-58.817763896,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5533,281,2026-01-17 02:00,2026-01-17,02:53:01
+-34.6148,-58.7262,22,baja,Edenor,Moreno,Trujui,,,10,,2026-01-17,02:53:01
+-34.4709,-58.8529,22,baja,Edenor,Pilar,Pte Derqui,,,11,,2026-01-17,02:53:01
+-34.655,-58.8468,22,baja,Edenor,Moreno,La Reja,,,16,,2026-01-17,02:53:01
+-34.7082,-58.6766,22,baja,Edenor,Merlo,Libertad,,,14,,2026-01-17,02:53:01
+-34.4443,-58.8413,22,baja,Edenor,Pilar,La Lonja,,,1,,2026-01-17,02:53:01
+-34.6403,-58.807,22,baja,Edenor,Moreno,Moreno,,,19,,2026-01-17,02:53:01
+-34.7612,-58.2421,21,baja,Edesur,Berazategui,Berazategui,,,22,,2026-01-17,02:53:01
+-34.8909,-58.5533,21,baja,Edesur,Ezeiza,Tristan Suarez,,,45,,2026-01-17,02:53:01
+-34.5961,-58.4523,21,baja,Edesur,Capital,Villa Crespo,,,25,,2026-01-17,02:53:01
+-34.5967,-58.4551,21,baja,Edesur,Capital,Capital,,,5,,2026-01-17,02:53:01
+-34.7723,-58.4134,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,16,,2026-01-17,02:53:01
+-34.8195,-58.3606,21,baja,Edesur,Almirante Brown,Burzaco,,,1,,2026-01-17,02:53:01
+-34.923,-58.7052,21,baja,Edesur,Cañuelas,Santa Anita,,,6,,2026-01-17,02:53:01
+-34.7823,-58.2274,21,baja,Edesur,Berazategui,Berazategui,,,10,,2026-01-17,02:53:01
+-34.7603,-58.2068,21,baja,Edesur,Berazategui,Berazategui,,,5,,2026-01-17,02:53:01
+-34.6495,-58.3871,21,baja,Edesur,Capital,Barracas,,,14,,2026-01-17,02:53:01
+-34.635,-58.4582,21,baja,Edesur,Capital,Capital,,,47,,2026-01-17,02:53:01
+-34.8781,-58.4868,21,baja,Edesur,Esteban Echeverria,Canning,,,3,,2026-01-17,02:53:01
+-34.786,-58.2604,21,baja,Edesur,Florencio Varela,Florencio Varela,,,13,,2026-01-17,02:53:01
+-34.8938,-58.562,21,baja,Edesur,Ezeiza,Tristan Suarez,,,6,,2026-01-17,02:53:01
+-34.8944,-58.5613,21,baja,Edesur,Ezeiza,Tristan Suarez,,,23,,2026-01-17,02:53:01
+-34.7413,-58.24,21,baja,Edesur,Quilmes,Ezpeleta,,,14,,2026-01-17,02:53:01
+-34.6348,-58.4066,21,baja,Edesur,Capital,Parque Patricios,,,18,,2026-01-17,02:53:01
