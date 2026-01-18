@@ -11599,3 +11599,61 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8866,-58.5748,21,baja,Edesur,Ezeiza,Tristan Suarez,,,23,,2026-01-18,21:24:38
 -34.636,-58.4868,21,baja,Edesur,Capital,Velez Sarfield,,,3,,2026-01-18,21:24:38
 -34.693,-58.3198,21,baja,Edesur,Avellaneda,Avellaneda,,,19,,2026-01-18,21:24:38
+-34.742528625,-58.238229206,11,media,Edesur,Quilmes,Ezpeleta,Sobral,R:175-2-21/175-2-21,1,2026-01-19 01:23,2026-01-18,23:25:47
+-34.760537267,-58.402260361,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Heroes De Malvinas,R:076-2-21/076-2-21,55,Sin Datos,2026-01-18,23:25:47
+-34.762616445,-58.402721105,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Heroes De Malvinas,R:076-2-21/076-2-21,188,Sin Datos,2026-01-18,23:25:47
+-34.637365023,-58.444358708,11,media,Edesur,Capital Rp,Parque Chacabuco,Pompeya,R:039-2-25/039-2-25,451,2026-01-19 03:39,2026-01-18,23:25:47
+-34.642401616,-58.445460557,11,media,Edesur,Capital Rp,Flores Rp,Pompeya,R:039-2-25/039-2-25,311,2026-01-19 03:39,2026-01-18,23:25:47
+-34.636424784,-58.443292784,11,media,Edesur,Capital Rp,Parque Chacabuco,Pompeya,R:039-2-25/039-2-25,229,2026-01-19 03:39,2026-01-18,23:25:47
+-34.636450965,-58.443944370,11,media,Edesur,Capital Rp,Parque Chacabuco,Pompeya,R:039-2-25/039-2-25,28,2026-01-19 03:39,2026-01-18,23:25:47
+-34.795348828,-58.855731206,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,199,Sin Datos,2026-01-18,23:25:47
+-34.799655370,-58.854352810,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,53,Sin Datos,2026-01-18,23:25:47
+-34.801506340,-58.856519913,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,8,Sin Datos,2026-01-18,23:25:47
+-34.804527716,-58.853355090,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,135,Sin Datos,2026-01-18,23:25:47
+-34.682872132,-58.554223293,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5538,175,2026-01-18 21:08,2026-01-18,23:25:47
+-34.682495885,-58.553769430,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5538,89,2026-01-18 21:08,2026-01-18,23:25:47
+-34.679165538,-58.552948704,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5538,209,2026-01-18 23:00,2026-01-18,23:25:47
+-34.680126617,-58.557357408,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5538,295,2026-01-18 23:00,2026-01-18,23:25:47
+-34.680162099,-58.551009051,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5538,136,2026-01-18 23:00,2026-01-18,23:25:47
+-34.678071815,-58.554378982,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5538,241,2026-01-18 23:00,2026-01-18,23:25:47
+-34.679001191,-58.556054208,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5538,179,2026-01-18 23:00,2026-01-18,23:25:47
+-34.680637612,-58.557904698,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5538,116,2026-01-18 23:00,2026-01-18,23:25:47
+-34.335925088,-58.678146072,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,19,Sin Datos,2026-01-18,23:25:47
+-34.329980235,-58.676909497,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,24,Sin Datos,2026-01-18,23:25:47
+-34.325442902,-58.675428571,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,8,Sin Datos,2026-01-18,23:25:47
+-34.318186713,-58.673018160,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,9,Sin Datos,2026-01-18,23:25:47
+-34.312535092,-58.671736352,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,10,Sin Datos,2026-01-18,23:25:47
+-34.303540305,-58.668922635,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,15,Sin Datos,2026-01-18,23:25:47
+-34.295932896,-58.666560538,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,13,Sin Datos,2026-01-18,23:25:47
+-34.348550999,-58.682879694,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,51,Sin Datos,2026-01-18,23:25:47
+-34.303224239,-58.676794378,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,2,Sin Datos,2026-01-18,23:25:47
+-34.338033252,-58.678991772,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,Sin Datos,2026-01-18,23:25:47
+-34.838421398,-58.824125526,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,28,2026-01-18 22:00,2026-01-18,23:25:47
+-34.833797966,-58.822283015,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,5,2026-01-18 22:00,2026-01-18,23:25:47
+-34.459589920,-58.910099949,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,221,2026-01-18 22:00,2026-01-18,23:25:47
+-34.313106161,-58.710119283,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,21,Sin Datos,2026-01-18,23:25:47
+-34.301592937,-58.727268561,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,5,Sin Datos,2026-01-18,23:25:47
+-34.329198838,-58.702609965,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,Sin Datos,2026-01-18,23:25:47
+-34.308721640,-58.713653321,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,Sin Datos,2026-01-18,23:25:47
+-34.337399499,-58.697898132,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,3,Sin Datos,2026-01-18,23:25:47
+-34.342866703,-58.693785661,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,3,Sin Datos,2026-01-18,23:25:47
+-34.300775479,-58.722236372,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,10,Sin Datos,2026-01-18,23:25:47
+-34.353443040,-58.700432806,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,3,Sin Datos,2026-01-18,23:25:47
+-34.350288325,-58.693196347,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,49,Sin Datos,2026-01-18,23:25:47
+-34.364069465,-58.717200353,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,15,Sin Datos,2026-01-18,23:25:47
+-34.360395673,-58.714142994,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,18,Sin Datos,2026-01-18,23:25:47
+-34.355824305,-58.705067982,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,Sin Datos,2026-01-18,23:25:47
+-34.592,-58.6551,22,baja,Edenor,Hurlingham,William Morris,,,15,,2026-01-18,23:25:47
+-34.6022,-58.658,22,baja,Edenor,Hurlingham,William Morris,,,25,,2026-01-18,23:25:47
+-34.6718,-58.7211,22,baja,Edenor,Merlo,Merlo,,,1,,2026-01-18,23:25:47
+-35.0235,-58.7504,21,baja,Edesur,Cañuelas,Zona Rural,,,12,,2026-01-18,23:25:47
+-34.8781,-58.4868,21,baja,Edesur,Esteban Echeverria,Canning,,,10,,2026-01-18,23:25:47
+-34.7116,-58.3437,21,baja,Edesur,Avellaneda,Villa Dominico,,,3,,2026-01-18,23:25:47
+-34.8094,-58.4457,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,6,,2026-01-18,23:25:47
+-34.6738,-58.3504,21,baja,Edesur,Avellaneda,Avellaneda,,,29,,2026-01-18,23:25:47
+-34.8828,-58.5477,21,baja,Edesur,Ezeiza,Barrio La Union,,,60,,2026-01-18,23:25:47
+-34.6041,-58.4889,21,baja,Edesur,Capital,Villa Del Parque,,,118,,2026-01-18,23:25:47
+-34.6385,-58.4467,21,baja,Edesur,Capital,Parque Chacabuco,,,32,,2026-01-18,23:25:47
+-34.6257,-58.4206,21,baja,Edesur,Capital,Boedo,,,33,,2026-01-18,23:25:47
+-34.8866,-58.5748,21,baja,Edesur,Ezeiza,Tristan Suarez,,,25,,2026-01-18,23:25:47
+-34.6375,-58.3752,21,baja,Edesur,Capital,Barracas,,,3,,2026-01-18,23:25:47
