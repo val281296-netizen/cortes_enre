@@ -11566,3 +11566,36 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.693,-58.3198,21,baja,Edesur,Avellaneda,Avellaneda,,,15,,2026-01-18,19:21:01
 -34.7728,-58.2457,21,baja,Edesur,Berazategui,Berazategui,,,1,,2026-01-18,19:21:01
 -34.7523,-58.2859,21,baja,Edesur,Quilmes,Quilmes,,,8,,2026-01-18,19:21:01
+-34.742528625,-58.238229206,11,media,Edesur,Quilmes,Ezpeleta,Sobral,R:175-2-21/175-2-21,1,2026-01-18 19:23,2026-01-18,21:24:38
+-34.760537267,-58.402260361,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Heroes De Malvinas,R:076-2-21/076-2-21,55,2026-01-18 20:02,2026-01-18,21:24:38
+-34.762616445,-58.402721105,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Heroes De Malvinas,R:076-2-21/076-2-21,188,2026-01-18 20:02,2026-01-18,21:24:38
+-34.839181727,-58.686482339,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5537,8,Sin Datos,2026-01-18,21:24:38
+-34.335925088,-58.678146072,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,19,2026-01-18 19:29,2026-01-18,21:24:38
+-34.329980235,-58.676909497,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,24,2026-01-18 19:29,2026-01-18,21:24:38
+-34.325442902,-58.675428571,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,8,2026-01-18 19:29,2026-01-18,21:24:38
+-34.318186713,-58.673018160,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,9,2026-01-18 19:29,2026-01-18,21:24:38
+-34.312535092,-58.671736352,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,10,2026-01-18 19:29,2026-01-18,21:24:38
+-34.303540305,-58.668922635,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,15,2026-01-18 19:29,2026-01-18,21:24:38
+-34.295932896,-58.666560538,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,13,2026-01-18 19:29,2026-01-18,21:24:38
+-34.348550999,-58.682879694,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,51,2026-01-18 19:29,2026-01-18,21:24:38
+-34.303224239,-58.676794378,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,2,2026-01-18 19:29,2026-01-18,21:24:38
+-34.338033252,-58.678991772,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,2026-01-18 19:29,2026-01-18,21:24:38
+-34.6801,-58.551,22,baja,Edenor,La Matanza,San Justo,,,27,,2026-01-18,21:24:38
+-34.5039,-58.6698,22,baja,Edenor,Malvinas Argentinas,Adolfo Sourdeaux,,,21,,2026-01-18,21:24:38
+-34.4793,-58.7378,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,30,,2026-01-18,21:24:38
+-34.592,-58.6551,22,baja,Edenor,Hurlingham,William Morris,,,15,,2026-01-18,21:24:38
+-34.6022,-58.658,22,baja,Edenor,Hurlingham,William Morris,,,25,,2026-01-18,21:24:38
+-34.6668,-58.5952,22,baja,Edenor,La Matanza,San Justo,,,1,,2026-01-18,21:24:38
+-35.0235,-58.7504,21,baja,Edesur,Cañuelas,Zona Rural,,,12,,2026-01-18,21:24:38
+-34.8781,-58.4868,21,baja,Edesur,Esteban Echeverria,Canning,,,10,,2026-01-18,21:24:38
+-34.7116,-58.3437,21,baja,Edesur,Avellaneda,Villa Dominico,,,3,,2026-01-18,21:24:38
+-34.8094,-58.4457,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,5,,2026-01-18,21:24:38
+-34.6738,-58.3504,21,baja,Edesur,Avellaneda,Avellaneda,,,29,,2026-01-18,21:24:38
+-34.8828,-58.5477,21,baja,Edesur,Ezeiza,Barrio La Union,,,54,,2026-01-18,21:24:38
+-34.6041,-58.4889,21,baja,Edesur,Capital,Villa Del Parque,,,118,,2026-01-18,21:24:38
+-34.7693,-58.2681,21,baja,Edesur,Quilmes,Quilmes,,,28,,2026-01-18,21:24:38
+-34.6385,-58.4467,21,baja,Edesur,Capital,Parque Chacabuco,,,23,,2026-01-18,21:24:38
+-34.6257,-58.4206,21,baja,Edesur,Capital,Boedo,,,32,,2026-01-18,21:24:38
+-34.8866,-58.5748,21,baja,Edesur,Ezeiza,Tristan Suarez,,,23,,2026-01-18,21:24:38
+-34.636,-58.4868,21,baja,Edesur,Capital,Velez Sarfield,,,3,,2026-01-18,21:24:38
+-34.693,-58.3198,21,baja,Edesur,Avellaneda,Avellaneda,,,19,,2026-01-18,21:24:38
