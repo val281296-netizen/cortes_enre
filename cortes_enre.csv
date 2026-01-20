@@ -12759,3 +12759,25 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6607,-58.3454,21,baja,Edesur,Avellaneda,Dock Sud,,,7,,2026-01-20,17:36:10
 -34.6114,-58.4731,21,baja,Edesur,Capital,Capital,,,18,,2026-01-20,17:36:10
 -34.7786,-58.4191,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,2,,2026-01-20,17:36:10
+-34.743354392,-58.321074502,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,795,2026-01-20 19:22,2026-01-20,20:16:56
+-34.741767687,-58.321530932,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,70,2026-01-20 19:22,2026-01-20,20:16:56
+-34.742045367,-58.318164001,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,19,2026-01-20 19:22,2026-01-20,20:16:56
+-34.750075744,-58.500918507,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-41/281-4-41,255,2026-01-20 20:32,2026-01-20,20:16:56
+-34.610778805,-58.693105917,12,media,Edenor,Ituzaingo,Villa Udaondo,S/D,R:Moron/67-Tr4/67-5522,135,Sin Datos,2026-01-20,20:16:56
+-34.456307227,-58.940796194,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,2,Sin Datos,2026-01-20,20:16:56
+-34.5704,-58.435,22,baja,Edenor,Capital Federal,Palermo,,,7,,2026-01-20,20:16:56
+-34.667,-58.7319,22,baja,Edenor,Merlo,Merlo,,,18,,2026-01-20,20:16:56
+-34.4217,-58.5857,22,baja,Edenor,Tigre,Ciudad De Tigre,,,103,,2026-01-20,20:16:56
+-34.5935,-58.5412,22,baja,Edenor,Gral San Martin,Bernardo Monteagudo,,,1,,2026-01-20,20:16:56
+-34.7116,-58.3437,21,baja,Edesur,Avellaneda,Villa Dominico,,,4,,2026-01-20,20:16:56
+-35.0321,-58.4141,21,baja,Edesur,San Vicente,San Vicente,,,83,,2026-01-20,20:16:56
+-34.631,-58.3621,21,baja,Edesur,Capital,La Boca,,,17,,2026-01-20,20:16:56
+-34.6339,-58.375,21,baja,Edesur,Capital,Barracas,,,37,,2026-01-20,20:16:56
+-34.6496,-58.4725,21,baja,Edesur,Capital,Parque Avellaneda,,,12,,2026-01-20,20:16:56
+-34.5991,-58.3935,21,baja,Edesur,Capital,Recoleta,,,8,,2026-01-20,20:16:56
+-34.7587,-58.2658,21,baja,Edesur,Quilmes,Quilmes,,,25,,2026-01-20,20:16:56
+-34.7677,-58.4112,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,83,,2026-01-20,20:16:56
+-34.7047,-58.4193,21,baja,Edesur,Lanus,Lanus,,,6,,2026-01-20,20:16:56
+-34.8081,-58.4397,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,13,,2026-01-20,20:16:56
+-34.6607,-58.3454,21,baja,Edesur,Avellaneda,Dock Sud,,,7,,2026-01-20,20:16:56
+-34.894,-58.5604,21,baja,Edesur,Ezeiza,Tristan Suarez,,,24,,2026-01-20,20:16:56
