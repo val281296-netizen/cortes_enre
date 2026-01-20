@@ -12550,3 +12550,53 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5991,-58.3935,21,baja,Edesur,Capital,Recoleta,,,6,,2026-01-20,11:29:21
 -34.7219,-58.2949,21,baja,Edesur,Quilmes,Quilmes,,,3,,2026-01-20,11:29:21
 -34.7341,-58.2388,21,baja,Edesur,Quilmes,Quilmes,,,42,,2026-01-20,11:29:21
+-34.614988926,-58.698018153,12,media,Edenor,Ituzaingo,Villa Udaondo,S/D,R:Moron/67-Tr4/67-5522,166,Sin Datos,2026-01-20,13:51:17
+-34.611513632,-58.695977211,12,media,Edenor,Ituzaingo,Villa Udaondo,S/D,R:Moron/67-Tr4/67-5522,203,Sin Datos,2026-01-20,13:51:17
+-34.610778805,-58.693105917,12,media,Edenor,Ituzaingo,Villa Udaondo,S/D,R:Moron/67-Tr4/67-5522,135,Sin Datos,2026-01-20,13:51:17
+-34.774477854,-58.622823272,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr1/168-5515,96,2026-01-20 13:00,2026-01-20,13:51:17
+-34.774052708,-58.623827019,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr1/168-5515,91,2026-01-20 13:00,2026-01-20,13:51:17
+-34.692204697,-58.762591885,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5517,514,2026-01-20 16:00,2026-01-20,13:51:17
+-34.586941129,-58.780142438,12,media,Edenor,Moreno,Trujui,S/D,R:Trujui/364-Tr1/364-5518,12,2026-01-20 12:40,2026-01-20,13:51:17
+-34.584278299,-58.778679741,12,media,Edenor,Moreno,Trujui,S/D,R:Trujui/364-Tr1/364-5518,1,2026-01-20 12:40,2026-01-20,13:51:17
+-34.911387147,-58.738813534,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr3/353-5481,4,2026-01-20 12:30,2026-01-20,13:51:17
+-34.670410796,-58.626607392,12,media,Edenor,Moron,Moron,S/D,R:V. Luzuriaga/64-Tr2/64-5535,456,2026-01-20 12:30,2026-01-20,13:51:17
+-34.493897215,-58.690689335,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr1/159-5517,98,2026-01-20 12:50,2026-01-20,13:51:17
+-34.463329110,-58.702673044,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,R:Ford/151-Tr2/151-5523/151-5515/151-5541,24,2026-01-20 12:00,2026-01-20,13:51:17
+-34.424722465,-58.898564938,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr2/260-5522,44,2026-01-20 12:45,2026-01-20,13:51:17
+-34.346232372,-58.546970649,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos,2026-01-20,13:51:17
+-34.350199669,-58.546682841,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,Sin Datos,2026-01-20,13:51:17
+-34.344220203,-58.547253039,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos,2026-01-20,13:51:17
+-34.355155193,-58.546018898,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,6,Sin Datos,2026-01-20,13:51:17
+-34.330860214,-58.552270029,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,Sin Datos,2026-01-20,13:51:17
+-34.335236596,-58.550573783,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,Sin Datos,2026-01-20,13:51:17
+-34.356089724,-58.544381255,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,12,Sin Datos,2026-01-20,13:51:17
+-34.360294221,-58.542173707,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,38,Sin Datos,2026-01-20,13:51:17
+-34.346961922,-58.544689928,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,30,Sin Datos,2026-01-20,13:51:17
+-34.346468118,-58.679119612,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,24,2026-01-20 13:00,2026-01-20,13:51:17
+-34.344400013,-58.677867355,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,2,2026-01-20 13:00,2026-01-20,13:51:17
+-34.316078190,-58.669467181,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,2,2026-01-20 13:00,2026-01-20,13:51:17
+-34.351333754,-58.682781151,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,30,2026-01-20 13:00,2026-01-20,13:51:17
+-34.336433840,-58.675489405,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,10,2026-01-20 13:00,2026-01-20,13:51:17
+-34.326331135,-58.672323649,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,25,2026-01-20 13:00,2026-01-20,13:51:17
+-34.310586606,-58.667800973,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,23,2026-01-20 13:00,2026-01-20,13:51:17
+-34.301160603,-58.664917606,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,28,2026-01-20 13:00,2026-01-20,13:51:17
+-34.285439026,-58.659785653,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,6,2026-01-20 13:00,2026-01-20,13:51:17
+-34.277284366,-58.657655002,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,34,2026-01-20 13:00,2026-01-20,13:51:17
+-34.703836558,-58.707091671,12,media,Edenor,Merlo,Libertad,S/D,R:Libertad/361-Tr2/361-5522,174,2026-01-20 14:00,2026-01-20,13:51:17
+-34.6143,-58.7814,22,baja,Edenor,Moreno,Moreno,,,4,,2026-01-20,13:51:17
+-34.572,-58.4972,22,baja,Edenor,Capital Federal,Villa Urquiza,,,4,,2026-01-20,13:51:17
+-34.5927,-58.4251,22,baja,Edenor,Capital Federal,Palermo,,,5,,2026-01-20,13:51:17
+-34.7116,-58.3437,21,baja,Edesur,Avellaneda,Villa Dominico,,,4,,2026-01-20,13:51:17
+-35.0321,-58.4141,21,baja,Edesur,San Vicente,San Vicente,,,60,,2026-01-20,13:51:17
+-34.7112,-58.3926,21,baja,Edesur,Lanus,Lanus,,,6,,2026-01-20,13:51:17
+-34.8438,-58.5016,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,13,,2026-01-20,13:51:17
+-34.9706,-58.4775,21,baja,Edesur,San Vicente,San Vicente,,,14,,2026-01-20,13:51:17
+-34.6058,-58.3932,21,baja,Edesur,Capital,Balvanera,,,5,,2026-01-20,13:51:17
+-34.6339,-58.375,21,baja,Edesur,Capital,Barracas,,,29,,2026-01-20,13:51:17
+-34.8049,-58.2961,21,baja,Edesur,Florencio Varela,Florencio Varela,,,6,,2026-01-20,13:51:17
+-34.6496,-58.4725,21,baja,Edesur,Capital,Parque Avellaneda,,,9,,2026-01-20,13:51:17
+-34.5991,-58.3935,21,baja,Edesur,Capital,Recoleta,,,8,,2026-01-20,13:51:17
+-34.8081,-58.4397,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,14,,2026-01-20,13:51:17
+-34.6384,-58.4461,21,baja,Edesur,Capital,Parque Chacabuco,,,5,,2026-01-20,13:51:17
+-34.6114,-58.4731,21,baja,Edesur,Capital,Capital,,,14,,2026-01-20,13:51:17
+-34.6126,-58.4728,21,baja,Edesur,Capital,Capital,,,4,,2026-01-20,13:51:17
