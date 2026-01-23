@@ -13879,3 +13879,60 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6336,-58.4238,21,baja,Edesur,Capital,Boedo,,,1,,2026-01-23,13:47:51
 -34.6174,-58.4786,21,baja,Edesur,Capital,Villa Sta. Rita,,,7,,2026-01-23,13:47:51
 -34.8613,-58.2764,21,baja,Edesur,Florencio Varela,Florencio Varela,,,9,,2026-01-23,13:47:51
+-34.786225129,-58.169456158,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-35/080-2-35,591,2026-01-23 17:52,2026-01-23,15:33:41
+-34.817266051,-58.388063045,11,media,Edesur,Almirante Brown,Burzaco,Rafael Calzada,R:189-4-42/189-4-42,74,Sin Datos,2026-01-23,15:33:41
+-34.662351417,-58.417993913,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-3-31/186-3-31,23,2026-01-23 20:06,2026-01-23,15:33:41
+-34.662350461,-58.417974491,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-3-31/186-3-31,123,2026-01-23 20:06,2026-01-23,15:33:41
+-34.667662128,-58.418185420,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-3-31/186-3-31,12,2026-01-23 20:06,2026-01-23,15:33:41
+-34.666793277,-58.414126057,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-3-31/186-3-31,228,2026-01-23 20:06,2026-01-23,15:33:41
+-34.666221628,-58.417812441,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-3-31/186-3-31,3,2026-01-23 20:06,2026-01-23,15:33:41
+-34.668016124,-58.420219567,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-3-31/186-3-31,5,2026-01-23 20:06,2026-01-23,15:33:41
+-34.670606595,-58.420445333,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-3-31/186-3-31,117,2026-01-23 20:06,2026-01-23,15:33:41
+-34.660312038,-58.416145758,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-3-31/186-3-31,6,2026-01-23 20:06,2026-01-23,15:33:41
+-34.666236393,-58.418017479,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-3-31/186-3-31,1,2026-01-23 20:06,2026-01-23,15:33:41
+-34.665681511,-58.417175103,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-3-31/186-3-31,221,2026-01-23 20:06,2026-01-23,15:33:41
+-34.667137957,-58.421365367,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-3-31/186-3-31,4,2026-01-23 20:06,2026-01-23,15:33:41
+-34.668207049,-58.418051957,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-3-31/186-3-31,2,2026-01-23 20:06,2026-01-23,15:33:41
+-34.662650567,-58.416059816,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-3-31/186-3-31,150,2026-01-23 20:06,2026-01-23,15:33:41
+-34.665938294,-58.415890550,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-3-31/186-3-31,6,2026-01-23 20:06,2026-01-23,15:33:41
+-34.730624498,-58.330658369,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-1-15/184-1-15,8,2026-01-23 17:14,2026-01-23,15:33:41
+-34.735174965,-58.329104207,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-1-15/184-1-15,14,2026-01-23 17:14,2026-01-23,15:33:41
+-34.733484670,-58.328474928,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-1-15/184-1-15,1,2026-01-23 17:14,2026-01-23,15:33:41
+-34.732346691,-58.331239285,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-1-15/184-1-15,1,2026-01-23 17:14,2026-01-23,15:33:41
+-34.737085622,-58.331389455,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-1-15/184-1-15,3,2026-01-23 17:14,2026-01-23,15:33:41
+-34.724228911,-58.339342991,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-1-15/184-1-15,43,2026-01-23 17:14,2026-01-23,15:33:41
+-34.895093265,-58.918754615,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,81,2026-01-23 15:00,2026-01-23,15:33:41
+-34.902499286,-58.919198839,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,11,2026-01-23 15:00,2026-01-23,15:33:41
+-34.911440328,-58.907328679,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,1,2026-01-23 15:00,2026-01-23,15:33:41
+-34.919429177,-58.914137786,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,2,2026-01-23 15:00,2026-01-23,15:33:41
+-34.915648132,-58.919230871,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,3,2026-01-23 15:00,2026-01-23,15:33:41
+-34.923493332,-58.912305035,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,1,2026-01-23 15:00,2026-01-23,15:33:41
+-34.898911260,-58.923873892,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,2,2026-01-23 15:00,2026-01-23,15:33:41
+-34.918374297,-58.922314466,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,2,2026-01-23 15:00,2026-01-23,15:33:41
+-34.900151543,-58.911683374,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,5,2026-01-23 15:00,2026-01-23,15:33:41
+-34.891710196,-58.912408164,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,1,2026-01-23 15:00,2026-01-23,15:33:41
+-34.910881936,-58.914093907,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,1,2026-01-23 15:00,2026-01-23,15:33:41
+-34.905420080,-58.904824985,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,1,2026-01-23 15:00,2026-01-23,15:33:41
+-34.912263598,-58.915606697,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,1,2026-01-23 15:00,2026-01-23,15:33:41
+-34.898340500,-58.914184103,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,134,2026-01-23 15:00,2026-01-23,15:33:41
+-34.521965363,-58.695054966,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,20,Sin Datos,2026-01-23,15:33:41
+-34.580823321,-58.724966638,12,media,Edenor,San Miguel,San Miguel,S/D,R:Mu?Iz/265-Tr1/265-5517,1,2026-01-23 12:45,2026-01-23,15:33:41
+-34.579849156,-58.726391318,12,media,Edenor,San Miguel,San Miguel,S/D,R:Mu?Iz/265-Tr1/265-5517,1,2026-01-23 12:45,2026-01-23,15:33:41
+-34.493877534,-58.762431929,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr1/252-5548,67,2026-01-23 13:00,2026-01-23,15:33:41
+-34.612662794,-58.995629742,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,3,Sin Datos,2026-01-23,15:33:41
+-34.560923417,-58.712385475,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Moron/67-Tr5/67-5516,108,Sin Datos,2026-01-23,15:33:41
+-34.866320222,-58.723141863,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5526,2,2026-01-23 16:00,2026-01-23,15:33:41
+-34.5835,-58.4169,22,baja,Edenor,Capital Federal,Palermo,,,30,,2026-01-23,15:33:41
+-34.751,-58.5836,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,17,,2026-01-23,15:33:41
+-34.6514,-58.4181,21,baja,Edesur,Capital,Nueva Pompeya,,,14,,2026-01-23,15:33:41
+-34.6625,-58.5051,21,baja,Edesur,Capital,Mataderos,,,25,,2026-01-23,15:33:41
+-34.6997,-58.4284,21,baja,Edesur,Lanus,Lanus,,,25,,2026-01-23,15:33:41
+-34.8407,-58.4925,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,35,,2026-01-23,15:33:41
+-34.8745,-58.3793,21,baja,Edesur,Almirante Brown,Glew,,,12,,2026-01-23,15:33:41
+-34.6492,-58.5112,21,baja,Edesur,Capital,Liniers,,,5,,2026-01-23,15:33:41
+-34.6336,-58.4238,21,baja,Edesur,Capital,Boedo,,,1,,2026-01-23,15:33:41
+-34.6174,-58.4786,21,baja,Edesur,Capital,Villa Sta. Rita,,,5,,2026-01-23,15:33:41
+-34.8613,-58.2764,21,baja,Edesur,Florencio Varela,Florencio Varela,,,29,,2026-01-23,15:33:41
+-34.6102,-58.4061,21,baja,Edesur,Capital,Balvanera,,,9,,2026-01-23,15:33:41
+-34.6506,-58.5137,21,baja,Edesur,Capital,Liniers,,,8,,2026-01-23,15:33:41
+-34.6628,-58.4147,21,baja,Edesur,Lanus,Valentin Alsina,,,3,,2026-01-23,15:33:41
