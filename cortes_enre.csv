@@ -19543,3 +19543,45 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7866,-58.2727,21,baja,Edesur,Florencio Varela,Florencio Varela,,,5,,2026-01-29,09:52:33
 -34.6057,-58.4887,21,baja,Edesur,Capital,Villa Del Parque,,,90,,2026-01-29,09:52:33
 -34.6606,-58.4395,21,baja,Edesur,Capital,Villa Soldati,,,23,,2026-01-29,09:52:33
+-34.735338922,-58.497494545,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-3-31/281-3-31,213,2026-01-29 16:43,2026-01-29,11:37:00
+-34.730172921,-58.495898278,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-3-31/281-3-31,114,2026-01-29 16:43,2026-01-29,11:37:00
+-34.732859851,-58.498837874,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-3-31/281-3-31,183,2026-01-29 16:43,2026-01-29,11:37:00
+-34.731809356,-58.494078282,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-3-31/281-3-31,6,2026-01-29 16:43,2026-01-29,11:37:00
+-34.729217242,-58.495935927,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-3-31/281-3-31,3,2026-01-29 16:43,2026-01-29,11:37:00
+-34.733222757,-58.493043026,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-3-31/281-3-31,2,2026-01-29 16:43,2026-01-29,11:37:00
+-34.734760352,-58.494391657,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-3-31/281-3-31,1,2026-01-29 16:43,2026-01-29,11:37:00
+-34.735805466,-58.496288067,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-3-31/281-3-31,2,2026-01-29 16:43,2026-01-29,11:37:00
+-34.733289347,-58.495611124,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-3-31/281-3-31,207,2026-01-29 16:43,2026-01-29,11:37:00
+-34.562230693,-58.596129652,12,media,Edenor,Gral San Martin,C Jardin El Libertador,S/D,R:Rotonda/262-Tr2/262-5523,320,2026-01-29 10:00,2026-01-29,11:37:00
+-34.562190144,-58.593993355,12,media,Edenor,Gral San Martin,C Jardin El Libertador,S/D,R:Rotonda/262-Tr2/262-5523,164,2026-01-29 10:00,2026-01-29,11:37:00
+-34.143202912,-58.403487776,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2026-01-29 16:40,2026-01-29,11:37:00
+-34.406755501,-58.735864467,12,media,Edenor,Escobar,Garin,S/D,R:Garin/454-Tr2/454-5521,288,Sin Datos,2026-01-29,11:37:00
+-34.405628231,-58.740382688,12,media,Edenor,Escobar,Garin,S/D,R:Garin/454-Tr2/454-5521,171,Sin Datos,2026-01-29,11:37:00
+-34.403222168,-58.738688029,12,media,Edenor,Escobar,Garin,S/D,R:Garin/454-Tr2/454-5521,175,Sin Datos,2026-01-29,11:37:00
+-34.409898014,-58.741030921,12,media,Edenor,Escobar,Garin,S/D,R:Garin/454-Tr2/454-5521,432,Sin Datos,2026-01-29,11:37:00
+-34.405548333,-58.743986545,12,media,Edenor,Escobar,Garin,S/D,R:Garin/454-Tr2/454-5521,80,Sin Datos,2026-01-29,11:37:00
+-34.410339460,-58.736750951,12,media,Edenor,Escobar,Garin,S/D,R:Garin/454-Tr2/454-5521,283,Sin Datos,2026-01-29,11:37:00
+-34.404792041,-58.737468707,12,media,Edenor,Escobar,Garin,S/D,R:Garin/454-Tr2/454-5521,273,Sin Datos,2026-01-29,11:37:00
+-34.411578202,-58.743512365,12,media,Edenor,Escobar,Garin,S/D,R:Garin/454-Tr2/454-5521,265,Sin Datos,2026-01-29,11:37:00
+-34.412379974,-58.744993790,12,media,Edenor,Escobar,Garin,S/D,R:Garin/454-Tr2/454-5521,309,Sin Datos,2026-01-29,11:37:00
+-34.400803819,-58.738670326,12,media,Edenor,Escobar,Garin,S/D,R:Maschwitz/154-Tr1/154-5518,127,Sin Datos,2026-01-29,11:37:00
+-34.7122,-58.6894,22,baja,Edenor,Merlo,Libertad,,,5,,2026-01-29,11:37:00
+-34.7024,-58.4881,22,baja,Edenor,La Matanza,Villa Madero,,,4,,2026-01-29,11:37:00
+-34.4792,-58.7473,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,5,,2026-01-29,11:37:00
+-34.5448,-58.7149,22,baja,Edenor,San Miguel,San Miguel,,,20,,2026-01-29,11:37:00
+-34.4369,-58.5562,22,baja,Edenor,San Fernando,San Fernando,,,24,,2026-01-29,11:37:00
+-34.6935,-58.5053,22,baja,Edenor,La Matanza,Villa Madero,,,4,,2026-01-29,11:37:00
+-34.6955,-58.6608,22,baja,Edenor,Merlo,Libertad,,,18,,2026-01-29,11:37:00
+-34.4807,-58.8501,22,baja,Edenor,Pilar,Pte Derqui,,,6,,2026-01-29,11:37:00
+-34.4893,-58.4836,22,baja,Edenor,San Isidro,Martinez,,,6,,2026-01-29,11:37:00
+-34.6044,-58.3966,21,baja,Edesur,Capital,Balvanera,,,29,,2026-01-29,11:37:00
+-34.7969,-58.3071,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,6,,2026-01-29,11:37:00
+-34.8701,-58.1826,21,baja,Edesur,Berazategui,El Pato,,,25,,2026-01-29,11:37:00
+-34.8798,-58.4867,21,baja,Edesur,Esteban Echeverria,Canning,,,5,,2026-01-29,11:37:00
+-34.7914,-58.2477,21,baja,Edesur,Berazategui,Berazategui,,,13,,2026-01-29,11:37:00
+-34.786,-58.3932,21,baja,Edesur,Lomas De Zamora,Temperley,,,71,,2026-01-29,11:37:00
+-34.7866,-58.2727,21,baja,Edesur,Florencio Varela,Florencio Varela,,,5,,2026-01-29,11:37:00
+-34.6057,-58.4887,21,baja,Edesur,Capital,Villa Del Parque,,,102,,2026-01-29,11:37:00
+-34.6606,-58.4395,21,baja,Edesur,Capital,Villa Soldati,,,25,,2026-01-29,11:37:00
+-34.6395,-58.3647,21,baja,Edesur,Capital,La Boca,,,11,,2026-01-29,11:37:00
+-34.7676,-58.2283,21,baja,Edesur,Berazategui,Berazategui,,,7,,2026-01-29,11:37:00
