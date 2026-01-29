@@ -19418,3 +19418,50 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7701,-58.2268,21,baja,Edesur,Berazategui,Berazategui,,,23,,2026-01-28,23:32:50
 -34.7672,-58.2276,21,baja,Edesur,Berazategui,Berazategui,,,32,,2026-01-28,23:32:50
 -34.6441,-58.436,21,baja,Edesur,Capital,Parque Chacabuco,,,16,,2026-01-28,23:32:50
+-34.613791448,-58.427958166,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-4-46/020-4-46,1466,2026-01-29 06:06,2026-01-29,03:29:15
+-34.640481622,-58.362022891,11,media,Edesur,Capital Rp,La Boca,Hernandarias,R:031-2-22/031-2-22,90,2026-01-29 04:30,2026-01-29,03:29:15
+-34.637715619,-58.361445974,11,media,Edesur,Capital Rp,La Boca,Hernandarias,R:031-2-22/031-2-22,658,2026-01-29 04:30,2026-01-29,03:29:15
+-34.637740743,-58.361430559,11,media,Edesur,Capital Rp,La Boca,Hernandarias,R:031-2-22/031-2-22,327,2026-01-29 04:30,2026-01-29,03:29:15
+-34.641541481,-58.361928682,11,media,Edesur,Capital Rp,La Boca,Hernandarias,R:031-2-22/031-2-22,69,2026-01-29 04:30,2026-01-29,03:29:15
+-34.638206685,-58.367190783,11,media,Edesur,Capital Rp,La Boca,Hernandarias,R:031-2-22/031-2-22,53,2026-01-29 04:30,2026-01-29,03:29:15
+-34.706063174,-58.298909663,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-3-35/077-3-35,428,2026-01-29 04:58,2026-01-29,03:29:15
+-34.705175783,-58.300587701,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-3-35/077-3-35,7,2026-01-29 04:58,2026-01-29,03:29:15
+-34.705849774,-58.299766963,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-3-35/077-3-35,12,2026-01-29 04:58,2026-01-29,03:29:15
+-34.708067839,-58.297065818,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-3-35/077-3-35,119,2026-01-29 04:58,2026-01-29,03:29:15
+-34.703475784,-58.302649653,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-3-35/077-3-35,2,2026-01-29 04:58,2026-01-29,03:29:15
+-34.705595295,-58.300248489,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-3-35/077-3-35,7,2026-01-29 04:58,2026-01-29,03:29:15
+-34.678324782,-58.537467288,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5516,54,2026-01-29 03:00,2026-01-29,03:29:15
+-34.525035774,-58.484762049,12,media,Edenor,Vicente Lopez,Vicente Lopez,S/D,R:Aniversario/52-Tr1/52-5544,366,2026-01-29 03:00,2026-01-29,03:29:15
+-34.534402295,-58.478924230,12,media,Edenor,Vicente Lopez,Vicente Lopez,S/D,R:Aniversario/52-Tr1/52-5544,464,2026-01-29 03:00,2026-01-29,03:29:15
+-34.525477706,-58.486431564,12,media,Edenor,Vicente Lopez,Florida,S/D,R:Aniversario/52-Tr1/52-5544,398,2026-01-29 03:00,2026-01-29,03:29:15
+-34.530784701,-58.482075544,12,media,Edenor,Vicente Lopez,Florida,S/D,R:Aniversario/52-Tr1/52-5544,408,2026-01-29 03:00,2026-01-29,03:29:15
+-34.529584512,-58.464776992,12,media,Edenor,Vicente Lopez,Vicente Lopez,S/D,R:Aniversario/52-Tr1/52-5544,15,2026-01-29 03:00,2026-01-29,03:29:15
+-34.528156095,-58.483327611,12,media,Edenor,Vicente Lopez,Florida,S/D,R:Aniversario/52-Tr1/52-5544,356,2026-01-29 03:00,2026-01-29,03:29:15
+-34.533062180,-58.470157544,12,media,Edenor,Vicente Lopez,Vicente Lopez,S/D,R:Aniversario/52-Tr1/52-5544,98,2026-01-29 03:00,2026-01-29,03:29:15
+-34.534771969,-58.464538583,12,media,Edenor,Vicente Lopez,Vicente Lopez,S/D,R:Aniversario/52-Tr1/52-5544,2,2026-01-29 03:00,2026-01-29,03:29:15
+-34.748978955,-58.583965861,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5524,165,Sin Datos,2026-01-29,03:29:15
+-34.750698255,-58.583160334,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5524,104,Sin Datos,2026-01-29,03:29:15
+-34.750346763,-58.582779899,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5524,31,Sin Datos,2026-01-29,03:29:15
+-34.752714977,-58.585840594,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5524,128,Sin Datos,2026-01-29,03:29:15
+-34.754783580,-58.590871180,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5524,37,Sin Datos,2026-01-29,03:29:15
+-34.751039961,-58.583546676,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5524,88,Sin Datos,2026-01-29,03:29:15
+-34.7122,-58.6894,22,baja,Edenor,Merlo,Libertad,,,5,,2026-01-29,03:29:15
+-34.7024,-58.4881,22,baja,Edenor,La Matanza,Villa Madero,,,4,,2026-01-29,03:29:15
+-34.4792,-58.7473,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,5,,2026-01-29,03:29:15
+-34.5448,-58.7149,22,baja,Edenor,San Miguel,San Miguel,,,20,,2026-01-29,03:29:15
+-34.4822,-58.7436,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,11,,2026-01-29,03:29:15
+-34.7225,-58.6048,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,24,,2026-01-29,03:29:15
+-34.5291,-58.5268,22,baja,Edenor,Vicente Lopez,Munro,,,30,,2026-01-29,03:29:15
+-34.6478,-58.5708,22,baja,Edenor,La Matanza,Ramos Mejia,,,4,,2026-01-29,03:29:15
+-34.5427,-58.4923,22,baja,Edenor,Vicente Lopez,Florida,,,11,,2026-01-29,03:29:15
+-34.8543,-58.6746,22,baja,Edenor,La Matanza,Virrey Del Pino,,,25,,2026-01-29,03:29:15
+-34.8228,-58.4534,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,45,,2026-01-29,03:29:15
+-34.6044,-58.3966,21,baja,Edesur,Capital,Balvanera,,,28,,2026-01-29,03:29:15
+-34.7969,-58.3071,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,5,,2026-01-29,03:29:15
+-34.8701,-58.1826,21,baja,Edesur,Berazategui,El Pato,,,26,,2026-01-29,03:29:15
+-34.8798,-58.4867,21,baja,Edesur,Esteban Echeverria,Canning,,,4,,2026-01-29,03:29:15
+-34.7914,-58.2477,21,baja,Edesur,Berazategui,Berazategui,,,12,,2026-01-29,03:29:15
+-34.786,-58.3932,21,baja,Edesur,Lomas De Zamora,Temperley,,,56,,2026-01-29,03:29:15
+-34.769,-58.2292,21,baja,Edesur,Berazategui,Berazategui,,,10,,2026-01-29,03:29:15
+-34.7866,-58.2727,21,baja,Edesur,Florencio Varela,Florencio Varela,,,4,,2026-01-29,03:29:15
+-34.6057,-58.4887,21,baja,Edesur,Capital,Villa Del Parque,,,63,,2026-01-29,03:29:15
