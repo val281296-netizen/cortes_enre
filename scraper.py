@@ -90,7 +90,7 @@ fieldnames = [
 ]
 
 # Guardar en CSV en modo append
-with open("cortes_enre.csv", "a", newline="", encoding="utf-8") as file:
+with open("cortes_enre2.csv", "a", newline="", encoding="utf-8") as file:
     writer = csv.DictWriter(file, fieldnames=fieldnames)
     if file.tell() == 0:
         writer.writeheader()
