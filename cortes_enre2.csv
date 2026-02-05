@@ -2226,3 +2226,48 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7881,-58.1488,21,baja,Edesur,Berazategui,Hudson,,,11,,2026-02-04,23:34:53
 -34.6721,-58.478,21,baja,Edesur,Capital,Villa Lugano,,,326,,2026-02-04,23:34:53
 -34.7191,-58.3111,21,baja,Edesur,Quilmes,Bernal,,,21,,2026-02-04,23:34:53
+-35.054535142,-58.836059173,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-24/271-2-24,2,Sin Datos,2026-02-05,03:34:53
+-35.055165544,-58.821385253,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-24/271-2-24,1,Sin Datos,2026-02-05,03:34:53
+-35.137355062,-58.816367964,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-24/271-2-24,2,2026-02-05 06:01,2026-02-05,03:34:53
+-35.108308128,-58.817925718,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-24/271-2-24,1,2026-02-05 06:01,2026-02-05,03:34:53
+-35.130412210,-58.830337752,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-24/271-2-24,3,2026-02-05 06:01,2026-02-05,03:34:53
+-35.140090244,-58.812803181,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-24/271-2-24,2,2026-02-05 06:01,2026-02-05,03:34:53
+-35.151860659,-58.798745028,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-24/271-2-24,1,2026-02-05 06:01,2026-02-05,03:34:53
+-35.131018261,-58.824605805,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-24/271-2-24,1,2026-02-05 06:01,2026-02-05,03:34:53
+-35.162610783,-58.788335604,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-24/271-2-24,1,2026-02-05 06:01,2026-02-05,03:34:53
+-35.097413311,-58.805756822,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-24/271-2-24,2,2026-02-05 06:01,2026-02-05,03:34:53
+-35.180367363,-58.807453044,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-24/271-2-24,1,2026-02-05 06:01,2026-02-05,03:34:53
+-34.600956583,-58.371243091,11,media,Edesur,Capital Rp,San Nicolas,Reconquista,R:211-1-02/211-1-02,137,2026-02-05 01:54,2026-02-05,03:34:53
+-34.677628159,-58.491225054,11,media,Edesur,Capital Gp,Villa Lugano,Lugano,R:035-2-17/035-2-17,411,2026-02-05 03:50,2026-02-05,03:34:53
+-34.678303537,-58.492096873,11,media,Edesur,Capital Gp,Villa Lugano,Lugano,R:035-2-17/035-2-17,276,2026-02-05 03:50,2026-02-05,03:34:53
+-34.678502833,-58.493589522,11,media,Edesur,Capital Gp,Villa Lugano,Lugano,R:035-2-17/035-2-17,202,2026-02-05 03:50,2026-02-05,03:34:53
+-34.678476903,-58.494840091,11,media,Edesur,Capital Gp,Villa Lugano,Lugano,R:035-2-17/035-2-17,398,2026-02-05 03:50,2026-02-05,03:34:53
+-34.678810006,-58.491255252,11,media,Edesur,Capital Gp,Villa Lugano,Lugano,R:035-2-17/035-2-17,127,2026-02-05 03:50,2026-02-05,03:34:53
+-34.677490735,-58.495983806,11,media,Edesur,Capital Gp,Villa Lugano,Lugano,R:035-2-17/035-2-17,141,2026-02-05 03:50,2026-02-05,03:34:53
+-34.681434607,-58.489692001,11,media,Edesur,Capital Gp,Villa Lugano,Lugano,R:035-2-17/035-2-17,183,2026-02-05 03:50,2026-02-05,03:34:53
+-34.676800207,-58.495344880,11,media,Edesur,Capital Gp,Villa Lugano,Lugano,R:035-2-17/035-2-17,59,2026-02-05 03:50,2026-02-05,03:34:53
+-34.846230997,-58.715759966,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5516,5,Sin Datos,2026-02-05,03:34:53
+-34.7207,-58.5624,22,baja,Edenor,La Matanza,Ciudad Evita,,,32,,2026-02-05,03:34:53
+-34.7025,-58.4862,22,baja,Edenor,La Matanza,Villa Madero,,,2,,2026-02-05,03:34:53
+-34.8462,-58.5237,21,baja,Edesur,Ezeiza,Jose Maria Ezeiza,,,32,,2026-02-05,03:34:53
+-34.7953,-58.4748,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,36,,2026-02-05,03:34:53
+-34.6857,-58.3928,21,baja,Edesur,Lanus,Gerli,,,32,,2026-02-05,03:34:53
+-34.5944,-58.5197,21,baja,Edesur,Capital,Villa Devoto,,,11,,2026-02-05,03:34:53
+-34.7322,-58.3572,21,baja,Edesur,Lanus,Monte Chingolo,,,5,,2026-02-05,03:34:53
+-34.6445,-58.4336,21,baja,Edesur,Capital,Parque Chacabuco,,,30,,2026-02-05,03:34:53
+-34.8268,-58.4803,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,22,,2026-02-05,03:34:53
+-34.6407,-58.4354,21,baja,Edesur,Capital,Parque Chacabuco,,,5,,2026-02-05,03:34:53
+-34.7737,-58.3537,21,baja,Edesur,Almirante Brown,San Jose,,,5,,2026-02-05,03:34:53
+-34.7174,-58.375,21,baja,Edesur,Lanus,Lanus,,,2,,2026-02-05,03:34:53
+-34.5988,-58.4356,21,baja,Edesur,Capital,Villa Crespo,,,4,,2026-02-05,03:34:53
+-34.7176,-58.3625,21,baja,Edesur,Lanus,Monte Chingolo,,,48,,2026-02-05,03:34:53
+-34.632,-58.3844,21,baja,Edesur,Capital,Constitucion,,,19,,2026-02-05,03:34:53
+-34.7881,-58.1488,21,baja,Edesur,Berazategui,Hudson,,,12,,2026-02-05,03:34:53
+-34.6895,-58.4268,21,baja,Edesur,Lanus,Lanus,,,9,,2026-02-05,03:34:53
+-34.6009,-58.4566,21,baja,Edesur,Capital,Villa Crespo,,,16,,2026-02-05,03:34:53
+-34.7872,-58.3938,21,baja,Edesur,Lomas De Zamora,Temperley,,,13,,2026-02-05,03:34:53
+-34.646,-58.4653,21,baja,Edesur,Capital,Parque Avellaneda,,,2,,2026-02-05,03:34:53
+-34.7269,-58.3066,21,baja,Edesur,Quilmes,Bernal,,,41,,2026-02-05,03:34:53
+-34.7639,-58.3937,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,36,,2026-02-05,03:34:53
+-34.8777,-58.3981,21,baja,Edesur,Almirante Brown,Glew,,,5,,2026-02-05,03:34:53
+-34.6802,-58.4348,21,baja,Edesur,Lanus,Valentin Alsina,,,1,,2026-02-05,03:34:53
