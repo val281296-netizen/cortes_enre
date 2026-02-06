@@ -3143,3 +3143,63 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6198,-58.3893,21,baja,Edesur,Capital,Constitucion,,,16,,2026-02-06,11:39:28
 -34.6108,-58.4529,21,baja,Edesur,Capital,Caballito,,,7,,2026-02-06,11:39:28
 -34.6324,-58.5167,21,baja,Edesur,Capital,Versalles,,,13,,2026-02-06,11:39:28
+-35.137355062,-58.816367964,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-24/271-2-24,2,2026-02-06 12:01,2026-02-06,14:04:12
+-35.108308128,-58.817925718,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-24/271-2-24,1,2026-02-06 12:01,2026-02-06,14:04:12
+-35.130412210,-58.830337752,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-24/271-2-24,3,2026-02-06 12:01,2026-02-06,14:04:12
+-35.140090244,-58.812803181,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-24/271-2-24,2,2026-02-06 12:01,2026-02-06,14:04:12
+-35.151860659,-58.798745028,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-24/271-2-24,1,2026-02-06 12:01,2026-02-06,14:04:12
+-35.131018261,-58.824605805,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-24/271-2-24,1,2026-02-06 12:01,2026-02-06,14:04:12
+-35.162610783,-58.788335604,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-24/271-2-24,1,2026-02-06 12:01,2026-02-06,14:04:12
+-35.097413311,-58.805756822,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-24/271-2-24,2,2026-02-06 12:01,2026-02-06,14:04:12
+-35.180367363,-58.807453044,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-24/271-2-24,1,2026-02-06 12:01,2026-02-06,14:04:12
+-34.629647914,-58.453690749,11,media,Edesur,Capital Rp,Flores Rp,Alberdi,R:218-1-15/218-1-15,21,2026-02-06 13:05,2026-02-06,14:04:12
+-34.887757982,-58.373551471,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-4-43/277-4-43,348,2026-02-06 20:00,2026-02-06,14:04:12
+-34.895626936,-58.374667290,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-4-43/277-4-43,276,2026-02-06 20:00,2026-02-06,14:04:12
+-34.892726818,-58.370167866,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-4-43/277-4-43,151,2026-02-06 20:00,2026-02-06,14:04:12
+-34.620491362,-58.413944332,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-3-31/020-3-31,324,2026-02-06 17:00,2026-02-06,14:04:12
+-35.028458516,-58.407386473,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,144,2026-02-06 16:00,2026-02-06,14:04:12
+-35.029675082,-58.409087892,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,147,2026-02-06 16:00,2026-02-06,14:04:12
+-34.659990464,-58.468305666,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-24/048-2-24,8,2026-02-06 18:42,2026-02-06,14:04:12
+-34.660422096,-58.469310218,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-24/048-2-24,478,2026-02-06 18:42,2026-02-06,14:04:12
+-34.664521637,-58.471908476,11,media,Edesur,Capital Gp,Villa Lugano,Perito Moreno,R:048-2-24/048-2-24,652,2026-02-06 18:42,2026-02-06,14:04:12
+-34.657124056,-58.469766525,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-24/048-2-24,3,2026-02-06 18:42,2026-02-06,14:04:12
+-34.673945269,-58.532478936,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr2/164-5528,197,2026-02-06 13:00,2026-02-06,14:04:12
+-34.785370449,-58.856734412,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,414,2026-02-06 15:00,2026-02-06,14:04:12
+-34.788203255,-58.860046550,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,175,2026-02-06 15:00,2026-02-06,14:04:12
+-34.765810869,-58.826429594,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,123,2026-02-06 13:00,2026-02-06,14:04:12
+-34.434095963,-58.786153676,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Del Viso/251-Tr1/251-5548,284,2026-02-06 12:00,2026-02-06,14:04:12
+-34.454774732,-58.550153708,12,media,Edenor,San Fernando,Virreyes,S/D,R:Victoria/53-Tr1/53-5512,152,2026-02-06 12:45,2026-02-06,14:04:12
+-34.711740168,-58.642434670,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr2/451-5526,157,2026-02-06 13:00,2026-02-06,14:04:12
+-34.592816947,-58.761479693,12,media,Edenor,Moreno,Trujui,S/D,R:Trujui/364-Tr1/364-5548,274,2026-02-06 12:30,2026-02-06,14:04:12
+-34.624376092,-59.061883108,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,1,2026-02-06 12:00,2026-02-06,14:04:12
+-34.624255930,-59.044691349,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,5,2026-02-06 12:00,2026-02-06,14:04:12
+-34.630077796,-59.078580790,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,1,2026-02-06 12:00,2026-02-06,14:04:12
+-34.643142171,-59.057044019,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,1,2026-02-06 12:00,2026-02-06,14:04:12
+-34.629726072,-59.067359879,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,5,2026-02-06 12:00,2026-02-06,14:04:12
+-34.614023962,-59.055241911,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,88,2026-02-06 12:00,2026-02-06,14:04:12
+-34.614422192,-59.049313194,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,90,2026-02-06 12:00,2026-02-06,14:04:12
+-34.617835277,-59.046613146,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,30,2026-02-06 12:00,2026-02-06,14:04:12
+-34.639524975,-59.096297296,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,4,2026-02-06 12:00,2026-02-06,14:04:12
+-34.245765531,-58.751234918,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,14,2026-02-06 14:30,2026-02-06,14:04:12
+-34.233560767,-58.796701050,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,1,2026-02-06 14:30,2026-02-06,14:04:12
+-34.235526966,-58.792870242,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,4,2026-02-06 14:30,2026-02-06,14:04:12
+-34.238961887,-58.784835650,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,4,2026-02-06 14:30,2026-02-06,14:04:12
+-34.240415531,-58.781482530,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,1,2026-02-06 14:30,2026-02-06,14:04:12
+-34.241526066,-58.777742600,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,1,2026-02-06 14:30,2026-02-06,14:04:12
+-34.317460510,-58.821400336,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5531,5,2026-02-06 15:00,2026-02-06,14:04:12
+-34.5778,-58.4356,22,baja,Edenor,Capital Federal,Palermo,,,4,,2026-02-06,14:04:12
+-34.7213,-58.5654,22,baja,Edenor,La Matanza,Ciudad Evita,,,19,,2026-02-06,14:04:12
+-34.6071,-58.9552,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,28,,2026-02-06,14:04:12
+-34.5357,-58.4687,22,baja,Edenor,Vicente Lopez,Vicente Lopez,,,12,,2026-02-06,14:04:12
+-34.5717,-58.464,22,baja,Edenor,Capital Federal,Belgrano,,,4,,2026-02-06,14:04:12
+-34.6657,-58.4055,21,baja,Edesur,Lanus,Valentin Alsina,,,21,,2026-02-06,14:04:12
+-34.8781,-58.3974,21,baja,Edesur,Almirante Brown,Glew,,,7,,2026-02-06,14:04:12
+-34.842,-58.2767,21,baja,Edesur,Florencio Varela,Florencio Varela,,,5,,2026-02-06,14:04:12
+-34.6048,-58.4901,21,baja,Edesur,Capital,Villa Del Parque,,,18,,2026-02-06,14:04:12
+-34.8396,-58.3638,21,baja,Edesur,Almirante Brown,Ministro Rivadavia,,,6,,2026-02-06,14:04:12
+-34.6198,-58.3893,21,baja,Edesur,Capital,Constitucion,,,15,,2026-02-06,14:04:12
+-34.6108,-58.4529,21,baja,Edesur,Capital,Caballito,,,37,,2026-02-06,14:04:12
+-34.6304,-58.4545,21,baja,Edesur,Capital,Flores,,,13,,2026-02-06,14:04:12
+-34.7198,-58.2574,21,baja,Edesur,Quilmes,Quilmes,,,25,,2026-02-06,14:04:12
+-34.6223,-58.4423,21,baja,Edesur,Capital,Caballito,,,2,,2026-02-06,14:04:12
+-34.6068,-58.4939,21,baja,Edesur,Capital,Villa Del Parque,,,13,,2026-02-06,14:04:12
