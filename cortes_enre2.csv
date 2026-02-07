@@ -3834,3 +3834,38 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7912,-58.3304,21,baja,Edesur,Almirante Brown,Claypole,,,26,,2026-02-07,17:32:27
 -34.6706,-58.3534,21,baja,Edesur,Avellaneda,Sarandi,,,4,,2026-02-07,17:32:27
 -34.6386,-58.4347,21,baja,Edesur,Capital,Parque Chacabuco,,,1,,2026-02-07,17:32:27
+-35.137355062,-58.816367964,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-24/271-2-24,2,2026-02-07 18:01,2026-02-07,19:30:59
+-35.130412210,-58.830337752,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-24/271-2-24,3,2026-02-07 18:01,2026-02-07,19:30:59
+-35.140090244,-58.812803181,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-24/271-2-24,2,2026-02-07 18:01,2026-02-07,19:30:59
+-35.151860659,-58.798745028,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-24/271-2-24,1,2026-02-07 18:01,2026-02-07,19:30:59
+-35.131018261,-58.824605805,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-24/271-2-24,1,2026-02-07 18:01,2026-02-07,19:30:59
+-35.162610783,-58.788335604,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-24/271-2-24,1,2026-02-07 18:01,2026-02-07,19:30:59
+-35.180367363,-58.807453044,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-24/271-2-24,1,2026-02-07 18:01,2026-02-07,19:30:59
+-34.611009075,-58.375372642,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,R:126-2-24/126-2-24,13,2026-02-07 18:27,2026-02-07,19:30:59
+-34.622432261,-58.509370638,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-26/038-2-26,30,2026-02-07 18:55,2026-02-07,19:30:59
+-34.791820266,-58.356685401,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-2-21/189-2-21,164,Sin Datos,2026-02-07,19:30:59
+-34.794281679,-58.361074469,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-2-21/189-2-21,404,Sin Datos,2026-02-07,19:30:59
+-34.790200258,-58.361123003,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-2-21/189-2-21,453,Sin Datos,2026-02-07,19:30:59
+-34.792750976,-58.358364533,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-2-21/189-2-21,79,Sin Datos,2026-02-07,19:30:59
+-34.627502684,-58.371469120,11,media,Edesur,Capital Rp,Barracas,Hernandarias,R:031-2-27/031-2-27,120,Sin Datos,2026-02-07,19:30:59
+-34.606551165,-58.517591197,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-4-44/038-4-44,760,2026-02-07 18:00,2026-02-07,19:30:59
+-34.860147173,-58.645653533,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5535,13,Sin Datos,2026-02-07,19:30:59
+-34.426269849,-58.585529866,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5524,128,Sin Datos,2026-02-07,19:30:59
+-34.357483021,-58.793624696,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5511,492,2026-02-07 20:00,2026-02-07,19:30:59
+-34.360275820,-58.793668660,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5511,61,2026-02-07 20:00,2026-02-07,19:30:59
+-34.359504047,-58.787592677,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5511,62,2026-02-07 20:00,2026-02-07,19:30:59
+-34.358106160,-58.796782014,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5511,119,2026-02-07 20:00,2026-02-07,19:30:59
+-34.355314803,-58.799550735,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5511,138,2026-02-07 20:00,2026-02-07,19:30:59
+-34.359437521,-58.796583858,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5511,4,2026-02-07 20:00,2026-02-07,19:30:59
+-34.360325012,-58.795148689,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5511,1,2026-02-07 20:00,2026-02-07,19:30:59
+-34.6275,-58.8447,22,baja,Edenor,Moreno,Francisco Alvarez,,,1,,2026-02-07,19:30:59
+-34.3874,-58.6899,22,baja,Edenor,Tigre,Dique Lujan,,,1,,2026-02-07,19:30:59
+-34.4684,-58.5643,22,baja,Edenor,San Fernando,Victoria,,,76,,2026-02-07,19:30:59
+-34.6105,-58.9147,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,34,,2026-02-07,19:30:59
+-34.3561,-58.7944,22,baja,Edenor,Escobar,Escobar,,,34,,2026-02-07,19:30:59
+-34.6339,-58.4049,21,baja,Edesur,Capital,Parque Patricios,,,39,,2026-02-07,19:30:59
+-34.6242,-58.4868,21,baja,Edesur,Capital,Floresta,,,24,,2026-02-07,19:30:59
+-34.6044,-58.4891,21,baja,Edesur,Capital,Capital,,,6,,2026-02-07,19:30:59
+-34.6706,-58.3534,21,baja,Edesur,Avellaneda,Sarandi,,,5,,2026-02-07,19:30:59
+-34.6134,-58.4716,21,baja,Edesur,Capital,Villa General Mitre,,,1,,2026-02-07,19:30:59
+-34.6465,-58.3722,21,baja,Edesur,Capital,Barracas,,,10,,2026-02-07,19:30:59
