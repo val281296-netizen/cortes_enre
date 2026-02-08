@@ -4377,3 +4377,43 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8064,-58.4234,21,baja,Edesur,Lomas De Zamora,Lavallol,,,16,,2026-02-08,17:33:25
 -34.7479,-58.4495,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,7,,2026-02-08,17:33:25
 -34.7294,-58.4253,21,baja,Edesur,Lomas De Zamora,Banfield,,,6,,2026-02-08,17:33:25
+-35.180367363,-58.807453044,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-24/271-2-24,1,2026-02-08 18:01,2026-02-08,19:31:43
+-34.622432261,-58.509370638,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-26/038-2-26,30,2026-02-08 18:55,2026-02-08,19:31:43
+-34.659107299,-58.474384200,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-23/048-2-23,35,2026-02-08 21:57,2026-02-08,19:31:43
+-34.661986985,-58.474258247,11,media,Edesur,Capital Gp,Villa Lugano,Perito Moreno,R:048-2-23/048-2-23,484,2026-02-08 21:57,2026-02-08,19:31:43
+-34.661220730,-58.473783461,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-23/048-2-23,202,2026-02-08 21:57,2026-02-08,19:31:43
+-34.815207170,-58.469585187,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-3-31/180-3-31,252,Sin Datos,2026-02-08,19:31:43
+-34.910196987,-58.172583990,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-1-12/174-1-12,21,Sin Datos,2026-02-08,19:31:43
+-34.911356245,-58.173948345,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-1-12/174-1-12,11,Sin Datos,2026-02-08,19:31:43
+-34.917572532,-58.181074020,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-1-12/174-1-12,4,Sin Datos,2026-02-08,19:31:43
+-34.912162122,-58.178005609,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-1-12/174-1-12,3,Sin Datos,2026-02-08,19:31:43
+-34.911539964,-58.180782754,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-1-12/174-1-12,16,Sin Datos,2026-02-08,19:31:43
+-34.904265291,-58.173125771,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-1-12/174-1-12,167,Sin Datos,2026-02-08,19:31:43
+-34.910707068,-58.176261123,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-1-12/174-1-12,12,Sin Datos,2026-02-08,19:31:43
+-34.910599317,-58.181952221,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-1-12/174-1-12,9,Sin Datos,2026-02-08,19:31:43
+-34.610870322,-58.363577216,11,media,Edesur,Capital Rp,Puerto Madero,Azopardo Ii,R:126-1-16/126-1-16,42,Sin Datos,2026-02-08,19:31:43
+-34.610842287,-58.363580552,11,media,Edesur,Capital Rp,Puerto Madero,Azopardo Ii,R:126-1-16/126-1-16,116,Sin Datos,2026-02-08,19:31:43
+-34.611518631,-58.363986664,11,media,Edesur,Capital Rp,Puerto Madero,Azopardo Ii,R:126-1-16/126-1-16,42,Sin Datos,2026-02-08,19:31:43
+-34.798924931,-58.326761579,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-23/189-2-23,278,Sin Datos,2026-02-08,19:31:43
+-34.799225606,-58.323584816,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-2-23/189-2-23,259,Sin Datos,2026-02-08,19:31:43
+-34.796937685,-58.319485039,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-2-23/189-2-23,37,Sin Datos,2026-02-08,19:31:43
+-34.435151035,-58.881214696,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5516,57,Sin Datos,2026-02-08,19:31:43
+-34.364974341,-58.841383894,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr2/51-5524,77,2026-02-08 18:00,2026-02-08,19:31:43
+-34.356946113,-58.849657015,12,media,Edenor,Escobar,Loma Verde,S/D,R:Matheu/51-Tr2/51-5524,2,2026-02-08 18:00,2026-02-08,19:31:43
+-34.369774700,-58.837924133,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr2/51-5524,51,2026-02-08 18:00,2026-02-08,19:31:43
+-34.374463458,-58.842969310,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr2/51-5524,16,2026-02-08 18:00,2026-02-08,19:31:43
+-34.363227161,-58.844827366,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr2/51-5524,2,2026-02-08 18:00,2026-02-08,19:31:43
+-34.364491414,-58.840334360,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr2/51-5524,59,2026-02-08 18:00,2026-02-08,19:31:43
+-34.5844,-58.7764,22,baja,Edenor,Moreno,Trujui,,,14,,2026-02-08,19:31:43
+-34.5752,-58.4972,22,baja,Edenor,Capital Federal,Villa Urquiza,,,7,,2026-02-08,19:31:43
+-34.698,-58.6162,22,baja,Edenor,La Matanza,Rafael Castillo,,,5,,2026-02-08,19:31:43
+-34.6297,-58.5428,22,baja,Edenor,3 De Febrero,Ciudadela,,,5,,2026-02-08,19:31:43
+-34.5789,-58.432,22,baja,Edenor,Capital Federal,Palermo,,,37,,2026-02-08,19:31:43
+-34.6342,-58.5031,21,baja,Edesur,Capital,Villa Luro,,,4,,2026-02-08,19:31:43
+-34.7125,-58.449,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,1,,2026-02-08,19:31:43
+-34.6176,-58.4354,21,baja,Edesur,Capital,Caballito,,,6,,2026-02-08,19:31:43
+-34.8064,-58.4234,21,baja,Edesur,Lomas De Zamora,Lavallol,,,17,,2026-02-08,19:31:43
+-34.7479,-58.4495,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,7,,2026-02-08,19:31:43
+-34.6373,-58.467,21,baja,Edesur,Capital,Flores,,,6,,2026-02-08,19:31:43
+-34.9349,-58.39,21,baja,Edesur,Pte Peron,Parque Las Naciones,,,8,,2026-02-08,19:31:43
+-34.7034,-58.434,21,baja,Edesur,Lanus,Lanus,,,1,,2026-02-08,19:31:43
