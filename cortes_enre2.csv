@@ -4656,3 +4656,36 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.728,-58.4255,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,38,,2026-02-09,11:51:17
 -34.6463,-58.5221,21,baja,Edesur,Capital,Liniers,,,6,,2026-02-09,11:51:17
 -34.5996,-58.4016,21,baja,Edesur,Capital,Balvanera,,,2,,2026-02-09,11:51:17
+-35.180367363,-58.807453044,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-24/271-2-24,1,2026-02-09 12:01,2026-02-09,14:16:43
+-34.942276686,-58.444861098,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-4-44/277-4-44,1,2026-02-09 13:28,2026-02-09,14:16:43
+-34.930928898,-58.447005770,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-4-44/277-4-44,4,2026-02-09 13:28,2026-02-09,14:16:43
+-34.918272544,-58.455728275,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-4-44/277-4-44,2,2026-02-09 13:28,2026-02-09,14:16:43
+-34.799427821,-58.779721420,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,2,2026-02-09 13:00,2026-02-09,14:16:43
+-34.627310885,-58.937977982,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr5/169-5486/255-5512,136,2026-02-09 12:15,2026-02-09,14:16:43
+-34.692516866,-58.500897626,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr1/162-5545,267,2026-02-09 16:00,2026-02-09,14:16:43
+-34.690528144,-58.497175155,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr1/162-5545,203,2026-02-09 16:00,2026-02-09,14:16:43
+-34.692418246,-58.499348876,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr1/162-5545,22,2026-02-09 16:00,2026-02-09,14:16:43
+-34.691467979,-58.498207641,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr1/162-5545,73,2026-02-09 16:00,2026-02-09,14:16:43
+-34.861640112,-58.738038967,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5526,2,2026-02-09 13:00,2026-02-09,14:16:43
+-34.524685715,-58.815612735,12,media,Edenor,Moreno,Cuartel V,S/D,R:Jose C. Paz/254-Tr2/254-5524,228,2026-02-09 16:00,2026-02-09,14:16:43
+-34.526407784,-58.818195917,12,media,Edenor,Moreno,Cuartel V,S/D,R:Jose C. Paz/254-Tr2/254-5524,210,2026-02-09 16:00,2026-02-09,14:16:43
+-34.527781428,-58.823011791,12,media,Edenor,Moreno,Cuartel V,S/D,R:Jose C. Paz/254-Tr2/254-5524,202,2026-02-09 16:00,2026-02-09,14:16:43
+-34.523553211,-58.820990192,12,media,Edenor,Moreno,Cuartel V,S/D,R:Jose C. Paz/254-Tr2/254-5524,304,2026-02-09 16:00,2026-02-09,14:16:43
+-34.523196808,-58.813428772,12,media,Edenor,Moreno,Cuartel V,S/D,R:Jose C. Paz/254-Tr2/254-5524,320,2026-02-09 16:00,2026-02-09,14:16:43
+-34.528852079,-58.824561402,12,media,Edenor,Moreno,Cuartel V,S/D,R:Jose C. Paz/254-Tr2/254-5524,8,2026-02-09 16:00,2026-02-09,14:16:43
+-34.525660980,-58.817026100,12,media,Edenor,Moreno,Cuartel V,S/D,R:Jose C. Paz/254-Tr2/254-5524,261,2026-02-09 16:00,2026-02-09,14:16:43
+-34.527465158,-58.826071956,12,media,Edenor,Moreno,Cuartel V,S/D,R:Jose C. Paz/254-Tr2/254-5524,6,2026-02-09 16:00,2026-02-09,14:16:43
+-34.525780245,-58.827913886,12,media,Edenor,Moreno,Cuartel V,S/D,R:Jose C. Paz/254-Tr2/254-5524,2,2026-02-09 16:00,2026-02-09,14:16:43
+-34.373423163,-58.837191184,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr2/51-5524,3,Sin Datos,2026-02-09,14:16:43
+-34.789735583,-58.674265707,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr1/168-5513,1,Sin Datos,2026-02-09,14:16:43
+-34.538260973,-58.529222822,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,299,2026-02-09 11:40,2026-02-09,14:16:43
+-34.870673980,-58.689305121,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5524,1,2026-02-09 15:00,2026-02-09,14:16:43
+-34.864065878,-58.681485169,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5524,104,2026-02-09 15:00,2026-02-09,14:16:43
+-34.3998,-58.8547,22,baja,Edenor,Pilar,Villa Rosa,,,6,,2026-02-09,14:16:43
+-34.6762,-58.5447,22,baja,Edenor,La Matanza,San Justo,,,11,,2026-02-09,14:16:43
+-34.7775,-58.6178,22,baja,Edenor,La Matanza,Gonzalez Catan,,,26,,2026-02-09,14:16:43
+-34.6463,-58.5221,21,baja,Edesur,Capital,Liniers,,,8,,2026-02-09,14:16:43
+-34.6431,-58.5227,21,baja,Edesur,Capital,Liniers,,,20,,2026-02-09,14:16:43
+-34.6087,-58.421,21,baja,Edesur,Capital,Almagro,,,4,,2026-02-09,14:16:43
+-34.8065,-58.3749,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,12,,2026-02-09,14:16:43
+-34.6623,-58.4735,21,baja,Edesur,Capital,Villa Lugano,,,12,,2026-02-09,14:16:43
