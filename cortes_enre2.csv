@@ -6095,3 +6095,56 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5983,-58.4139,21,baja,Edesur,Capital,Almagro,,,2,,2026-02-10,21:51:30
 -34.7218,-58.2665,21,baja,Edesur,Quilmes,Quilmes,,,3,,2026-02-10,21:51:30
 -34.7425,-58.2589,21,baja,Edesur,Quilmes,Quilmes,,,1,,2026-02-10,21:51:30
+-34.735625974,-58.476637982,11,media,Edesur,Lomas De Zamora,Ingeniero Budge,Transradio,R:281-4-46/281-4-46,7,Sin Datos,2026-02-10,23:45:02
+-34.736026416,-58.473254330,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-4-46/281-4-46,8,Sin Datos,2026-02-10,23:45:02
+-34.735930264,-58.474711255,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-4-46/281-4-46,182,Sin Datos,2026-02-10,23:45:02
+-34.736057705,-58.478386534,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-4-46/281-4-46,401,Sin Datos,2026-02-10,23:45:02
+-34.738101731,-58.476796581,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-4-46/281-4-46,450,Sin Datos,2026-02-10,23:45:02
+-34.737780852,-58.472848924,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-4-46/281-4-46,279,Sin Datos,2026-02-10,23:45:02
+-34.740811068,-58.473235132,11,media,Edesur,Lomas De Zamora,Ingeniero Budge,Transradio,R:281-4-46/281-4-46,330,Sin Datos,2026-02-10,23:45:02
+-34.757601798,-58.400250548,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Escalada,N:087-2-1516/087-2-1516,134,2026-02-11 02:37,2026-02-10,23:45:02
+-34.255625159,-58.556817734,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,4,Sin Datos,2026-02-10,23:45:02
+-34.254366077,-58.562056502,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,Sin Datos,2026-02-10,23:45:02
+-34.256223395,-58.561415163,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,Sin Datos,2026-02-10,23:45:02
+-34.815646831,-58.833313330,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr3/363-5472,1,2026-02-10 23:00,2026-02-10,23:45:02
+-34.811639139,-58.835315984,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr3/363-5472,1,2026-02-10 23:00,2026-02-10,23:45:02
+-34.792494969,-58.833188865,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr3/363-5472,1,2026-02-10 23:00,2026-02-10,23:45:02
+-34.800444286,-58.838976257,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr3/363-5472,28,2026-02-10 23:00,2026-02-10,23:45:02
+-34.795489035,-58.832398122,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr3/363-5472,46,2026-02-10 23:00,2026-02-10,23:45:02
+-34.5852,-58.4044,22,baja,Edenor,Capital Federal,Palermo,,,6,,2026-02-10,23:45:02
+-34.5871,-58.4995,22,baja,Edenor,Capital Federal,Villa Pueyrred?N,,,9,,2026-02-10,23:45:02
+-34.5302,-58.7802,22,baja,Edenor,Jose C Paz,Jose C Paz,,,4,,2026-02-10,23:45:02
+-34.7074,-58.558,22,baja,Edenor,La Matanza,San Justo,,,19,,2026-02-10,23:45:02
+-34.6571,-58.6807,22,baja,Edenor,Ituzaingo,Ituzaingo,,,4,,2026-02-10,23:45:02
+-34.7687,-58.5905,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,22,,2026-02-10,23:45:02
+-34.4476,-58.6652,22,baja,Edenor,Tigre,General Pacheco,,,25,,2026-02-10,23:45:02
+-34.8712,-58.6744,22,baja,Edenor,La Matanza,Virrey Del Pino,,,52,,2026-02-10,23:45:02
+-34.6058,-58.8096,22,baja,Edenor,Moreno,Moreno,,,23,,2026-02-10,23:45:02
+-34.7215,-58.5942,22,baja,Edenor,La Matanza,Isidro Casanova,,,6,,2026-02-10,23:45:02
+-34.5408,-58.7502,22,baja,Edenor,Jose C Paz,Jose C Paz,,,4,,2026-02-10,23:45:02
+-34.6285,-58.4087,21,baja,Edesur,Capital,San Cristobal,,,96,,2026-02-10,23:45:02
+-34.8924,-58.5614,21,baja,Edesur,Ezeiza,Tristan Suarez,,,21,,2026-02-10,23:45:02
+-34.6643,-58.3707,21,baja,Edesur,Avellaneda,Avellaneda,,,44,,2026-02-10,23:45:02
+-34.6005,-58.4013,21,baja,Edesur,Capital,Balvanera,,,5,,2026-02-10,23:45:02
+-34.7473,-58.4179,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,29,,2026-02-10,23:45:02
+-34.6459,-58.4214,21,baja,Edesur,Capital,Nueva Pompeya,,,8,,2026-02-10,23:45:02
+-34.6202,-58.4634,21,baja,Edesur,Capital,Flores,,,3,,2026-02-10,23:45:02
+-34.6275,-58.4295,21,baja,Edesur,Capital,Parque Chacabuco,,,57,,2026-02-10,23:45:02
+-34.6254,-58.4707,21,baja,Edesur,Capital,Capital,,,124,,2026-02-10,23:45:02
+-34.6408,-58.5177,21,baja,Edesur,Capital,Capital,,,9,,2026-02-10,23:45:02
+-34.7865,-58.3172,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,11,,2026-02-10,23:45:02
+-34.7878,-58.2629,21,baja,Edesur,Florencio Varela,Florencio Varela,,,39,,2026-02-10,23:45:02
+-34.7184,-58.2721,21,baja,Edesur,Quilmes,Quilmes,,,87,,2026-02-10,23:45:02
+-34.6036,-58.3944,21,baja,Edesur,Capital,Balvanera,,,12,,2026-02-10,23:45:02
+-34.7397,-58.4106,21,baja,Edesur,Lomas De Zamora,Banfield,,,5,,2026-02-10,23:45:02
+-34.6933,-58.3817,21,baja,Edesur,Lanus,Gerli,,,27,,2026-02-10,23:45:02
+-34.7075,-58.281,21,baja,Edesur,Quilmes,Bernal,,,1,,2026-02-10,23:45:02
+-34.6067,-58.4525,21,baja,Edesur,Capital,Capital,,,149,,2026-02-10,23:45:02
+-34.6849,-58.4731,21,baja,Edesur,Capital,Capital,,,21,,2026-02-10,23:45:02
+-34.8186,-58.3594,21,baja,Edesur,Almirante Brown,Claypole,,,12,,2026-02-10,23:45:02
+-34.7397,-58.2905,21,baja,Edesur,Quilmes,Quilmes,,,5,,2026-02-10,23:45:02
+-34.6344,-58.4227,21,baja,Edesur,Capital,Boedo,,,20,,2026-02-10,23:45:02
+-34.6856,-58.4773,21,baja,Edesur,Capital,Villa Riachuelo,,,3,,2026-02-10,23:45:02
+-34.7667,-58.2912,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,13,,2026-02-10,23:45:02
+-34.6871,-58.3445,21,baja,Edesur,Avellaneda,Sarandi,,,9,,2026-02-10,23:45:02
+-34.6883,-58.3418,21,baja,Edesur,Avellaneda,Sarandi,,,19,,2026-02-10,23:45:02
