@@ -6557,3 +6557,84 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6771,-58.4015,21,baja,Edesur,Lanus,Valentin Alsina,,,1,,2026-02-11,16:07:37
 -34.5981,-58.4139,21,baja,Edesur,Capital,Almagro,,,30,,2026-02-11,16:07:37
 -34.8273,-58.1711,21,baja,Edesur,Berazategui,Gutierrez,,,1,,2026-02-11,16:07:37
+-34.712473722,-58.430984781,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1718/087-2-1718,380,2026-02-11 20:08,2026-02-11,18:01:51
+-34.713272977,-58.432509200,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1718/087-2-1718,149,2026-02-11 20:08,2026-02-11,18:01:51
+-34.710264691,-58.431873556,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1718/087-2-1718,263,2026-02-11 20:08,2026-02-11,18:01:51
+-34.995178556,-58.369146651,11,media,Edesur,San Vicente,Alejandro Korn,S/D,R:956-1-01/956-1-01,192,2026-02-11 16:00,2026-02-11,18:01:51
+-35.002521826,-58.361353318,11,media,Edesur,San Vicente,Alejandro Korn,S/D,R:956-1-01/956-1-01,45,2026-02-11 16:00,2026-02-11,18:01:51
+-35.003566848,-58.358020306,11,media,Edesur,San Vicente,Alejandro Korn,S/D,R:956-1-01/956-1-01,41,2026-02-11 16:00,2026-02-11,18:01:51
+-34.998607276,-58.368739383,11,media,Edesur,San Vicente,Alejandro Korn,S/D,R:956-1-01/956-1-01,2,2026-02-11 16:00,2026-02-11,18:01:51
+-35.000295908,-58.366878721,11,media,Edesur,San Vicente,Alejandro Korn,S/D,R:956-1-01/956-1-01,5,2026-02-11 16:00,2026-02-11,18:01:51
+-34.999923445,-58.367384796,11,media,Edesur,San Vicente,Alejandro Korn,S/D,R:956-1-01/956-1-01,40,2026-02-11 16:00,2026-02-11,18:01:51
+-34.661220730,-58.473783461,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-23/048-2-23,202,2026-02-11 17:40,2026-02-11,18:01:51
+-34.598616718,-58.414125922,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-4-46/049-4-46,424,2026-02-11 18:37,2026-02-11,18:01:51
+-34.719749794,-58.363486309,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-1112/087-1-1112/087-1-0910,879,2026-02-11 18:42,2026-02-11,18:01:51
+-34.713908000,-58.354693140,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-1112/087-1-1112/087-1-0910,282,2026-02-11 18:42,2026-02-11,18:01:51
+-34.716367406,-58.366265921,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-1112/087-1-1112/087-1-0910,490,2026-02-11 18:42,2026-02-11,18:01:51
+-34.714847601,-58.364473184,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-1112/087-1-1112/087-1-0910,304,2026-02-11 18:42,2026-02-11,18:01:51
+-34.496864070,-58.940352136,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5514,2,Sin Datos,2026-02-11,18:01:51
+-34.651978896,-58.725605739,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5524,517,Sin Datos,2026-02-11,18:01:51
+-34.511507586,-58.891114839,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,1,2026-02-11 17:00,2026-02-11,18:01:51
+-34.212187776,-58.643305108,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,2026-02-11 15:00,2026-02-11,18:01:51
+-34.189211152,-58.651275494,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,2026-02-11 15:00,2026-02-11,18:01:51
+-34.691698537,-58.636948886,12,media,Edenor,Moron,Moron,S/D,R:V. Luzuriaga/64-Tr2/64-5525,28,2026-02-11 18:00,2026-02-11,18:01:51
+-34.687463701,-58.636627921,12,media,Edenor,Moron,Moron,S/D,R:V. Luzuriaga/64-Tr2/64-5525,186,2026-02-11 18:00,2026-02-11,18:01:51
+-34.683782706,-58.635075631,12,media,Edenor,Moron,Moron,S/D,R:V. Luzuriaga/64-Tr2/64-5525,301,2026-02-11 18:00,2026-02-11,18:01:51
+-34.689240007,-58.634214228,12,media,Edenor,Moron,Moron,S/D,R:V. Luzuriaga/64-Tr2/64-5525,440,2026-02-11 18:00,2026-02-11,18:01:51
+-34.693451337,-58.634645065,12,media,Edenor,Moron,Moron,S/D,R:V. Luzuriaga/64-Tr2/64-5525,490,2026-02-11 18:00,2026-02-11,18:01:51
+-34.694901798,-58.632737009,12,media,Edenor,Moron,Moron,S/D,R:V. Luzuriaga/64-Tr2/64-5525,423,2026-02-11 18:00,2026-02-11,18:01:51
+-34.691768266,-58.630890396,12,media,Edenor,Moron,Moron,S/D,R:V. Luzuriaga/64-Tr2/64-5525,291,2026-02-11 18:00,2026-02-11,18:01:51
+-34.685831287,-58.632598450,12,media,Edenor,Moron,Moron,S/D,R:V. Luzuriaga/64-Tr2/64-5525,434,2026-02-11 18:00,2026-02-11,18:01:51
+-34.694634883,-58.637502734,12,media,Edenor,Moron,Moron,S/D,R:V. Luzuriaga/64-Tr2/64-5525,35,2026-02-11 18:00,2026-02-11,18:01:51
+-34.494420951,-58.708316392,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Tortuguitas/252-Tr1/252-5518,314,2026-02-11 19:00,2026-02-11,18:01:51
+-34.498067896,-58.700876820,12,media,Edenor,Malvinas Argentinas,Malvinas Argentinas,S/D,R:Tortuguitas/252-Tr1/252-5518,3,2026-02-11 19:00,2026-02-11,18:01:51
+-34.487018031,-58.727415491,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr1/252-5518,66,2026-02-11 19:00,2026-02-11,18:01:51
+-34.498290120,-58.700328557,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Tortuguitas/252-Tr1/252-5518,1,2026-02-11 19:00,2026-02-11,18:01:51
+-34.497406854,-58.702774630,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Tortuguitas/252-Tr1/252-5518,1,2026-02-11 19:00,2026-02-11,18:01:51
+-34.485559299,-58.717667694,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,R:Tortuguitas/252-Tr1/252-5518,152,2026-02-11 19:00,2026-02-11,18:01:51
+-34.489065776,-58.717167364,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr1/252-5518,317,2026-02-11 19:00,2026-02-11,18:01:51
+-34.478001142,-58.721047985,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr1/252-5518,184,2026-02-11 19:00,2026-02-11,18:01:51
+-34.489174284,-58.712414263,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Tortuguitas/252-Tr1/252-5518,344,2026-02-11 19:00,2026-02-11,18:01:51
+-34.488205164,-58.729558858,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr1/252-5518,177,2026-02-11 19:00,2026-02-11,18:01:51
+-34.492069853,-58.710127858,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Tortuguitas/252-Tr1/252-5518,374,2026-02-11 19:00,2026-02-11,18:01:51
+-34.490323886,-58.711500803,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Tortuguitas/252-Tr1/252-5518,220,2026-02-11 19:00,2026-02-11,18:01:51
+-34.484546449,-58.715563905,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr1/252-5518,200,2026-02-11 19:00,2026-02-11,18:01:51
+-34.486634570,-58.719602898,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr1/252-5518,414,2026-02-11 19:00,2026-02-11,18:01:51
+-34.487436179,-58.713782643,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Tortuguitas/252-Tr1/252-5518,413,2026-02-11 19:00,2026-02-11,18:01:51
+-34.486848694,-58.724520973,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr1/252-5518,410,2026-02-11 19:00,2026-02-11,18:01:51
+-34.5767,-58.5024,22,baja,Edenor,Capital Federal,Villa Pueyrred?N,,,50,,2026-02-11,18:01:51
+-34.5391,-58.7181,22,baja,Edenor,San Miguel,San Miguel,,,5,,2026-02-11,18:01:51
+-34.4982,-58.6806,22,baja,Edenor,Malvinas Argentinas,Villa De Mayo,,,5,,2026-02-11,18:01:51
+-34.5621,-58.5794,22,baja,Edenor,Gral San Martin,Cnel Jose Zapiola,,,1,,2026-02-11,18:01:51
+-34.5696,-58.7418,22,baja,Edenor,San Miguel,San Miguel,,,12,,2026-02-11,18:01:51
+-34.5976,-58.7534,22,baja,Edenor,Moreno,Trujui,,,4,,2026-02-11,18:01:51
+-34.4811,-58.7049,22,baja,Edenor,Malvinas Argentinas,Pablo Nogues,,,1,,2026-02-11,18:01:51
+-34.6285,-58.4087,21,baja,Edesur,Capital,San Cristobal,,,114,,2026-02-11,18:01:51
+-34.7295,-58.4251,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,64,,2026-02-11,18:01:51
+-34.6643,-58.3707,21,baja,Edesur,Avellaneda,Avellaneda,,,41,,2026-02-11,18:01:51
+-34.5961,-58.4004,21,baja,Edesur,Capital,Recoleta,,,34,,2026-02-11,18:01:51
+-34.5945,-58.3847,21,baja,Edesur,Capital,Retiro,,,23,,2026-02-11,18:01:51
+-34.5994,-58.4141,21,baja,Edesur,Capital,Almagro,,,105,,2026-02-11,18:01:51
+-34.7397,-58.2905,21,baja,Edesur,Quilmes,Quilmes,,,6,,2026-02-11,18:01:51
+-34.6549,-58.4962,21,baja,Edesur,Capital,Capital,,,35,,2026-02-11,18:01:51
+-34.6989,-58.3806,21,baja,Edesur,Lanus,Lanus,,,61,,2026-02-11,18:01:51
+-34.688,-58.4648,21,baja,Edesur,Capital,Villa Lugano,,,60,,2026-02-11,18:01:51
+-34.606,-58.4878,21,baja,Edesur,Capital,Villa Del Parque,,,5,,2026-02-11,18:01:51
+-34.6922,-58.3822,21,baja,Edesur,Lanus,Gerli,,,62,,2026-02-11,18:01:51
+-34.7464,-58.2746,21,baja,Edesur,Quilmes,Quilmes,,,5,,2026-02-11,18:01:51
+-34.5984,-58.4826,21,baja,Edesur,Capital,Villa Del Parque,,,22,,2026-02-11,18:01:51
+-34.6032,-58.3947,21,baja,Edesur,Capital,Balvanera,,,6,,2026-02-11,18:01:51
+-34.7261,-58.4764,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,51,,2026-02-11,18:01:51
+-34.6241,-58.4075,21,baja,Edesur,Capital,San Cristobal,,,5,,2026-02-11,18:01:51
+-34.8194,-58.3591,21,baja,Edesur,Almirante Brown,Claypole,,,18,,2026-02-11,18:01:51
+-34.6243,-58.4072,21,baja,Edesur,Capital,San Cristobal,,,4,,2026-02-11,18:01:51
+-34.7482,-58.4194,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,25,,2026-02-11,18:01:51
+-34.6266,-58.438,21,baja,Edesur,Capital,Caballito,,,11,,2026-02-11,18:01:51
+-34.8058,-58.4527,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,5,,2026-02-11,18:01:51
+-34.6345,-58.4544,21,baja,Edesur,Capital,Flores,,,4,,2026-02-11,18:01:51
+-34.6931,-58.3922,21,baja,Edesur,Lanus,Lanus,,,6,,2026-02-11,18:01:51
+-34.8227,-58.369,21,baja,Edesur,Almirante Brown,Burzaco,,,9,,2026-02-11,18:01:51
+-34.6796,-58.4809,21,baja,Edesur,Capital,Capital,,,7,,2026-02-11,18:01:51
+-34.8222,-58.368,21,baja,Edesur,Almirante Brown,Burzaco,,,1,,2026-02-11,18:01:51
+-34.6538,-58.4968,21,baja,Edesur,Capital,Mataderos,,,15,,2026-02-11,18:01:51
+-34.6186,-58.3985,21,baja,Edesur,Capital,San Cristobal,,,1,,2026-02-11,18:01:51
