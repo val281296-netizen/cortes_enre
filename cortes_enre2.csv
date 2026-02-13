@@ -10103,3 +10103,59 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7257,-58.3708,21,baja,Edesur,Lanus,Remedios De Escalada,,,12,,2026-02-13,11:37:10
 -34.6581,-58.5055,21,baja,Edesur,Capital,Capital,,,6,,2026-02-13,11:37:10
 -34.5995,-58.5026,21,baja,Edesur,Capital,Capital,,,4,,2026-02-13,11:37:10
+-35.235629745,-58.572564723,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,2026-02-13 14:20,2026-02-13,14:04:13
+-35.258453207,-58.586430907,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-1-14/271-1-14,1,2026-02-13 14:20,2026-02-13,14:04:13
+-35.255493320,-58.576272845,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-1-14/271-1-14,1,2026-02-13 14:20,2026-02-13,14:04:13
+-34.733341419,-58.289511383,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-2-26/073-2-26,366,2026-02-13 15:46,2026-02-13,14:04:13
+-34.734357372,-58.291642807,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-2-26/073-2-26,208,2026-02-13 15:46,2026-02-13,14:04:13
+-34.733585803,-58.288918240,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-2-26/073-2-26,2,2026-02-13 15:46,2026-02-13,14:04:13
+-34.735297344,-58.293525068,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-2-26/073-2-26,63,2026-02-13 15:46,2026-02-13,14:04:13
+-34.706063174,-58.298909663,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-3-35/077-3-35,428,2026-02-13 13:00,2026-02-13,14:04:13
+-34.705175783,-58.300587701,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-3-35/077-3-35,7,2026-02-13 13:00,2026-02-13,14:04:13
+-34.705849774,-58.299766963,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-3-35/077-3-35,12,2026-02-13 13:00,2026-02-13,14:04:13
+-34.708067839,-58.297065818,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-3-35/077-3-35,119,2026-02-13 13:00,2026-02-13,14:04:13
+-34.703475784,-58.302649653,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-3-35/077-3-35,2,2026-02-13 13:00,2026-02-13,14:04:13
+-34.705595295,-58.300248489,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-3-35/077-3-35,7,2026-02-13 13:00,2026-02-13,14:04:13
+-34.815493311,-58.208992193,11,media,Edesur,Florencio Varela,Bosques,Ezpeleta,R:080-1-11/080-1-11,208,2026-02-13 13:53,2026-02-13,14:04:13
+-34.790526802,-58.399342334,11,media,Edesur,Lomas De Zamora,Turdera,Santa Catalina,R:182-2-26/182-2-26,570,2026-02-13 16:30,2026-02-13,14:04:13
+-34.787642056,-58.400042053,11,media,Edesur,Lomas De Zamora,Turdera,Santa Catalina,R:182-2-26/182-2-26,206,2026-02-13 16:30,2026-02-13,14:04:13
+-34.787725818,-58.399652145,11,media,Edesur,Lomas De Zamora,Turdera,Santa Catalina,R:182-2-26/182-2-26,1,2026-02-13 16:30,2026-02-13,14:04:13
+-34.788322567,-58.396883860,11,media,Edesur,Lomas De Zamora,Turdera,Santa Catalina,R:182-2-26/182-2-26,5,2026-02-13 16:30,2026-02-13,14:04:13
+-34.684191833,-58.479840688,11,media,Edesur,Capital Gp,Villa Lugano,Autodromo,R:042-1-13/042-1-13,296,2026-02-13 18:29,2026-02-13,14:04:13
+-34.685350346,-58.480887043,11,media,Edesur,Capital Gp,Villa Lugano,Autodromo,R:042-1-13/042-1-13,184,2026-02-13 18:29,2026-02-13,14:04:13
+-34.683626160,-58.483525544,11,media,Edesur,Capital Gp,Villa Lugano,Autodromo,R:042-1-13/042-1-13,1,2026-02-13 18:29,2026-02-13,14:04:13
+-34.684623103,-58.477756347,11,media,Edesur,Capital Gp,Villa Riachuelo,Autodromo,R:042-1-13/042-1-13,300,2026-02-13 18:29,2026-02-13,14:04:13
+-34.490211715,-58.572215441,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr2/56-5524,181,2026-02-13 11:30,2026-02-13,14:04:13
+-34.488103427,-58.574854655,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr2/56-5524,35,2026-02-13 11:30,2026-02-13,14:04:13
+-34.704438464,-58.490882453,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr1/162-5513,587,2026-02-13 13:00,2026-02-13,14:04:13
+-34.694070460,-58.623335348,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:V. Luzuriaga/64-Tr2/64-5527,569,2026-02-13 17:00,2026-02-13,14:04:13
+-34.691381089,-58.617396354,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:V. Luzuriaga/64-Tr2/64-5527,403,2026-02-13 17:00,2026-02-13,14:04:13
+-34.691396152,-58.620411439,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:V. Luzuriaga/64-Tr2/64-5527,334,2026-02-13 17:00,2026-02-13,14:04:13
+-34.689878262,-58.615590916,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:V. Luzuriaga/64-Tr2/64-5527,283,2026-02-13 17:00,2026-02-13,14:04:13
+-34.692434350,-58.615414040,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:V. Luzuriaga/64-Tr2/64-5527,261,2026-02-13 17:00,2026-02-13,14:04:13
+-34.854263154,-58.674554791,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5537,228,2026-02-13 13:00,2026-02-13,14:04:13
+-34.465332055,-58.698629666,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,R:Ford/151-Tr2/151-5523/151-5515/151-5541,10,2026-02-13 12:05,2026-02-13,14:04:13
+-34.998087164,-58.855935281,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2026-02-13 17:00,2026-02-13,14:04:13
+-34.990314628,-58.841618014,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2026-02-13 17:00,2026-02-13,14:04:13
+-34.987051678,-58.845753588,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2026-02-13 17:00,2026-02-13,14:04:13
+-34.992237814,-58.843471130,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2026-02-13 17:00,2026-02-13,14:04:13
+-34.988434399,-58.853826573,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2026-02-13 17:00,2026-02-13,14:04:13
+-34.388369790,-58.565725462,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,17,2026-02-13 12:00,2026-02-13,14:04:13
+-34.386528600,-58.569835472,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,36,2026-02-13 12:00,2026-02-13,14:04:13
+-34.392922479,-58.563941303,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,58,Sin Datos,2026-02-13,14:04:13
+-34.422397409,-58.594685914,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Nordelta/156-Tr1/156-5514,397,2026-02-13 13:00,2026-02-13,14:04:13
+-34.7183,-58.7364,22,baja,Edenor,Merlo,Pontevedra,,,17,,2026-02-13,14:04:13
+-34.7673,-58.5762,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,4,,2026-02-13,14:04:13
+-34.6881,-58.4618,21,baja,Edesur,Capital,Villa Lugano,,,7,,2026-02-13,14:04:13
+-34.7642,-58.3581,21,baja,Edesur,Lomas De Zamora,Temperley,,,4,,2026-02-13,14:04:13
+-34.7397,-58.2905,21,baja,Edesur,Quilmes,Quilmes,,,4,,2026-02-13,14:04:13
+-34.7528,-58.4985,21,baja,Edesur,Esteban Echeverria,9 De Abril,,,11,,2026-02-13,14:04:13
+-34.8602,-58.2011,21,baja,Edesur,Florencio Varela,Ing. Allan,,,22,,2026-02-13,14:04:13
+-34.5931,-58.5176,21,baja,Edesur,Capital,Villa Devoto,,,22,,2026-02-13,14:04:13
+-34.7745,-58.2826,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,12,,2026-02-13,14:04:13
+-34.785,-58.2439,21,baja,Edesur,Berazategui,Berazategui,,,6,,2026-02-13,14:04:13
+-34.7704,-58.3412,21,baja,Edesur,Almirante Brown,San Jose,,,8,,2026-02-13,14:04:13
+-34.6782,-58.4835,21,baja,Edesur,Capital,Villa Lugano,,,32,,2026-02-13,14:04:13
+-34.6581,-58.5055,21,baja,Edesur,Capital,Capital,,,1,,2026-02-13,14:04:13
+-34.5995,-58.5026,21,baja,Edesur,Capital,Capital,,,39,,2026-02-13,14:04:13
+-34.5992,-58.4528,21,baja,Edesur,Capital,Villa Crespo,,,26,,2026-02-13,14:04:13
