@@ -10601,3 +10601,52 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8259,-58.4429,21,baja,Edesur,Almirante Brown,Adrogue,,,18,,2026-02-14,19:30:17
 -34.8408,-58.2678,21,baja,Edesur,Florencio Varela,Florencio Varela,,,3,,2026-02-14,19:30:17
 -34.619,-58.4574,21,baja,Edesur,Capital,Flores,,,50,,2026-02-14,19:30:17
+-34.621399915,-58.395072845,11,media,Edesur,Capital Rp,San Cristobal,Patricios,R:015-1-17/015-1-17,593,2026-02-14 22:22,2026-02-14,21:31:16
+-34.622728831,-58.396082862,11,media,Edesur,Capital Rp,San Cristobal,Patricios,R:015-1-17/015-1-17,15,2026-02-14 22:22,2026-02-14,21:31:16
+-34.841750127,-58.368523411,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-1-07/082-1-07,298,2026-02-14 20:00,2026-02-14,21:31:16
+-34.847088094,-58.369231737,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-1-07/082-1-07,310,2026-02-14 20:00,2026-02-14,21:31:16
+-34.843047081,-58.367478069,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-1-07/082-1-07,1,2026-02-14 20:00,2026-02-14,21:31:16
+-34.846194242,-58.371152869,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-1-07/082-1-07,146,2026-02-14 20:00,2026-02-14,21:31:16
+-34.845295214,-58.369494244,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-1-07/082-1-07,124,2026-02-14 20:00,2026-02-14,21:31:16
+-34.843531971,-58.369285846,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-1-07/082-1-07,1,2026-02-14 20:00,2026-02-14,21:31:16
+-34.846819978,-58.366192738,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-1-07/082-1-07,397,2026-02-14 20:00,2026-02-14,21:31:16
+-34.956339275,-58.465052197,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-1-18/277-1-18,1,Sin Datos,2026-02-14,21:31:16
+-34.959939707,-58.473283589,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-27/277-2-27,40,Sin Datos,2026-02-14,21:31:16
+-34.959958335,-58.468404295,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-27/277-2-27,51,Sin Datos,2026-02-14,21:31:16
+-34.960223183,-58.468735718,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-27/277-2-27,35,Sin Datos,2026-02-14,21:31:16
+-34.958653640,-58.470141934,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-27/277-2-27,20,Sin Datos,2026-02-14,21:31:16
+-34.957451073,-58.468699927,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-27/277-2-27,81,Sin Datos,2026-02-14,21:31:16
+-34.973781352,-58.466723311,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-27/277-2-27,1,Sin Datos,2026-02-14,21:31:16
+-35.011853474,-58.469258814,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-27/277-2-27,2,Sin Datos,2026-02-14,21:31:16
+-34.960124923,-58.466766559,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-27/277-2-27,1,Sin Datos,2026-02-14,21:31:16
+-34.980058424,-58.467102859,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-27/277-2-27,5,Sin Datos,2026-02-14,21:31:16
+-34.808618996,-58.388170177,11,media,Edesur,Almirante Brown,Adrogue,Burzaco,R:082-2-27/082-2-27,8,2026-02-15 02:01,2026-02-14,21:31:16
+-34.804329880,-58.390558003,11,media,Edesur,Almirante Brown,Adrogue,Burzaco,R:082-2-27/082-2-27,469,2026-02-15 02:01,2026-02-14,21:31:16
+-34.803657930,-58.386449042,11,media,Edesur,Almirante Brown,Adrogue,Burzaco,R:082-2-27/082-2-27,687,2026-02-15 02:01,2026-02-14,21:31:16
+-34.807264691,-58.392514689,11,media,Edesur,Almirante Brown,Adrogue,Burzaco,R:082-2-27/082-2-27,343,2026-02-15 02:01,2026-02-14,21:31:16
+-34.810029885,-58.387707990,11,media,Edesur,Almirante Brown,Adrogue,Burzaco,R:082-2-27/082-2-27,3,2026-02-15 02:01,2026-02-14,21:31:16
+-34.809312613,-58.387664397,11,media,Edesur,Almirante Brown,Adrogue,Burzaco,R:082-2-27/082-2-27,437,2026-02-15 02:01,2026-02-14,21:31:16
+-34.805337582,-58.389269872,11,media,Edesur,Almirante Brown,Adrogue,Burzaco,R:082-2-27/082-2-27,1,2026-02-15 02:01,2026-02-14,21:31:16
+-34.689696020,-58.516191543,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr3/65-5531,1,Sin Datos,2026-02-14,21:31:16
+-34.691088264,-58.517712036,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr3/65-5531,116,Sin Datos,2026-02-14,21:31:16
+-34.807409974,-58.685521107,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5537,6,2026-02-14 19:00,2026-02-14,21:31:16
+-34.808850892,-58.688356900,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5537,2,2026-02-14 19:00,2026-02-14,21:31:16
+-34.811257038,-58.690050356,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5537,1,2026-02-14 19:00,2026-02-14,21:31:16
+-34.818510329,-58.698667038,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5537,1,2026-02-14 19:00,2026-02-14,21:31:16
+-34.815897118,-58.695528383,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5537,6,2026-02-14 19:00,2026-02-14,21:31:16
+-34.807974901,-58.681229254,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5537,1,2026-02-14 19:00,2026-02-14,21:31:16
+-34.7907,-58.8386,22,baja,Edenor,Marcos Paz,Marcos Paz,,,1,,2026-02-14,21:31:16
+-34.2886,-58.7742,22,baja,Edenor,Escobar,Escobar,,,7,,2026-02-14,21:31:16
+-34.5647,-58.455,22,baja,Edenor,Capital Federal,Belgrano,,,14,,2026-02-14,21:31:16
+-34.6771,-58.681,22,baja,Edenor,Merlo,San Antonio De Padua,,,8,,2026-02-14,21:31:16
+-34.6111,-58.8021,22,baja,Edenor,Moreno,Moreno,,,11,,2026-02-14,21:31:16
+-34.5124,-58.5062,22,baja,Edenor,Vicente Lopez,Olivos,,,4,,2026-02-14,21:31:16
+-34.4232,-58.9906,22,baja,Edenor,Pilar,Fatima,,,22,,2026-02-14,21:31:16
+-34.6269,-58.4031,21,baja,Edesur,Capital,San Cristobal,,,4,,2026-02-14,21:31:16
+-34.6406,-58.4913,21,baja,Edesur,Capital,Villa Luro,,,17,,2026-02-14,21:31:16
+-34.7657,-58.2226,21,baja,Edesur,Berazategui,Berazategui,,,24,,2026-02-14,21:31:16
+-34.6302,-58.3746,21,baja,Edesur,Capital,Barracas,,,28,,2026-02-14,21:31:16
+-34.8259,-58.4429,21,baja,Edesur,Almirante Brown,Adrogue,,,73,,2026-02-14,21:31:16
+-34.8408,-58.2678,21,baja,Edesur,Florencio Varela,Florencio Varela,,,3,,2026-02-14,21:31:16
+-34.6204,-58.4154,21,baja,Edesur,Capital,Almagro,,,4,,2026-02-14,21:31:16
+-34.6893,-58.3347,21,baja,Edesur,Avellaneda,Sarandi,,,4,,2026-02-14,21:31:16
