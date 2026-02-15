@@ -11311,3 +11311,39 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7734,-58.4764,21,baja,Edesur,Esteban Echeverria,9 De Abril,,,16,,2026-02-15,21:31:43
 -34.6175,-58.5133,21,baja,Edesur,Capital,Monte Castro,,,10,,2026-02-15,21:31:43
 -34.5993,-58.5028,21,baja,Edesur,Capital,Villa Devoto,,,62,,2026-02-15,21:31:43
+-34.841750127,-58.368523411,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-1-07/082-1-07,298,Sin Datos,2026-02-15,23:34:09
+-34.627551284,-58.359497247,11,media,Edesur,Capital Rp,La Boca,Perez Galdos,R:236-2-25/236-2-25,298,Sin Datos,2026-02-15,23:34:09
+-34.604451732,-58.417458779,11,media,Edesur,Capital Gp,Almagro,Caballito,R:122-2-21/122-2-21,450,2026-02-15 20:41,2026-02-15,23:34:09
+-34.669703985,-58.404008994,11,media,Edesur,Lanus,Valentin Alsina,Pineyro,R:079-5-56/079-5-56,176,2026-02-16 02:02,2026-02-15,23:34:09
+-34.597677219,-58.437218183,11,media,Edesur,Capital Gp,Villa Crespo,Villa Crespo,R:147-1-12/147-1-12,615,2026-02-16 02:57,2026-02-15,23:34:09
+-34.606475359,-58.376209264,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-28/115-2-28,99,2026-02-16 03:52,2026-02-15,23:34:09
+-34.606540903,-58.376017285,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-28/115-2-28,1,2026-02-16 03:52,2026-02-15,23:34:09
+-34.606650882,-58.375871716,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-28/115-2-28,18,2026-02-16 03:52,2026-02-15,23:34:09
+-34.604470286,-58.376525876,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-28/115-2-28,229,2026-02-16 03:52,2026-02-15,23:34:09
+-34.606372044,-58.376386258,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-28/115-2-28,1,2026-02-16 03:52,2026-02-15,23:34:09
+-34.604156183,-58.375766908,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-28/115-2-28,14,2026-02-16 03:52,2026-02-15,23:34:09
+-34.604444091,-58.376054546,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-28/115-2-28,19,2026-02-16 03:52,2026-02-15,23:34:09
+-34.570599862,-58.525344728,12,media,Edenor,Gral San Martin,Villa Maipu,S/D,R:Migueletes/54-Tr1/54-5546,299,2026-02-15 22:00,2026-02-15,23:34:09
+-34.628894365,-58.772701563,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr1/256-5511,104,Sin Datos,2026-02-15,23:34:09
+-34.731097483,-58.591014472,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5511,496,Sin Datos,2026-02-15,23:34:09
+-34.7044,-58.5434,22,baja,Edenor,La Matanza,Ciudad Evita,,,2,,2026-02-15,23:34:09
+-34.7562,-58.6854,22,baja,Edenor,Merlo,Pontevedra,,,3,,2026-02-15,23:34:09
+-34.5976,-59.0534,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,2,,2026-02-15,23:34:09
+-34.4691,-58.9078,22,baja,Edenor,Pilar,Pilar,,,15,,2026-02-15,23:34:09
+-34.7036,-58.5408,22,baja,Edenor,La Matanza,Ciudad Evita,,,20,,2026-02-15,23:34:09
+-34.4633,-58.6695,22,baja,Edenor,Tigre,El Talar,,,7,,2026-02-15,23:34:09
+-34.8276,-58.6492,22,baja,Edenor,La Matanza,Virrey Del Pino,,,83,,2026-02-15,23:34:09
+-34.4943,-58.758,22,baja,Edenor,Malvinas Argentinas,Tortuguitas,,,13,,2026-02-15,23:34:09
+-34.6262,-58.4347,21,baja,Edesur,Capital,Caballito,,,6,,2026-02-15,23:34:09
+-34.5969,-58.5063,21,baja,Edesur,Capital,Villa Devoto,,,12,,2026-02-15,23:34:09
+-34.6358,-58.3585,21,baja,Edesur,Capital,La Boca,,,23,,2026-02-15,23:34:09
+-34.6359,-58.4043,21,baja,Edesur,Capital,Parque Patricios,,,11,,2026-02-15,23:34:09
+-34.6116,-58.4489,21,baja,Edesur,Capital,Caballito,,,29,,2026-02-15,23:34:09
+-34.6284,-58.4113,21,baja,Edesur,Capital,San Cristobal,,,10,,2026-02-15,23:34:09
+-34.7808,-58.2436,21,baja,Edesur,Berazategui,Berazategui,,,6,,2026-02-15,23:34:09
+-34.7734,-58.4764,21,baja,Edesur,Esteban Echeverria,9 De Abril,,,16,,2026-02-15,23:34:09
+-34.6175,-58.5133,21,baja,Edesur,Capital,Monte Castro,,,10,,2026-02-15,23:34:09
+-34.5993,-58.5028,21,baja,Edesur,Capital,Villa Devoto,,,69,,2026-02-15,23:34:09
+-34.6045,-58.4877,21,baja,Edesur,Capital,Villa Del Parque,,,7,,2026-02-15,23:34:09
+-34.778,-58.344,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,3,,2026-02-15,23:34:09
+-34.6154,-58.4679,21,baja,Edesur,Capital,Villa General Mitre,,,7,,2026-02-15,23:34:09
