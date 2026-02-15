@@ -11218,3 +11218,61 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6892,-58.3346,21,baja,Edesur,Avellaneda,Villa Dominico,,,5,,2026-02-15,17:32:00
 -34.6419,-58.47,21,baja,Edesur,Capital,Parque Avellaneda,,,3,,2026-02-15,17:32:00
 -34.6175,-58.5133,21,baja,Edesur,Capital,Monte Castro,,,10,,2026-02-15,17:32:00
+-34.841750127,-58.368523411,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-1-07/082-1-07,298,Sin Datos,2026-02-15,19:32:24
+-34.771801166,-58.478125827,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-2-25/281-2-25,2,2026-02-15 19:14,2026-02-15,19:32:24
+-34.766155660,-58.482862635,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-2-25/281-2-25,41,2026-02-15 19:14,2026-02-15,19:32:24
+-34.769064561,-58.480134841,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-2-25/281-2-25,3,2026-02-15 19:14,2026-02-15,19:32:24
+-34.961813675,-58.607131808,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Spegazzini,R:270-1-15/270-1-15,3,2026-02-15 17:32,2026-02-15,19:32:24
+-34.627551284,-58.359497247,11,media,Edesur,Capital Rp,La Boca,Perez Galdos,R:236-2-25/236-2-25,298,Sin Datos,2026-02-15,19:32:24
+-34.604451732,-58.417458779,11,media,Edesur,Capital Gp,Almagro,Caballito,R:122-2-21/122-2-21,450,2026-02-15 20:41,2026-02-15,19:32:24
+-34.669703985,-58.404008994,11,media,Edesur,Lanus,Valentin Alsina,Pineyro,R:079-5-56/079-5-56,176,2026-02-15 20:02,2026-02-15,19:32:24
+-34.812061049,-58.241070872,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-1-17/183-1-17,701,2026-02-15 23:58,2026-02-15,19:32:24
+-34.806226007,-58.247262042,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-1-17/183-1-17,757,2026-02-15 23:58,2026-02-15,19:32:24
+-34.815145985,-58.234262238,11,media,Edesur,Florencio Varela,Bosques,Florencio Varela,R:183-1-17/183-1-17,26,2026-02-15 23:58,2026-02-15,19:32:24
+-34.814548363,-58.233844380,11,media,Edesur,Florencio Varela,Bosques,Florencio Varela,R:183-1-17/183-1-17,67,2026-02-15 23:58,2026-02-15,19:32:24
+-34.814594146,-58.236252813,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-1-17/183-1-17,51,2026-02-15 23:58,2026-02-15,19:32:24
+-34.815651022,-58.238912584,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-1-17/183-1-17,315,2026-02-15 23:58,2026-02-15,19:32:24
+-34.813109274,-58.241071502,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-1-17/183-1-17,221,2026-02-15 23:58,2026-02-15,19:32:24
+-34.810830886,-58.247021260,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-1-17/183-1-17,292,2026-02-15 23:58,2026-02-15,19:32:24
+-34.813765456,-58.244384620,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-1-17/183-1-17,355,2026-02-15 23:58,2026-02-15,19:32:24
+-34.614378904,-58.425333413,11,media,Edesur,Capital Gp,Almagro,Caballito,R:122-4-42/122-4-42,291,2026-02-15 23:35,2026-02-15,19:32:24
+-34.614415244,-58.425325822,11,media,Edesur,Capital Gp,Almagro,Caballito,R:122-4-42/122-4-42,1,2026-02-15 23:35,2026-02-15,19:32:24
+-34.621213013,-58.422850462,11,media,Edesur,Capital Gp,Almagro,Caballito,R:122-4-42/122-4-42,778,2026-02-15 23:35,2026-02-15,19:32:24
+-34.616653228,-58.422914981,11,media,Edesur,Capital Gp,Almagro,Caballito,R:122-4-42/122-4-42,629,2026-02-15 23:35,2026-02-15,19:32:24
+-34.618699717,-58.423127614,11,media,Edesur,Capital Gp,Almagro,Caballito,R:122-4-42/122-4-42,738,2026-02-15 23:35,2026-02-15,19:32:24
+-34.621279227,-58.424149004,11,media,Edesur,Capital Gp,Almagro,Caballito,R:122-4-42/122-4-42,405,2026-02-15 23:35,2026-02-15,19:32:24
+-34.622441850,-58.418760140,11,media,Edesur,Capital Rp,Boedo,Caballito,R:122-4-42/122-4-42,4,2026-02-15 23:35,2026-02-15,19:32:24
+-34.612242521,-58.423909359,11,media,Edesur,Capital Gp,Almagro,Caballito,R:122-4-42/122-4-42,388,2026-02-15 23:35,2026-02-15,19:32:24
+-34.615654222,-58.422258923,11,media,Edesur,Capital Gp,Almagro,Caballito,R:122-4-42/122-4-42,274,2026-02-15 23:35,2026-02-15,19:32:24
+-34.613182037,-58.424100420,11,media,Edesur,Capital Gp,Almagro,Caballito,R:122-4-42/122-4-42,199,2026-02-15 23:35,2026-02-15,19:32:24
+-34.621283629,-58.423951594,11,media,Edesur,Capital Gp,Almagro,Caballito,R:122-4-42/122-4-42,1,2026-02-15 23:35,2026-02-15,19:32:24
+-34.612073302,-58.423315499,11,media,Edesur,Capital Gp,Almagro,Caballito,R:122-4-42/122-4-42,92,2026-02-15 23:35,2026-02-15,19:32:24
+-34.570599862,-58.525344728,12,media,Edenor,Gral San Martin,Villa Maipu,S/D,R:Migueletes/54-Tr1/54-5546,299,2026-02-15 22:00,2026-02-15,19:32:24
+-34.699114128,-58.724366096,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr2/361-5525,434,2026-02-15 17:20,2026-02-15,19:32:24
+-34.628894365,-58.772701563,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr1/256-5511,104,2026-02-15 17:00,2026-02-15,19:32:24
+-34.560190827,-58.682606618,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr5/67-5543/8-5507/8-5506,408,2026-02-15 18:00,2026-02-15,19:32:24
+-34.731097483,-58.591014472,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5511,496,2026-02-15 20:00,2026-02-15,19:32:24
+-34.762575196,-58.666869607,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Pantanosa/365-Tr1/365-5513,1,2026-02-15 20:00,2026-02-15,19:32:24
+-34.4512,-58.7612,22,baja,Edenor,Pilar,Manuel Alberti,,,19,,2026-02-15,19:32:24
+-34.7044,-58.5434,22,baja,Edenor,La Matanza,Ciudad Evita,,,2,,2026-02-15,19:32:24
+-34.7241,-58.5462,22,baja,Edenor,La Matanza,Ciudad Evita,,,4,,2026-02-15,19:32:24
+-34.5882,-58.4091,22,baja,Edenor,Capital Federal,Palermo,,,25,,2026-02-15,19:32:24
+-34.5566,-58.4671,22,baja,Edenor,Capital Federal,Nu?Ez,,,33,,2026-02-15,19:32:24
+-34.7562,-58.6854,22,baja,Edenor,Merlo,Pontevedra,,,5,,2026-02-15,19:32:24
+-34.6055,-58.9854,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,4,,2026-02-15,19:32:24
+-34.6444,-58.6595,22,baja,Edenor,Ituzaingo,Ituzaingo,,,6,,2026-02-15,19:32:24
+-34.7343,-58.6293,22,baja,Edenor,La Matanza,Rafael Castillo,,,15,,2026-02-15,19:32:24
+-34.8259,-58.4429,21,baja,Edesur,Almirante Brown,Adrogue,,,87,,2026-02-15,19:32:24
+-34.6304,-58.3747,21,baja,Edesur,Capital,Barracas,,,54,,2026-02-15,19:32:24
+-34.6262,-58.4347,21,baja,Edesur,Capital,Caballito,,,6,,2026-02-15,19:32:24
+-34.5969,-58.5063,21,baja,Edesur,Capital,Villa Devoto,,,12,,2026-02-15,19:32:24
+-34.6358,-58.3585,21,baja,Edesur,Capital,La Boca,,,23,,2026-02-15,19:32:24
+-34.7827,-58.3946,21,baja,Edesur,Lomas De Zamora,Temperley,,,75,,2026-02-15,19:32:24
+-34.6116,-58.4489,21,baja,Edesur,Capital,Caballito,,,24,,2026-02-15,19:32:24
+-34.8095,-58.3927,21,baja,Edesur,Almirante Brown,Adrogue,,,2,,2026-02-15,19:32:24
+-34.7808,-58.2436,21,baja,Edesur,Berazategui,Berazategui,,,5,,2026-02-15,19:32:24
+-34.6365,-58.475,21,baja,Edesur,Capital,Floresta,,,141,,2026-02-15,19:32:24
+-34.7734,-58.4764,21,baja,Edesur,Esteban Echeverria,9 De Abril,,,16,,2026-02-15,19:32:24
+-34.6554,-58.4915,21,baja,Edesur,Capital,Mataderos,,,9,,2026-02-15,19:32:24
+-34.6419,-58.47,21,baja,Edesur,Capital,Parque Avellaneda,,,3,,2026-02-15,19:32:24
+-34.6175,-58.5133,21,baja,Edesur,Capital,Monte Castro,,,10,,2026-02-15,19:32:24
