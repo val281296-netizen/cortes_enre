@@ -11407,3 +11407,35 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7808,-58.2436,21,baja,Edesur,Berazategui,Berazategui,,,7,,2026-02-16,10:01:40
 -34.6297,-58.374,21,baja,Edesur,Capital,Barracas,,,13,,2026-02-16,10:01:40
 -34.633,-58.4189,21,baja,Edesur,Capital,Boedo,,,5,,2026-02-16,10:01:40
+-34.841750127,-58.368523411,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-1-07/082-1-07,298,Sin Datos,2026-02-16,11:44:33
+-34.627551284,-58.359497247,11,media,Edesur,Capital Rp,La Boca,Perez Galdos,R:236-2-25/236-2-25,298,Sin Datos,2026-02-16,11:44:33
+-34.669703985,-58.404008994,11,media,Edesur,Lanus,Valentin Alsina,Pineyro,R:079-5-56/079-5-56,176,2026-02-16 14:02,2026-02-16,11:44:33
+-34.674988194,-58.339078128,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,313,2026-02-16 15:47,2026-02-16,11:44:33
+-34.672990104,-58.338042467,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,156,2026-02-16 15:47,2026-02-16,11:44:33
+-34.674842046,-58.337714233,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,564,2026-02-16 15:47,2026-02-16,11:44:33
+-34.672999776,-58.337344462,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,199,2026-02-16 15:47,2026-02-16,11:44:33
+-34.662363529,-58.339071359,11,media,Edesur,Avellaneda,Dock Sud,Isla Maciel,R:072-2-29/072-2-29,256,2026-02-16 15:47,2026-02-16,11:44:33
+-34.669686733,-58.338386190,11,media,Edesur,Avellaneda,Zona De Reserva,Isla Maciel,R:072-2-29/072-2-29,21,2026-02-16 15:47,2026-02-16,11:44:33
+-34.662447205,-58.333447877,11,media,Edesur,Avellaneda,Dock Sud,Isla Maciel,R:072-2-29/072-2-29,68,2026-02-16 15:47,2026-02-16,11:44:33
+-34.669106938,-58.339401213,11,media,Edesur,Avellaneda,Zona De Reserva,Isla Maciel,R:072-2-29/072-2-29,8,2026-02-16 15:47,2026-02-16,11:44:33
+-34.675250348,-58.335929295,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,142,2026-02-16 15:47,2026-02-16,11:44:33
+-34.675171220,-58.340040519,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,1,2026-02-16 15:47,2026-02-16,11:44:33
+-34.671431739,-58.339431903,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,19,2026-02-16 15:47,2026-02-16,11:44:33
+-34.540219195,-58.740043592,12,media,Edenor,San Miguel,San Miguel,S/D,R:Nogues/159-Tr1/159-5516,291,2026-02-16 15:00,2026-02-16,11:44:33
+-34.689426342,-58.536441990,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5546,287,2026-02-16 12:00,2026-02-16,11:44:33
+-34.681816992,-58.539132377,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5546,212,2026-02-16 12:00,2026-02-16,11:44:33
+-34.687770886,-58.536521228,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5546,190,2026-02-16 12:00,2026-02-16,11:44:33
+-34.679608189,-58.540715871,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr4/65-5546,216,2026-02-16 12:00,2026-02-16,11:44:33
+-34.683432550,-58.541392682,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5546,307,2026-02-16 12:00,2026-02-16,11:44:33
+-34.685497989,-58.539105698,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5546,357,2026-02-16 12:00,2026-02-16,11:44:33
+-34.683134944,-58.537048989,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5546,136,2026-02-16 12:00,2026-02-16,11:44:33
+-34.681598023,-58.543379525,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr4/65-5546,234,2026-02-16 12:00,2026-02-16,11:44:33
+-34.686840748,-58.537525840,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5546,126,2026-02-16 12:00,2026-02-16,11:44:33
+-34.680317029,-58.538449104,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5546,275,2026-02-16 12:00,2026-02-16,11:44:33
+-34.681967401,-58.540355546,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr4/65-5546,73,2026-02-16 12:00,2026-02-16,11:44:33
+-34.6078,-59.0045,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,6,,2026-02-16,11:44:33
+-34.4856,-58.7588,22,baja,Edenor,Malvinas Argentinas,Tortuguitas,,,15,,2026-02-16,11:44:33
+-34.5969,-58.5063,21,baja,Edesur,Capital,Villa Devoto,,,7,,2026-02-16,11:44:33
+-34.6116,-58.4489,21,baja,Edesur,Capital,Caballito,,,12,,2026-02-16,11:44:33
+-34.7818,-58.2429,21,baja,Edesur,Berazategui,Berazategui,,,6,,2026-02-16,11:44:33
+-34.6297,-58.374,21,baja,Edesur,Capital,Barracas,,,16,,2026-02-16,11:44:33
