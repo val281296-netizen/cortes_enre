@@ -11768,3 +11768,41 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8484,-58.3822,21,baja,Edesur,Almirante Brown,Longchamps,,,12,,2026-02-17,11:43:35
 -34.6852,-58.3309,21,baja,Edesur,Avellaneda,Villa Dominico,,,14,,2026-02-17,11:43:35
 -34.756,-58.291,21,baja,Edesur,Quilmes,Quilmes,,,3,,2026-02-17,11:43:35
+-34.627551284,-58.359497247,11,media,Edesur,Capital Rp,La Boca,Perez Galdos,R:236-2-25/236-2-25,298,Sin Datos,2026-02-17,14:08:56
+-34.669703985,-58.404008994,11,media,Edesur,Lanus,Valentin Alsina,Pineyro,R:079-5-56/079-5-56,176,2026-02-17 12:19,2026-02-17,14:08:56
+-34.608058243,-58.397901127,11,media,Edesur,Capital Rp,Balvanera Rp,Once,R:113-2-25/113-2-25,432,2026-02-17 16:19,2026-02-17,14:08:56
+-34.608030178,-58.397904073,11,media,Edesur,Capital Rp,Balvanera Rp,Once,R:113-2-25/113-2-25,11,2026-02-17 16:19,2026-02-17,14:08:56
+-34.806801012,-58.241162769,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-01/080-1-01,123,2026-02-17 12:24,2026-02-17,14:08:56
+-34.850324735,-58.367382569,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-1-09/082-1-09,367,2026-02-17 20:00,2026-02-17,14:08:56
+-34.849464070,-58.362440776,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-1-09/082-1-09,365,2026-02-17 20:00,2026-02-17,14:08:56
+-34.849133218,-58.374069202,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-1-09/082-1-09,33,2026-02-17 20:00,2026-02-17,14:08:56
+-34.621281834,-58.906766541,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr5/169-5486/255-5514,165,Sin Datos,2026-02-17,14:08:56
+-34.623501740,-58.897470545,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr5/169-5486/255-5514,112,Sin Datos,2026-02-17,14:08:56
+-34.622539564,-58.901412543,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr5/169-5486/255-5514,181,Sin Datos,2026-02-17,14:08:56
+-34.619605269,-58.903078895,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr5/169-5486/255-5514,247,Sin Datos,2026-02-17,14:08:56
+-34.503094333,-58.661521272,12,media,Edenor,Malvinas Argentinas,Adolfo Sourdeaux,S/D,R:Ara San Juan/362-Tr2/362-5535,213,2026-02-17 16:40,2026-02-17,14:08:56
+-34.503981171,-58.660672663,12,media,Edenor,Malvinas Argentinas,Villa De Mayo,S/D,R:Ara San Juan/362-Tr2/362-5535,31,2026-02-17 16:40,2026-02-17,14:08:56
+-34.227238783,-58.434336389,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2026-02-17 13:40,2026-02-17,14:08:56
+-34.223935758,-58.428761588,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,2026-02-17 13:40,2026-02-17,14:08:56
+-34.225255235,-58.421292443,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,2026-02-17 13:40,2026-02-17,14:08:56
+-34.254253226,-58.433639926,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2026-02-17 13:40,2026-02-17,14:08:56
+-34.221637198,-58.437895150,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,4,2026-02-17 13:40,2026-02-17,14:08:56
+-34.223217377,-58.432125375,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,2026-02-17 13:40,2026-02-17,14:08:56
+-34.224542687,-58.424751754,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2026-02-17 13:40,2026-02-17,14:08:56
+-34.226676680,-58.415762647,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2026-02-17 13:40,2026-02-17,14:08:56
+-34.248309088,-58.427621223,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2026-02-17 13:40,2026-02-17,14:08:56
+-34.229184793,-58.415414699,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,2026-02-17 13:40,2026-02-17,14:08:56
+-34.586638966,-58.848783889,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5525,100,2026-02-17 12:00,2026-02-17,14:08:56
+-34.455851566,-58.710819847,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,R:Ford/151-Tr2/151-5523/151-5515/151-5542,1,Sin Datos,2026-02-17,14:08:56
+-34.580035853,-58.533137610,12,media,Edenor,Gral San Martin,C Libertador San Mart?N,S/D,R:Migueletes/54-Tr2/54-5531,64,2026-02-17 14:00,2026-02-17,14:08:56
+-34.715811680,-59.013285471,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,2,2026-02-17 11:11,2026-02-17,14:08:56
+-34.5211,-58.7851,22,baja,Edenor,Jose C Paz,Jose C Paz,,,30,,2026-02-17,14:08:56
+-34.727,-58.5649,22,baja,Edenor,La Matanza,Ciudad Evita,,,24,,2026-02-17,14:08:56
+-34.8576,-58.662,22,baja,Edenor,La Matanza,Virrey Del Pino,,,12,,2026-02-17,14:08:56
+-34.5854,-58.8635,22,baja,Edenor,Moreno,Francisco Alvarez,,,1,,2026-02-17,14:08:56
+-34.4516,-58.663,22,baja,Edenor,Tigre,General Pacheco,,,4,,2026-02-17,14:08:56
+-34.8521,-58.3808,21,baja,Edesur,Almirante Brown,Longchamps,,,42,,2026-02-17,14:08:56
+-34.8259,-58.4429,21,baja,Edesur,Almirante Brown,Adrogue,,,8,,2026-02-17,14:08:56
+-34.756,-58.291,21,baja,Edesur,Quilmes,Quilmes,,,8,,2026-02-17,14:08:56
+-34.6831,-58.3319,21,baja,Edesur,Avellaneda,Villa Dominico,,,21,,2026-02-17,14:08:56
+-34.6304,-58.3972,21,baja,Edesur,Capital,Parque Patricios,,,2,,2026-02-17,14:08:56
