@@ -12044,3 +12044,29 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5291,-58.8834,22,baja,Edenor,Pilar,Pilar,,,2,,2026-02-18,09:57:32
 -34.6181,-58.4194,21,baja,Edesur,Capital,Almagro,,,6,,2026-02-18,09:57:32
 -34.6404,-58.4427,21,baja,Edesur,Capital,Parque Chacabuco,,,3,,2026-02-18,09:57:32
+-34.669703985,-58.404008994,11,media,Edesur,Lanus,Valentin Alsina,Pineyro,R:079-5-56/079-5-56,176,2026-02-18 12:19,2026-02-18,11:44:01
+-34.873474996,-58.249655089,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-11/185-1-11,6,2026-02-18 09:57,2026-02-18,11:44:01
+-34.872431642,-58.254285628,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-11/185-1-11,4,2026-02-18 09:57,2026-02-18,11:44:01
+-34.875858766,-58.260590996,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-11/185-1-11,2,2026-02-18 09:57,2026-02-18,11:44:01
+-34.874096619,-58.257351951,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-11/185-1-11,1,2026-02-18 09:57,2026-02-18,11:44:01
+-34.872366867,-58.251094807,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-11/185-1-11,1,2026-02-18 09:57,2026-02-18,11:44:01
+-34.872005226,-58.253509530,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-11/185-1-11,9,2026-02-18 09:57,2026-02-18,11:44:01
+-34.635782399,-58.890278636,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5513,352,Sin Datos,2026-02-18,11:44:01
+-34.562451782,-58.798373109,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5513,27,2026-02-18 12:00,2026-02-18,11:44:01
+-34.566594468,-58.797541732,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5513,3,2026-02-18 12:00,2026-02-18,11:44:01
+-34.564451714,-58.802235402,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5513,4,2026-02-18 12:00,2026-02-18,11:44:01
+-34.571606718,-58.792922248,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5513,228,2026-02-18 12:00,2026-02-18,11:44:01
+-34.563458967,-58.800615952,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5513,1,2026-02-18 12:00,2026-02-18,11:44:01
+-34.572656267,-58.793793409,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5513,166,2026-02-18 12:00,2026-02-18,11:44:01
+-34.567437720,-58.792953401,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5513,1,2026-02-18 12:00,2026-02-18,11:44:01
+-34.568988899,-58.795486753,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5513,1,2026-02-18 12:00,2026-02-18,11:44:01
+-34.273105127,-58.636149697,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,Sin Datos,2026-02-18,11:44:01
+-34.280325788,-58.633355838,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,9,Sin Datos,2026-02-18,11:44:01
+-34.273909103,-58.631289417,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,6,Sin Datos,2026-02-18,11:44:01
+-34.276416428,-58.624711292,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,3,Sin Datos,2026-02-18,11:44:01
+-34.280547217,-58.631004795,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,11,Sin Datos,2026-02-18,11:44:01
+-34.5812,-58.4857,22,baja,Edenor,Capital Federal,Villa Urquiza,,,1,,2026-02-18,11:44:01
+-34.5291,-58.8834,22,baja,Edenor,Pilar,Pilar,,,2,,2026-02-18,11:44:01
+-34.7422,-58.8124,22,baja,Edenor,Marcos Paz,Marcos Paz,,,11,,2026-02-18,11:44:01
+-34.6181,-58.4194,21,baja,Edesur,Capital,Almagro,,,6,,2026-02-18,11:44:01
+-34.6404,-58.4427,21,baja,Edesur,Capital,Parque Chacabuco,,,4,,2026-02-18,11:44:01
