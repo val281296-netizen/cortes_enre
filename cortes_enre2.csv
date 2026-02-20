@@ -13485,3 +13485,51 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6776,-58.3937,21,baja,Edesur,Avellaneda,Piñeyro,,,3,,2026-02-20,17:43:09
 -34.7106,-58.3927,21,baja,Edesur,Lanus,Lanus,,,6,,2026-02-20,17:43:09
 -34.6021,-58.3981,21,baja,Edesur,Capital,Balvanera,,,6,,2026-02-20,17:43:09
+-34.600292414,-58.479584305,11,media,Edesur,Capital Gp,Villa Del Parque,S/D,R:047-4-45/047-4-45,36,Sin Datos,2026-02-20,19:39:03
+-34.884111355,-58.373384818,11,media,Edesur,S/D,S/D,Glew,R:277-3-35/277-3-35,30,Sin Datos,2026-02-20,19:39:03
+-34.882089034,-58.359509144,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-3-35/277-3-35,343,Sin Datos,2026-02-20,19:39:03
+-34.881393123,-58.358090068,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-3-35/277-3-35,367,Sin Datos,2026-02-20,19:39:03
+-34.811791406,-58.462193943,11,media,Edesur,Esteban Echeverria,Monte Grande,Transradio,R:281-2-28/281-2-28,237,Sin Datos,2026-02-20,19:39:03
+-34.882053255,-58.491072538,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-21/083-2-21,64,2026-02-20 18:23,2026-02-20,19:39:03
+-34.880092552,-58.487047541,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-21/083-2-21,176,2026-02-20 18:23,2026-02-20,19:39:03
+-34.577929267,-58.423339765,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr2/111-5527,65,2026-02-20 20:00,2026-02-20,19:39:03
+-34.761600664,-58.636731762,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Pantanosa/365-Tr2/365-5524,14,2026-02-20 18:00,2026-02-20,19:39:03
+-34.761928090,-58.636280318,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Pantanosa/365-Tr2/365-5524,13,2026-02-20 18:00,2026-02-20,19:39:03
+-34.761051403,-58.637444949,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Pantanosa/365-Tr2/365-5524,10,2026-02-20 18:00,2026-02-20,19:39:03
+-34.762205605,-58.636767824,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Pantanosa/365-Tr2/365-5524,8,2026-02-20 18:00,2026-02-20,19:39:03
+-34.761454543,-58.635925776,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Pantanosa/365-Tr2/365-5524,25,2026-02-20 18:00,2026-02-20,19:39:03
+-34.762727608,-58.635996897,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Pantanosa/365-Tr2/365-5524,14,2026-02-20 18:00,2026-02-20,19:39:03
+-34.762225437,-58.635443135,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Pantanosa/365-Tr2/365-5524,120,2026-02-20 18:00,2026-02-20,19:39:03
+-34.760906923,-58.636634899,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Pantanosa/365-Tr2/365-5524,20,2026-02-20 18:00,2026-02-20,19:39:03
+-34.761661763,-58.637510323,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Pantanosa/365-Tr2/365-5524,9,2026-02-20 18:00,2026-02-20,19:39:03
+-34.508550249,-58.890329840,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,1,Sin Datos,2026-02-20,19:39:03
+-34.553005001,-58.861327260,12,media,Edenor,Pilar,Pilar,S/D,R:Malvinas/169-Tr1/169-5534,1,Sin Datos,2026-02-20,19:39:03
+-34.431977265,-58.694589959,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5537,256,2026-02-20 20:00,2026-02-20,19:39:03
+-34.433609660,-58.688325094,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5537,26,2026-02-20 20:00,2026-02-20,19:39:03
+-34.432420184,-58.683778672,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5537,2,2026-02-20 20:00,2026-02-20,19:39:03
+-34.430330417,-58.682862071,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5537,4,2026-02-20 20:00,2026-02-20,19:39:03
+-34.427464285,-58.676901952,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5537,3,2026-02-20 20:00,2026-02-20,19:39:03
+-34.440600438,-58.682062154,12,media,Edenor,Tigre,General Pacheco,S/D,R:Benavidez/59-Tr2/59-5537,57,2026-02-20 20:00,2026-02-20,19:39:03
+-34.428195614,-58.678773470,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5537,2,2026-02-20 20:00,2026-02-20,19:39:03
+-34.426403082,-58.675038333,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5537,1,2026-02-20 20:00,2026-02-20,19:39:03
+-34.421394529,-58.678749330,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5537,1,2026-02-20 20:00,2026-02-20,19:39:03
+-34.423654718,-58.677373576,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5537,5,2026-02-20 20:00,2026-02-20,19:39:03
+-34.424273859,-58.676864810,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5537,1,2026-02-20 20:00,2026-02-20,19:39:03
+-34.424970478,-58.676308459,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5537,5,2026-02-20 20:00,2026-02-20,19:39:03
+-34.422133927,-58.678527802,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5537,1,2026-02-20 20:00,2026-02-20,19:39:03
+-34.440574625,-58.683172119,12,media,Edenor,Tigre,General Pacheco,S/D,R:Benavidez/59-Tr2/59-5537,10,2026-02-20 20:00,2026-02-20,19:39:03
+-34.5526,-58.4837,22,baja,Edenor,Capital Federal,Saavedra,,,7,,2026-02-20,19:39:03
+-34.5787,-58.4944,22,baja,Edenor,Capital Federal,Villa Urquiza,,,26,,2026-02-20,19:39:03
+-34.4686,-58.7123,22,baja,Edenor,Malvinas Argentinas,Pablo Nogues,,,15,,2026-02-20,19:39:03
+-34.6988,-58.4842,22,baja,Edenor,La Matanza,Villa Madero,,,15,,2026-02-20,19:39:03
+-34.5601,-58.6827,22,baja,Edenor,San Miguel,Bella Vista,,,32,,2026-02-20,19:39:03
+-34.8629,-58.5549,21,baja,Edesur,Ezeiza,Barrio La Union,,,32,,2026-02-20,19:39:03
+-34.8224,-58.181,21,baja,Edesur,Berazategui,Hudson,,,12,,2026-02-20,19:39:03
+-34.7297,-58.3841,21,baja,Edesur,Lanus,Remedios De Escalada,,,80,,2026-02-20,19:39:03
+-34.8781,-58.4868,21,baja,Edesur,Esteban Echeverria,Canning,,,3,,2026-02-20,19:39:03
+-34.6776,-58.3937,21,baja,Edesur,Avellaneda,Piñeyro,,,3,,2026-02-20,19:39:03
+-34.7404,-58.2222,21,baja,Edesur,Quilmes,Ezpeleta,,,7,,2026-02-20,19:39:03
+-34.7397,-58.3055,21,baja,Edesur,Quilmes,Quilmes,,,22,,2026-02-20,19:39:03
+-34.6499,-58.4213,21,baja,Edesur,Capital,Nueva Pompeya,,,16,,2026-02-20,19:39:03
+-34.6401,-58.475,21,baja,Edesur,Capital,Parque Avellaneda,,,124,,2026-02-20,19:39:03
+-34.6275,-58.4295,21,baja,Edesur,Capital,Parque Chacabuco,,,31,,2026-02-20,19:39:03
