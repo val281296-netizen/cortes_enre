@@ -14499,3 +14499,37 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.602,-58.4683,21,baja,Edesur,Capital,La Paternal,,,25,,2026-02-22,15:32:40
 -34.6269,-58.4552,21,baja,Edesur,Capital,Flores,,,3,,2026-02-22,15:32:40
 -34.6607,-58.5067,21,baja,Edesur,Capital,Mataderos,,,4,,2026-02-22,15:32:40
+-35.025450100,-58.429108540,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-03/956-1-03,261,2026-02-22 20:00,2026-02-22,17:31:38
+-35.026567016,-58.425696814,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-03/956-1-03,273,2026-02-22 20:00,2026-02-22,17:31:38
+-34.764780919,-58.400026996,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Temperley,R:084-2-27/084-2-27,297,Sin Datos,2026-02-22,17:31:38
+-34.811675011,-58.202257908,11,media,Edesur,Berazategui,Sourigues,Gutierrez Ii,R:174-2-22/174-2-22,255,Sin Datos,2026-02-22,17:31:38
+-34.743400904,-58.475117503,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,58,2026-02-22 16:00,2026-02-22,17:31:38
+-34.742195226,-58.476025492,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,40,2026-02-22 16:00,2026-02-22,17:31:38
+-34.740591030,-58.478110111,11,media,Edesur,Lomas De Zamora,Ingeniero Budge,Transradio,R:281-2-21/281-2-21,44,2026-02-22 16:00,2026-02-22,17:31:38
+-34.740442974,-58.479046070,11,media,Edesur,Lomas De Zamora,Ingeniero Budge,Transradio,R:281-2-21/281-2-21,93,2026-02-22 16:00,2026-02-22,17:31:38
+-34.737340385,-58.480154490,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-21/281-2-21,148,2026-02-22 16:00,2026-02-22,17:31:38
+-34.737175171,-58.475431958,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-21/281-2-21,16,2026-02-22 16:00,2026-02-22,17:31:38
+-34.746406686,-58.480128472,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-21/281-2-21,233,2026-02-22 16:00,2026-02-22,17:31:38
+-34.745440022,-58.476877933,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-21/281-2-21,716,2026-02-22 16:00,2026-02-22,17:31:38
+-34.742615167,-58.474048061,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-21/281-2-21,221,2026-02-22 16:00,2026-02-22,17:31:38
+-34.740056165,-58.475274865,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-21/281-2-21,277,2026-02-22 16:00,2026-02-22,17:31:38
+-34.754894127,-58.471488358,11,media,Edesur,Lomas De Zamora,Ingeniero Budge,Transradio,R:281-4-43/281-4-43,147,2026-02-22 16:00,2026-02-22,17:31:38
+-34.626618586,-58.482964410,11,media,Edesur,Capital Gp,Floresta,Luro,R:038-4-49/038-4-49,640,2026-02-22 17:50,2026-02-22,17:31:38
+-34.624287953,-58.493009657,11,media,Edesur,Capital Gp,Floresta,Luro,R:038-4-49/038-4-49,584,2026-02-22 17:50,2026-02-22,17:31:38
+-34.624828903,-58.495159061,11,media,Edesur,Capital Gp,Velez Sarfield,Luro,R:038-4-49/038-4-49,391,2026-02-22 17:50,2026-02-22,17:31:38
+-34.800683654,-58.848539426,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5517,176,Sin Datos,2026-02-22,17:31:38
+-34.798924784,-58.840125271,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5517,318,Sin Datos,2026-02-22,17:31:38
+-34.793938281,-58.843429754,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5517,166,Sin Datos,2026-02-22,17:31:38
+-34.802631853,-58.850034945,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5517,23,Sin Datos,2026-02-22,17:31:38
+-34.805295003,-58.851968814,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5517,15,Sin Datos,2026-02-22,17:31:38
+-34.797108793,-58.842198715,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5517,154,Sin Datos,2026-02-22,17:31:38
+-34.803021191,-58.842452907,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5517,109,Sin Datos,2026-02-22,17:31:38
+-34.807071443,-58.850061733,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5517,1,Sin Datos,2026-02-22,17:31:38
+-34.805146119,-58.846321852,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5517,62,Sin Datos,2026-02-22,17:31:38
+-34.796088324,-58.845048291,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5517,102,Sin Datos,2026-02-22,17:31:38
+-34.6957,-58.8285,22,baja,Edenor,Merlo,Mariano Acosta,,,16,,2026-02-22,17:31:38
+-34.4902,-58.5023,22,baja,Edenor,San Isidro,Martinez,,,7,,2026-02-22,17:31:38
+-34.6948,-58.8294,22,baja,Edenor,Merlo,Mariano Acosta,,,3,,2026-02-22,17:31:38
+-34.6649,-58.5004,21,baja,Edesur,Capital,Mataderos,,,31,,2026-02-22,17:31:38
+-34.602,-58.4683,21,baja,Edesur,Capital,La Paternal,,,37,,2026-02-22,17:31:38
+-34.6269,-58.4552,21,baja,Edesur,Capital,Flores,,,2,,2026-02-22,17:31:38
