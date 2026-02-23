@@ -15208,3 +15208,59 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8095,-58.3672,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,21,,2026-02-23,21:53:50
 -34.6502,-58.3797,21,baja,Edesur,Capital,Barracas,,,3,,2026-02-23,21:53:50
 -34.6623,-58.4148,21,baja,Edesur,Lanus,Valentin Alsina,,,2,,2026-02-23,21:53:50
+-34.795267316,-58.229509284,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-25/080-2-25,160,Sin Datos,2026-02-23,23:38:37
+-34.790815401,-58.478313051,11,media,Edesur,Esteban Echeverria,Monte Grande,Santa Catalina,R:182-3-33/182-3-33,622,Sin Datos,2026-02-23,23:38:37
+-34.789219109,-58.480747647,11,media,Edesur,Esteban Echeverria,Monte Grande,Santa Catalina,R:182-3-33/182-3-33,435,Sin Datos,2026-02-23,23:38:37
+-34.822445703,-58.289886561,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-22/183-2-22,15,2026-02-23 22:44,2026-02-23,23:38:37
+-34.820456904,-58.291408584,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-22/183-2-22,2,2026-02-23 22:44,2026-02-23,23:38:37
+-34.822259603,-58.285323436,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-22/183-2-22,57,2026-02-23 22:44,2026-02-23,23:38:37
+-34.821719609,-58.290426573,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-22/183-2-22,6,2026-02-23 22:44,2026-02-23,23:38:37
+-34.826020349,-58.289943652,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-22/183-2-22,307,2026-02-23 22:44,2026-02-23,23:38:37
+-34.827541103,-58.289154891,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-22/183-2-22,189,2026-02-23 22:44,2026-02-23,23:38:37
+-34.823887250,-58.285307155,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-22/183-2-22,285,2026-02-23 22:44,2026-02-23,23:38:37
+-34.828462959,-58.290885132,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-22/183-2-22,1,2026-02-23 22:44,2026-02-23,23:38:37
+-34.751697953,-58.338275738,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-1-12/184-1-12,276,2026-02-24 04:36,2026-02-23,23:38:37
+-34.760953529,-58.335170049,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-1-12/184-1-12,361,2026-02-24 04:36,2026-02-23,23:38:37
+-34.757976983,-58.334596903,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-1-12/184-1-12,402,2026-02-24 04:36,2026-02-23,23:38:37
+-34.757177398,-58.338587676,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-1-12/184-1-12,418,2026-02-24 04:36,2026-02-23,23:38:37
+-34.763888472,-58.331371541,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-1-12/184-1-12,652,2026-02-24 04:36,2026-02-23,23:38:37
+-34.766943118,-58.327739835,11,media,Edesur,Almirante Brown,Rafael Calzada,Monte Chingolo,R:184-1-12/184-1-12,276,2026-02-24 04:36,2026-02-23,23:38:37
+-34.753272464,-58.341181993,11,media,Edesur,Lomas De Zamora,Temperley,Monte Chingolo,R:184-1-12/184-1-12,179,2026-02-24 04:36,2026-02-23,23:38:37
+-34.760191737,-58.331999622,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-1-12/184-1-12,1,2026-02-24 04:36,2026-02-23,23:38:37
+-34.761878489,-58.333548589,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-1-12/184-1-12,10,2026-02-24 04:36,2026-02-23,23:38:37
+-34.727064867,-58.759631465,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Marcos Paz/363-Tr2/363-5521,179,2026-02-24 15:00,2026-02-23,23:38:37
+-34.716651343,-58.777060532,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Marcos Paz/363-Tr2/363-5521,328,2026-02-24 15:00,2026-02-23,23:38:37
+-34.722556318,-58.783392120,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Marcos Paz/363-Tr2/363-5521,432,2026-02-24 15:00,2026-02-23,23:38:37
+-34.722273282,-58.777295039,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Marcos Paz/363-Tr2/363-5521,362,2026-02-24 15:00,2026-02-23,23:38:37
+-34.721221808,-58.771041543,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Marcos Paz/363-Tr2/363-5521,419,2026-02-24 15:00,2026-02-23,23:38:37
+-34.724612663,-58.781168622,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Marcos Paz/363-Tr2/363-5521,55,2026-02-24 15:00,2026-02-23,23:38:37
+-34.724653367,-58.766357619,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Marcos Paz/363-Tr2/363-5521,24,2026-02-24 15:00,2026-02-23,23:38:37
+-34.726852065,-58.763365522,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Marcos Paz/363-Tr2/363-5521,9,2026-02-24 15:00,2026-02-23,23:38:37
+-34.727160722,-58.771934175,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Marcos Paz/363-Tr2/363-5521,94,2026-02-24 15:00,2026-02-23,23:38:37
+-34.731161543,-58.765174804,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Marcos Paz/363-Tr2/363-5521,7,2026-02-24 15:00,2026-02-23,23:38:37
+-34.720228242,-58.780958913,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Marcos Paz/363-Tr2/363-5521,113,2026-02-24 15:00,2026-02-23,23:38:37
+-34.718806981,-58.779439851,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Marcos Paz/363-Tr2/363-5521,169,2026-02-24 15:00,2026-02-23,23:38:37
+-34.719814838,-58.774844891,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Marcos Paz/363-Tr2/363-5521,168,2026-02-24 15:00,2026-02-23,23:38:37
+-34.714392959,-58.780880898,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Marcos Paz/363-Tr2/363-5521,198,2026-02-24 15:00,2026-02-23,23:38:37
+-34.714655827,-58.653756259,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,211,Sin Datos,2026-02-23,23:38:37
+-34.716653517,-58.651073165,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,1,Sin Datos,2026-02-23,23:38:37
+-34.720163081,-58.648603753,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,1,Sin Datos,2026-02-23,23:38:37
+-34.717907595,-58.646125690,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,1,Sin Datos,2026-02-23,23:38:37
+-34.650797313,-58.792124017,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr2/163-5526,132,Sin Datos,2026-02-23,23:38:37
+-34.6476,-58.79,22,baja,Edenor,Moreno,Moreno,,,8,,2026-02-23,23:38:37
+-34.7169,-58.6286,22,baja,Edenor,La Matanza,Rafael Castillo,,,10,,2026-02-23,23:38:37
+-34.5629,-58.4611,22,baja,Edenor,Capital Federal,Belgrano,,,10,,2026-02-23,23:38:37
+-34.5992,-58.631,22,baja,Edenor,Hurlingham,Hurlingham,,,6,,2026-02-23,23:38:37
+-34.6049,-58.7251,22,baja,Edenor,Moreno,Trujui,,,11,,2026-02-23,23:38:37
+-34.6126,-58.9212,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,13,,2026-02-23,23:38:37
+-34.893,-58.5624,21,baja,Edesur,Ezeiza,Tristan Suarez,,,5,,2026-02-23,23:38:37
+-34.973,-58.6645,21,baja,Edesur,Cañuelas,Zona Rural,,,9,,2026-02-23,23:38:37
+-34.7538,-58.2047,21,baja,Edesur,Berazategui,Berazategui,,,31,,2026-02-23,23:38:37
+-34.6033,-58.5234,21,baja,Edesur,Capital,Villa Devoto,,,7,,2026-02-23,23:38:37
+-34.8296,-58.3898,21,baja,Edesur,Almirante Brown,Burzaco,,,15,,2026-02-23,23:38:37
+-34.7371,-58.4379,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,25,,2026-02-23,23:38:37
+-34.6071,-58.4494,21,baja,Edesur,Capital,Caballito,,,19,,2026-02-23,23:38:37
+-34.6502,-58.3797,21,baja,Edesur,Capital,Barracas,,,4,,2026-02-23,23:38:37
+-34.8091,-58.4457,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,5,,2026-02-23,23:38:37
+-34.6072,-58.4503,21,baja,Edesur,Capital,Caballito,,,1,,2026-02-23,23:38:37
+-34.7553,-58.3736,21,baja,Edesur,Lomas De Zamora,Temperley,,,11,,2026-02-23,23:38:37
