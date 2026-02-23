@@ -15062,3 +15062,52 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7878,-58.3008,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,1,,2026-02-23,15:54:13
 -34.7409,-58.3924,21,baja,Edesur,Lomas De Zamora,Banfield,,,1,,2026-02-23,15:54:13
 -34.9776,-58.3811,21,baja,Edesur,San Vicente,Alejandro Korn,,,2,,2026-02-23,15:54:13
+-34.804793989,-58.363780194,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-4-42/189-4-42,228,Sin Datos,2026-02-23,18:03:20
+-34.806590957,-58.367301166,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-4-42/189-4-42,567,Sin Datos,2026-02-23,18:03:20
+-34.805599352,-58.366919595,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-4-42/189-4-42,9,Sin Datos,2026-02-23,18:03:20
+-34.804679735,-58.367491676,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-4-42/189-4-42,35,Sin Datos,2026-02-23,18:03:20
+-34.804284935,-58.367733401,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-4-42/189-4-42,27,Sin Datos,2026-02-23,18:03:20
+-34.806046950,-58.365622121,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-4-42/189-4-42,1,Sin Datos,2026-02-23,18:03:20
+-34.795267316,-58.229509284,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-25/080-2-25,160,Sin Datos,2026-02-23,18:03:20
+-34.868899291,-58.478222118,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-4-45/083-4-45,123,Sin Datos,2026-02-23,18:03:20
+-34.870315831,-58.477067079,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-4-45/083-4-45,20,Sin Datos,2026-02-23,18:03:20
+-34.871631936,-58.470241675,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-4-45/083-4-45,3,Sin Datos,2026-02-23,18:03:20
+-34.875933743,-58.479473222,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-4-45/083-4-45,1,Sin Datos,2026-02-23,18:03:20
+-34.870082160,-58.483411195,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-4-45/083-4-45,5,Sin Datos,2026-02-23,18:03:20
+-34.866604946,-58.477879165,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-4-45/083-4-45,212,Sin Datos,2026-02-23,18:03:20
+-34.870549532,-58.484351655,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-4-45/083-4-45,2,Sin Datos,2026-02-23,18:03:20
+-34.870166236,-58.475267566,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-4-45/083-4-45,127,Sin Datos,2026-02-23,18:03:20
+-34.874848651,-58.480477759,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-4-45/083-4-45,1,Sin Datos,2026-02-23,18:03:20
+-34.872029558,-58.473876295,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-4-45/083-4-45,1,Sin Datos,2026-02-23,18:03:20
+-34.873198534,-58.473001429,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-4-45/083-4-45,2,Sin Datos,2026-02-23,18:03:20
+-34.790815401,-58.478313051,11,media,Edesur,Esteban Echeverria,Monte Grande,Santa Catalina,R:182-3-33/182-3-33,622,Sin Datos,2026-02-23,18:03:20
+-34.789219109,-58.480747647,11,media,Edesur,Esteban Echeverria,Monte Grande,Santa Catalina,R:182-3-33/182-3-33,435,Sin Datos,2026-02-23,18:03:20
+-34.811741570,-58.800456246,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5522,7,Sin Datos,2026-02-23,18:03:20
+-34.806422234,-58.806943503,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5522,18,Sin Datos,2026-02-23,18:03:20
+-34.802938508,-58.811115596,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5522,7,Sin Datos,2026-02-23,18:03:20
+-34.810231218,-58.802334530,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5522,3,Sin Datos,2026-02-23,18:03:20
+-34.808251128,-58.808984444,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5522,1,Sin Datos,2026-02-23,18:03:20
+-34.810459512,-58.811640617,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5522,11,Sin Datos,2026-02-23,18:03:20
+-34.725197656,-58.703203388,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5525,266,Sin Datos,2026-02-23,18:03:20
+-34.382400059,-58.747535096,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr3/154-5473/951-5521,126,2026-02-23 17:00,2026-02-23,18:03:20
+-34.714655827,-58.653756259,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,211,Sin Datos,2026-02-23,18:03:20
+-34.716828880,-58.657969319,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,60,Sin Datos,2026-02-23,18:03:20
+-34.703807830,-58.650104283,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,242,Sin Datos,2026-02-23,18:03:20
+-34.706267545,-58.646863528,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,297,Sin Datos,2026-02-23,18:03:20
+-34.701727873,-58.652481860,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,390,Sin Datos,2026-02-23,18:03:20
+-34.709157605,-58.649512956,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,313,Sin Datos,2026-02-23,18:03:20
+-34.712047344,-58.646532130,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,222,Sin Datos,2026-02-23,18:03:20
+-34.716653517,-58.651073165,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,1,Sin Datos,2026-02-23,18:03:20
+-34.720163081,-58.648603753,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,1,Sin Datos,2026-02-23,18:03:20
+-34.717907595,-58.646125690,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,1,Sin Datos,2026-02-23,18:03:20
+-34.711051228,-58.651625488,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,102,Sin Datos,2026-02-23,18:03:20
+-34.704779780,-58.648807230,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,223,Sin Datos,2026-02-23,18:03:20
+-34.705037414,-58.645172660,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,210,Sin Datos,2026-02-23,18:03:20
+-34.703060798,-58.651091870,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,283,Sin Datos,2026-02-23,18:03:20
+-34.5038,-58.7119,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,23,,2026-02-23,18:03:20
+-34.82,-58.3777,21,baja,Edesur,Almirante Brown,Burzaco,,,35,,2026-02-23,18:03:20
+-34.775,-58.3593,21,baja,Edesur,Almirante Brown,Marmol,,,41,,2026-02-23,18:03:20
+-34.893,-58.5624,21,baja,Edesur,Ezeiza,Tristan Suarez,,,5,,2026-02-23,18:03:20
+-34.973,-58.6645,21,baja,Edesur,Cañuelas,Zona Rural,,,6,,2026-02-23,18:03:20
+-34.6095,-58.4466,21,baja,Edesur,Capital,Capital,,,7,,2026-02-23,18:03:20
+-34.6402,-58.3653,21,baja,Edesur,Capital,La Boca,,,25,,2026-02-23,18:03:20
