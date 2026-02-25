@@ -16826,3 +16826,58 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6312,-58.4492,21,baja,Edesur,Capital,Parque Chacabuco,,,9,,2026-02-25,16:11:16
 -34.7385,-58.4657,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,27,,2026-02-25,16:11:16
 -34.8981,-58.3723,21,baja,Edesur,Pte Peron,Los Pinos,,,5,,2026-02-25,16:11:16
+-34.884711916,-58.180677711,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-2-21/174-2-21,161,2026-02-25 17:00,2026-02-25,18:04:19
+-34.888607623,-58.185237545,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-2-21/174-2-21,54,2026-02-25 17:00,2026-02-25,18:04:19
+-34.883807672,-58.186606399,11,media,Edesur,S/D,S/D,Gutierrez Ii,R:174-2-21/174-2-21,34,2026-02-25 17:00,2026-02-25,18:04:19
+-34.889532544,-58.183293936,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-2-21/174-2-21,4,2026-02-25 17:00,2026-02-25,18:04:19
+-34.883768845,-58.181805684,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-2-21/174-2-21,2,2026-02-25 17:00,2026-02-25,18:04:19
+-34.578446037,-58.899360130,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5534,4,Sin Datos,2026-02-25,18:04:19
+-34.576055771,-58.901244523,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5534,2,Sin Datos,2026-02-25,18:04:19
+-34.575616596,-58.901634975,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5534,1,Sin Datos,2026-02-25,18:04:19
+-34.565210668,-58.909839421,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5534,1,Sin Datos,2026-02-25,18:04:19
+-34.694112052,-58.627094186,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Casanova/63-Tr2/63-5526,214,Sin Datos,2026-02-25,18:04:19
+-34.694845891,-58.625915895,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Casanova/63-Tr2/63-5526,361,2026-02-25 17:00,2026-02-25,18:04:19
+-34.293246718,-58.545040357,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,Sin Datos,2026-02-25,18:04:19
+-34.279137793,-58.576631820,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,Sin Datos,2026-02-25,18:04:19
+-34.272872274,-58.587379274,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,6,Sin Datos,2026-02-25,18:04:19
+-34.292215497,-58.549001162,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,8,Sin Datos,2026-02-25,18:04:19
+-34.266208026,-58.626333382,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,Sin Datos,2026-02-25,18:04:19
+-34.274449970,-58.592528997,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,34,Sin Datos,2026-02-25,18:04:19
+-34.267959786,-58.615499517,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,4,Sin Datos,2026-02-25,18:04:19
+-34.265595942,-58.629927177,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,15,Sin Datos,2026-02-25,18:04:19
+-34.265260269,-58.632205227,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,10,Sin Datos,2026-02-25,18:04:19
+-34.264261095,-58.638759680,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,13,Sin Datos,2026-02-25,18:04:19
+-34.253122463,-58.581788750,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,6,Sin Datos,2026-02-25,18:04:19
+-34.262998929,-58.580308788,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,Sin Datos,2026-02-25,18:04:19
+-34.270915252,-58.585156522,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,10,Sin Datos,2026-02-25,18:04:19
+-34.274631823,-58.592021268,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,Sin Datos,2026-02-25,18:04:19
+-34.266431607,-58.583493749,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,Sin Datos,2026-02-25,18:04:19
+-34.265805007,-58.549303381,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,4,Sin Datos,2026-02-25,18:04:19
+-34.267489039,-58.556566905,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,Sin Datos,2026-02-25,18:04:19
+-34.265675518,-58.546648179,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,Sin Datos,2026-02-25,18:04:19
+-34.265467429,-58.577350268,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,Sin Datos,2026-02-25,18:04:19
+-34.265602935,-58.621147171,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,4,Sin Datos,2026-02-25,18:04:19
+-34.265204700,-58.623675719,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,Sin Datos,2026-02-25,18:04:19
+-34.265332606,-58.583355493,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,Sin Datos,2026-02-25,18:04:19
+-34.274893597,-58.591090796,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,11,Sin Datos,2026-02-25,18:04:19
+-34.263920378,-58.622378050,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,Sin Datos,2026-02-25,18:04:19
+-34.267830386,-58.559684762,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,Sin Datos,2026-02-25,18:04:19
+-34.567970447,-58.568823600,12,media,Edenor,Gral San Martin,Juan M De Pueyrredon,S/D,R:Malaver/68-Tr2/68-5532,141,2026-02-25 18:00,2026-02-25,18:04:19
+-34.765,-58.7135,22,baja,Edenor,Merlo,Pontevedra,,,1,,2026-02-25,18:04:19
+-34.7049,-58.4913,22,baja,Edenor,La Matanza,Villa Madero,,,28,,2026-02-25,18:04:19
+-34.6767,-58.3833,21,baja,Edesur,Avellaneda,Avellaneda,,,6,,2026-02-25,18:04:19
+-34.709,-58.4348,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,23,,2026-02-25,18:04:19
+-34.7494,-58.2099,21,baja,Edesur,Berazategui,Berazategui,,,16,,2026-02-25,18:04:19
+-34.9082,-58.1954,21,baja,Edesur,Berazategui,El Pato,,,1,,2026-02-25,18:04:19
+-34.626,-58.4393,21,baja,Edesur,Capital,Caballito,,,12,,2026-02-25,18:04:19
+-34.8117,-58.1853,21,baja,Edesur,Berazategui,Berazategui,,,5,,2026-02-25,18:04:19
+-34.7428,-58.2901,21,baja,Edesur,Quilmes,Quilmes,,,75,,2026-02-25,18:04:19
+-34.8997,-58.1798,21,baja,Edesur,Berazategui,El Pato,,,6,,2026-02-25,18:04:19
+-34.8912,-58.1824,21,baja,Edesur,Berazategui,El Pato,,,11,,2026-02-25,18:04:19
+-34.773,-58.3936,21,baja,Edesur,Lomas De Zamora,Temperley,,,16,,2026-02-25,18:04:19
+-34.7679,-58.2156,21,baja,Edesur,Berazategui,Berazategui,,,20,,2026-02-25,18:04:19
+-34.6331,-58.4486,21,baja,Edesur,Capital,Parque Chacabuco,,,24,,2026-02-25,18:04:19
+-34.6054,-58.3971,21,baja,Edesur,Capital,Balvanera,,,4,,2026-02-25,18:04:19
+-34.7385,-58.4657,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,39,,2026-02-25,18:04:19
+-34.6499,-58.4989,21,baja,Edesur,Capital,Mataderos,,,4,,2026-02-25,18:04:19
+-34.8981,-58.3723,21,baja,Edesur,Pte Peron,Los Pinos,,,5,,2026-02-25,18:04:19
