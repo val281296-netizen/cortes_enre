@@ -19318,3 +19318,58 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7567,-58.2905,21,baja,Edesur,Quilmes,Quilmes,,,13,,2026-02-27,15:42:53
 -34.7099,-58.4326,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,1,,2026-02-27,15:42:53
 -34.6209,-58.4082,21,baja,Edesur,Capital,San Cristobal,,,3,,2026-02-27,15:42:53
+-34.884711916,-58.180677711,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-1-15/174-1-15,161,Sin Datos,2026-02-27,17:41:10
+-34.888607623,-58.185237545,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-1-15/174-1-15,54,Sin Datos,2026-02-27,17:41:10
+-34.883807672,-58.186606399,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-1-15/174-1-15,34,Sin Datos,2026-02-27,17:41:10
+-34.889532544,-58.183293936,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-1-15/174-1-15,4,Sin Datos,2026-02-27,17:41:10
+-34.883768845,-58.181805684,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-1-15/174-1-15,2,Sin Datos,2026-02-27,17:41:10
+-34.901849353,-58.163536402,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,4,Sin Datos,2026-02-27,17:41:10
+-34.898056704,-58.167984170,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,2,Sin Datos,2026-02-27,17:41:10
+-34.908348251,-58.170429981,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,5,Sin Datos,2026-02-27,17:41:10
+-34.904306608,-58.165706313,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,9,Sin Datos,2026-02-27,17:41:10
+-34.898310316,-58.158829053,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,4,Sin Datos,2026-02-27,17:41:10
+-34.896816281,-58.157053809,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,1,Sin Datos,2026-02-27,17:41:10
+-34.882694241,-58.170201345,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,32,Sin Datos,2026-02-27,17:41:10
+-34.882387418,-58.167086410,11,media,Edesur,S/D,S/D,S/D,R:951-1-03/951-1-03,92,Sin Datos,2026-02-27,17:41:10
+-34.885876784,-58.169644264,11,media,Edesur,S/D,S/D,S/D,R:951-1-03/951-1-03,184,Sin Datos,2026-02-27,17:41:10
+-34.879542213,-58.170694928,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,57,Sin Datos,2026-02-27,17:41:10
+-34.906417774,-58.168227855,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,4,Sin Datos,2026-02-27,17:41:10
+-34.883011028,-58.172965930,11,media,Edesur,S/D,S/D,S/D,R:951-1-03/951-1-03,3,Sin Datos,2026-02-27,17:41:10
+-34.882941902,-58.172315095,11,media,Edesur,S/D,S/D,S/D,R:951-1-03/951-1-03,4,Sin Datos,2026-02-27,17:41:10
+-34.901275287,-58.164228201,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,1,Sin Datos,2026-02-27,17:41:10
+-34.879848773,-58.173285566,11,media,Edesur,S/D,S/D,S/D,R:951-1-03/951-1-03,87,Sin Datos,2026-02-27,17:41:10
+-34.883742759,-58.361786002,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-3-35/277-3-35,293,Sin Datos,2026-02-27,17:41:10
+-34.884827191,-58.363959335,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-3-35/277-3-35,231,Sin Datos,2026-02-27,17:41:10
+-34.880076742,-58.480745760,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-4-44/277-4-44,192,Sin Datos,2026-02-27,17:41:10
+-34.764949478,-58.404754059,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Temperley,R:084-2-27/084-2-27,108,2026-02-27 22:00,2026-02-27,17:41:10
+-34.674988194,-58.339078128,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,313,2026-02-27 18:25,2026-02-27,17:41:10
+-34.672990104,-58.338042467,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,156,2026-02-27 18:25,2026-02-27,17:41:10
+-34.674842046,-58.337714233,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,564,2026-02-27 18:25,2026-02-27,17:41:10
+-34.672999776,-58.337344462,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,199,2026-02-27 18:25,2026-02-27,17:41:10
+-34.675250348,-58.335929295,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,142,2026-02-27 18:25,2026-02-27,17:41:10
+-34.671431739,-58.339431903,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,19,2026-02-27 18:25,2026-02-27,17:41:10
+-34.177232949,-58.614115843,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-02-27,17:41:10
+-34.174134659,-58.612803677,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-02-27,17:41:10
+-34.178845333,-58.614588795,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-02-27,17:41:10
+-34.199007087,-58.622314250,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,5,Sin Datos,2026-02-27,17:41:10
+-34.091095075,-58.808000652,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1512,3,Sin Datos,2026-02-27,17:41:10
+-34.346232372,-58.546970649,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos,2026-02-27,17:41:10
+-34.350199669,-58.546682841,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,Sin Datos,2026-02-27,17:41:10
+-34.344220203,-58.547253039,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos,2026-02-27,17:41:10
+-34.355155193,-58.546018898,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,6,Sin Datos,2026-02-27,17:41:10
+-34.330860214,-58.552270029,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,Sin Datos,2026-02-27,17:41:10
+-34.335236596,-58.550573783,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,Sin Datos,2026-02-27,17:41:10
+-34.5653,-58.4452,22,baja,Edenor,Capital Federal,Belgrano,,,5,,2026-02-27,17:41:10
+-34.4451,-58.854,22,baja,Edenor,Pilar,La Lonja,,,35,,2026-02-27,17:41:10
+-34.7426,-58.7928,22,baja,Edenor,Merlo,Mariano Acosta,,,5,,2026-02-27,17:41:10
+-34.6706,-58.5342,22,baja,Edenor,La Matanza,Lomas Del Mirador,,,18,,2026-02-27,17:41:10
+-34.7045,-58.742,22,baja,Edenor,Merlo,Merlo,,,17,,2026-02-27,17:41:10
+-34.8066,-58.4106,21,baja,Edesur,Lomas De Zamora,Lavallol,,,14,,2026-02-27,17:41:10
+-34.6015,-58.4104,21,baja,Edesur,Capital,Balvanera,,,8,,2026-02-27,17:41:10
+-34.6216,-58.3863,21,baja,Edesur,Capital,Constitucion,,,32,,2026-02-27,17:41:10
+-34.5928,-58.4018,21,baja,Edesur,Capital,Recoleta,,,14,,2026-02-27,17:41:10
+-34.8162,-58.2356,21,baja,Edesur,Florencio Varela,Bosques,,,5,,2026-02-27,17:41:10
+-34.6227,-58.4386,21,baja,Edesur,Capital,Caballito,,,9,,2026-02-27,17:41:10
+-34.7567,-58.2905,21,baja,Edesur,Quilmes,Quilmes,,,15,,2026-02-27,17:41:10
+-34.7099,-58.4326,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,1,,2026-02-27,17:41:10
+-34.8644,-58.2008,21,baja,Edesur,Florencio Varela,Ing. Allan,,,1,,2026-02-27,17:41:10
