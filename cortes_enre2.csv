@@ -20138,3 +20138,30 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7171,-58.2649,21,baja,Edesur,Quilmes,Quilmes,,,6,,2026-03-01,13:41:42
 -34.7147,-58.264,21,baja,Edesur,Quilmes,Quilmes,,,11,,2026-03-01,13:41:42
 -34.6778,-58.48,21,baja,Edesur,Capital,Villa Lugano,,,6,,2026-03-01,13:41:42
+-34.789779842,-58.430655995,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-14/182-1-14,264,2026-03-01 17:39,2026-03-01,15:30:24
+-34.795332848,-58.435098726,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-14/182-1-14,2,2026-03-01 17:39,2026-03-01,15:30:24
+-34.782081571,-58.216549141,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-29/080-2-29,116,2026-03-01 14:00,2026-03-01,15:30:24
+-34.780972822,-58.217407344,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-29/080-2-29,162,2026-03-01 14:00,2026-03-01,15:30:24
+-34.782206478,-58.219889169,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-29/080-2-29,198,2026-03-01 14:00,2026-03-01,15:30:24
+-34.805814966,-58.442704917,11,media,Edesur,Esteban Echeverria,Luis Guillon,Temperley,R:084-1-11/084-1-11,245,2026-03-01 14:06,2026-03-01,15:30:24
+-34.802998951,-58.445031144,11,media,Edesur,Esteban Echeverria,Luis Guillon,Temperley,R:084-1-11/084-1-11,339,2026-03-01 14:06,2026-03-01,15:30:24
+-34.803873227,-58.435205110,11,media,Edesur,Lomas De Zamora,Lavallol,Temperley,R:084-1-11/084-1-11,154,2026-03-01 14:06,2026-03-01,15:30:24
+-34.806229638,-58.437317292,11,media,Edesur,Lomas De Zamora,Lavallol,Temperley,R:084-1-11/084-1-11,178,2026-03-01 14:06,2026-03-01,15:30:24
+-34.806537644,-58.446349109,11,media,Edesur,Esteban Echeverria,Luis Guillon,Temperley,R:084-1-11/084-1-11,345,2026-03-01 14:06,2026-03-01,15:30:24
+-34.806644613,-58.445187199,11,media,Edesur,Esteban Echeverria,Luis Guillon,Temperley,R:084-1-11/084-1-11,16,2026-03-01 14:06,2026-03-01,15:30:24
+-34.739185100,-58.409802892,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-22/076-2-22,385,2026-03-01 13:40,2026-03-01,15:30:24
+-34.882089034,-58.359509144,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-3-35/277-3-35,343,2026-03-01 15:47,2026-03-01,15:30:24
+-34.881393123,-58.358090068,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-3-35/277-3-35,367,2026-03-01 15:47,2026-03-01,15:30:24
+-34.683307421,-58.524497217,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5541,2,2026-03-01 13:30,2026-03-01,15:30:24
+-34.662640499,-58.544980076,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr2/164-5533,132,2026-03-01 13:00,2026-03-01,15:30:24
+-34.5583,-58.9355,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,59,,2026-03-01,15:30:24
+-34.457,-58.9142,22,baja,Edenor,Pilar,Pilar,,,43,,2026-03-01,15:30:24
+-34.6263,-58.6764,22,baja,Edenor,Ituzaingo,Villa Udaondo,,,3,,2026-03-01,15:30:24
+-34.6514,-58.7079,22,baja,Edenor,Ituzaingo,Ituzaingo,,,41,,2026-03-01,15:30:24
+-34.7648,-58.2773,21,baja,Edesur,Quilmes,Quilmes,,,35,,2026-03-01,15:30:24
+-34.6162,-58.4421,21,baja,Edesur,Capital,Caballito,,,10,,2026-03-01,15:30:24
+-35.0632,-58.7497,21,baja,Edesur,Cañuelas,Cañuelas,,,14,,2026-03-01,15:30:24
+-34.5928,-58.4018,21,baja,Edesur,Capital,Recoleta,,,8,,2026-03-01,15:30:24
+-34.7171,-58.2649,21,baja,Edesur,Quilmes,Quilmes,,,6,,2026-03-01,15:30:24
+-34.7147,-58.264,21,baja,Edesur,Quilmes,Quilmes,,,16,,2026-03-01,15:30:24
+-34.6294,-58.4428,21,baja,Edesur,Capital,Parque Chacabuco,,,11,,2026-03-01,15:30:24
