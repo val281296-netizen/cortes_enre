@@ -20934,3 +20934,34 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7099,-58.4236,21,baja,Edesur,Lanus,Lanus,,,1,,2026-03-02,21:40:10
 -34.7558,-58.3315,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,4,,2026-03-02,21:40:10
 -34.6132,-58.5077,21,baja,Edesur,Capital,Capital,,,5,,2026-03-02,21:40:10
+-34.783269649,-58.464284932,11,media,Edesur,Esteban Echeverria,Luis Guillon,Santa Catalina,R:182-3-34/182-3-34,252,Sin Datos,2026-03-02,23:33:38
+-34.927915845,-58.260370165,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-16/185-1-16,4,2026-03-02 23:35,2026-03-02,23:33:38
+-34.930638566,-58.256819935,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-16/185-1-16,2,2026-03-02 23:35,2026-03-02,23:33:38
+-34.931043354,-58.256288453,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-16/185-1-16,3,2026-03-02 23:35,2026-03-02,23:33:38
+-34.929786700,-58.258728218,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-16/185-1-16,5,2026-03-02 23:35,2026-03-02,23:33:38
+-34.926256398,-58.262491965,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-16/185-1-16,2,2026-03-02 23:35,2026-03-02,23:33:38
+-34.556781420,-58.602587775,12,media,Edenor,Gral San Martin,C Jardin El Libertador,S/D,R:Rotonda/262-Tr2/262-5525,3,2026-03-02 21:30,2026-03-02,23:33:38
+-34.557772760,-58.601329382,12,media,Edenor,Gral San Martin,C Jardin El Libertador,S/D,R:Rotonda/262-Tr2/262-5525,17,2026-03-02 21:30,2026-03-02,23:33:38
+-34.751855051,-58.616968566,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5528,248,2026-03-03 21:00,2026-03-02,23:33:38
+-34.648600387,-58.778651086,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5546,171,2026-03-02 22:00,2026-03-02,23:33:38
+-34.648333449,-58.774006634,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5546,352,2026-03-02 22:00,2026-03-02,23:33:38
+-34.646884404,-58.780264342,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5546,183,2026-03-02 22:00,2026-03-02,23:33:38
+-34.650795036,-58.776513719,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5546,155,2026-03-02 22:00,2026-03-02,23:33:38
+-34.647170969,-58.776126821,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5546,259,2026-03-02 22:00,2026-03-02,23:33:38
+-34.5359,-58.8779,22,baja,Edenor,Pilar,Villa Rosa,,,4,,2026-03-02,23:33:38
+-34.5834,-58.5642,22,baja,Edenor,Gral San Martin,Villa Libertad,,,1,,2026-03-02,23:33:38
+-34.5134,-58.8105,22,baja,Edenor,Jose C Paz,Jose C Paz,,,64,,2026-03-02,23:33:38
+-34.4342,-58.7915,22,baja,Edenor,Pilar,Manuel Alberti,,,4,,2026-03-02,23:33:38
+-34.7203,-58.5425,22,baja,Edenor,La Matanza,Ciudad Evita,,,4,,2026-03-02,23:33:38
+-34.5466,-58.72,22,baja,Edenor,San Miguel,San Miguel,,,25,,2026-03-02,23:33:38
+-34.7002,-58.5559,22,baja,Edenor,La Matanza,San Justo,,,8,,2026-03-02,23:33:38
+-34.7206,-58.7868,22,baja,Edenor,Merlo,Mariano Acosta,,,11,,2026-03-02,23:33:38
+-34.5812,-58.455,22,baja,Edenor,Capital Federal,Colegiales,,,7,,2026-03-02,23:33:38
+-34.8443,-58.4884,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,9,,2026-03-02,23:33:38
+-34.6478,-58.4159,21,baja,Edesur,Capital,Nueva Pompeya,,,10,,2026-03-02,23:33:38
+-34.6327,-58.3961,21,baja,Edesur,Capital,Parque Patricios,,,7,,2026-03-02,23:33:38
+-34.6682,-58.4207,21,baja,Edesur,Lanus,Valentin Alsina,,,35,,2026-03-02,23:33:38
+-34.8919,-58.5692,21,baja,Edesur,Ezeiza,Tristan Suarez,,,4,,2026-03-02,23:33:38
+-34.6716,-58.4568,21,baja,Edesur,Capital,Capital,,,1,,2026-03-02,23:33:38
+-34.7555,-58.3331,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,15,,2026-03-02,23:33:38
+-34.6132,-58.5077,21,baja,Edesur,Capital,Capital,,,16,,2026-03-02,23:33:38
