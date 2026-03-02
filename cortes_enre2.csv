@@ -20493,3 +20493,43 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7675,-58.4333,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,2,,2026-03-02,14:03:01
 -34.6262,-58.4626,21,baja,Edesur,Capital,Flores,,,11,,2026-03-02,14:03:01
 -34.6174,-58.4386,21,baja,Edesur,Capital,Caballito,,,40,,2026-03-02,14:03:01
+-34.783269649,-58.464284932,11,media,Edesur,Esteban Echeverria,Luis Guillon,Santa Catalina,R:182-3-34/182-3-34,252,2026-03-02 12:43,2026-03-02,15:49:20
+-34.961813675,-58.607131808,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Spegazzini,R:270-2-23/270-2-23,3,2026-03-02 14:38,2026-03-02,15:49:20
+-34.976096202,-58.599115771,11,media,Edesur,Cañuelas,Zona Rural 8,Spegazzini,R:270-2-23/270-2-23,1,2026-03-02 14:38,2026-03-02,15:49:20
+-34.973993534,-58.601838321,11,media,Edesur,Cañuelas,Zona Rural 8,Spegazzini,R:270-2-23/270-2-23,1,2026-03-02 14:38,2026-03-02,15:49:20
+-34.454344998,-58.951293727,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,95,2026-03-02 13:20,2026-03-02,15:49:20
+-34.455090421,-58.953381975,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,60,2026-03-02 13:20,2026-03-02,15:49:20
+-34.456005698,-58.951952359,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,220,2026-03-02 13:20,2026-03-02,15:49:20
+-34.455005901,-58.949622612,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,87,2026-03-02 13:20,2026-03-02,15:49:20
+-34.458598851,-58.949597256,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,284,2026-03-02 13:20,2026-03-02,15:49:20
+-34.286030875,-58.647452348,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,8,2026-03-02 15:40,2026-03-02,15:49:20
+-34.279652899,-58.649720577,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,19,2026-03-02 15:40,2026-03-02,15:49:20
+-34.271975440,-58.653414997,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,13,2026-03-02 15:40,2026-03-02,15:49:20
+-34.276144712,-58.653553859,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,17,2026-03-02 15:40,2026-03-02,15:49:20
+-34.285277535,-58.650786473,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,7,2026-03-02 15:40,2026-03-02,15:49:20
+-34.459301828,-58.578378281,12,media,Edenor,San Fernando,San Fernando,S/D,R:San Fernando/351-Tr1/351-5513,199,Sin Datos,2026-03-02,15:49:20
+-34.459467797,-58.576273114,12,media,Edenor,San Fernando,San Fernando,S/D,R:San Fernando/351-Tr1/351-5513,237,Sin Datos,2026-03-02,15:49:20
+-34.459435266,-58.575360648,12,media,Edenor,San Fernando,San Fernando,S/D,R:San Fernando/351-Tr1/351-5513,2,Sin Datos,2026-03-02,15:49:20
+-34.483728513,-58.740220198,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguitas/252-Tr2/252-5524,81,2026-03-02 15:00,2026-03-02,15:49:20
+-34.702378595,-58.658777690,12,media,Edenor,Merlo,Libertad,S/D,R:Ituzaingo/264-Tr1/264-5516,193,Sin Datos,2026-03-02,15:49:20
+-34.699358664,-58.658812146,12,media,Edenor,Merlo,Libertad,S/D,R:Ituzaingo/264-Tr1/264-5516,280,Sin Datos,2026-03-02,15:49:20
+-34.695446166,-58.660726403,12,media,Edenor,Merlo,Libertad,S/D,R:Ituzaingo/264-Tr1/264-5516,336,Sin Datos,2026-03-02,15:49:20
+-34.701329201,-58.655923013,12,media,Edenor,Merlo,Libertad,S/D,R:Ituzaingo/264-Tr1/264-5516,1,Sin Datos,2026-03-02,15:49:20
+-34.701486208,-58.656324263,12,media,Edenor,Merlo,Libertad,S/D,R:Ituzaingo/264-Tr1/264-5516,152,Sin Datos,2026-03-02,15:49:20
+-34.693671967,-58.661560101,12,media,Edenor,Merlo,Libertad,S/D,R:Ituzaingo/264-Tr1/264-5516,373,Sin Datos,2026-03-02,15:49:20
+-34.701454878,-58.657688261,12,media,Edenor,Merlo,Libertad,S/D,R:Ituzaingo/264-Tr1/264-5516,226,Sin Datos,2026-03-02,15:49:20
+-34.511990632,-58.574107446,12,media,Edenor,San Isidro,Boulogne,S/D,R:J. L. Suarez/266-Tr1/266-5548,489,2026-03-02 16:00,2026-03-02,15:49:20
+-34.512050617,-58.570454573,12,media,Edenor,San Isidro,Boulogne,S/D,R:J. L. Suarez/266-Tr1/266-5548,400,2026-03-02 16:00,2026-03-02,15:49:20
+-34.510221763,-58.566804218,12,media,Edenor,San Isidro,Boulogne,S/D,R:J. L. Suarez/266-Tr1/266-5548,72,2026-03-02 16:00,2026-03-02,15:49:20
+-34.6338,-58.9284,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,2,,2026-03-02,15:49:20
+-34.3977,-58.6156,22,baja,Edenor,Tigre,Rincon De Milberg,,,2,,2026-03-02,15:49:20
+-34.6748,-58.6975,22,baja,Edenor,Merlo,San Antonio De Padua,,,23,,2026-03-02,15:49:20
+-34.5976,-58.7534,22,baja,Edenor,Moreno,Trujui,,,16,,2026-03-02,15:49:20
+-34.4853,-58.6534,22,baja,Edenor,Tigre,El Talar,,,1,,2026-03-02,15:49:20
+-34.6734,-58.7131,22,baja,Edenor,Merlo,San Antonio De Padua,,,6,,2026-03-02,15:49:20
+-34.7048,-58.6142,22,baja,Edenor,La Matanza,Rafael Castillo,,,8,,2026-03-02,15:49:20
+-34.6011,-58.3764,21,baja,Edesur,Capital,San Nicolas,,,55,,2026-03-02,15:49:20
+-34.6174,-58.4386,21,baja,Edesur,Capital,Caballito,,,53,,2026-03-02,15:49:20
+-34.606,-58.4447,21,baja,Edesur,Capital,Villa Crespo,,,1,,2026-03-02,15:49:20
+-34.6488,-58.3919,21,baja,Edesur,Capital,Barracas,,,4,,2026-03-02,15:49:20
+-34.7284,-58.377,21,baja,Edesur,Lanus,Remedios De Escalada,,,1,,2026-03-02,15:49:20
