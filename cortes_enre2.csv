@@ -21795,3 +21795,41 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6596,-58.4898,21,baja,Edesur,Capital,Mataderos,,,9,,2026-03-03,21:40:06
 -34.8183,-58.3891,21,baja,Edesur,Almirante Brown,Burzaco,,,1,,2026-03-03,21:40:06
 -34.7704,-58.25,21,baja,Edesur,Berazategui,Berazategui,,,4,,2026-03-03,21:40:06
+-34.927915845,-58.260370165,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-16/185-1-16,4,2026-03-03 23:35,2026-03-03,23:33:39
+-34.930638566,-58.256819935,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-16/185-1-16,2,2026-03-03 23:35,2026-03-03,23:33:39
+-34.931043354,-58.256288453,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-16/185-1-16,3,2026-03-03 23:35,2026-03-03,23:33:39
+-34.929786700,-58.258728218,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-16/185-1-16,5,2026-03-03 23:35,2026-03-03,23:33:39
+-34.926256398,-58.262491965,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-16/185-1-16,2,2026-03-03 23:35,2026-03-03,23:33:39
+-35.027875753,-58.362138069,11,media,Edesur,San Vicente,Domselaar,Canuelas,R:271-4-81/271-4-81,1,2026-03-03 21:38,2026-03-03,23:33:39
+-35.028363032,-58.360274919,11,media,Edesur,S/D,S/D,Canuelas,R:271-4-81/271-4-81,1,2026-03-03 21:38,2026-03-03,23:33:39
+-35.029366099,-58.376939031,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,2,2026-03-03 21:38,2026-03-03,23:33:39
+-35.038919893,-58.402694176,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,80,2026-03-03 21:38,2026-03-03,23:33:39
+-35.079052023,-58.573347319,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,6,2026-03-03 21:38,2026-03-03,23:33:39
+-35.039434440,-58.409946217,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,150,2026-03-03 21:38,2026-03-03,23:33:39
+-35.028061347,-58.364164316,11,media,Edesur,San Vicente,Domselaar,Canuelas,R:271-4-81/271-4-81,5,2026-03-03 21:38,2026-03-03,23:33:39
+-35.075019815,-58.544498312,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,2,2026-03-03 21:38,2026-03-03,23:33:39
+-35.033367849,-58.393060584,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,4,2026-03-03 21:38,2026-03-03,23:33:39
+-35.027899619,-58.347655359,11,media,Edesur,San Vicente,Domselaar,Canuelas,R:271-4-81/271-4-81,11,2026-03-03 21:38,2026-03-03,23:33:39
+-35.037124977,-58.399487041,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,91,2026-03-03 21:38,2026-03-03,23:33:39
+-35.040343751,-58.409118241,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,22,2026-03-03 21:38,2026-03-03,23:33:39
+-35.029471318,-58.358499813,11,media,Edesur,San Vicente,Domselaar,Canuelas,R:271-4-81/271-4-81,1,2026-03-03 21:38,2026-03-03,23:33:39
+-34.793243086,-58.223885347,11,media,Edesur,Berazategui,Sourigues,Ezpeleta,R:080-2-23/080-2-23,2,Sin Datos,2026-03-03,23:33:39
+-34.794209093,-58.225686497,11,media,Edesur,Berazategui,Sourigues,Ezpeleta,R:080-2-23/080-2-23,374,Sin Datos,2026-03-03,23:33:39
+-34.620456095,-58.502499423,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-22/038-2-22,423,Sin Datos,2026-03-03,23:33:39
+-34.749601208,-58.617450209,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5528,138,2026-03-03 21:00,2026-03-03,23:33:39
+-34.702378595,-58.658777690,12,media,Edenor,Merlo,Libertad,S/D,R:Ituzaingo/264-Tr2/264-5527,193,Sin Datos,2026-03-03,23:33:39
+-34.454229186,-58.528005409,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr2/53-5532,178,2026-03-03 20:40,2026-03-03,23:33:39
+-34.5659,-58.5541,22,baja,Edenor,Gral San Martin,Juan Gregorio Las Heras,,,3,,2026-03-03,23:33:39
+-34.5873,-58.4792,22,baja,Edenor,Capital Federal,Agronomia,,,4,,2026-03-03,23:33:39
+-34.6824,-58.8181,22,baja,Edenor,Moreno,Moreno,,,6,,2026-03-03,23:33:39
+-34.7256,-58.2588,21,baja,Edesur,Quilmes,Quilmes,,,5,,2026-03-03,23:33:39
+-34.6327,-58.4542,21,baja,Edesur,Capital,Flores,,,28,,2026-03-03,23:33:39
+-34.6165,-58.3919,21,baja,Edesur,Capital,Monserrat,,,42,,2026-03-03,23:33:39
+-34.7613,-58.2273,21,baja,Edesur,Berazategui,Berazategui,,,6,,2026-03-03,23:33:39
+-34.6457,-58.4099,21,baja,Edesur,Capital,Parque Patricios,,,21,,2026-03-03,23:33:39
+-34.6403,-58.3659,21,baja,Edesur,Capital,La Boca,,,2,,2026-03-03,23:33:39
+-34.6596,-58.4898,21,baja,Edesur,Capital,Mataderos,,,16,,2026-03-03,23:33:39
+-34.8183,-58.3891,21,baja,Edesur,Almirante Brown,Burzaco,,,1,,2026-03-03,23:33:39
+-34.7699,-58.2492,21,baja,Edesur,Berazategui,Berazategui,,,11,,2026-03-03,23:33:39
+-34.7879,-58.3216,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,6,,2026-03-03,23:33:39
+-34.8267,-58.3759,21,baja,Edesur,Almirante Brown,Burzaco,,,13,,2026-03-03,23:33:39
