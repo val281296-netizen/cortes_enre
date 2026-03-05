@@ -22849,3 +22849,34 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7364,-58.5088,21,baja,Edesur,Esteban Echeverria,9 De Abril,,,5,,2026-03-05,15:55:58
 -34.726,-58.2591,21,baja,Edesur,Quilmes,Quilmes,,,3,,2026-03-05,15:55:58
 -34.6694,-58.4009,21,baja,Edesur,Lanus,Valentin Alsina,,,13,,2026-03-05,15:55:58
+-34.687924275,-58.480822194,11,media,Edesur,Capital Gp,Villa Riachuelo,Autodromo,R:042-1-15/042-1-15,635,2026-03-05 19:28,2026-03-05,18:48:59
+-34.788701220,-58.223658562,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-23/080-2-23/080-5-51,830,2026-03-05 18:00,2026-03-05,18:48:59
+-34.782095978,-58.224529863,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-23/080-2-23/080-5-51,67,2026-03-05 18:00,2026-03-05,18:48:59
+-34.784480451,-58.226286120,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-23/080-2-23/080-5-51,648,2026-03-05 18:00,2026-03-05,18:48:59
+-34.784461124,-58.222460015,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-23/080-2-23/080-5-51,338,2026-03-05 18:00,2026-03-05,18:48:59
+-35.047398953,-58.747800810,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-11/271-1-11,328,2026-03-05 16:00,2026-03-05,18:48:59
+-35.045071605,-58.750961497,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-11/271-1-11,219,2026-03-05 16:00,2026-03-05,18:48:59
+-35.050189628,-58.750158872,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-11/271-1-11,231,2026-03-05 16:00,2026-03-05,18:48:59
+-35.046858990,-58.752550237,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-11/271-1-11,4,2026-03-05 16:00,2026-03-05,18:48:59
+-35.031722704,-58.418520426,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-01/956-1-01,87,2026-03-05 19:00,2026-03-05,18:48:59
+-35.031407405,-58.421360330,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-01/956-1-01,204,2026-03-05 19:00,2026-03-05,18:48:59
+-35.028655271,-58.416709208,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-01/956-1-01,187,2026-03-05 19:00,2026-03-05,18:48:59
+-35.030298781,-58.419771688,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-01/956-1-01,214,2026-03-05 19:00,2026-03-05,18:48:59
+-34.657715357,-58.491516482,11,media,Edesur,Capital Gp,Mataderos,Perito Moreno,R:048-2-22/048-2-22,1,2026-03-05 16:22,2026-03-05,18:48:59
+-34.658248355,-58.491881464,11,media,Edesur,Capital Gp,Mataderos,Perito Moreno,R:048-2-22/048-2-22,233,2026-03-05 16:22,2026-03-05,18:48:59
+-34.658313728,-58.488920916,11,media,Edesur,Capital Gp,Mataderos,Liniers,R:043-2-28/043-2-28,270,2026-03-09 23:00,2026-03-05,18:48:59
+-34.410347023,-58.512972390,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Victoria/53-Tr2/53-5533,1,Sin Datos,2026-03-05,18:48:59
+-34.397689549,-58.520940828,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Victoria/53-Tr2/53-5533,1,Sin Datos,2026-03-05,18:48:59
+-34.515613819,-58.818474193,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr1/254-5544,54,Sin Datos,2026-03-05,18:48:59
+-34.594831256,-58.409751656,12,media,Edenor,Capital Federal,Recoleta,S/D,R:Austria/133-Tr2/133-5526,744,Sin Datos,2026-03-05,18:48:59
+-34.444660607,-58.782221472,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Del Viso/251-Tr1/251-5548,11,Sin Datos,2026-03-05,18:48:59
+-34.696,-58.6534,22,baja,Edenor,Moron,Castelar,,,19,,2026-03-05,18:48:59
+-34.5856,-58.4166,22,baja,Edenor,Capital Federal,Palermo,,,25,,2026-03-05,18:48:59
+-34.4407,-58.8114,22,baja,Edenor,Pilar,Del Viso,,,11,,2026-03-05,18:48:59
+-34.6743,-58.7253,22,baja,Edenor,Merlo,Merlo,,,37,,2026-03-05,18:48:59
+-34.7904,-58.2186,21,baja,Edesur,Berazategui,Sourigues,,,96,,2026-03-05,18:48:59
+-34.9058,-58.2785,21,baja,Edesur,Florencio Varela,Florencio Varela,,,7,,2026-03-05,18:48:59
+-34.6544,-58.5087,21,baja,Edesur,Capital,Mataderos,,,5,,2026-03-05,18:48:59
+-34.7364,-58.5088,21,baja,Edesur,Esteban Echeverria,9 De Abril,,,7,,2026-03-05,18:48:59
+-34.726,-58.2591,21,baja,Edesur,Quilmes,Quilmes,,,3,,2026-03-05,18:48:59
+-34.6694,-58.4009,21,baja,Edesur,Lanus,Valentin Alsina,,,18,,2026-03-05,18:48:59
