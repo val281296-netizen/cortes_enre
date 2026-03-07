@@ -23632,3 +23632,49 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6478,-58.5382,22,baja,Edenor,3 De Febrero,Ciudadela,,,4,,2026-03-07,09:35:53
 -34.6543,-58.3827,21,baja,Edesur,Capital,Barracas,,,7,,2026-03-07,09:35:53
 -34.6035,-58.4169,21,baja,Edesur,Capital,Almagro,,,4,,2026-03-07,09:35:53
+-34.644950623,-58.464391731,11,media,Edesur,Capital Gp,Flores Gp,Perito Moreno,R:048-3-37/048-3-37,259,Sin Datos,2026-03-07,11:26:31
+-34.725185160,-58.441272002,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-1-12/076-1-12/281-3-36,567,2026-03-07 08:44,2026-03-07,11:26:31
+-34.664761863,-58.416088445,11,media,Edesur,Lanus,Valentin Alsina,Pineyro,R:079-5-57/079-5-57,239,Sin Datos,2026-03-07,11:26:31
+-34.662351417,-58.417993913,11,media,Edesur,Lanus,Valentin Alsina,Pineyro,R:079-5-57/079-5-57,23,Sin Datos,2026-03-07,11:26:31
+-34.662350461,-58.417974491,11,media,Edesur,Lanus,Valentin Alsina,Pineyro,R:079-5-57/079-5-57,125,Sin Datos,2026-03-07,11:26:31
+-34.665067282,-58.412025976,11,media,Edesur,Lanus,Valentin Alsina,Pineyro,R:079-5-57/079-5-57,283,Sin Datos,2026-03-07,11:26:31
+-34.660312038,-58.416145758,11,media,Edesur,Lanus,Valentin Alsina,Pineyro,R:079-5-57/079-5-57,6,Sin Datos,2026-03-07,11:26:31
+-34.663642602,-58.413815723,11,media,Edesur,Lanus,Valentin Alsina,Pineyro,R:079-5-57/079-5-57,86,Sin Datos,2026-03-07,11:26:31
+-34.663060220,-58.406433633,11,media,Edesur,Lanus,Valentin Alsina,Pineyro,R:079-5-57/079-5-57,644,Sin Datos,2026-03-07,11:26:31
+-34.662650567,-58.416059816,11,media,Edesur,Lanus,Valentin Alsina,Pineyro,R:079-5-57/079-5-57,150,Sin Datos,2026-03-07,11:26:31
+-34.370768643,-58.627841418,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,Sin Datos,2026-03-07,11:26:31
+-34.360568663,-58.631043234,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,12,Sin Datos,2026-03-07,11:26:31
+-34.358305689,-58.634075714,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,11,Sin Datos,2026-03-07,11:26:31
+-34.381974539,-58.621392128,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,25,Sin Datos,2026-03-07,11:26:31
+-34.377158315,-58.626854216,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,57,Sin Datos,2026-03-07,11:26:31
+-34.368410432,-58.630318623,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,35,Sin Datos,2026-03-07,11:26:31
+-34.376718717,-58.618834979,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,Sin Datos,2026-03-07,11:26:31
+-34.376585259,-58.616992258,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,10,Sin Datos,2026-03-07,11:26:31
+-34.377402213,-58.622048485,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,Sin Datos,2026-03-07,11:26:31
+-34.381010417,-58.619447175,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,13,Sin Datos,2026-03-07,11:26:31
+-34.367052265,-58.627713840,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,11,Sin Datos,2026-03-07,11:26:31
+-34.357097864,-58.632621917,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,50,Sin Datos,2026-03-07,11:26:31
+-34.405293623,-58.828383262,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,18,2026-03-07 12:00,2026-03-07,11:26:31
+-34.403089266,-58.828479293,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,48,2026-03-07 12:00,2026-03-07,11:26:31
+-34.410620609,-58.823951150,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,60,2026-03-07 12:00,2026-03-07,11:26:31
+-34.407425501,-58.827811090,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,73,2026-03-07 12:00,2026-03-07,11:26:31
+-34.409341242,-58.828544761,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,95,2026-03-07 12:00,2026-03-07,11:26:31
+-34.414312455,-58.826380816,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,107,2026-03-07 12:00,2026-03-07,11:26:31
+-34.406599268,-58.833215982,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,81,2026-03-07 12:00,2026-03-07,11:26:31
+-34.406044690,-58.837096167,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,66,2026-03-07 12:00,2026-03-07,11:26:31
+-34.412216585,-58.831312987,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,76,2026-03-07 12:00,2026-03-07,11:26:31
+-34.399056111,-58.831551726,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,16,2026-03-07 12:00,2026-03-07,11:26:31
+-34.414175532,-58.820036371,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,3,2026-03-07 12:00,2026-03-07,11:26:31
+-34.414893804,-58.815722038,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,1,2026-03-07 12:00,2026-03-07,11:26:31
+-34.393281096,-58.835943055,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,4,2026-03-07 12:00,2026-03-07,11:26:31
+-34.402137526,-58.829167313,12,media,Edenor,Escobar,Garin,S/D,R:Matheu/51-Tr1/51-5514,95,2026-03-07 12:00,2026-03-07,11:26:31
+-34.401006077,-58.827179427,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,42,2026-03-07 12:00,2026-03-07,11:26:31
+-34.402413361,-58.824486747,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Matheu/51-Tr1/51-5514,53,2026-03-07 12:00,2026-03-07,11:26:31
+-34.404830956,-58.824649943,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,26,2026-03-07 12:00,2026-03-07,11:26:31
+-34.408191410,-58.820518665,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Matheu/51-Tr1/51-5514,105,2026-03-07 12:00,2026-03-07,11:26:31
+-34.407976163,-58.822584601,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,44,2026-03-07 12:00,2026-03-07,11:26:31
+-34.412460539,-58.820558559,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,81,2026-03-07 12:00,2026-03-07,11:26:31
+-34.407678367,-58.824905028,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,91,2026-03-07 12:00,2026-03-07,11:26:31
+-34.7774,-58.8347,22,baja,Edenor,Marcos Paz,Marcos Paz,,,102,,2026-03-07,11:26:31
+-34.6543,-58.3827,21,baja,Edesur,Capital,Barracas,,,7,,2026-03-07,11:26:31
+-34.6035,-58.4169,21,baja,Edesur,Capital,Almagro,,,4,,2026-03-07,11:26:31
