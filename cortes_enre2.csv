@@ -28157,3 +28157,53 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5921,-58.5181,21,baja,Edesur,Capital,Villa Devoto,,,6,,2026-03-10,14:03:23
 -34.6417,-58.4752,21,baja,Edesur,Capital,Capital,,,9,,2026-03-10,14:03:23
 -34.6674,-58.3819,21,baja,Edesur,Avellaneda,Avellaneda,,,13,,2026-03-10,14:03:23
+-34.812648883,-58.471578664,11,media,Edesur,Esteban Echeverria,Monte Grande,Santa Catalina,R:182-1-11/182-1-11,471,Sin Datos,2026-03-10,16:05:15
+-34.933795249,-58.626826578,11,media,Edesur,Cañuelas,Maximo Paz,Spegazzini,R:270-2-23/270-2-23,7,2026-03-10 12:58,2026-03-10,16:05:15
+-34.931651205,-58.628469209,11,media,Edesur,Cañuelas,Maximo Paz,Spegazzini,R:270-2-23/270-2-23,2,2026-03-10 12:58,2026-03-10,16:05:15
+-34.936607945,-58.624662289,11,media,Edesur,Cañuelas,Maximo Paz,Spegazzini,R:270-2-23/270-2-23,34,2026-03-10 12:58,2026-03-10,16:05:15
+-34.931704290,-58.624479098,11,media,Edesur,Cañuelas,Maximo Paz,Spegazzini,R:270-2-23/270-2-23,5,2026-03-10 12:58,2026-03-10,16:05:15
+-34.930300639,-58.623665027,11,media,Edesur,Cañuelas,Maximo Paz,Spegazzini,R:270-2-23/270-2-23,1,2026-03-10 12:58,2026-03-10,16:05:15
+-34.932376649,-58.619382537,11,media,Edesur,Cañuelas,Maximo Paz,Spegazzini,R:270-2-23/270-2-23,208,2026-03-10 12:58,2026-03-10,16:05:15
+-34.937553283,-58.622757731,11,media,Edesur,Cañuelas,Maximo Paz,Spegazzini,R:270-2-23/270-2-23,2,2026-03-10 12:58,2026-03-10,16:05:15
+-34.932187232,-58.628040854,11,media,Edesur,Cañuelas,Maximo Paz,Spegazzini,R:270-2-23/270-2-23,1,2026-03-10 12:58,2026-03-10,16:05:15
+-34.976519466,-58.373897661,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,338,2026-03-10 13:15,2026-03-10,16:05:15
+-34.977743785,-58.373772207,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,54,2026-03-10 13:15,2026-03-10,16:05:15
+-34.764830574,-58.402906977,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Temperley,R:084-2-27/084-2-27,145,2026-03-10 13:47,2026-03-10,16:05:15
+-34.762616445,-58.402721105,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Temperley,R:084-2-27/084-2-27,189,2026-03-10 13:47,2026-03-10,16:05:15
+-34.745808416,-58.644403850,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Pantanosa/365-Tr2/365-5522,104,2026-03-10 15:30,2026-03-10,16:05:15
+-34.624376092,-59.061883108,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,1,2026-03-10 14:00,2026-03-10,16:05:15
+-34.624255930,-59.044691349,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,5,2026-03-10 14:00,2026-03-10,16:05:15
+-34.630077796,-59.078580790,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,1,2026-03-10 14:00,2026-03-10,16:05:15
+-34.643142171,-59.057044019,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,1,2026-03-10 14:00,2026-03-10,16:05:15
+-34.629726072,-59.067359879,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,5,2026-03-10 14:00,2026-03-10,16:05:15
+-34.614023962,-59.055241911,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,89,2026-03-10 14:00,2026-03-10,16:05:15
+-34.614422192,-59.049313194,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,90,2026-03-10 14:00,2026-03-10,16:05:15
+-34.617835277,-59.046613146,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,30,2026-03-10 14:00,2026-03-10,16:05:15
+-34.639524975,-59.096297296,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,4,2026-03-10 14:00,2026-03-10,16:05:15
+-34.817989219,-58.861810573,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5523,20,2026-03-10 13:00,2026-03-10,16:05:15
+-34.811986014,-58.865770432,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5523,64,2026-03-10 13:00,2026-03-10,16:05:15
+-34.810906499,-58.860614343,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5523,125,2026-03-10 13:00,2026-03-10,16:05:15
+-34.815799668,-58.860966434,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5523,27,2026-03-10 13:00,2026-03-10,16:05:15
+-34.808605833,-58.870132000,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5523,82,2026-03-10 13:00,2026-03-10,16:05:15
+-34.119817098,-58.515020296,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-03-10,16:05:15
+-34.118149049,-58.513367144,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-03-10,16:05:15
+-34.114398145,-58.511368739,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-03-10,16:05:15
+-34.087946385,-58.503584710,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,5,Sin Datos,2026-03-10,16:05:15
+-34.100640280,-58.499936136,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,5,Sin Datos,2026-03-10,16:05:15
+-34.096649781,-58.496641573,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-03-10,16:05:15
+-34.107431389,-58.505259718,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-03-10,16:05:15
+-34.124162619,-58.518863930,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-03-10,16:05:15
+-34.091987852,-58.493641356,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-03-10,16:05:15
+-34.094399621,-58.494836576,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-03-10,16:05:15
+-34.484870545,-58.857428344,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5518,78,Sin Datos,2026-03-10,16:05:15
+-34.483699975,-58.867573133,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5518,31,Sin Datos,2026-03-10,16:05:15
+-34.482715506,-58.858080980,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5518,1,Sin Datos,2026-03-10,16:05:15
+-34.6505,-58.603,22,baja,Edenor,Moron,Haedo,,,12,,2026-03-10,16:05:15
+-34.6217,-58.5442,22,baja,Edenor,3 De Febrero,Ciudadela,,,25,,2026-03-10,16:05:15
+-34.6226,-58.543,22,baja,Edenor,3 De Febrero,Ciudadela,,,4,,2026-03-10,16:05:15
+-34.4889,-58.8776,22,baja,Edenor,Pilar,Villa Astolfi,,,4,,2026-03-10,16:05:15
+-34.6153,-58.4524,21,baja,Edesur,Capital,Caballito,,,17,,2026-03-10,16:05:15
+-34.69,-58.4269,21,baja,Edesur,Lanus,Lanus,,,26,,2026-03-10,16:05:15
+-34.6417,-58.4752,21,baja,Edesur,Capital,Capital,,,9,,2026-03-10,16:05:15
+-34.6674,-58.3819,21,baja,Edesur,Avellaneda,Avellaneda,,,15,,2026-03-10,16:05:15
+-34.686,-58.343,21,baja,Edesur,Avellaneda,Sarandi,,,3,,2026-03-10,16:05:15
