@@ -28794,3 +28794,48 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6778,-58.4951,21,baja,Edesur,Capital,Villa Lugano,,,11,,2026-03-12,14:05:22
 -34.6209,-58.3689,21,baja,Edesur,Capital,San Telmo,,,10,,2026-03-12,14:05:22
 -34.7088,-58.412,21,baja,Edesur,Lanus,Lanus,,,10,,2026-03-12,14:05:22
+-34.961276869,-58.389835454,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,4,2026-03-12 13:02,2026-03-12,16:04:58
+-34.963418445,-58.384053721,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,84,2026-03-12 13:02,2026-03-12,16:04:58
+-34.969288367,-58.382871274,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,186,2026-03-12 13:02,2026-03-12,16:04:58
+-34.970494556,-58.385181478,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,223,2026-03-12 13:02,2026-03-12,16:04:58
+-34.964759275,-58.389700274,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,71,2026-03-12 13:02,2026-03-12,16:04:58
+-34.961628988,-58.392307022,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,24,2026-03-12 13:02,2026-03-12,16:04:58
+-34.961743055,-58.385521338,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,214,2026-03-12 13:02,2026-03-12,16:04:58
+-34.967009758,-58.381422562,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,12,2026-03-12 13:02,2026-03-12,16:04:58
+-34.968851706,-58.381842269,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,7,2026-03-12 13:02,2026-03-12,16:04:58
+-34.963954605,-58.386298432,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,17,2026-03-12 13:02,2026-03-12,16:04:58
+-34.958802433,-58.387672949,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-4-48/277-4-48,77,2026-03-12 13:07,2026-03-12,16:04:58
+-34.775212088,-58.205312184,11,media,Edesur,Berazategui,V. España,Rigolleau,R:179-2-23/179-2-23,549,2026-03-12 15:00,2026-03-12,16:04:58
+-34.771859115,-58.205252317,11,media,Edesur,Berazategui,Berazategui Centro,Rigolleau,R:179-2-23/179-2-23,256,2026-03-12 15:00,2026-03-12,16:04:58
+-34.773443826,-58.208325869,11,media,Edesur,Berazategui,Berazategui Centro,Rigolleau,R:179-2-23/179-2-23,616,2026-03-12 15:00,2026-03-12,16:04:58
+-35.002345393,-58.382489921,11,media,Edesur,San Vicente,Alejandro Korn,S/D,R:956-1-03/956-1-03,142,2026-03-12 13:51,2026-03-12,16:04:58
+-35.001788287,-58.380023699,11,media,Edesur,San Vicente,Alejandro Korn,S/D,R:956-1-03/956-1-03,212,2026-03-12 13:51,2026-03-12,16:04:58
+-34.999217268,-58.385034593,11,media,Edesur,San Vicente,Alejandro Korn,S/D,R:956-1-03/956-1-03,181,2026-03-12 13:51,2026-03-12,16:04:58
+-34.888802496,-58.965317966,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2026-03-12 13:00,2026-03-12,16:04:58
+-34.658351794,-58.828880952,12,media,Edenor,Moreno,La Reja,S/D,R:Paso Del Rey/258-Tr1/258-5516,56,2026-03-12 15:00,2026-03-12,16:04:58
+-34.655267807,-58.828377459,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5516,92,2026-03-12 15:00,2026-03-12,16:04:58
+-34.661317943,-58.830047300,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5516,194,2026-03-12 15:00,2026-03-12,16:04:58
+-34.659575167,-58.824616728,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5516,45,2026-03-12 15:00,2026-03-12,16:04:58
+-34.326877078,-58.768671623,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr3/154-5472/253-5514,36,2026-03-12 17:40,2026-03-12,16:04:58
+-34.371106573,-58.731758375,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5526,46,Sin Datos,2026-03-12,16:04:58
+-34.369322040,-58.732931789,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5526,115,Sin Datos,2026-03-12,16:04:58
+-34.742204239,-58.628876884,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Pantanosa/365-Tr1/365-5518,60,2026-03-12 15:30,2026-03-12,16:04:58
+-34.538477970,-58.882505422,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,18,2026-03-12 16:20,2026-03-12,16:04:58
+-34.535516803,-58.876352400,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,4,2026-03-12 16:20,2026-03-12,16:04:58
+-34.496558431,-58.632754949,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr1/157-5544,334,Sin Datos,2026-03-12,16:04:58
+-34.651853226,-58.687783278,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5516,317,2026-03-12 13:00,2026-03-12,16:04:58
+-34.434361570,-58.756799610,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Derqui/260-Tr1/260-5515,45,2026-03-12 16:00,2026-03-12,16:04:58
+-34.900314171,-58.801968167,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr2/353-5526,2,2026-03-12 14:00,2026-03-12,16:04:58
+-34.912684662,-58.811754857,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr2/353-5526,1,2026-03-12 14:00,2026-03-12,16:04:58
+-34.915527134,-58.816527527,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr2/353-5526,1,2026-03-12 14:00,2026-03-12,16:04:58
+-34.902804892,-58.824506716,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr2/353-5526,1,2026-03-12 14:00,2026-03-12,16:04:58
+-34.3847,-58.7419,22,baja,Edenor,Escobar,Ingeniero Maschwitz,,,14,,2026-03-12,16:04:58
+-34.5508,-58.9372,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,16,,2026-03-12,16:04:58
+-34.6371,-58.5899,22,baja,Edenor,Moron,El Palomar,,,32,,2026-03-12,16:04:58
+-34.8499,-58.5274,21,baja,Edesur,Ezeiza,Jose Maria Ezeiza,,,23,,2026-03-12,16:04:58
+-34.6162,-58.5158,21,baja,Edesur,Capital,Villa Devoto,,,9,,2026-03-12,16:04:58
+-34.6071,-58.5156,21,baja,Edesur,Capital,Villa Devoto,,,25,,2026-03-12,16:04:58
+-34.6285,-58.4847,21,baja,Edesur,Capital,Capital,,,25,,2026-03-12,16:04:58
+-34.7088,-58.412,21,baja,Edesur,Lanus,Lanus,,,15,,2026-03-12,16:04:58
+-34.6474,-58.5182,21,baja,Edesur,Capital,Liniers,,,5,,2026-03-12,16:04:58
+-34.7554,-58.2898,21,baja,Edesur,Quilmes,Quilmes,,,18,,2026-03-12,16:04:58
