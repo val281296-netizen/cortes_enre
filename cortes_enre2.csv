@@ -29068,3 +29068,44 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8262,-58.4431,21,baja,Edesur,Almirante Brown,Adrogue,,,7,,2026-03-13,14:02:42
 -34.9802,-58.3816,21,baja,Edesur,San Vicente,Domselaar,,,37,,2026-03-13,14:02:42
 -34.6064,-58.465,21,baja,Edesur,Capital,Capital,,,8,,2026-03-13,14:02:42
+-34.641042990,-58.474259214,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-3-38/048-3-38,1181,2026-03-13 12:43,2026-03-13,15:51:05
+-35.083599574,-58.295288632,11,media,Edesur,San Vicente,Domselaar,S/D,R:956-1-07/956-1-07,1,2026-03-13 16:00,2026-03-13,15:51:05
+-35.081252340,-58.358660479,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-07/956-1-07,1,2026-03-13 16:00,2026-03-13,15:51:05
+-35.079464778,-58.295936188,11,media,Edesur,San Vicente,Domselaar,S/D,R:956-1-07/956-1-07,1,2026-03-13 16:00,2026-03-13,15:51:05
+-35.094124096,-58.310252205,11,media,Edesur,San Vicente,Domselaar,S/D,R:956-1-07/956-1-07,2,2026-03-13 16:00,2026-03-13,15:51:05
+-35.100362382,-58.332637447,11,media,Edesur,San Vicente,Domselaar,S/D,R:956-1-07/956-1-07,1,2026-03-13 16:00,2026-03-13,15:51:05
+-35.112586490,-58.324879943,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-07/956-1-07,1,2026-03-13 16:00,2026-03-13,15:51:05
+-35.123031516,-58.338262324,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-07/956-1-07,1,2026-03-13 16:00,2026-03-13,15:51:05
+-35.076837864,-58.295955626,11,media,Edesur,San Vicente,Domselaar,S/D,R:956-1-07/956-1-07,1,2026-03-13 16:00,2026-03-13,15:51:05
+-35.075044822,-58.295965964,11,media,Edesur,San Vicente,Domselaar,S/D,R:956-1-07/956-1-07,1,2026-03-13 16:00,2026-03-13,15:51:05
+-35.116464707,-58.329486853,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-07/956-1-07,2,2026-03-13 16:00,2026-03-13,15:51:05
+-34.788291043,-58.391469190,11,media,Edesur,Lomas De Zamora,Temperley,Santa Catalina,R:182-2-21/182-2-21,271,2026-03-13 16:00,2026-03-13,15:51:05
+-34.790079522,-58.394780856,11,media,Edesur,Lomas De Zamora,Temperley,Santa Catalina,R:182-2-21/182-2-21,71,2026-03-13 16:00,2026-03-13,15:51:05
+-34.663537082,-58.512965605,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,162,2026-03-13 15:00,2026-03-13,15:51:05
+-34.791107702,-59.004032300,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,2,2026-03-13 15:00,2026-03-13,15:51:05
+-34.788968456,-58.992745772,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,1,2026-03-13 15:00,2026-03-13,15:51:05
+-34.602091345,-58.625140576,12,media,Edenor,Hurlingham,Hurlingham,S/D,R:Hurlingham/166-Tr3/166-5532,35,2026-03-13 13:00,2026-03-13,15:51:05
+-34.527781428,-58.823011791,12,media,Edenor,Moreno,Cuartel V,S/D,R:Jose C. Paz/254-Tr2/254-5524,202,2026-03-13 13:00,2026-03-13,15:51:05
+-34.528852079,-58.824561402,12,media,Edenor,Moreno,Cuartel V,S/D,R:Jose C. Paz/254-Tr2/254-5524,8,2026-03-13 13:00,2026-03-13,15:51:05
+-34.527469674,-58.826061857,12,media,Edenor,Moreno,Cuartel V,S/D,R:Jose C. Paz/254-Tr2/254-5524,6,2026-03-13 13:00,2026-03-13,15:51:05
+-34.525780245,-58.827913886,12,media,Edenor,Moreno,Cuartel V,S/D,R:Jose C. Paz/254-Tr2/254-5524,2,2026-03-13 13:00,2026-03-13,15:51:05
+-34.427115678,-58.998255189,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr2/158-5527,1,Sin Datos,2026-03-13,15:51:05
+-34.482243325,-58.588474291,12,media,Edenor,San Fernando,Victoria,S/D,R:Boulogne/56-Tr1/56-5513,89,2026-03-13 15:00,2026-03-13,15:51:05
+-34.483002441,-58.589402661,12,media,Edenor,San Fernando,Victoria,S/D,R:Boulogne/56-Tr1/56-5513,302,2026-03-13 15:00,2026-03-13,15:51:05
+-34.483315261,-58.589512912,12,media,Edenor,San Fernando,Victoria,S/D,R:Boulogne/56-Tr1/56-5513,43,2026-03-13 15:00,2026-03-13,15:51:05
+-34.484997894,-58.591511179,12,media,Edenor,San Fernando,Victoria,S/D,R:Boulogne/56-Tr1/56-5513,8,2026-03-13 15:00,2026-03-13,15:51:05
+-34.484401917,-58.587530040,12,media,Edenor,San Fernando,Victoria,S/D,R:Boulogne/56-Tr1/56-5513,1,2026-03-13 15:00,2026-03-13,15:51:05
+-34.484770908,-58.589670835,12,media,Edenor,San Fernando,Victoria,S/D,R:Boulogne/56-Tr1/56-5513,202,2026-03-13 15:00,2026-03-13,15:51:05
+-34.484245363,-58.590829540,12,media,Edenor,San Fernando,Victoria,S/D,R:Boulogne/56-Tr1/56-5513,1,2026-03-13 15:00,2026-03-13,15:51:05
+-34.8988,-58.6878,22,baja,Edenor,La Matanza,Virrey Del Pino,,,22,,2026-03-13,15:51:05
+-34.6515,-58.5512,22,baja,Edenor,La Matanza,Ramos Mejia,,,4,,2026-03-13,15:51:05
+-34.6965,-58.4847,22,baja,Edenor,La Matanza,Villa Madero,,,36,,2026-03-13,15:51:05
+-34.694,-58.6376,22,baja,Edenor,Moron,Moron,,,25,,2026-03-13,15:51:05
+-34.6173,-58.3736,21,baja,Edesur,Capital,San Telmo,,,44,,2026-03-13,15:51:05
+-34.6322,-58.5189,21,baja,Edesur,Capital,Versalles,,,16,,2026-03-13,15:51:05
+-34.6078,-58.3968,21,baja,Edesur,Capital,Balvanera,,,30,,2026-03-13,15:51:05
+-34.6497,-58.3926,21,baja,Edesur,Capital,Barracas,,,9,,2026-03-13,15:51:05
+-34.8095,-58.3888,21,baja,Edesur,Almirante Brown,Adrogue,,,6,,2026-03-13,15:51:05
+-34.6064,-58.465,21,baja,Edesur,Capital,Capital,,,8,,2026-03-13,15:51:05
+-34.7865,-58.3925,21,baja,Edesur,Lomas De Zamora,Temperley,,,17,,2026-03-13,15:51:05
+-34.6273,-58.4329,21,baja,Edesur,Capital,Caballito,,,5,,2026-03-13,15:51:05
