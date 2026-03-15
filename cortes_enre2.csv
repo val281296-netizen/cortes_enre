@@ -29804,3 +29804,60 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6036,-58.9561,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,4,,2026-03-15,09:41:19
 -34.7578,-58.3495,21,baja,Edesur,Lomas De Zamora,Temperley,,,67,,2026-03-15,09:41:19
 -34.6112,-58.5011,21,baja,Edesur,Capital,Monte Castro,,,8,,2026-03-15,09:41:19
+-34.790079522,-58.394780856,11,media,Edesur,Lomas De Zamora,Temperley,Santa Catalina,R:182-2-21/182-2-21,71,Sin Datos,2026-03-15,11:32:21
+-34.625660221,-58.456925381,11,media,Edesur,Capital Rp,Flores Rp,Alberdi,R:218-2-22/218-2-22,8,2026-03-15 08:36,2026-03-15,11:32:21
+-34.599020250,-58.444511238,11,media,Edesur,Capital Gp,Villa Crespo,Villa Crespo,R:147-1-17/147-1-17,689,2026-03-15 15:46,2026-03-15,11:32:21
+-34.596866655,-58.443936378,11,media,Edesur,Capital Gp,Villa Crespo,Villa Crespo,R:147-1-17/147-1-17,1,2026-03-15 15:46,2026-03-15,11:32:21
+-34.596880871,-58.443920489,11,media,Edesur,Capital Gp,Villa Crespo,Villa Crespo,R:147-1-17/147-1-17,33,2026-03-15 15:46,2026-03-15,11:32:21
+-34.600987419,-58.444080117,11,media,Edesur,Capital Gp,Villa Crespo,Villa Crespo,R:147-1-17/147-1-17,175,2026-03-15 15:46,2026-03-15,11:32:21
+-34.599302002,-58.443983104,11,media,Edesur,Capital Gp,Villa Crespo,Villa Crespo,R:147-1-17/147-1-17,651,2026-03-15 15:46,2026-03-15,11:32:21
+-34.598646821,-58.445247395,11,media,Edesur,Capital Gp,Villa Crespo,Villa Crespo,R:147-1-17/147-1-17,111,2026-03-15 15:46,2026-03-15,11:32:21
+-34.597260812,-58.445441538,11,media,Edesur,Capital Gp,Villa Crespo,Villa Crespo,R:147-1-17/147-1-17,161,2026-03-15 15:46,2026-03-15,11:32:21
+-34.597439101,-58.444638918,11,media,Edesur,Capital Gp,Villa Crespo,Villa Crespo,R:147-1-17/147-1-17,81,2026-03-15 15:46,2026-03-15,11:32:21
+-34.905397175,-58.571321374,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,381,2026-03-15 12:58,2026-03-15,11:32:21
+-34.902779110,-58.513095853,11,media,Edesur,Ezeiza,Canning Ez,Spegazzini,R:270-2-24/270-2-24,65,2026-03-15 12:58,2026-03-15,11:32:21
+-34.913096944,-58.550212065,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,15,2026-03-15 12:58,2026-03-15,11:32:21
+-34.915216258,-58.542680860,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,1,2026-03-15 12:58,2026-03-15,11:32:21
+-34.905624881,-58.565964432,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,300,2026-03-15 12:58,2026-03-15,11:32:21
+-34.909380031,-58.519375882,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,1,2026-03-15 12:58,2026-03-15,11:32:21
+-34.917287340,-58.541143201,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,15,2026-03-15 12:58,2026-03-15,11:32:21
+-34.908500718,-58.566884453,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,159,2026-03-15 12:58,2026-03-15,11:32:21
+-34.910277738,-58.565485988,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,54,2026-03-15 12:58,2026-03-15,11:32:21
+-34.913970924,-58.555778334,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,112,2026-03-15 12:58,2026-03-15,11:32:21
+-34.912511775,-58.556916063,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,75,2026-03-15 12:58,2026-03-15,11:32:21
+-34.903724202,-58.524179102,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,194,2026-03-15 12:58,2026-03-15,11:32:21
+-34.908386058,-58.520600396,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,149,2026-03-15 12:58,2026-03-15,11:32:21
+-34.904382347,-58.525927239,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,57,2026-03-15 12:58,2026-03-15,11:32:21
+-34.909211115,-58.568321058,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,89,2026-03-15 12:58,2026-03-15,11:32:21
+-34.911169314,-58.525452430,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,74,2026-03-15 12:58,2026-03-15,11:32:21
+-34.902212349,-58.524194882,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,7,2026-03-15 12:58,2026-03-15,11:32:21
+-34.912690429,-58.552431407,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,49,2026-03-15 12:58,2026-03-15,11:32:21
+-34.910841665,-58.553853281,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,47,2026-03-15 12:58,2026-03-15,11:32:21
+-34.908176180,-58.525308379,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,56,2026-03-15 12:58,2026-03-15,11:32:21
+-34.904933643,-58.529423957,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,52,2026-03-15 12:58,2026-03-15,11:32:21
+-34.911729705,-58.528613977,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,62,2026-03-15 12:58,2026-03-15,11:32:21
+-34.906829002,-58.533571112,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,46,2026-03-15 12:58,2026-03-15,11:32:21
+-34.910634311,-58.531357899,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,44,2026-03-15 12:58,2026-03-15,11:32:21
+-34.907988136,-58.529231165,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,36,2026-03-15 12:58,2026-03-15,11:32:21
+-34.905003668,-58.533006834,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,40,2026-03-15 12:58,2026-03-15,11:32:21
+-34.919149514,-58.539678552,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,1,2026-03-15 12:58,2026-03-15,11:32:21
+-34.911235446,-58.557481265,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,32,2026-03-15 12:58,2026-03-15,11:32:21
+-34.906841660,-58.568279223,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,252,2026-03-15 12:58,2026-03-15,11:32:21
+-34.907051900,-58.563687026,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,94,2026-03-15 12:58,2026-03-15,11:32:21
+-34.915278665,-58.531183702,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,1,2026-03-15 12:58,2026-03-15,11:32:21
+-34.901670243,-58.522983921,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,1,2026-03-15 12:58,2026-03-15,11:32:21
+-34.903211094,-58.535575427,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,35,2026-03-15 12:58,2026-03-15,11:32:21
+-34.900762184,-58.536065115,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,13,2026-03-15 12:58,2026-03-15,11:32:21
+-34.899457597,-58.536629073,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,9,2026-03-15 12:58,2026-03-15,11:32:21
+-34.913850090,-58.524821919,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,13,2026-03-15 12:58,2026-03-15,11:32:21
+-34.915800410,-58.523383237,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,5,2026-03-15 12:58,2026-03-15,11:32:21
+-34.909632015,-58.562370942,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,38,2026-03-15 12:58,2026-03-15,11:32:21
+-34.912498705,-58.557869929,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,5,2026-03-15 12:58,2026-03-15,11:32:21
+-34.911987153,-58.546298727,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,1,2026-03-15 12:58,2026-03-15,11:32:21
+-34.772872002,-58.306246763,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,331,2026-03-15 17:11,2026-03-15,11:32:21
+-34.773923030,-58.305274025,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,132,2026-03-15 17:11,2026-03-15,11:32:21
+-34.685127072,-58.548540951,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr4/65-5548,128,2026-03-15 08:27,2026-03-15,11:32:21
+-34.683443370,-58.549090603,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr4/65-5548,39,2026-03-15 08:27,2026-03-15,11:32:21
+-34.6036,-58.9561,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,4,,2026-03-15,11:32:21
+-34.7578,-58.3495,21,baja,Edesur,Lomas De Zamora,Temperley,,,67,,2026-03-15,11:32:21
+-34.6112,-58.5011,21,baja,Edesur,Capital,Monte Castro,,,8,,2026-03-15,11:32:21
