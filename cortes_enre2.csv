@@ -30146,3 +30146,50 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6518,-58.5024,21,baja,Edesur,Capital,Mataderos,,,1,,2026-03-16,11:51:40
 -34.6296,-58.5087,21,baja,Edesur,Capital,Villa Luro,,,54,,2026-03-16,11:51:40
 -34.7509,-58.3306,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,22,,2026-03-16,11:51:40
+-34.999391761,-58.393936590,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-03/956-1-03,134,2026-03-16 12:11,2026-03-16,14:22:35
+-35.000097168,-58.397488934,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-03/956-1-03,103,2026-03-16 12:11,2026-03-16,14:22:35
+-34.996501820,-58.395775561,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-03/956-1-03,90,2026-03-16 12:11,2026-03-16,14:22:35
+-34.597677219,-58.437218183,11,media,Edesur,Capital Gp,Villa Crespo,Villa Crespo,R:147-2-24/147-2-24,615,2026-03-16 19:00,2026-03-16,14:22:35
+-34.823825572,-58.931691715,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,46,2026-03-16 15:00,2026-03-16,14:22:35
+-34.679106671,-59.038117181,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,2,2026-03-16 12:30,2026-03-16,14:22:35
+-34.618017290,-58.725379505,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5536,3,2026-03-16 12:45,2026-03-16,14:22:35
+-34.487140934,-58.743892102,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Nogues/159-Tr2/159-5526,113,2026-03-16 12:00,2026-03-16,14:22:35
+-34.485389171,-58.745059967,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Nogues/159-Tr2/159-5526,420,2026-03-16 12:00,2026-03-16,14:22:35
+-34.558493646,-58.714005759,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Mu?Iz/265-Tr1/265-5511,286,2026-03-16 12:00,2026-03-16,14:22:35
+-34.947620969,-58.907333604,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,2,2026-03-16 13:00,2026-03-16,14:22:35
+-34.945766989,-58.905395689,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2026-03-16 13:00,2026-03-16,14:22:35
+-34.932619586,-58.899281527,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2026-03-16 13:00,2026-03-16,14:22:35
+-34.939157360,-58.898244424,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2026-03-16 13:00,2026-03-16,14:22:35
+-34.940467175,-58.911807479,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,4,2026-03-16 13:00,2026-03-16,14:22:35
+-34.937839072,-58.920643849,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,6,2026-03-16 13:00,2026-03-16,14:22:35
+-34.932462005,-58.922298018,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2026-03-16 13:00,2026-03-16,14:22:35
+-34.929344695,-58.926523845,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,3,2026-03-16 13:00,2026-03-16,14:22:35
+-34.460917124,-58.540954400,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr1/53-5542,363,2026-03-16 13:00,2026-03-16,14:22:35
+-34.754854324,-58.611673394,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5525,345,2026-03-16 13:30,2026-03-16,14:22:35
+-34.286030875,-58.647452348,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,8,2026-03-16 15:00,2026-03-16,14:22:35
+-34.279652899,-58.649720577,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,19,2026-03-16 15:00,2026-03-16,14:22:35
+-34.271975440,-58.653414997,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,13,2026-03-16 15:00,2026-03-16,14:22:35
+-34.276144712,-58.653553859,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,17,2026-03-16 15:00,2026-03-16,14:22:35
+-34.285277535,-58.650786473,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,7,2026-03-16 15:00,2026-03-16,14:22:35
+-34.583094313,-58.923333865,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr5/169-5563,51,2026-03-16 12:30,2026-03-16,14:22:35
+-34.760500928,-58.916428529,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,3,Sin Datos,2026-03-16,14:22:35
+-34.758039041,-58.920373007,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,Sin Datos,2026-03-16,14:22:35
+-34.742777073,-58.919216310,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,Sin Datos,2026-03-16,14:22:35
+-34.741939045,-58.913357672,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,Sin Datos,2026-03-16,14:22:35
+-34.750965006,-58.890265932,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,Sin Datos,2026-03-16,14:22:35
+-34.754196570,-58.898432223,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,2,Sin Datos,2026-03-16,14:22:35
+-34.777526973,-58.617761277,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr1/272-5511,391,2026-03-16 15:00,2026-03-16,14:22:35
+-34.627964233,-58.801368643,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr2/256-5535,233,2026-03-16 16:12,2026-03-16,14:22:35
+-34.6036,-58.9561,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,4,,2026-03-16,14:22:35
+-34.5288,-58.5886,22,baja,Edenor,Gral San Martin,C Jardin El Libertador,,,7,,2026-03-16,14:22:35
+-34.6581,-58.6308,22,baja,Edenor,Moron,Moron,,,7,,2026-03-16,14:22:35
+-34.6223,-58.4924,21,baja,Edesur,Capital,Floresta,,,11,,2026-03-16,14:22:35
+-34.7149,-58.2887,21,baja,Edesur,Quilmes,Bernal,,,28,,2026-03-16,14:22:35
+-34.7425,-58.407,21,baja,Edesur,Lomas De Zamora,Banfield,,,35,,2026-03-16,14:22:35
+-34.746,-58.469,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,4,,2026-03-16,14:22:35
+-34.6468,-58.4424,21,baja,Edesur,Capital,Flores,,,15,,2026-03-16,14:22:35
+-34.6518,-58.5024,21,baja,Edesur,Capital,Mataderos,,,1,,2026-03-16,14:22:35
+-34.7509,-58.3306,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,34,,2026-03-16,14:22:35
+-34.6334,-58.4511,21,baja,Edesur,Capital,Parque Chacabuco,,,6,,2026-03-16,14:22:35
+-34.6087,-58.3954,21,baja,Edesur,Capital,Balvanera,,,18,,2026-03-16,14:22:35
+-34.7582,-58.4284,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,1,,2026-03-16,14:22:35
