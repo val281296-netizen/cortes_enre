@@ -30774,3 +30774,48 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6451,-58.515,21,baja,Edesur,Capital,Liniers,,,16,,2026-03-17,10:00:29
 -34.6737,-58.4818,21,baja,Edesur,Capital,Villa Lugano,,,18,,2026-03-17,10:00:29
 -34.6786,-58.4819,21,baja,Edesur,Capital,Villa Lugano,,,11,,2026-03-17,10:00:29
+-34.670999201,-58.526481084,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr2/164-5534,182,2026-03-17 13:00,2026-03-17,11:47:17
+-34.638448839,-58.784640761,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr2/256-5534,43,2026-03-17 12:30,2026-03-17,11:47:17
+-34.238849693,-58.640729559,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,2026-03-17 13:00,2026-03-17,11:47:17
+-34.230941887,-58.644240967,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,2026-03-17 13:00,2026-03-17,11:47:17
+-34.244910489,-58.642988149,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2026-03-17 13:00,2026-03-17,11:47:17
+-34.241985293,-58.641837590,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2026-03-17 13:00,2026-03-17,11:47:17
+-34.230901272,-58.640187232,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2026-03-17 13:00,2026-03-17,11:47:17
+-34.240626193,-58.641389952,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2026-03-17 13:00,2026-03-17,11:47:17
+-34.228686047,-58.636674544,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2026-03-17 13:00,2026-03-17,11:47:17
+-34.475997862,-58.856579821,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5518,64,Sin Datos,2026-03-17,11:47:17
+-34.480688741,-58.858591756,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5518,67,Sin Datos,2026-03-17,11:47:17
+-34.400959830,-58.564108283,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,68,2026-03-17 14:30,2026-03-17,11:47:17
+-34.399147874,-58.569545909,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,53,2026-03-17 14:30,2026-03-17,11:47:17
+-34.395208658,-58.569733287,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,53,2026-03-17 14:30,2026-03-17,11:47:17
+-34.385290196,-58.575698947,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,15,2026-03-17 14:30,2026-03-17,11:47:17
+-34.391938323,-58.573374898,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,11,2026-03-17 14:30,2026-03-17,11:47:17
+-34.6036,-58.9561,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,4,,2026-03-17,11:47:17
+-34.7241,-58.5189,22,baja,Edenor,La Matanza,Ciudad Evita,,,10,,2026-03-17,11:47:17
+-34.7139,-58.6674,22,baja,Edenor,Merlo,Libertad,,,17,,2026-03-17,11:47:17
+-34.6503,-58.7176,22,baja,Edenor,Merlo,Merlo,,,6,,2026-03-17,11:47:17
+-34.3466,-58.7385,22,baja,Edenor,Escobar,Escobar,,,5,,2026-03-17,11:47:17
+-34.5774,-58.7482,22,baja,Edenor,San Miguel,San Miguel,,,4,,2026-03-17,11:47:17
+-34.6276,-58.8679,22,baja,Edenor,Moreno,Francisco Alvarez,,,21,,2026-03-17,11:47:17
+-34.6533,-58.6193,22,baja,Edenor,Moron,Moron,,,20,,2026-03-17,11:47:17
+-34.3666,-58.7384,22,baja,Edenor,Escobar,Ingeniero Maschwitz,,,5,,2026-03-17,11:47:17
+-34.9561,-58.7651,22,baja,Edenor,Marcos Paz,Marcos Paz,,,14,,2026-03-17,11:47:17
+-34.7149,-58.2887,21,baja,Edesur,Quilmes,Bernal,,,42,,2026-03-17,11:47:17
+-34.6119,-58.4107,21,baja,Edesur,Capital,Balvanera,,,60,,2026-03-17,11:47:17
+-34.8083,-58.4374,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,43,,2026-03-17,11:47:17
+-34.6299,-58.4745,21,baja,Edesur,Capital,Floresta,,,16,,2026-03-17,11:47:17
+-34.7392,-58.4415,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,38,,2026-03-17,11:47:17
+-34.766,-58.3984,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,39,,2026-03-17,11:47:17
+-34.9417,-58.623,21,baja,Edesur,Cañuelas,Zona Rural,,,62,,2026-03-17,11:47:17
+-34.7826,-58.362,21,baja,Edesur,Almirante Brown,Marmol,,,22,,2026-03-17,11:47:17
+-34.7385,-58.4642,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,79,,2026-03-17,11:47:17
+-34.746,-58.4193,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,37,,2026-03-17,11:47:17
+-34.7929,-58.2743,21,baja,Edesur,Florencio Varela,Florencio Varela,,,13,,2026-03-17,11:47:17
+-34.7371,-58.4022,21,baja,Edesur,Lomas De Zamora,Banfield,,,3,,2026-03-17,11:47:17
+-34.8977,-58.4031,21,baja,Edesur,Almirante Brown,Glew,,,18,,2026-03-17,11:47:17
+-34.6216,-58.3947,21,baja,Edesur,Capital,San Cristobal,,,45,,2026-03-17,11:47:17
+-34.7198,-58.3001,21,baja,Edesur,Quilmes,Bernal,,,26,,2026-03-17,11:47:17
+-34.6451,-58.515,21,baja,Edesur,Capital,Liniers,,,28,,2026-03-17,11:47:17
+-34.6786,-58.4819,21,baja,Edesur,Capital,Villa Lugano,,,11,,2026-03-17,11:47:17
+-34.826,-58.3782,21,baja,Edesur,Almirante Brown,Burzaco,,,17,,2026-03-17,11:47:17
+-34.893,-58.5627,21,baja,Edesur,Ezeiza,Tristan Suarez,,,29,,2026-03-17,11:47:17
