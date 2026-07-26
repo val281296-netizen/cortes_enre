@@ -115299,3 +115299,35 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7665,-58.2161,21,baja,Edesur,Berazategui,Berazategui,,,5,,2026-07-26,20:13:37
 -34.7397,-58.3018,21,baja,Edesur,Quilmes,Quilmes,,,8,,2026-07-26,20:13:37
 -34.6923,-58.476,21,baja,Edesur,Capital,Villa Riachuelo,,,15,,2026-07-26,20:13:37
+-34.804312298,-58.181383119,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-15/174-1-15,361,Sin Datos,2026-07-26,22:03:44
+-34.779913854,-58.467551750,11,media,Edesur,Esteban Echeverria,Luis Guillon,Santa Catalina,R:182-3-36/182-3-36,20,Sin Datos,2026-07-26,22:03:44
+-34.775131878,-58.471962094,11,media,Edesur,Esteban Echeverria,9 De Abril,Santa Catalina,R:182-3-36/182-3-36,2,Sin Datos,2026-07-26,22:03:44
+-34.776867283,-58.472977634,11,media,Edesur,Esteban Echeverria,9 De Abril,Santa Catalina,R:182-3-36/182-3-36,6,Sin Datos,2026-07-26,22:03:44
+-34.780776723,-58.469271766,11,media,Edesur,Esteban Echeverria,Luis Guillon,Santa Catalina,R:182-3-36/182-3-36,31,Sin Datos,2026-07-26,22:03:44
+-34.774209527,-58.472043235,11,media,Edesur,Esteban Echeverria,9 De Abril,Santa Catalina,R:182-3-36/182-3-36,2,Sin Datos,2026-07-26,22:03:44
+-34.779398957,-58.466531352,11,media,Edesur,Esteban Echeverria,Luis Guillon,Santa Catalina,R:182-3-36/182-3-36,9,Sin Datos,2026-07-26,22:03:44
+-34.773182293,-58.471347587,11,media,Edesur,Esteban Echeverria,9 De Abril,Santa Catalina,R:182-3-36/182-3-36,4,Sin Datos,2026-07-26,22:03:44
+-34.777998740,-58.463668641,11,media,Edesur,Esteban Echeverria,Luis Guillon,Santa Catalina,R:182-3-36/182-3-36,16,Sin Datos,2026-07-26,22:03:44
+-34.778447530,-58.464624673,11,media,Edesur,Esteban Echeverria,Luis Guillon,Santa Catalina,R:182-3-36/182-3-36,1,Sin Datos,2026-07-26,22:03:44
+-34.774315015,-58.466306904,11,media,Edesur,Esteban Echeverria,9 De Abril,Santa Catalina,R:182-3-36/182-3-36,4,Sin Datos,2026-07-26,22:03:44
+-34.641737421,-58.433766017,11,media,Edesur,Capital Rp,Parque Chacabuco,Pompeya,R:039-3-33/039-3-33,374,2026-07-26 21:58,2026-07-26,22:03:44
+-34.511456376,-58.730608255,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Nogues/159-Tr1/159-5518,98,Sin Datos,2026-07-26,22:03:44
+-34.512715181,-58.733081060,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Nogues/159-Tr1/159-5518,212,Sin Datos,2026-07-26,22:03:44
+-34.794543452,-58.948402617,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,1,2026-07-26 20:00,2026-07-26,22:03:44
+-34.803442976,-58.936669153,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,1,2026-07-26 20:00,2026-07-26,22:03:44
+-34.801886623,-58.940312853,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,1,2026-07-26 20:00,2026-07-26,22:03:44
+-34.806652026,-58.934287215,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,1,2026-07-26 20:00,2026-07-26,22:03:44
+-34.797678042,-58.944389760,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,1,2026-07-26 20:00,2026-07-26,22:03:44
+-34.800729004,-58.942918477,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,1,2026-07-26 20:00,2026-07-26,22:03:44
+-34.787866312,-58.604667881,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr2/272-5535,8,2026-07-26 20:00,2026-07-26,22:03:44
+-34.478310299,-58.841102916,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr2/260-5533,263,Sin Datos,2026-07-26,22:03:44
+-34.480494737,-58.839515047,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr2/260-5533,260,Sin Datos,2026-07-26,22:03:44
+-34.482917850,-58.837735529,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr2/260-5533,250,Sin Datos,2026-07-26,22:03:44
+-34.485163728,-58.835983941,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr2/260-5533,223,2026-07-26 22:00,2026-07-26,22:03:44
+-34.377362953,-58.827141223,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr2/51-5524,336,2026-07-26 21:00,2026-07-26,22:03:44
+-34.376138349,-58.826409265,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr2/51-5524,145,2026-07-26 23:00,2026-07-26,22:03:44
+-34.377390972,-58.824411168,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr2/51-5524,288,2026-07-26 23:00,2026-07-26,22:03:44
+-34.7665,-58.2161,21,baja,Edesur,Berazategui,Berazategui,,,6,,2026-07-26,22:03:44
+-34.7397,-58.3018,21,baja,Edesur,Quilmes,Quilmes,,,9,,2026-07-26,22:03:44
+-34.6508,-58.4275,21,baja,Edesur,Capital,Nueva Pompeya,,,11,,2026-07-26,22:03:44
+-34.9012,-58.2426,21,baja,Edesur,Florencio Varela,Florencio Varela,,,1,,2026-07-26,22:03:44
