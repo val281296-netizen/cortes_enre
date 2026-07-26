@@ -115104,3 +115104,69 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6099,-58.4414,21,baja,Edesur,Capital,Caballito,,,3,,2026-07-26,10:47:00
 -34.6599,-58.4333,21,baja,Edesur,Capital,Villa Soldati,,,20,,2026-07-26,10:47:00
 -34.6018,-58.4039,21,baja,Edesur,Capital,Balvanera,,,5,,2026-07-26,10:47:00
+-34.600568762,-58.379426915,11,media,Edesur,Capital Rp,San Nicolas,Villa Crespo,R:147-2-24/147-2-24,83,Sin Datos,2026-07-26,12:08:18
+-34.599946280,-58.379548837,11,media,Edesur,Capital Rp,San Nicolas,Villa Crespo,R:147-2-24/147-2-24,117,Sin Datos,2026-07-26,12:08:18
+-34.600614217,-58.380208112,11,media,Edesur,Capital Rp,San Nicolas,Villa Crespo,R:147-2-24/147-2-24,15,Sin Datos,2026-07-26,12:08:18
+-34.600561021,-58.381142516,11,media,Edesur,Capital Rp,San Nicolas,Villa Crespo,R:147-2-24/147-2-24,16,Sin Datos,2026-07-26,12:08:18
+-34.600589165,-58.381141012,11,media,Edesur,Capital Rp,San Nicolas,Villa Crespo,R:147-2-24/147-2-24,62,Sin Datos,2026-07-26,12:08:18
+-34.599933484,-58.379306864,11,media,Edesur,Capital Rp,San Nicolas,Villa Crespo,R:147-2-24/147-2-24,12,Sin Datos,2026-07-26,12:08:18
+-34.599323681,-58.381093899,11,media,Edesur,Capital Rp,San Nicolas,Villa Crespo,R:147-2-24/147-2-24,14,Sin Datos,2026-07-26,12:08:18
+-34.599905722,-58.381143183,11,media,Edesur,Capital Rp,San Nicolas,Villa Crespo,R:147-2-24/147-2-24,121,Sin Datos,2026-07-26,12:08:18
+-34.601122552,-58.381097019,11,media,Edesur,Capital Rp,San Nicolas,Villa Crespo,R:147-2-24/147-2-24,14,Sin Datos,2026-07-26,12:08:18
+-34.600848500,-58.381107658,11,media,Edesur,Capital Rp,San Nicolas,Villa Crespo,R:147-2-24/147-2-24,27,Sin Datos,2026-07-26,12:08:18
+-34.600002421,-58.381244511,11,media,Edesur,Capital Rp,San Nicolas,Villa Crespo,R:147-2-24/147-2-24,113,Sin Datos,2026-07-26,12:08:18
+-34.599922224,-58.379093936,11,media,Edesur,Capital Rp,San Nicolas,Villa Crespo,R:147-2-24/147-2-24,144,Sin Datos,2026-07-26,12:08:18
+-34.602781727,-58.376820473,11,media,Edesur,Capital Rp,San Nicolas,Villa Crespo,R:147-2-24/147-2-24,108,Sin Datos,2026-07-26,12:08:18
+-34.783112257,-58.307645863,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,427,2026-07-26 13:36,2026-07-26,12:08:18
+-34.780253483,-58.304585329,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,427,2026-07-26 13:36,2026-07-26,12:08:18
+-34.784916689,-58.299879567,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,39,2026-07-26 13:36,2026-07-26,12:08:18
+-34.781448042,-58.309159246,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,369,2026-07-26 13:36,2026-07-26,12:08:18
+-34.784666128,-58.305760809,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,436,2026-07-26 13:36,2026-07-26,12:08:18
+-34.793668072,-58.307660824,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,24,2026-07-26 13:36,2026-07-26,12:08:18
+-34.799013156,-58.302240898,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,105,2026-07-26 13:36,2026-07-26,12:08:18
+-34.778265450,-58.302269404,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,113,2026-07-26 13:36,2026-07-26,12:08:18
+-34.780731150,-58.303511579,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,178,2026-07-26 13:36,2026-07-26,12:08:18
+-34.794015048,-58.306797201,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,120,2026-07-26 13:36,2026-07-26,12:08:18
+-34.781656947,-58.302080471,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,1,2026-07-26 13:36,2026-07-26,12:08:18
+-34.783374842,-58.301270820,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,24,2026-07-26 13:36,2026-07-26,12:08:18
+-34.793304458,-58.307061506,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,25,2026-07-26 13:36,2026-07-26,12:08:18
+-34.793290254,-58.307039029,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,3,2026-07-26 13:36,2026-07-26,12:08:18
+-34.793495714,-58.307272881,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,14,2026-07-26 13:36,2026-07-26,12:08:18
+-34.795886578,-58.306598170,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,26,2026-07-26 13:36,2026-07-26,12:08:18
+-34.795780501,-58.305166154,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,16,2026-07-26 13:36,2026-07-26,12:08:18
+-34.794790058,-58.305474752,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,1,2026-07-26 13:36,2026-07-26,12:08:18
+-34.783507906,-58.302562692,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,21,2026-07-26 13:36,2026-07-26,12:08:18
+-34.783900768,-58.300061713,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,25,2026-07-26 13:36,2026-07-26,12:08:18
+-34.786908904,-58.301909511,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,17,2026-07-26 13:36,2026-07-26,12:08:18
+-34.786296780,-58.300976614,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,13,2026-07-26 13:36,2026-07-26,12:08:18
+-34.787140021,-58.302307957,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,12,2026-07-26 13:36,2026-07-26,12:08:18
+-34.786811904,-58.301776995,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,5,2026-07-26 13:36,2026-07-26,12:08:18
+-34.785826460,-58.300189138,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,17,2026-07-26 13:36,2026-07-26,12:08:18
+-34.785578453,-58.299777662,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,4,2026-07-26 13:36,2026-07-26,12:08:18
+-34.787211402,-58.301630094,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,10,2026-07-26 13:36,2026-07-26,12:08:18
+-34.786695188,-58.300942635,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,10,2026-07-26 13:36,2026-07-26,12:08:18
+-34.786163239,-58.300333175,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,14,2026-07-26 13:36,2026-07-26,12:08:18
+-34.786526487,-58.299989591,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,19,2026-07-26 13:36,2026-07-26,12:08:18
+-34.787323629,-58.300360050,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,9,2026-07-26 13:36,2026-07-26,12:08:18
+-34.786847911,-58.299680811,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,10,2026-07-26 13:36,2026-07-26,12:08:18
+-34.787130450,-58.299412465,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,2,2026-07-26 13:36,2026-07-26,12:08:18
+-34.786970340,-58.299019012,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,5,2026-07-26 13:36,2026-07-26,12:08:18
+-34.787737362,-58.299969207,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,3,2026-07-26 13:36,2026-07-26,12:08:18
+-34.785388226,-58.299464553,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,12,2026-07-26 13:36,2026-07-26,12:08:18
+-34.785685711,-58.299626360,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,7,2026-07-26 13:36,2026-07-26,12:08:18
+-34.787928229,-58.300581790,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,7,2026-07-26 13:36,2026-07-26,12:08:18
+-34.786529122,-58.302258975,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,37,2026-07-26 13:36,2026-07-26,12:08:18
+-34.796381237,-58.307388600,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,12,2026-07-26 13:36,2026-07-26,12:08:18
+-34.798179149,-58.304792657,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,215,2026-07-26 13:36,2026-07-26,12:08:18
+-34.780271946,-58.303334239,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,1,2026-07-26 13:36,2026-07-26,12:08:18
+-34.617951355,-58.637388995,12,media,Edenor,Hurlingham,Villa Tesei,S/D,R:Hurlingham/166-Tr3/166-5536,396,2026-07-26 13:00,2026-07-26,12:08:18
+-34.511456376,-58.730608255,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Nogues/159-Tr1/159-5518,98,2026-07-26 15:40,2026-07-26,12:08:18
+-34.768392669,-58.667217559,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Marcos Paz/363-Tr2/363-5523,230,2026-07-26 16:00,2026-07-26,12:08:18
+-34.767003372,-58.668986757,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Marcos Paz/363-Tr2/363-5523,206,2026-07-26 16:00,2026-07-26,12:08:18
+-34.7814,-58.2227,21,baja,Edesur,Berazategui,Berazategui,,,16,,2026-07-26,12:08:18
+-34.6196,-58.4288,21,baja,Edesur,Capital,Caballito,,,9,,2026-07-26,12:08:18
+-34.6099,-58.4414,21,baja,Edesur,Capital,Caballito,,,3,,2026-07-26,12:08:18
+-34.6605,-58.4351,21,baja,Edesur,Capital,Villa Soldati,,,17,,2026-07-26,12:08:18
+-34.6018,-58.4039,21,baja,Edesur,Capital,Balvanera,,,5,,2026-07-26,12:08:18
+-34.7055,-58.3694,21,baja,Edesur,Lanus,Lanus,,,4,,2026-07-26,12:08:18
+-34.6578,-58.5089,21,baja,Edesur,Capital,Mataderos,,,2,,2026-07-26,12:08:18
