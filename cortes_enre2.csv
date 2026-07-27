@@ -115415,3 +115415,46 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.617609279,-59.027823687,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,3,2026-07-27 15:00,2026-07-27,12:30:49
 -34.7665,-58.2161,21,baja,Edesur,Berazategui,Berazategui,,,6,,2026-07-27,12:30:49
 -34.6315,-58.468,21,baja,Edesur,Capital,Flores,,,29,,2026-07-27,12:30:49
+-34.619312589,-58.372025004,11,media,Edesur,Capital Rp,San Telmo,Carlos Pellegrini,R:210-1-01/210-1-01,642,2026-07-27 14:04,2026-07-27,15:46:59
+-34.606119977,-58.378176206,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-3-25/022-3-25,15,2026-07-27 20:10,2026-07-27,15:46:59
+-34.606177372,-58.378069711,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-3-25/022-3-25,1,2026-07-27 20:10,2026-07-27,15:46:59
+-34.606143680,-58.378547194,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-3-25/022-3-25,1,2026-07-27 20:10,2026-07-27,15:46:59
+-34.608415313,-58.377198245,11,media,Edesur,Capital Rp,Monserrat,Rivadavia,R:022-3-25/022-3-25,6,2026-07-27 20:10,2026-07-27,15:46:59
+-34.607353864,-58.378099163,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-3-25/022-3-25,31,2026-07-27 20:10,2026-07-27,15:46:59
+-34.608437046,-58.377599277,11,media,Edesur,Capital Rp,Monserrat,Rivadavia,R:022-3-25/022-3-25,35,2026-07-27 20:10,2026-07-27,15:46:59
+-34.606102570,-58.377054695,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-3-25/022-3-25,1,2026-07-27 20:10,2026-07-27,15:46:59
+-34.606892069,-58.377954196,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-3-25/022-3-25,55,2026-07-27 20:10,2026-07-27,15:46:59
+-34.607915744,-58.377934192,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-3-25/022-3-25,6,2026-07-27 20:10,2026-07-27,15:46:59
+-34.608003853,-58.377097600,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-3-25/022-3-25,88,2026-07-27 20:10,2026-07-27,15:46:59
+-34.600088799,-58.370549961,11,media,Edesur,Capital Rp,San Nicolas,Reconquista,R:211-3-25/211-3-25,98,2026-07-27 20:18,2026-07-27,15:46:59
+-34.600486494,-58.370451237,11,media,Edesur,Capital Rp,San Nicolas,Reconquista,R:211-3-25/211-3-25,2,2026-07-27 20:18,2026-07-27,15:46:59
+-34.600381024,-58.369898938,11,media,Edesur,Capital Rp,San Nicolas,Reconquista,R:211-3-25/211-3-25,65,2026-07-27 20:18,2026-07-27,15:46:59
+-34.599820971,-58.370025644,11,media,Edesur,Capital Rp,San Nicolas,Reconquista,R:211-3-25/211-3-25,2,2026-07-27 20:18,2026-07-27,15:46:59
+-34.600320950,-58.369389599,11,media,Edesur,Capital Rp,San Nicolas,Reconquista,R:211-3-25/211-3-25,14,2026-07-27 20:18,2026-07-27,15:46:59
+-34.599236028,-58.370086386,11,media,Edesur,Capital Rp,San Nicolas,Reconquista,R:211-3-25/211-3-25,10,2026-07-27 20:18,2026-07-27,15:46:59
+-34.600853903,-58.369290897,11,media,Edesur,Capital Rp,San Nicolas,Reconquista,R:211-3-25/211-3-25,9,2026-07-27 20:18,2026-07-27,15:46:59
+-34.600430862,-58.370325432,11,media,Edesur,Capital Rp,San Nicolas,Reconquista,R:211-3-25/211-3-25,40,2026-07-27 20:18,2026-07-27,15:46:59
+-34.599094228,-58.370784100,11,media,Edesur,Capital Rp,San Nicolas,Reconquista,R:211-3-25/211-3-25,16,2026-07-27 20:18,2026-07-27,15:46:59
+-34.686355707,-58.556914230,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5527,55,Sin Datos,2026-07-27,15:46:59
+-34.776209094,-58.657516754,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Pantanosa/365-Tr2/365-5528,200,2026-07-27 13:00,2026-07-27,15:46:59
+-34.773896164,-58.657907302,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Pantanosa/365-Tr2/365-5528,97,2026-07-27 13:00,2026-07-27,15:46:59
+-34.688125103,-58.549854235,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr3/65-5533,125,2026-07-27 13:00,2026-07-27,15:46:59
+-34.885544420,-58.681589058,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5523,21,2026-07-27 13:00,2026-07-27,15:46:59
+-34.700772424,-58.585601414,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr2/63-5536,167,2026-07-27 13:00,2026-07-27,15:46:59
+-34.662792759,-58.646249537,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5526,179,2026-07-27 15:00,2026-07-27,15:46:59
+-34.661050142,-58.645530634,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5526,276,2026-07-27 15:00,2026-07-27,15:46:59
+-34.623284435,-58.821290644,12,media,Edenor,Moreno,La Reja,S/D,R:La Reja/163-Tr1/163-5516,3,2026-07-27 13:10,2026-07-27,15:46:59
+-34.607954397,-59.034780712,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,2,2026-07-27 15:00,2026-07-27,15:46:59
+-34.619135483,-59.025960857,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,1,2026-07-27 15:00,2026-07-27,15:46:59
+-34.617609279,-59.027823687,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,3,2026-07-27 15:00,2026-07-27,15:46:59
+-34.386545520,-58.818335317,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr2/51-5523,200,2026-07-27 15:00,2026-07-27,15:46:59
+-34.386523232,-58.811314755,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr2/51-5523,156,2026-07-27 15:00,2026-07-27,15:46:59
+-34.385266446,-58.809000365,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr2/51-5523,72,2026-07-27 15:00,2026-07-27,15:46:59
+-34.387810025,-58.813821925,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr2/51-5523,206,2026-07-27 15:00,2026-07-27,15:46:59
+-34.7665,-58.2161,21,baja,Edesur,Berazategui,Berazategui,,,6,,2026-07-27,15:46:59
+-34.6315,-58.468,21,baja,Edesur,Capital,Flores,,,50,,2026-07-27,15:46:59
+-34.7386,-58.3647,21,baja,Edesur,Lanus,Monte Chingolo,,,15,,2026-07-27,15:46:59
+-34.6018,-58.4336,21,baja,Edesur,Capital,Villa Crespo,,,31,,2026-07-27,15:46:59
+-34.8141,-58.2108,21,baja,Edesur,Florencio Varela,Florencio Varela,,,3,,2026-07-27,15:46:59
+-34.5987,-58.4293,21,baja,Edesur,Capital,Capital,,,5,,2026-07-27,15:46:59
+-34.6155,-58.487,21,baja,Edesur,Capital,Villa Sta. Rita,,,1,,2026-07-27,15:46:59
