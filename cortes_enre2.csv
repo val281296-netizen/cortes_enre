@@ -115735,3 +115735,45 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6677,-58.3911,21,baja,Edesur,Avellaneda,Avellaneda,,,7,,2026-07-28,15:24:58
 -34.9596,-58.7302,21,baja,Edesur,Cañuelas,Zona Rural,,,5,,2026-07-28,15:24:58
 -34.6404,-58.4532,21,baja,Edesur,Capital,Flores,,,2,,2026-07-28,15:24:58
+-34.619163433,-58.431475942,11,media,Edesur,Capital Gp,Caballito Gp,Caballito,R:122-1-14/122-1-14,287,2026-07-28 19:34,2026-07-28,18:18:43
+-34.619306901,-58.433860520,11,media,Edesur,Capital Gp,Caballito Gp,Caballito,R:122-1-14/122-1-14,29,2026-07-28 19:34,2026-07-28,18:18:43
+-34.862388689,-58.513255121,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-2-21/083-2-21,166,2026-07-28 18:00,2026-07-28,18:18:43
+-34.865139306,-58.510444367,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-2-21/083-2-21,336,2026-07-28 18:00,2026-07-28,18:18:43
+-34.866288346,-58.509563449,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-2-21/083-2-21,211,2026-07-28 18:00,2026-07-28,18:18:43
+-34.642297550,-58.424433033,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-1-14/039-1-14,253,Sin Datos,2026-07-28,18:18:43
+-34.633541711,-58.386916288,11,media,Edesur,Capital Rp,Barracas,Constitucion,R:124-1-12/124-1-12,440,Sin Datos,2026-07-28,18:18:43
+-34.731809356,-58.494078282,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-3-31/281-3-31,5,2026-07-28 16:13,2026-07-28,18:18:43
+-34.729217242,-58.495935927,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-3-31/281-3-31,3,2026-07-28 16:13,2026-07-28,18:18:43
+-34.733222757,-58.493043026,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-3-31/281-3-31,2,2026-07-28 16:13,2026-07-28,18:18:43
+-34.772362759,-58.298647098,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,6,Sin Datos,2026-07-28,18:18:43
+-34.772675872,-58.298408852,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,13,Sin Datos,2026-07-28,18:18:43
+-34.773128256,-58.298038148,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,31,Sin Datos,2026-07-28,18:18:43
+-34.772952115,-58.298634620,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,6,Sin Datos,2026-07-28,18:18:43
+-34.773531980,-58.298170797,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,12,Sin Datos,2026-07-28,18:18:43
+-34.771585040,-58.300454601,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,13,Sin Datos,2026-07-28,18:18:43
+-34.773264285,-58.299025670,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,3,Sin Datos,2026-07-28,18:18:43
+-34.773800069,-58.299015322,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,1,Sin Datos,2026-07-28,18:18:43
+-34.770936915,-58.301340655,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,3,Sin Datos,2026-07-28,18:18:43
+-34.772201128,-58.299246339,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,76,Sin Datos,2026-07-28,18:18:43
+-34.772932569,-58.298543257,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,6,Sin Datos,2026-07-28,18:18:43
+-34.773368146,-58.299007841,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,5,Sin Datos,2026-07-28,18:18:43
+-34.632171163,-58.373167566,11,media,Edesur,Capital Rp,Barracas,Hernandarias,R:031-2-28/031-2-28,679,Sin Datos,2026-07-28,18:18:43
+-34.639247702,-58.425775438,11,media,Edesur,Capital Rp,Parque Chacabuco,Pompeya,R:039-3-33/039-3-33,242,2026-07-28 19:49,2026-07-28,18:18:43
+-34.641737421,-58.433766017,11,media,Edesur,Capital Rp,Parque Chacabuco,Pompeya,R:039-3-33/039-3-33,374,2026-07-28 19:49,2026-07-28,18:18:43
+-34.324417071,-58.500087163,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,Sin Datos,2026-07-28,18:18:43
+-34.332542105,-58.511704574,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,Sin Datos,2026-07-28,18:18:43
+-34.333695285,-58.505274792,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos,2026-07-28,18:18:43
+-34.334334907,-58.506572832,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,Sin Datos,2026-07-28,18:18:43
+-34.338691022,-58.485684972,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos,2026-07-28,18:18:43
+-34.322946864,-58.498039400,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos,2026-07-28,18:18:43
+-34.333759160,-58.513133316,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos,2026-07-28,18:18:43
+-34.332016063,-58.504031129,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,6,Sin Datos,2026-07-28,18:18:43
+-34.541843817,-58.941552592,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,2,Sin Datos,2026-07-28,18:18:43
+-34.547465916,-58.937210047,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,2,Sin Datos,2026-07-28,18:18:43
+-34.550826696,-58.937243198,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,206,Sin Datos,2026-07-28,18:18:43
+-34.6113,-58.3888,21,baja,Edesur,Capital,Monserrat,,,45,,2026-07-28,18:18:43
+-34.9596,-58.7302,21,baja,Edesur,Cañuelas,Zona Rural,,,6,,2026-07-28,18:18:43
+-34.6478,-58.4107,21,baja,Edesur,Capital,Parque Patricios,,,2,,2026-07-28,18:18:43
+-34.6637,-58.3649,21,baja,Edesur,Avellaneda,Avellaneda,,,3,,2026-07-28,18:18:43
+-34.6493,-58.4134,21,baja,Edesur,Capital,Nueva Pompeya,,,5,,2026-07-28,18:18:43
+-34.7677,-58.2014,21,baja,Edesur,Berazategui,Berazategui,,,1,,2026-07-28,18:18:43
