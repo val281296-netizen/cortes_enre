@@ -115777,3 +115777,37 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6637,-58.3649,21,baja,Edesur,Avellaneda,Avellaneda,,,3,,2026-07-28,18:18:43
 -34.6493,-58.4134,21,baja,Edesur,Capital,Nueva Pompeya,,,5,,2026-07-28,18:18:43
 -34.7677,-58.2014,21,baja,Edesur,Berazategui,Berazategui,,,1,,2026-07-28,18:18:43
+-34.619163433,-58.431475942,11,media,Edesur,Capital Gp,Caballito Gp,Caballito,R:122-1-14/122-1-14,287,2026-07-28 19:34,2026-07-28,20:20:00
+-34.619306901,-58.433860520,11,media,Edesur,Capital Gp,Caballito Gp,Caballito,R:122-1-14/122-1-14,29,2026-07-28 19:34,2026-07-28,20:20:00
+-34.642297550,-58.424433033,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-1-14/039-1-14,253,Sin Datos,2026-07-28,20:20:00
+-34.633541711,-58.386916288,11,media,Edesur,Capital Rp,Barracas,Constitucion,R:124-1-12/124-1-12,440,Sin Datos,2026-07-28,20:20:00
+-34.731809356,-58.494078282,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-3-31/281-3-31,5,2026-07-28 22:13,2026-07-28,20:20:00
+-34.729217242,-58.495935927,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-3-31/281-3-31,3,2026-07-28 22:13,2026-07-28,20:20:00
+-34.733222757,-58.493043026,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-3-31/281-3-31,2,2026-07-28 22:13,2026-07-28,20:20:00
+-34.772362759,-58.298647098,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,6,Sin Datos,2026-07-28,20:20:00
+-34.772675872,-58.298408852,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,13,Sin Datos,2026-07-28,20:20:00
+-34.773128256,-58.298038148,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,31,Sin Datos,2026-07-28,20:20:00
+-34.772952115,-58.298634620,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,6,Sin Datos,2026-07-28,20:20:00
+-34.773531980,-58.298170797,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,12,Sin Datos,2026-07-28,20:20:00
+-34.771585040,-58.300454601,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,13,Sin Datos,2026-07-28,20:20:00
+-34.773264285,-58.299025670,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,3,Sin Datos,2026-07-28,20:20:00
+-34.773800069,-58.299015322,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,1,Sin Datos,2026-07-28,20:20:00
+-34.770936915,-58.301340655,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,3,Sin Datos,2026-07-28,20:20:00
+-34.772201128,-58.299246339,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,76,Sin Datos,2026-07-28,20:20:00
+-34.772932569,-58.298543257,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,6,Sin Datos,2026-07-28,20:20:00
+-34.773368146,-58.299007841,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,5,Sin Datos,2026-07-28,20:20:00
+-34.632171163,-58.373167566,11,media,Edesur,Capital Rp,Barracas,Hernandarias,R:031-2-28/031-2-28,679,Sin Datos,2026-07-28,20:20:00
+-34.641737421,-58.433766017,11,media,Edesur,Capital Rp,Parque Chacabuco,Pompeya,R:039-3-33/039-3-33,374,2026-07-28 19:49,2026-07-28,20:20:00
+-34.711625410,-58.592970830,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr2/63-5524,548,Sin Datos,2026-07-28,20:20:00
+-34.714650727,-58.593862482,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr2/63-5524,123,Sin Datos,2026-07-28,20:20:00
+-34.709974288,-58.593844216,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr2/63-5524,219,Sin Datos,2026-07-28,20:20:00
+-34.714260854,-58.590498738,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Casanova/63-Tr2/63-5524,200,Sin Datos,2026-07-28,20:20:00
+-34.713324690,-58.594631581,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr2/63-5524,248,Sin Datos,2026-07-28,20:20:00
+-34.713418014,-58.595580179,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr2/63-5524,228,Sin Datos,2026-07-28,20:20:00
+-34.743381885,-58.650325659,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Pantanosa/365-Tr2/365-5521,1,2026-07-28 20:00,2026-07-28,20:20:00
+-34.740948847,-58.647487484,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Pantanosa/365-Tr2/365-5521,6,2026-07-28 20:00,2026-07-28,20:20:00
+-34.744096114,-58.648461028,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Pantanosa/365-Tr2/365-5521,1,2026-07-28 20:00,2026-07-28,20:20:00
+-34.6113,-58.3888,21,baja,Edesur,Capital,Monserrat,,,46,,2026-07-28,20:20:00
+-34.6478,-58.4107,21,baja,Edesur,Capital,Parque Patricios,,,2,,2026-07-28,20:20:00
+-34.6638,-58.3641,21,baja,Edesur,Avellaneda,Avellaneda,,,27,,2026-07-28,20:20:00
+-34.6493,-58.4134,21,baja,Edesur,Capital,Nueva Pompeya,,,5,,2026-07-28,20:20:00
