@@ -115652,3 +115652,86 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6475,-58.4107,21,baja,Edesur,Capital,Parque Patricios,,,7,,2026-07-28,11:23:18
 -34.6633,-58.4425,21,baja,Edesur,Capital,Villa Soldati,,,13,,2026-07-28,11:23:18
 -34.9824,-58.379,21,baja,Edesur,San Vicente,Alejandro Korn,,,1,,2026-07-28,11:23:18
+-34.619163433,-58.431475942,11,media,Edesur,Capital Gp,Caballito Gp,Caballito,R:122-1-14/122-1-14,287,2026-07-28 13:34,2026-07-28,15:24:58
+-34.619306901,-58.433860520,11,media,Edesur,Capital Gp,Caballito Gp,Caballito,R:122-1-14/122-1-14,29,2026-07-28 13:34,2026-07-28,15:24:58
+-35.091543503,-58.280323396,11,media,Edesur,San Vicente,Domselaar,Burzaco,R:082-3-981/082-3-981,1,2026-07-28 17:49,2026-07-28,15:24:58
+-35.064762889,-58.298342595,11,media,Edesur,San Vicente,Domselaar,Burzaco,R:082-3-981/082-3-981,1,2026-07-28 17:49,2026-07-28,15:24:58
+-35.071091355,-58.293459462,11,media,Edesur,San Vicente,Domselaar,Burzaco,R:082-3-981/082-3-981,259,2026-07-28 17:49,2026-07-28,15:24:58
+-35.063348815,-58.306604311,11,media,Edesur,San Vicente,Domselaar,Burzaco,R:082-3-981/082-3-981,172,2026-07-28 17:49,2026-07-28,15:24:58
+-35.092055146,-58.280039629,11,media,Edesur,San Vicente,Domselaar,Burzaco,R:082-3-981/082-3-981,3,2026-07-28 17:49,2026-07-28,15:24:58
+-35.078986788,-58.288047826,11,media,Edesur,San Vicente,Domselaar,Burzaco,R:082-3-981/082-3-981,2,2026-07-28 17:49,2026-07-28,15:24:58
+-35.084424542,-58.284482305,11,media,Edesur,San Vicente,Domselaar,Burzaco,R:082-3-981/082-3-981,2,2026-07-28 17:49,2026-07-28,15:24:58
+-34.606975079,-58.391431324,11,media,Edesur,Capital Rp,San Nicolas,Carlos Pellegrini,R:210-2-15/210-2-15,457,2026-07-28 15:07,2026-07-28,15:24:58
+-34.862388689,-58.513255121,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-2-21/083-2-21,166,2026-07-28 18:00,2026-07-28,15:24:58
+-34.865139306,-58.510444367,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-2-21/083-2-21,336,2026-07-28 18:00,2026-07-28,15:24:58
+-34.866288346,-58.509563449,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-2-21/083-2-21,211,2026-07-28 18:00,2026-07-28,15:24:58
+-34.642297550,-58.424433033,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-1-14/039-1-14,253,2026-07-28 13:50,2026-07-28,15:24:58
+-34.633541711,-58.386916288,11,media,Edesur,Capital Rp,Barracas,Constitucion,R:124-1-12/124-1-12,440,2026-07-28 14:08,2026-07-28,15:24:58
+-34.731809356,-58.494078282,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-3-31/281-3-31,5,2026-07-28 16:13,2026-07-28,15:24:58
+-34.729217242,-58.495935927,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-3-31/281-3-31,3,2026-07-28 16:13,2026-07-28,15:24:58
+-34.733222757,-58.493043026,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-3-31/281-3-31,2,2026-07-28 16:13,2026-07-28,15:24:58
+-34.772362759,-58.298647098,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,6,2026-07-28 14:41,2026-07-28,15:24:58
+-34.772675872,-58.298408852,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,13,2026-07-28 14:41,2026-07-28,15:24:58
+-34.773128256,-58.298038148,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,31,2026-07-28 14:41,2026-07-28,15:24:58
+-34.772952115,-58.298634620,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,6,2026-07-28 14:41,2026-07-28,15:24:58
+-34.773531980,-58.298170797,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,12,2026-07-28 14:41,2026-07-28,15:24:58
+-34.771585040,-58.300454601,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,13,2026-07-28 14:41,2026-07-28,15:24:58
+-34.773264285,-58.299025670,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,3,2026-07-28 14:41,2026-07-28,15:24:58
+-34.773800069,-58.299015322,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,1,2026-07-28 14:41,2026-07-28,15:24:58
+-34.770936915,-58.301340655,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,3,2026-07-28 14:41,2026-07-28,15:24:58
+-34.772201128,-58.299246339,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,76,2026-07-28 14:41,2026-07-28,15:24:58
+-34.772932569,-58.298543257,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,6,2026-07-28 14:41,2026-07-28,15:24:58
+-34.773368146,-58.299007841,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-1-13/085-1-13,5,2026-07-28 14:41,2026-07-28,15:24:58
+-34.632171163,-58.373167566,11,media,Edesur,Capital Rp,Barracas,Hernandarias,R:031-2-28/031-2-28,679,2026-07-28 14:56,2026-07-28,15:24:58
+-34.324417071,-58.500087163,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2026-07-28 15:00,2026-07-28,15:24:58
+-34.332542105,-58.511704574,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,2026-07-28 15:00,2026-07-28,15:24:58
+-34.333695285,-58.505274792,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-07-28 15:00,2026-07-28,15:24:58
+-34.334334907,-58.506572832,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,2026-07-28 15:00,2026-07-28,15:24:58
+-34.338691022,-58.485684972,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-07-28 15:00,2026-07-28,15:24:58
+-34.322946864,-58.498039400,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-07-28 15:00,2026-07-28,15:24:58
+-34.333759160,-58.513133316,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-07-28 15:00,2026-07-28,15:24:58
+-34.332016063,-58.504031129,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,6,2026-07-28 15:00,2026-07-28,15:24:58
+-34.436168819,-58.892961873,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr2/260-5537,177,2026-07-28 12:30,2026-07-28,15:24:58
+-34.467764144,-58.579557616,12,media,Edenor,San Fernando,Virreyes,S/D,R:San Fernando/351-Tr1/351-5514,571,2026-07-28 13:10,2026-07-28,15:24:58
+-34.541843817,-58.941552592,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,2,2026-07-28 15:00,2026-07-28,15:24:58
+-34.547465916,-58.937210047,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,2,2026-07-28 15:00,2026-07-28,15:24:58
+-34.550826696,-58.937243198,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,206,2026-07-28 15:00,2026-07-28,15:24:58
+-34.495923994,-58.815037963,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Del Viso/251-Tr1/251-5543,42,2026-07-28 13:00,2026-07-28,15:24:58
+-34.565119689,-58.814750272,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5523,1,2026-07-28 13:00,2026-07-28,15:24:58
+-34.466190321,-58.734360550,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr2/252-5536,334,2026-07-28 13:15,2026-07-28,15:24:58
+-34.304526909,-58.772635960,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5522,143,Sin Datos,2026-07-28,15:24:58
+-34.507907272,-58.715939448,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr1/159-5541,231,2026-07-28 15:00,2026-07-28,15:24:58
+-34.511508515,-58.712385674,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr1/159-5541,163,2026-07-28 15:00,2026-07-28,15:24:58
+-34.506937394,-58.716744557,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr1/159-5541,140,2026-07-28 15:00,2026-07-28,15:24:58
+-34.513507200,-58.711681320,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr1/159-5541,193,2026-07-28 15:00,2026-07-28,15:24:58
+-34.510981394,-58.713415351,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr1/159-5541,313,2026-07-28 15:00,2026-07-28,15:24:58
+-34.651097270,-58.935402785,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,12,2026-07-28 16:00,2026-07-28,15:24:58
+-34.650937674,-58.941583195,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,5,2026-07-28 16:00,2026-07-28,15:24:58
+-34.656298190,-58.939871533,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,10,2026-07-28 16:00,2026-07-28,15:24:58
+-34.650134818,-58.965851483,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,13,2026-07-28 16:00,2026-07-28,15:24:58
+-34.636450085,-58.981894854,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,3,2026-07-28 16:00,2026-07-28,15:24:58
+-34.646929271,-58.959813363,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,1,2026-07-28 16:00,2026-07-28,15:24:58
+-34.654235534,-58.972133220,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,1,2026-07-28 16:00,2026-07-28,15:24:58
+-34.652346383,-58.969735697,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,214,2026-07-28 16:00,2026-07-28,15:24:58
+-34.644160453,-58.971132617,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,110,2026-07-28 16:00,2026-07-28,15:24:58
+-34.639726844,-58.979415920,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,83,2026-07-28 16:00,2026-07-28,15:24:58
+-34.650852971,-58.943833715,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,13,2026-07-28 16:00,2026-07-28,15:24:58
+-34.649597679,-58.940904953,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,22,2026-07-28 16:00,2026-07-28,15:24:58
+-34.661611965,-58.941746967,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,3,2026-07-28 16:00,2026-07-28,15:24:58
+-34.646394334,-58.938725685,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,6,2026-07-28 16:00,2026-07-28,15:24:58
+-34.639175752,-58.947958265,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,12,2026-07-28 16:00,2026-07-28,15:24:58
+-34.651548709,-58.968289650,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,2,2026-07-28 16:00,2026-07-28,15:24:58
+-34.642700784,-58.983263202,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,48,2026-07-28 16:00,2026-07-28,15:24:58
+-34.636605947,-58.950220458,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,7,2026-07-28 16:00,2026-07-28,15:24:58
+-34.635889553,-58.953541822,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,16,2026-07-28 16:00,2026-07-28,15:24:58
+-34.633857507,-58.949693633,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,11,2026-07-28 16:00,2026-07-28,15:24:58
+-34.659301470,-58.941639303,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,1,2026-07-28 16:00,2026-07-28,15:24:58
+-34.646996171,-58.934980286,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,49,2026-07-28 16:00,2026-07-28,15:24:58
+-34.656253500,-58.943035599,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,1,2026-07-28 16:00,2026-07-28,15:24:58
+-34.648499191,-58.938485441,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,2,2026-07-28 16:00,2026-07-28,15:24:58
+-34.638563192,-58.952988263,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,2,2026-07-28 16:00,2026-07-28,15:24:58
+-34.632180077,-58.952197407,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,2,2026-07-28 16:00,2026-07-28,15:24:58
+-34.6113,-58.3888,21,baja,Edesur,Capital,Monserrat,,,36,,2026-07-28,15:24:58
+-34.6677,-58.3911,21,baja,Edesur,Avellaneda,Avellaneda,,,7,,2026-07-28,15:24:58
+-34.9596,-58.7302,21,baja,Edesur,Cañuelas,Zona Rural,,,5,,2026-07-28,15:24:58
+-34.6404,-58.4532,21,baja,Edesur,Capital,Flores,,,2,,2026-07-28,15:24:58
