@@ -115977,3 +115977,39 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6086,-58.3954,21,baja,Edesur,Capital,Balvanera,,,23,,2026-07-29,20:14:15
 -34.635,-58.4293,21,baja,Edesur,Capital,Parque Chacabuco,,,6,,2026-07-29,20:14:15
 -34.6262,-58.4686,21,baja,Edesur,Capital,Capital,,,1,,2026-07-29,20:14:15
+-34.827675391,-58.331544545,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Rafael Calzada,R:189-2-28/189-2-28,1,Sin Datos,2026-07-29,22:05:01
+-34.695204020,-58.432288168,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-1-18/089-1-18,57,2026-07-29 19:29,2026-07-29,22:05:01
+-34.688719285,-58.432702643,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-1-18/089-1-18,287,2026-07-29 19:29,2026-07-29,22:05:01
+-34.694905099,-58.432528855,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-1-18/089-1-18,543,2026-07-29 19:29,2026-07-29,22:05:01
+-34.614196536,-58.434672674,11,media,Edesur,Capital Gp,Caballito Gp,Caballito,R:122-3-35/122-3-35,511,2026-07-29 19:37,2026-07-29,22:05:01
+-34.883576703,-58.420039340,11,media,Edesur,Pte Peron,America Unida,Glew,R:277-1-14/277-1-14,114,2026-07-29 20:47,2026-07-29,22:05:01
+-34.897323542,-58.431338378,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-14/277-1-14,2,2026-07-29 20:47,2026-07-29,22:05:01
+-34.891026905,-58.431511235,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-14/277-1-14,3,2026-07-29 20:47,2026-07-29,22:05:01
+-34.890868875,-58.448619839,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-1-14/277-1-14,2,2026-07-29 20:47,2026-07-29,22:05:01
+-34.894623937,-58.445016275,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-1-14/277-1-14,1,2026-07-29 20:47,2026-07-29,22:05:01
+-34.893155407,-58.435718515,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-14/277-1-14,5,2026-07-29 20:47,2026-07-29,22:05:01
+-34.896732913,-58.436430577,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-14/277-1-14,7,2026-07-29 20:47,2026-07-29,22:05:01
+-34.896140179,-58.441679363,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-14/277-1-14,2,2026-07-29 20:47,2026-07-29,22:05:01
+-34.896992985,-58.443406833,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-14/277-1-14,12,2026-07-29 20:47,2026-07-29,22:05:01
+-34.899426770,-58.429885802,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-14/277-1-14,2,2026-07-29 20:47,2026-07-29,22:05:01
+-34.886326159,-58.422130161,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-14/277-1-14,8,2026-07-29 20:47,2026-07-29,22:05:01
+-34.825625758,-58.628720452,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr1/356-5541,1,Sin Datos,2026-07-29,22:05:01
+-34.824013763,-58.626808598,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr1/356-5541,1,Sin Datos,2026-07-29,22:05:01
+-34.476463149,-58.656211463,12,media,Edenor,Tigre,El Talar,S/D,R:Bancalari/157-Tr1/157-5547,1,Sin Datos,2026-07-29,22:05:01
+-34.474588998,-58.652809548,12,media,Edenor,Tigre,El Talar,S/D,R:Bancalari/157-Tr1/157-5547,207,Sin Datos,2026-07-29,22:05:01
+-34.473876951,-58.651422910,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Bancalari/157-Tr1/157-5547,103,Sin Datos,2026-07-29,22:05:01
+-34.473198682,-58.650000018,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Bancalari/157-Tr1/157-5547,119,Sin Datos,2026-07-29,22:05:01
+-34.726650549,-58.559982595,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Casanova/63-Tr1/63-5512,313,2026-07-29 20:00,2026-07-29,22:05:01
+-34.591926623,-59.005831775,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,103,Sin Datos,2026-07-29,22:05:01
+-34.595118298,-59.005815291,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,156,Sin Datos,2026-07-29,22:05:01
+-34.6684,-58.3922,21,baja,Edesur,Avellaneda,Avellaneda,,,39,,2026-07-29,22:05:01
+-34.7055,-58.4005,21,baja,Edesur,Lanus,Lanus,,,20,,2026-07-29,22:05:01
+-34.721,-58.2629,21,baja,Edesur,Quilmes,Quilmes,,,17,,2026-07-29,22:05:01
+-34.6142,-58.4703,21,baja,Edesur,Capital,Villa General Mitre,,,11,,2026-07-29,22:05:01
+-34.7535,-58.2651,21,baja,Edesur,Quilmes,Quilmes,,,105,,2026-07-29,22:05:01
+-34.6203,-58.4766,21,baja,Edesur,Capital,Villa Sta. Rita,,,6,,2026-07-29,22:05:01
+-34.635,-58.4293,21,baja,Edesur,Capital,Parque Chacabuco,,,6,,2026-07-29,22:05:01
+-34.7512,-58.2156,21,baja,Edesur,Berazategui,Berazategui,,,1,,2026-07-29,22:05:01
+-34.9416,-58.2472,21,baja,Edesur,Florencio Varela,Florencio Varela,,,1,,2026-07-29,22:05:01
+-34.8114,-58.467,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,1,,2026-07-29,22:05:01
+-34.8114,-58.467,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,1,,2026-07-29,22:05:01
