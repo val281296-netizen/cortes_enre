@@ -115942,3 +115942,38 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7261,-58.3806,21,baja,Edesur,Lanus,Lanus,,,2,,2026-07-29,18:10:43
 -34.6854,-58.366,21,baja,Edesur,Avellaneda,Gerli,,,5,,2026-07-29,18:10:43
 -34.7529,-58.398,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,9,,2026-07-29,18:10:43
+-34.641737421,-58.433766017,11,media,Edesur,Capital Rp,Parque Chacabuco,Pompeya,R:039-3-33/039-3-33,374,Sin Datos,2026-07-29,20:14:15
+-34.665935101,-58.390238539,11,media,Edesur,Avellaneda,Avellaneda,Pineyro,R:079-5-54/079-5-54,100,Sin Datos,2026-07-29,20:14:15
+-35.020787759,-58.426993765,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-07/956-1-07,154,Sin Datos,2026-07-29,20:14:15
+-35.022307121,-58.429544671,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-07/956-1-07,123,Sin Datos,2026-07-29,20:14:15
+-34.827675391,-58.331544545,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Rafael Calzada,R:189-2-28/189-2-28,1,Sin Datos,2026-07-29,20:14:15
+-34.695204020,-58.432288168,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-1-18/089-1-18,57,2026-07-29 19:29,2026-07-29,20:14:15
+-34.688719285,-58.432702643,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-1-18/089-1-18,287,2026-07-29 19:29,2026-07-29,20:14:15
+-34.694905099,-58.432528855,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-1-18/089-1-18,543,2026-07-29 19:29,2026-07-29,20:14:15
+-34.614196536,-58.434672674,11,media,Edesur,Capital Gp,Caballito Gp,Caballito,R:122-3-35/122-3-35,511,2026-07-29 19:37,2026-07-29,20:14:15
+-34.741517635,-58.399130853,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-25/076-2-25,304,2026-07-29 20:22,2026-07-29,20:14:15
+-34.592237704,-58.522250292,12,media,Edenor,Gral San Martin,Villa Lynch,S/D,R:Migueletes/54-Tr2/54-5524,95,2026-07-29 21:00,2026-07-29,20:14:15
+-34.825625758,-58.628720452,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr1/356-5541,1,Sin Datos,2026-07-29,20:14:15
+-34.824013763,-58.626808598,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr1/356-5541,1,Sin Datos,2026-07-29,20:14:15
+-34.212187776,-58.643305108,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-07-29,20:14:15
+-34.189211152,-58.651275494,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-07-29,20:14:15
+-34.476463149,-58.656211463,12,media,Edenor,Tigre,El Talar,S/D,R:Bancalari/157-Tr1/157-5547,1,Sin Datos,2026-07-29,20:14:15
+-34.474588998,-58.652809548,12,media,Edenor,Tigre,El Talar,S/D,R:Bancalari/157-Tr1/157-5547,207,Sin Datos,2026-07-29,20:14:15
+-34.473876951,-58.651422910,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Bancalari/157-Tr1/157-5547,103,Sin Datos,2026-07-29,20:14:15
+-34.473198682,-58.650000018,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Bancalari/157-Tr1/157-5547,119,Sin Datos,2026-07-29,20:14:15
+-34.726650549,-58.559982595,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Casanova/63-Tr1/63-5512,313,2026-07-29 20:00,2026-07-29,20:14:15
+-34.6684,-58.3922,21,baja,Edesur,Avellaneda,Avellaneda,,,28,,2026-07-29,20:14:15
+-34.7055,-58.4005,21,baja,Edesur,Lanus,Lanus,,,20,,2026-07-29,20:14:15
+-34.721,-58.2629,21,baja,Edesur,Quilmes,Quilmes,,,16,,2026-07-29,20:14:15
+-34.6142,-58.4703,21,baja,Edesur,Capital,Villa General Mitre,,,9,,2026-07-29,20:14:15
+-34.8518,-58.2719,21,baja,Edesur,Florencio Varela,Florencio Varela,,,3,,2026-07-29,20:14:15
+-34.7535,-58.2651,21,baja,Edesur,Quilmes,Quilmes,,,89,,2026-07-29,20:14:15
+-34.7305,-58.463,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,9,,2026-07-29,20:14:15
+-34.7261,-58.3806,21,baja,Edesur,Lanus,Lanus,,,2,,2026-07-29,20:14:15
+-34.781,-58.2958,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,4,,2026-07-29,20:14:15
+-34.6854,-58.366,21,baja,Edesur,Avellaneda,Gerli,,,15,,2026-07-29,20:14:15
+-34.7539,-58.3975,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,14,,2026-07-29,20:14:15
+-34.6203,-58.4766,21,baja,Edesur,Capital,Villa Sta. Rita,,,6,,2026-07-29,20:14:15
+-34.6086,-58.3954,21,baja,Edesur,Capital,Balvanera,,,23,,2026-07-29,20:14:15
+-34.635,-58.4293,21,baja,Edesur,Capital,Parque Chacabuco,,,6,,2026-07-29,20:14:15
+-34.6262,-58.4686,21,baja,Edesur,Capital,Capital,,,1,,2026-07-29,20:14:15
