@@ -127550,3 +127550,49 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7509,-58.209,21,baja,Edesur,Berazategui,Berazategui,,,10,,2026-08-03,08:33:42
 -34.7512,-58.3267,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,12,,2026-08-03,08:33:42
 -34.6403,-58.4405,21,baja,Edesur,Capital,Parque Chacabuco,,,15,,2026-08-03,08:33:42
+-35.020324945,-58.579696629,11,media,Edesur,Cañuelas,Zona Rural 8,Canuelas,R:271-3-72/271-3-72,24,2026-08-03 11:47,2026-08-03,12:30:29
+-35.017394544,-58.581617169,11,media,Edesur,Cañuelas,Zona Rural 8,Canuelas,R:271-3-72/271-3-72,3,2026-08-03 11:47,2026-08-03,12:30:29
+-35.015597812,-58.579433352,11,media,Edesur,Cañuelas,Zona Rural 8,Canuelas,R:271-3-72/271-3-72,2,2026-08-03 11:47,2026-08-03,12:30:29
+-35.027410009,-58.575297051,11,media,Edesur,Cañuelas,Zona Rural 8,Canuelas,R:271-3-72/271-3-72,2,2026-08-03 11:47,2026-08-03,12:30:29
+-34.863858707,-58.695342606,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5516,6,2026-08-03 16:00,2026-08-03,12:30:29
+-34.865482755,-58.693485647,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5516,14,2026-08-03 16:00,2026-08-03,12:30:29
+-34.635782399,-58.890278636,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5513,356,2026-08-03 15:00,2026-08-03,12:30:29
+-34.640107368,-58.888014531,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5513,259,2026-08-03 15:00,2026-08-03,12:30:29
+-34.628589674,-58.886681147,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5513,298,2026-08-03 15:00,2026-08-03,12:30:29
+-34.632522869,-58.888017746,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5513,321,2026-08-03 15:00,2026-08-03,12:30:29
+-34.634599514,-58.895249997,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5513,384,2026-08-03 15:00,2026-08-03,12:30:29
+-34.642036232,-58.890893680,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5513,167,2026-08-03 15:00,2026-08-03,12:30:29
+-34.642350028,-58.888189494,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5513,247,2026-08-03 15:00,2026-08-03,12:30:29
+-34.334880174,-58.531719482,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2026-08-03 15:00,2026-08-03,12:30:29
+-34.332745819,-58.532434543,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,2026-08-03 15:00,2026-08-03,12:30:29
+-34.335956929,-58.531554528,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-08-03 15:00,2026-08-03,12:30:29
+-34.339443618,-58.530204840,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2026-08-03 15:00,2026-08-03,12:30:29
+-34.6098,-58.4956,21,baja,Edesur,Capital,Villa Del Parque,,,5,,2026-08-03,12:30:29
+-34.8957,-58.1849,21,baja,Edesur,Berazategui,El Pato,,,14,,2026-08-03,12:30:29
+-34.6115,-58.4725,21,baja,Edesur,Capital,Villa General Mitre,,,5,,2026-08-03,12:30:29
+-34.6278,-58.4615,21,baja,Edesur,Capital,Flores,,,126,,2026-08-03,12:30:29
+-34.6152,-58.4264,21,baja,Edesur,Capital,Almagro,,,73,,2026-08-03,12:30:29
+-34.6222,-58.4824,21,baja,Edesur,Capital,Capital,,,19,,2026-08-03,12:30:29
+-34.6393,-58.4769,21,baja,Edesur,Capital,Capital,,,33,,2026-08-03,12:30:29
+-34.6555,-58.4803,21,baja,Edesur,Capital,Capital,,,16,,2026-08-03,12:30:29
+-34.6628,-58.4448,21,baja,Edesur,Capital,Villa Soldati,,,6,,2026-08-03,12:30:29
+-34.6592,-58.5179,21,baja,Edesur,Capital,Mataderos,,,31,,2026-08-03,12:30:29
+-34.6713,-58.4991,21,baja,Edesur,Capital,Mataderos,,,17,,2026-08-03,12:30:29
+-34.7917,-58.2509,21,baja,Edesur,Berazategui,El Pato,,,6,,2026-08-03,12:30:29
+-34.5971,-58.4543,21,baja,Edesur,Capital,Villa Crespo,,,7,,2026-08-03,12:30:29
+-34.8911,-58.1813,21,baja,Edesur,Berazategui,El Pato,,,4,,2026-08-03,12:30:29
+-35.0297,-58.4159,21,baja,Edesur,San Vicente,San Vicente,,,15,,2026-08-03,12:30:29
+-34.6271,-58.4497,21,baja,Edesur,Capital,Caballito,,,17,,2026-08-03,12:30:29
+-34.6907,-58.468,21,baja,Edesur,Capital,Villa Riachuelo,,,52,,2026-08-03,12:30:29
+-34.6646,-58.4905,21,baja,Edesur,Capital,Mataderos,,,5,,2026-08-03,12:30:29
+-34.6292,-58.4774,21,baja,Edesur,Capital,Floresta,,,7,,2026-08-03,12:30:29
+-34.8929,-58.5444,21,baja,Edesur,Ezeiza,Barrio La Union,,,8,,2026-08-03,12:30:29
+-34.802,-58.4425,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,11,,2026-08-03,12:30:29
+-34.8941,-58.5604,21,baja,Edesur,Ezeiza,Tristan Suarez,,,6,,2026-08-03,12:30:29
+-34.6405,-58.4426,21,baja,Edesur,Capital,Parque Chacabuco,,,8,,2026-08-03,12:30:29
+-34.7509,-58.209,21,baja,Edesur,Berazategui,Berazategui,,,11,,2026-08-03,12:30:29
+-34.7512,-58.3267,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,13,,2026-08-03,12:30:29
+-34.6415,-58.5114,21,baja,Edesur,Capital,Liniers,,,7,,2026-08-03,12:30:29
+-34.7409,-58.3922,21,baja,Edesur,Lomas De Zamora,Banfield,,,3,,2026-08-03,12:30:29
+-34.6403,-58.4405,21,baja,Edesur,Capital,Parque Chacabuco,,,46,,2026-08-03,12:30:29
+-34.7799,-58.2998,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,4,,2026-08-03,12:30:29
