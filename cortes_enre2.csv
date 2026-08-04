@@ -128020,3 +128020,52 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6086,-58.4296,21,baja,Edesur,Capital,Almagro,,,36,,2026-08-04,15:27:25
 -34.7201,-58.4104,21,baja,Edesur,Lanus,Remedios De Escalada,,,3,,2026-08-04,15:27:25
 -34.8114,-58.467,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,1,,2026-08-04,15:27:25
+-34.996906951,-58.351780493,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,5,2026-08-04 19:03,2026-08-04,18:41:41
+-34.997418485,-58.344893272,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,1,2026-08-04 19:03,2026-08-04,18:41:41
+-34.988750403,-58.358353782,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,111,2026-08-04 19:03,2026-08-04,18:41:41
+-34.992072331,-58.355911839,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,197,2026-08-04 19:03,2026-08-04,18:41:41
+-34.850740571,-58.401029232,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-3-33/277-3-33,367,2026-08-04 18:00,2026-08-04,18:41:41
+-34.899280845,-58.692061511,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5523,30,Sin Datos,2026-08-04,18:41:41
+-34.902474100,-58.687942238,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5523,102,Sin Datos,2026-08-04,18:41:41
+-34.892980192,-58.691470868,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5523,153,Sin Datos,2026-08-04,18:41:41
+-34.891843450,-58.688240873,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5523,132,Sin Datos,2026-08-04,18:41:41
+-34.893974410,-58.690056486,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5523,92,Sin Datos,2026-08-04,18:41:41
+-34.899877740,-58.684497921,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5523,97,Sin Datos,2026-08-04,18:41:41
+-34.898299631,-58.686494452,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5523,37,Sin Datos,2026-08-04,18:41:41
+-34.896924297,-58.688267936,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5523,115,Sin Datos,2026-08-04,18:41:41
+-34.892501544,-58.686193495,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5523,1,Sin Datos,2026-08-04,18:41:41
+-34.894105422,-58.687586340,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5523,5,Sin Datos,2026-08-04,18:41:41
+-34.560657714,-58.800098793,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5513,38,2026-08-04 17:30,2026-08-04,18:41:41
+-34.558355534,-58.802348386,12,media,Edenor,Moreno,Trujui,S/D,R:Gaona/263-Tr3/263-5472/952-5513,1,2026-08-04 17:30,2026-08-04,18:41:41
+-34.561192789,-58.807760778,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5513,1,2026-08-04 17:30,2026-08-04,18:41:41
+-34.560272791,-58.805727163,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr3/263-5472/952-5513,1,2026-08-04 17:30,2026-08-04,18:41:41
+-34.559030235,-58.797965622,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5513,1,2026-08-04 17:30,2026-08-04,18:41:41
+-34.478732264,-58.778269071,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Del Viso/251-Tr1/251-5542,120,Sin Datos,2026-08-04,18:41:41
+-34.501920675,-58.629650710,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5536,192,Sin Datos,2026-08-04,18:41:41
+-34.710982349,-58.807293093,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5515,39,2026-08-04 16:00,2026-08-04,18:41:41
+-34.329008628,-58.574953358,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,3,Sin Datos,2026-08-04,18:41:41
+-34.5301,-58.5805,22,baja,Edenor,Gral San Martin,Jose Leon Suarez,,,38,,2026-08-04,18:41:41
+-34.6012,-58.4762,21,baja,Edesur,Capital,La Paternal,,,8,,2026-08-04,18:41:41
+-34.6745,-58.3485,21,baja,Edesur,Avellaneda,Avellaneda,,,8,,2026-08-04,18:41:41
+-34.6292,-58.4774,21,baja,Edesur,Capital,Floresta,,,19,,2026-08-04,18:41:41
+-34.6263,-58.4656,21,baja,Edesur,Capital,Flores,,,7,,2026-08-04,18:41:41
+-34.6415,-58.5114,21,baja,Edesur,Capital,Liniers,,,11,,2026-08-04,18:41:41
+-34.619,-58.5144,21,baja,Edesur,Capital,Monte Castro,,,35,,2026-08-04,18:41:41
+-34.7242,-58.3053,21,baja,Edesur,Quilmes,Bernal,,,85,,2026-08-04,18:41:41
+-34.7242,-58.3811,21,baja,Edesur,Lanus,Remedios De Escalada,,,36,,2026-08-04,18:41:41
+-34.6425,-58.5243,21,baja,Edesur,Capital,Liniers,,,11,,2026-08-04,18:41:41
+-34.6968,-58.4014,21,baja,Edesur,Lanus,Lanus,,,160,,2026-08-04,18:41:41
+-34.7516,-58.4386,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,14,,2026-08-04,18:41:41
+-34.6462,-58.425,21,baja,Edesur,Capital,Nueva Pompeya,,,5,,2026-08-04,18:41:41
+-34.8041,-58.2704,21,baja,Edesur,Florencio Varela,Florencio Varela,,,16,,2026-08-04,18:41:41
+-34.6247,-58.466,21,baja,Edesur,Capital,Flores,,,69,,2026-08-04,18:41:41
+-34.7409,-58.3922,21,baja,Edesur,Lomas De Zamora,Banfield,,,4,,2026-08-04,18:41:41
+-34.8287,-58.2128,21,baja,Edesur,Florencio Varela,Bosques,,,26,,2026-08-04,18:41:41
+-34.6086,-58.4296,21,baja,Edesur,Capital,Almagro,,,42,,2026-08-04,18:41:41
+-34.7201,-58.4104,21,baja,Edesur,Lanus,Remedios De Escalada,,,3,,2026-08-04,18:41:41
+-34.6524,-58.5259,21,baja,Edesur,Capital,Liniers,,,1,,2026-08-04,18:41:41
+-34.626,-58.4418,21,baja,Edesur,Capital,Caballito,,,3,,2026-08-04,18:41:41
+-34.6421,-58.5065,21,baja,Edesur,Capital,Villa Luro,,,1,,2026-08-04,18:41:41
+-34.7476,-58.3298,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,2,,2026-08-04,18:41:41
+-34.7032,-58.3958,21,baja,Edesur,Lanus,Lanus,,,1,,2026-08-04,18:41:41
+-34.72,-58.4316,21,baja,Edesur,Lomas De Zamora,Banfield,,,7,,2026-08-04,18:41:41
