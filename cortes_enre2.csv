@@ -128256,3 +128256,34 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.69,-58.4737,21,baja,Edesur,Capital,Villa Riachuelo,,,6,,2026-08-05,07:43:56
 -34.8195,-58.2825,21,baja,Edesur,Florencio Varela,Florencio Varela,,,5,,2026-08-05,07:43:56
 -34.7779,-58.4264,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,6,,2026-08-05,07:43:56
+-34.719687450,-58.239580780,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-3-32/073-3-32,124,Sin Datos,2026-08-05,11:24:48
+-34.718121166,-58.236917096,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-3-32/073-3-32,128,Sin Datos,2026-08-05,11:24:48
+-34.571943315,-58.918418317,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,1,2026-08-05 20:09,2026-08-05,11:24:48
+-34.568472551,-58.921171938,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,4,2026-08-05 09:00,2026-08-05,11:24:48
+-34.562706485,-58.925671457,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,2,2026-08-05 09:00,2026-08-05,11:24:48
+-34.560963341,-58.921652070,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,9,2026-08-05 09:00,2026-08-05,11:24:48
+-34.312360045,-58.540663126,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,9,2026-08-05 10:00,2026-08-05,11:24:48
+-34.309043526,-58.544577576,12,media,Edenor,Tigre,Nordelta,S/D,R:Tigre/153-Tr1/153-5517,1,2026-08-05 10:00,2026-08-05,11:24:48
+-34.355560015,-58.536888192,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,54,2026-08-05 10:00,2026-08-05,11:24:48
+-34.363075184,-58.536677673,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,37,2026-08-05 10:00,2026-08-05,11:24:48
+-34.344573299,-58.539353344,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,12,2026-08-05 10:00,2026-08-05,11:24:48
+-34.325895749,-58.533813765,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,22,2026-08-05 10:00,2026-08-05,11:24:48
+-34.330956419,-58.538890176,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,12,2026-08-05 10:00,2026-08-05,11:24:48
+-34.339435280,-58.540332459,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,11,2026-08-05 10:00,2026-08-05,11:24:48
+-34.845587989,-58.827905858,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,7,2026-08-05 11:00,2026-08-05,11:24:48
+-34.6425,-58.5243,21,baja,Edesur,Capital,Liniers,,,11,,2026-08-05,11:24:48
+-34.6193,-58.4057,21,baja,Edesur,Capital,San Cristobal,,,5,,2026-08-05,11:24:48
+-34.7773,-58.1335,21,baja,Edesur,Berazategui,Hudson,,,2,,2026-08-05,11:24:48
+-34.6212,-58.4449,21,baja,Edesur,Capital,Caballito,,,8,,2026-08-05,11:24:48
+-34.891,-58.1667,21,baja,Edesur,Berazategui,El Pato,,,16,,2026-08-05,11:24:48
+-34.6271,-58.5158,21,baja,Edesur,Capital,Monte Castro,,,54,,2026-08-05,11:24:48
+-34.6851,-58.385,21,baja,Edesur,Avellaneda,Gerli,,,2,,2026-08-05,11:24:48
+-34.6462,-58.4317,21,baja,Edesur,Capital,Nueva Pompeya,,,14,,2026-08-05,11:24:48
+-35.0537,-58.7682,21,baja,Edesur,Cañuelas,Cañuelas,,,18,,2026-08-05,11:24:48
+-34.847,-58.4845,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,4,,2026-08-05,11:24:48
+-34.69,-58.4737,21,baja,Edesur,Capital,Villa Riachuelo,,,8,,2026-08-05,11:24:48
+-34.8195,-58.2825,21,baja,Edesur,Florencio Varela,Florencio Varela,,,5,,2026-08-05,11:24:48
+-34.7779,-58.4264,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,6,,2026-08-05,11:24:48
+-34.8304,-58.2121,21,baja,Edesur,Florencio Varela,Bosques,,,2,,2026-08-05,11:24:48
+-34.8657,-58.1877,21,baja,Edesur,Florencio Varela,Ing. Allan,,,3,,2026-08-05,11:24:48
+-34.7836,-58.3093,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,4,,2026-08-05,11:24:48
