@@ -129790,3 +129790,606 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8072,-58.2961,21,baja,Edesur,Florencio Varela,Florencio Varela,,,1,,2026-08-07,11:49:39
 -34.62,-58.4638,21,baja,Edesur,Capital,Capital,,,1,,2026-08-07,11:49:39
 -34.6356,-58.388,21,baja,Edesur,Capital,Barracas,,,1,,2026-08-07,11:49:39
+-34.832660406,-58.261571218,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,6,2026-08-07 15:00,2026-08-07,14:14:27
+-34.834895498,-58.259656187,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,2026-08-07 15:00,2026-08-07,14:14:27
+-34.827710908,-58.252170689,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,2,2026-08-07 15:00,2026-08-07,14:14:27
+-34.833949627,-58.260312305,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,3,2026-08-07 15:00,2026-08-07,14:14:27
+-34.797379810,-58.317723949,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-2-23/189-2-23,9,2026-08-07 13:05,2026-08-07,14:14:27
+-34.797301275,-58.321104538,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-2-23/189-2-23,53,2026-08-07 13:05,2026-08-07,14:14:27
+-34.796348488,-58.319946898,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-2-23/189-2-23,11,2026-08-07 13:05,2026-08-07,14:14:27
+-34.796996919,-58.319504090,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-2-23/189-2-23,10,2026-08-07 13:05,2026-08-07,14:14:27
+-34.797929412,-58.321232300,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-2-23/189-2-23,12,2026-08-07 13:05,2026-08-07,14:14:27
+-34.797097606,-58.317195546,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-2-23/189-2-23,34,2026-08-07 13:05,2026-08-07,14:14:27
+-34.797221874,-58.317428226,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-2-23/189-2-23,28,2026-08-07 13:05,2026-08-07,14:14:27
+-34.797596405,-58.318986681,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-2-23/189-2-23,17,2026-08-07 13:05,2026-08-07,14:14:27
+-34.798127235,-58.319123460,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-2-23/189-2-23,49,2026-08-07 13:05,2026-08-07,14:14:27
+-34.800796239,-58.321200117,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,6,2026-08-07 13:05,2026-08-07,14:14:27
+-34.800880361,-58.321140062,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,14,2026-08-07 13:05,2026-08-07,14:14:27
+-34.799732999,-58.318915943,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,5,2026-08-07 13:05,2026-08-07,14:14:27
+-34.799579020,-58.319025872,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,19,2026-08-07 13:05,2026-08-07,14:14:27
+-34.798937338,-58.319477650,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,6,2026-08-07 13:05,2026-08-07,14:14:27
+-34.798163524,-58.317871066,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,13,2026-08-07 13:05,2026-08-07,14:14:27
+-34.798406036,-58.318434330,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,5,2026-08-07 13:05,2026-08-07,14:14:27
+-34.797794027,-58.317304793,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,2,2026-08-07 13:05,2026-08-07,14:14:27
+-34.797476997,-58.316719689,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,6,2026-08-07 13:05,2026-08-07,14:14:27
+-34.798807825,-58.318030950,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,4,2026-08-07 13:05,2026-08-07,14:14:27
+-34.798159325,-58.316883289,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,3,2026-08-07 13:05,2026-08-07,14:14:27
+-34.799045512,-58.317245213,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,37,2026-08-07 13:05,2026-08-07,14:14:27
+-34.799777766,-58.318370533,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,8,2026-08-07 13:05,2026-08-07,14:14:27
+-34.799887644,-58.318242416,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,13,2026-08-07 13:05,2026-08-07,14:14:27
+-34.800250600,-58.318914678,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,12,2026-08-07 13:05,2026-08-07,14:14:27
+-34.800542365,-58.317845122,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,12,2026-08-07 13:05,2026-08-07,14:14:27
+-34.801081806,-58.317391670,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,29,2026-08-07 13:05,2026-08-07,14:14:27
+-34.800810137,-58.316901187,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,3,2026-08-07 13:05,2026-08-07,14:14:27
+-34.799992903,-58.315364711,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,18,2026-08-07 13:05,2026-08-07,14:14:27
+-34.799807770,-58.315047964,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,15,2026-08-07 13:05,2026-08-07,14:14:27
+-34.800407897,-58.316288766,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,52,2026-08-07 13:05,2026-08-07,14:14:27
+-34.800745349,-58.315950227,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,8,2026-08-07 13:05,2026-08-07,14:14:27
+-34.801202464,-58.316799372,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,15,2026-08-07 13:05,2026-08-07,14:14:27
+-34.801506757,-58.317367162,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,11,2026-08-07 13:05,2026-08-07,14:14:27
+-34.798283630,-58.317110466,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,5,2026-08-07 13:05,2026-08-07,14:14:27
+-34.798538836,-58.318679431,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,34,2026-08-07 13:05,2026-08-07,14:14:27
+-34.798651734,-58.317777798,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,14,2026-08-07 13:05,2026-08-07,14:14:27
+-34.798940745,-58.318271360,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,16,2026-08-07 13:05,2026-08-07,14:14:27
+-34.769203731,-58.368805466,11,media,Edesur,Lomas De Zamora,Temperley,Temperley,N:084-2-23/084-2-23,527,2026-08-07 13:05,2026-08-07,14:14:27
+-34.772554827,-58.366959447,11,media,Edesur,Lomas De Zamora,Temperley,Temperley,N:084-2-23/084-2-23,403,2026-08-07 13:05,2026-08-07,14:14:27
+-34.604007149,-58.459066987,11,media,Edesur,Capital Gp,La Paternal,Villa Crespo,R:147-2-23/147-2-23,509,2026-08-07 13:34,2026-08-07,14:14:27
+-34.658777309,-58.416768709,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-2-23/039-2-23,237,2026-08-07 13:49,2026-08-07,14:14:27
+-34.722921639,-58.337698226,11,media,Edesur,Avellaneda,Wilde,Don Bosco,R:077-4-42/077-4-42,330,2026-08-07 17:00,2026-08-07,14:14:27
+-34.865685525,-58.185945655,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,226,2026-08-07 14:34,2026-08-07,14:14:27
+-34.862302709,-58.187297712,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,92,2026-08-07 14:34,2026-08-07,14:14:27
+-34.864349842,-58.186481467,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,282,2026-08-07 14:34,2026-08-07,14:14:27
+-34.862484464,-58.192101262,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,122,2026-08-07 14:34,2026-08-07,14:14:27
+-34.861660803,-58.188967450,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,13,2026-08-07 14:34,2026-08-07,14:14:27
+-34.853521929,-58.186804038,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,3,2026-08-07 14:34,2026-08-07,14:14:27
+-34.857427567,-58.186680649,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,258,2026-08-07 14:34,2026-08-07,14:14:27
+-34.862672776,-58.185836846,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,36,2026-08-07 14:34,2026-08-07,14:14:27
+-34.862361936,-58.184662237,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,23,2026-08-07 14:34,2026-08-07,14:14:27
+-34.862498486,-58.183630771,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,13,2026-08-07 14:34,2026-08-07,14:14:27
+-34.862042852,-58.183473481,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,36,2026-08-07 14:34,2026-08-07,14:14:27
+-34.862618023,-58.185625508,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,14,2026-08-07 14:34,2026-08-07,14:14:27
+-34.857244490,-58.189734370,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,8,2026-08-07 14:34,2026-08-07,14:14:27
+-34.857625779,-58.190194560,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,26,2026-08-07 14:34,2026-08-07,14:14:27
+-34.858368447,-58.190837175,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,16,2026-08-07 14:34,2026-08-07,14:14:27
+-34.859311318,-58.191790614,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,25,2026-08-07 14:34,2026-08-07,14:14:27
+-34.858962019,-58.190713276,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,18,2026-08-07 14:34,2026-08-07,14:14:27
+-34.858721642,-58.189834243,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,25,2026-08-07 14:34,2026-08-07,14:14:27
+-34.860123768,-58.192367186,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,24,2026-08-07 14:34,2026-08-07,14:14:27
+-34.859891622,-58.191555380,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,31,2026-08-07 14:34,2026-08-07,14:14:27
+-34.859479241,-58.190387451,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,22,2026-08-07 14:34,2026-08-07,14:14:27
+-34.861398281,-58.194700316,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,27,2026-08-07 14:34,2026-08-07,14:14:27
+-34.861052525,-58.192936928,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,9,2026-08-07 14:34,2026-08-07,14:14:27
+-34.860728206,-58.192003996,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,22,2026-08-07 14:34,2026-08-07,14:14:27
+-34.860461510,-58.191103546,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,4,2026-08-07 14:34,2026-08-07,14:14:27
+-34.860120177,-58.190126617,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,20,2026-08-07 14:34,2026-08-07,14:14:27
+-34.861721950,-58.194583146,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,17,2026-08-07 14:34,2026-08-07,14:14:27
+-34.862328429,-58.195174104,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,6,2026-08-07 14:34,2026-08-07,14:14:27
+-34.861937646,-58.193778587,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,21,2026-08-07 14:34,2026-08-07,14:14:27
+-34.861638522,-58.192743356,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,20,2026-08-07 14:34,2026-08-07,14:14:27
+-34.861344165,-58.191651535,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,38,2026-08-07 14:34,2026-08-07,14:14:27
+-34.861124636,-58.190676467,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,25,2026-08-07 14:34,2026-08-07,14:14:27
+-34.860576090,-58.188768502,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,42,2026-08-07 14:34,2026-08-07,14:14:27
+-34.861096346,-58.189743687,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,28,2026-08-07 14:34,2026-08-07,14:14:27
+-34.862130422,-58.194445106,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,41,2026-08-07 14:34,2026-08-07,14:14:27
+-34.860814176,-58.184186132,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,19,2026-08-07 14:34,2026-08-07,14:14:27
+-34.860126485,-58.184587935,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,38,2026-08-07 14:34,2026-08-07,14:14:27
+-34.860931797,-58.184273917,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,29,2026-08-07 14:34,2026-08-07,14:14:27
+-34.858246004,-58.187025229,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,8,2026-08-07 14:34,2026-08-07,14:14:27
+-34.859202217,-58.186656423,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,12,2026-08-07 14:34,2026-08-07,14:14:27
+-34.860409515,-58.185635575,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,20,2026-08-07 14:34,2026-08-07,14:14:27
+-34.859989436,-58.186682024,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,17,2026-08-07 14:34,2026-08-07,14:14:27
+-34.858158567,-58.187763464,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,17,2026-08-07 14:34,2026-08-07,14:14:27
+-34.860196385,-58.187445261,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,14,2026-08-07 14:34,2026-08-07,14:14:27
+-34.861475873,-58.186692936,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,28,2026-08-07 14:34,2026-08-07,14:14:27
+-34.857050500,-58.189472232,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,15,2026-08-07 14:34,2026-08-07,14:14:27
+-34.857711561,-58.189210638,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,23,2026-08-07 14:34,2026-08-07,14:14:27
+-34.858628982,-58.188833035,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,29,2026-08-07 14:34,2026-08-07,14:14:27
+-34.859184730,-58.188608125,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,21,2026-08-07 14:34,2026-08-07,14:14:27
+-34.860647384,-58.188019595,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,24,2026-08-07 14:34,2026-08-07,14:14:27
+-34.861052867,-58.185265434,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,45,2026-08-07 14:34,2026-08-07,14:14:27
+-34.859091850,-58.196483469,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,27,2026-08-07 14:34,2026-08-07,14:14:27
+-34.858641372,-58.194840687,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,36,2026-08-07 14:34,2026-08-07,14:14:27
+-34.858344791,-58.193756640,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,10,2026-08-07 14:34,2026-08-07,14:14:27
+-34.858102253,-58.192869532,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,17,2026-08-07 14:34,2026-08-07,14:14:27
+-34.857642348,-58.191188792,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,18,2026-08-07 14:34,2026-08-07,14:14:27
+-34.859890537,-58.196728152,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,20,2026-08-07 14:34,2026-08-07,14:14:27
+-34.859170385,-58.195645700,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,17,2026-08-07 14:34,2026-08-07,14:14:27
+-34.859428194,-58.195054196,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,18,2026-08-07 14:34,2026-08-07,14:14:27
+-34.859054666,-58.193708301,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,16,2026-08-07 14:34,2026-08-07,14:14:27
+-34.858856894,-58.192996669,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,13,2026-08-07 14:34,2026-08-07,14:14:27
+-34.858717271,-58.192494281,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,19,2026-08-07 14:34,2026-08-07,14:14:27
+-34.860425726,-58.197815446,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,22,2026-08-07 14:34,2026-08-07,14:14:27
+-34.859939340,-58.196015446,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,15,2026-08-07 14:34,2026-08-07,14:14:27
+-34.859827265,-58.195386898,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,32,2026-08-07 14:34,2026-08-07,14:14:27
+-34.860890471,-58.196830260,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,27,2026-08-07 14:34,2026-08-07,14:14:27
+-34.859921826,-58.194144350,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,18,2026-08-07 14:34,2026-08-07,14:14:27
+-34.860775948,-58.195004583,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,18,2026-08-07 14:34,2026-08-07,14:14:27
+-34.861411677,-58.195742655,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,14,2026-08-07 14:34,2026-08-07,14:14:27
+-34.866196461,-58.180509777,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,81,2026-08-07 14:34,2026-08-07,14:14:27
+-34.869782359,-58.184463320,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,65,2026-08-07 14:34,2026-08-07,14:14:27
+-34.860325070,-58.193278612,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,11,2026-08-07 14:34,2026-08-07,14:14:27
+-34.857885104,-58.191004824,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,5,2026-08-07 14:34,2026-08-07,14:14:27
+-34.868142347,-58.184959447,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,214,2026-08-07 14:34,2026-08-07,14:14:27
+-34.865174852,-58.183441668,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,185,2026-08-07 14:34,2026-08-07,14:14:27
+-34.865033172,-58.191931380,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,216,2026-08-07 14:34,2026-08-07,14:14:27
+-34.864465107,-58.189770887,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,172,2026-08-07 14:34,2026-08-07,14:14:27
+-34.562751239,-58.458613412,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr1/114-5518,186,2026-08-07 13:20,2026-08-07,14:14:27
+-34.705650592,-58.522506741,12,media,Edenor,La Matanza,Aldo Bonzi,S/D,R:Matanza/65-Tr1/65-5518,306,2026-08-07 13:00,2026-08-07,14:14:27
+-34.704855208,-58.519146877,12,media,Edenor,La Matanza,Aldo Bonzi,S/D,R:Matanza/65-Tr1/65-5518,293,2026-08-07 13:00,2026-08-07,14:14:27
+-34.514183985,-58.575846456,12,media,Edenor,Gral San Martin,Gral Eugenio Necochea,S/D,R:J. L. Suarez/266-Tr2/266-5527,521,2026-08-07 13:30,2026-08-07,14:14:27
+-34.727209472,-58.553776436,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Casanova/63-Tr2/63-5531,277,2026-08-07 13:00,2026-08-07,14:14:27
+-34.701581556,-58.524364932,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr1/65-5518,98,2026-08-07 13:00,2026-08-07,14:14:27
+-34.563359089,-58.934061643,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,93,2026-08-07 13:00,2026-08-07,14:14:27
+-34.599903941,-58.935333549,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr5/169-5562,190,2026-08-07 13:00,2026-08-07,14:14:27
+-34.429237808,-58.581972637,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5521,132,Sin Datos,2026-08-07,14:14:27
+-34.370216439,-58.767915553,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,53,2026-08-07 13:05,2026-08-07,14:14:27
+-34.328420074,-58.586087972,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,18,Sin Datos,2026-08-07,14:14:27
+-34.332631626,-58.584317551,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,26,Sin Datos,2026-08-07,14:14:27
+-34.324791451,-58.584427961,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,16,Sin Datos,2026-08-07,14:14:27
+-34.309727793,-58.588469477,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,40,Sin Datos,2026-08-07,14:14:27
+-34.304101250,-58.589360325,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,9,Sin Datos,2026-08-07,14:14:27
+-34.296989832,-58.589856540,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,68,Sin Datos,2026-08-07,14:14:27
+-34.289506309,-58.586988895,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,12,Sin Datos,2026-08-07,14:14:27
+-34.322457366,-58.573316435,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,18,Sin Datos,2026-08-07,14:14:27
+-34.313685854,-58.571598320,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,25,Sin Datos,2026-08-07,14:14:27
+-34.302475925,-58.573861697,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,23,Sin Datos,2026-08-07,14:14:27
+-34.316858557,-58.585694477,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,Sin Datos,2026-08-07,14:14:27
+-34.287068459,-58.585538815,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,30,Sin Datos,2026-08-07,14:14:27
+-34.329008628,-58.574953358,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,3,Sin Datos,2026-08-07,14:14:27
+-34.282987472,-58.598019239,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,3,Sin Datos,2026-08-07,14:14:27
+-34.282694393,-58.615533810,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,Sin Datos,2026-08-07,14:14:27
+-34.281073965,-58.606036898,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,Sin Datos,2026-08-07,14:14:27
+-34.280592131,-58.606638504,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,Sin Datos,2026-08-07,14:14:27
+-34.327378764,-58.598350378,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,56,Sin Datos,2026-08-07,14:14:27
+-34.317976337,-58.600386818,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,31,Sin Datos,2026-08-07,14:14:27
+-34.277122641,-58.617328086,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,46,Sin Datos,2026-08-07,14:14:27
+-34.332077683,-58.595455341,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,39,Sin Datos,2026-08-07,14:14:27
+-34.312225714,-58.602400476,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,22,Sin Datos,2026-08-07,14:14:27
+-34.304402944,-58.603920274,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,5,Sin Datos,2026-08-07,14:14:27
+-34.284253381,-58.601639277,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,39,Sin Datos,2026-08-07,14:14:27
+-34.283011171,-58.606666298,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,40,Sin Datos,2026-08-07,14:14:27
+-34.290376568,-58.604267661,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,26,Sin Datos,2026-08-07,14:14:27
+-34.316302811,-58.601804282,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,11,Sin Datos,2026-08-07,14:14:27
+-34.276509605,-58.623738124,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,Sin Datos,2026-08-07,14:14:27
+-34.284267264,-58.617366494,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,13,Sin Datos,2026-08-07,14:14:27
+-34.295147933,-58.603446511,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,15,Sin Datos,2026-08-07,14:14:27
+-34.369978736,-58.506648971,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,1,Sin Datos,2026-08-07,14:14:27
+-34.388586706,-58.530575065,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,3,Sin Datos,2026-08-07,14:14:27
+-34.376694308,-58.522460244,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,22,Sin Datos,2026-08-07,14:14:27
+-34.374584057,-58.519370646,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,2,Sin Datos,2026-08-07,14:14:27
+-34.370462224,-58.518667042,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,9,Sin Datos,2026-08-07,14:14:27
+-34.374981789,-58.502151714,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,4,Sin Datos,2026-08-07,14:14:27
+-34.334880174,-58.531719482,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,2,Sin Datos,2026-08-07,14:14:27
+-34.312360045,-58.540663126,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,9,Sin Datos,2026-08-07,14:14:27
+-34.324417071,-58.500087163,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,2,Sin Datos,2026-08-07,14:14:27
+-34.317637192,-58.519044119,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,1,Sin Datos,2026-08-07,14:14:27
+-34.332542105,-58.511704574,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,4,Sin Datos,2026-08-07,14:14:27
+-34.333695285,-58.505274792,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,1,Sin Datos,2026-08-07,14:14:27
+-34.318723988,-58.534047967,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,6,Sin Datos,2026-08-07,14:14:27
+-34.374163371,-58.496356393,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,1,Sin Datos,2026-08-07,14:14:27
+-34.312871793,-58.512384830,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,1,Sin Datos,2026-08-07,14:14:27
+-34.334334907,-58.506572832,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,3,Sin Datos,2026-08-07,14:14:27
+-34.314133371,-58.532329527,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,1,Sin Datos,2026-08-07,14:14:27
+-34.338691022,-58.485684972,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,1,Sin Datos,2026-08-07,14:14:27
+-34.322946864,-58.498039400,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,1,Sin Datos,2026-08-07,14:14:27
+-34.359326354,-58.491354733,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,1,Sin Datos,2026-08-07,14:14:27
+-34.333759160,-58.513133316,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,1,Sin Datos,2026-08-07,14:14:27
+-34.360200204,-58.502092390,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,17,Sin Datos,2026-08-07,14:14:27
+-34.385399832,-58.530822252,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,2,Sin Datos,2026-08-07,14:14:27
+-34.314930035,-58.534574950,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,4,Sin Datos,2026-08-07,14:14:27
+-34.307593565,-58.536181417,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,6,Sin Datos,2026-08-07,14:14:27
+-34.307000075,-58.533444764,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,2,Sin Datos,2026-08-07,14:14:27
+-34.309043526,-58.544577576,12,media,Edenor,Tigre,Nordelta,S/D,N:Tigre/153-Tr1/153-5517,1,Sin Datos,2026-08-07,14:14:27
+-34.391026786,-58.527208227,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,10,Sin Datos,2026-08-07,14:14:27
+-34.346232372,-58.546970649,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,1,Sin Datos,2026-08-07,14:14:27
+-34.350199669,-58.546682841,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,3,Sin Datos,2026-08-07,14:14:27
+-34.339572210,-58.548099543,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,1,Sin Datos,2026-08-07,14:14:27
+-34.332745819,-58.532434543,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,3,Sin Datos,2026-08-07,14:14:27
+-34.332016063,-58.504031129,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,6,Sin Datos,2026-08-07,14:14:27
+-34.361105904,-58.504742578,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,3,Sin Datos,2026-08-07,14:14:27
+-34.344220203,-58.547253039,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,1,Sin Datos,2026-08-07,14:14:27
+-34.355155193,-58.546018898,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,7,Sin Datos,2026-08-07,14:14:27
+-34.330860214,-58.552270029,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,3,Sin Datos,2026-08-07,14:14:27
+-34.363663850,-58.513655480,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,1,Sin Datos,2026-08-07,14:14:27
+-34.349839831,-58.513975754,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,4,Sin Datos,2026-08-07,14:14:27
+-34.368877236,-58.515236833,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,3,Sin Datos,2026-08-07,14:14:27
+-34.335236596,-58.550573783,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,2,Sin Datos,2026-08-07,14:14:27
+-34.392386918,-58.528332590,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,2,Sin Datos,2026-08-07,14:14:27
+-34.340255048,-58.524269418,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,2,Sin Datos,2026-08-07,14:14:27
+-34.335956929,-58.531554528,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,1,Sin Datos,2026-08-07,14:14:27
+-34.325566791,-58.529779837,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,1,Sin Datos,2026-08-07,14:14:27
+-34.375627596,-58.525475168,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,1,Sin Datos,2026-08-07,14:14:27
+-34.344349888,-58.527968050,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,2,Sin Datos,2026-08-07,14:14:27
+-34.339443618,-58.530204840,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,2,Sin Datos,2026-08-07,14:14:27
+-34.355634230,-58.507785695,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,19,Sin Datos,2026-08-07,14:14:27
+-34.363548861,-58.506760230,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,11,Sin Datos,2026-08-07,14:14:27
+-34.386908718,-58.532856871,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,4,Sin Datos,2026-08-07,14:14:27
+-34.354158257,-58.508846650,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,12,Sin Datos,2026-08-07,14:14:27
+-34.377910665,-58.552755884,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,18,Sin Datos,2026-08-07,14:14:27
+-34.376819905,-58.555710030,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,73,Sin Datos,2026-08-07,14:14:27
+-34.351320981,-58.512273584,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,9,Sin Datos,2026-08-07,14:14:27
+-34.382421115,-58.546167989,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,25,Sin Datos,2026-08-07,14:14:27
+-34.385481000,-58.539133963,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,2,Sin Datos,2026-08-07,14:14:27
+-34.355560015,-58.536888192,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,54,Sin Datos,2026-08-07,14:14:27
+-34.363075184,-58.536677673,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,37,Sin Datos,2026-08-07,14:14:27
+-34.356089724,-58.544381255,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,12,Sin Datos,2026-08-07,14:14:27
+-34.360294221,-58.542173707,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,38,Sin Datos,2026-08-07,14:14:27
+-34.371498969,-58.535342001,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,18,Sin Datos,2026-08-07,14:14:27
+-34.368785187,-58.529725781,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,46,Sin Datos,2026-08-07,14:14:27
+-34.366002350,-58.540220484,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,11,Sin Datos,2026-08-07,14:14:27
+-34.377951398,-58.533891273,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,33,Sin Datos,2026-08-07,14:14:27
+-34.376957744,-58.536259303,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,19,Sin Datos,2026-08-07,14:14:27
+-34.383197657,-58.534078308,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,5,Sin Datos,2026-08-07,14:14:27
+-34.347907112,-58.520250377,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,3,Sin Datos,2026-08-07,14:14:27
+-34.368076225,-58.526337946,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,47,Sin Datos,2026-08-07,14:14:27
+-34.344573299,-58.539353344,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,12,Sin Datos,2026-08-07,14:14:27
+-34.346961922,-58.544689928,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,30,Sin Datos,2026-08-07,14:14:27
+-34.362009772,-58.527990676,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,6,Sin Datos,2026-08-07,14:14:27
+-34.353607379,-58.527212143,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,3,Sin Datos,2026-08-07,14:14:27
+-34.343364427,-58.528266113,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,23,Sin Datos,2026-08-07,14:14:27
+-34.386683346,-58.537556584,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,5,Sin Datos,2026-08-07,14:14:27
+-34.393988852,-58.527127723,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,20,Sin Datos,2026-08-07,14:14:27
+-34.325895749,-58.533813765,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,22,Sin Datos,2026-08-07,14:14:27
+-34.330956419,-58.538890176,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,12,Sin Datos,2026-08-07,14:14:27
+-34.339435280,-58.540332459,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,11,Sin Datos,2026-08-07,14:14:27
+-34.345416270,-58.519823795,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,2,Sin Datos,2026-08-07,14:14:27
+-34.345941979,-58.517684995,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,2,Sin Datos,2026-08-07,14:14:27
+-34.345976349,-58.524159342,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,7,Sin Datos,2026-08-07,14:14:27
+-34.380605099,-58.549367336,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,12,Sin Datos,2026-08-07,14:14:27
+-34.361090902,-58.510236246,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,11,Sin Datos,2026-08-07,14:14:27
+-34.365763835,-58.509026274,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,14,Sin Datos,2026-08-07,14:14:27
+-34.373176561,-58.503745812,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,1,Sin Datos,2026-08-07,14:14:27
+-34.377546903,-58.499740290,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,2,Sin Datos,2026-08-07,14:14:27
+-34.343648755,-58.521164712,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,3,Sin Datos,2026-08-07,14:14:27
+-34.335556818,-58.527011012,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,12,Sin Datos,2026-08-07,14:14:27
+-34.329584301,-58.528480359,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,10,Sin Datos,2026-08-07,14:14:27
+-34.326400035,-58.529315510,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,2,Sin Datos,2026-08-07,14:14:27
+-34.358701975,-58.501745977,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Tigre/153-Tr1/153-5517,11,Sin Datos,2026-08-07,14:14:27
+-34.162171201,-58.525932076,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.166970866,-58.523329165,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.086999618,-58.602952932,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.075028719,-58.595864432,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,9,Sin Datos,2026-08-07,14:14:27
+-34.221921046,-58.601023281,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.242768729,-58.599861242,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.231366305,-58.595229767,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.222664111,-58.597227796,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-08-07,14:14:27
+-34.209966581,-58.603746128,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,6,Sin Datos,2026-08-07,14:14:27
+-34.200634370,-58.608634490,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.197136762,-58.610765036,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.192107320,-58.607165077,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.185372640,-58.602743427,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.180780023,-58.600211148,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,14,Sin Datos,2026-08-07,14:14:27
+-34.208868575,-58.586723097,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.229359188,-58.584659967,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-08-07,14:14:27
+-34.213875591,-58.573392683,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.168355477,-58.614263754,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,17,Sin Datos,2026-08-07,14:14:27
+-34.168384314,-58.620761599,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,7,Sin Datos,2026-08-07,14:14:27
+-34.168474272,-58.626883522,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-08-07,14:14:27
+-34.168249960,-58.629997217,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.167329482,-58.641559087,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.167094742,-58.645914747,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.166570761,-58.648819391,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.165449444,-58.653029468,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-08-07,14:14:27
+-34.168819221,-58.670181524,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.170476203,-58.683676020,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,6,Sin Datos,2026-08-07,14:14:27
+-34.172048227,-58.693588989,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.158603699,-58.633657194,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.153655973,-58.636107286,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.142324597,-58.632233894,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.140230830,-58.630595809,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.133417624,-58.626082282,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.132561073,-58.624517815,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.118630563,-58.614086883,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.093574512,-58.604624216,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,6,Sin Datos,2026-08-07,14:14:27
+-34.102233028,-58.580977932,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,7,Sin Datos,2026-08-07,14:14:27
+-34.131611416,-58.592838530,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.122557546,-58.648399084,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,5,Sin Datos,2026-08-07,14:14:27
+-34.130015097,-58.625004998,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.216003680,-58.652915279,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.218782637,-58.451473109,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.227238783,-58.434336389,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.223935758,-58.428761588,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.225255235,-58.421292443,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.254253226,-58.433639926,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.170138950,-58.571169021,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.095210131,-58.582199582,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.207519619,-58.583333545,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.221637198,-58.437895150,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-08-07,14:14:27
+-34.144061030,-58.573670984,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.148032073,-58.565781937,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.188862999,-58.498653210,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.169253660,-58.521182685,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-08-07,14:14:27
+-34.153016970,-58.538491869,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,5,Sin Datos,2026-08-07,14:14:27
+-34.159201301,-58.525672956,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.165321507,-58.524284471,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,7,Sin Datos,2026-08-07,14:14:27
+-34.133744909,-58.587498199,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.198964935,-58.542859084,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,5,Sin Datos,2026-08-07,14:14:27
+-34.192562902,-58.543511928,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-08-07,14:14:27
+-34.164906624,-58.540023386,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.177232949,-58.614115843,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.122822817,-58.587455710,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.241950387,-58.495328902,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,17,Sin Datos,2026-08-07,14:14:27
+-34.168888985,-58.591264340,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.163930337,-58.588227420,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.161590790,-58.587105929,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.154392372,-58.581956647,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.247099225,-58.593824223,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.239670874,-58.488612824,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,23,Sin Datos,2026-08-07,14:14:27
+-34.229231658,-58.486799725,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,14,Sin Datos,2026-08-07,14:14:27
+-34.216760572,-58.498825190,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,12,Sin Datos,2026-08-07,14:14:27
+-34.197934829,-58.499507548,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-08-07,14:14:27
+-34.192894052,-58.493066220,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,10,Sin Datos,2026-08-07,14:14:27
+-34.250920781,-58.500706273,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,24,Sin Datos,2026-08-07,14:14:27
+-34.225131684,-58.561919891,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.219030999,-58.561025595,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.210195707,-58.560757951,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.189350668,-58.568805653,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,5,Sin Datos,2026-08-07,14:14:27
+-34.178155531,-58.568953177,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.208328280,-58.469334008,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-08-07,14:14:27
+-34.168482383,-58.665369755,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-08-07,14:14:27
+-34.231248680,-58.583283140,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.145050841,-58.564872652,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.147283080,-58.558047333,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-08-07,14:14:27
+-34.149562721,-58.551083095,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,7,Sin Datos,2026-08-07,14:14:27
+-34.148674320,-58.531020900,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.148726168,-58.522616496,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.164300558,-58.520980171,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.171802597,-58.513869818,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-08-07,14:14:27
+-34.187811877,-58.492469924,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,17,Sin Datos,2026-08-07,14:14:27
+-34.190899341,-58.485358238,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.166461737,-58.608872213,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.166944772,-58.605583865,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-08-07,14:14:27
+-34.173590256,-58.512343370,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.119817098,-58.515020296,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-08-07,14:14:27
+-34.156129956,-58.635464561,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.238849693,-58.640729559,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.217631575,-58.434974033,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.114736287,-58.576985087,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-08-07,14:14:27
+-34.118149049,-58.513367144,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.123999835,-58.515318955,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.108069936,-58.576362272,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.114398145,-58.511368739,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.120271399,-58.511676907,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.166318103,-58.650791123,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.204671977,-58.607415589,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.183283362,-58.601475369,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.179710294,-58.506148513,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.087946385,-58.503584710,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,5,Sin Datos,2026-08-07,14:14:27
+-34.108298121,-58.469349734,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-08-07,14:14:27
+-34.199510860,-58.474812035,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.121706245,-58.512509469,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.206792815,-58.606070405,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.206537801,-58.465751524,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.148391123,-58.527122493,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.210201850,-58.579020471,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.145835558,-58.534067031,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.218806922,-58.429929354,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,5,Sin Datos,2026-08-07,14:14:27
+-34.122138142,-58.580638660,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.193338500,-58.483000952,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.128736047,-58.585145334,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.213702478,-58.450090844,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.181151505,-58.509845390,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.097587333,-58.483975926,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.147919734,-58.554837206,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,5,Sin Datos,2026-08-07,14:14:27
+-34.181130477,-58.618752162,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.195867497,-58.623354801,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-08-07,14:14:27
+-34.206460675,-58.628710656,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.218303475,-58.632697055,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,5,Sin Datos,2026-08-07,14:14:27
+-34.219169018,-58.634993824,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,6,Sin Datos,2026-08-07,14:14:27
+-34.212187776,-58.643305108,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.189211152,-58.651275494,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.178846163,-58.598680009,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.192684858,-58.634919388,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,12,Sin Datos,2026-08-07,14:14:27
+-34.207191811,-58.639751868,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.242204223,-58.601365004,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.174134659,-58.612803677,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.199663591,-58.561184192,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.223217377,-58.432125375,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.115259389,-58.582741846,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.178845333,-58.614588795,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.139968608,-58.532547535,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.173093084,-58.600374663,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.175793768,-58.510449786,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.216476759,-58.439967420,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.143042270,-58.568140722,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.124771573,-58.582308714,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.098147563,-58.494087021,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.148644671,-58.540222778,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,5,Sin Datos,2026-08-07,14:14:27
+-34.225671834,-58.594135129,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-08-07,14:14:27
+-34.100640280,-58.499936136,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,5,Sin Datos,2026-08-07,14:14:27
+-34.174458924,-58.511600998,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.159906982,-58.567688104,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.120067787,-58.454975893,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.140684816,-58.577837597,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.135389378,-58.525082154,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.153548131,-58.519720801,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.199007087,-58.622314250,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,5,Sin Datos,2026-08-07,14:14:27
+-34.208792495,-58.655222311,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.215835213,-58.643792841,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.215550241,-58.641244612,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.178689463,-58.507660578,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.197068360,-58.478267968,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.147453523,-58.631603493,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.142642667,-58.454683718,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.145943532,-58.453580755,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.098561145,-58.581556899,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.096649781,-58.496641573,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.151814065,-58.450215586,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.201818859,-58.471994717,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.139409707,-58.455763130,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.224542687,-58.424751754,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.160128079,-58.632085139,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.171420120,-58.544867310,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.149011273,-58.452081152,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.150314393,-58.542713087,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.131324245,-58.456923585,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.143780853,-58.532219287,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.153601069,-58.592028839,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.118732007,-58.442867892,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.107431389,-58.505259718,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.159574661,-58.484547791,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.137345054,-58.530206031,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.167405969,-58.440294148,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.169842265,-58.443104087,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.159536377,-58.602034587,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.166382959,-58.433352697,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.145160874,-58.450769999,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.199212918,-58.481276826,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.150827315,-58.547215754,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.162267559,-58.482013377,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.161599987,-58.605070890,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.132276612,-58.453738972,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.125464423,-58.453928713,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.177536815,-58.509001370,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.206073872,-58.557765595,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.179180259,-58.506916019,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.184994684,-58.450890715,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-08-07,14:14:27
+-34.177711327,-58.457656781,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.117359636,-58.496020485,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.153218053,-58.486867620,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-08-07,14:14:27
+-34.146937772,-58.487846933,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.179764586,-58.542841506,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.175113353,-58.416098627,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.143981237,-58.488210890,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,5,Sin Datos,2026-08-07,14:14:27
+-34.102025944,-58.493397301,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.137762035,-58.452956163,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.139161069,-58.488876160,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-08-07,14:14:27
+-34.123823292,-58.494773693,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.134560955,-58.456572567,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.110072589,-58.496121283,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.124162619,-58.518863930,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.135495195,-58.490277504,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.129689199,-58.492683194,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.139943962,-58.452400358,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.173528581,-58.445103405,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.230941887,-58.644240967,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.233961181,-58.596202077,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.169233237,-58.603164599,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.166031586,-58.639033295,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.135474647,-58.415973609,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.166310509,-58.524489246,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-08-07,14:14:27
+-34.098154284,-58.579190528,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.173077899,-58.420316207,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.094071962,-58.580364756,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.161581975,-58.438447377,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.176254300,-58.490233877,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-08-07,14:14:27
+-34.154324172,-58.498956798,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.146440072,-58.538433002,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.143202912,-58.403487776,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.186904902,-58.488970702,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.144663204,-58.521813680,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.086429893,-58.583797277,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.094642985,-58.488658606,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.124804239,-58.429443581,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.112237494,-58.576493885,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.226676680,-58.415762647,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.094627959,-58.604499315,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.122527631,-58.615800860,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.173627390,-58.489869084,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.180664658,-58.452559169,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.156859786,-58.446346170,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.151112132,-58.447220086,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.212713501,-58.585605500,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.091987852,-58.493641356,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.151720325,-58.557303443,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.160695347,-58.619092723,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.238822984,-58.598454971,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.244910489,-58.642988149,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.188056178,-58.541000580,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.176564350,-58.412298789,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.241985293,-58.641837590,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.168932469,-58.438510342,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.181042731,-58.406862964,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.175353834,-58.422174163,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.163852131,-58.607288978,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.215361524,-58.447598173,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.074378875,-58.593989385,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.176358061,-58.488786269,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-08-07,14:14:27
+-34.230901272,-58.640187232,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.240626193,-58.641389952,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.172105807,-58.693975440,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.228686047,-58.636674544,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.075068453,-58.593348434,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.170382964,-58.431958659,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.178136249,-58.618470611,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.248309088,-58.427621223,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.179106714,-58.415992033,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.181797817,-58.490232717,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.157158209,-58.541970014,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.106007912,-58.576208051,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,7,Sin Datos,2026-08-07,14:14:27
+-34.153210718,-58.449196684,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.164224014,-58.648090767,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.154129634,-58.546247059,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.154065568,-58.547360977,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.229184793,-58.415414699,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.165272812,-58.646808488,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-08-07,14:14:27
+-34.189765892,-58.407952108,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-08-07,14:14:27
+-34.094399621,-58.494836576,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.167715352,-58.491041481,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.174800916,-58.596537407,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.228639438,-58.594164584,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-08-07,14:14:27
+-34.376745533,-58.747047801,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr4/154-5483,78,Sin Datos,2026-08-07,14:14:27
+-34.370463402,-58.744148893,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr4/154-5483,46,Sin Datos,2026-08-07,14:14:27
+-34.369045700,-58.742209084,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr4/154-5483,43,Sin Datos,2026-08-07,14:14:27
+-34.700897899,-58.676675979,12,media,Edenor,Merlo,Libertad,S/D,R:Pontevedra/261-Tr2/261-5527,397,2026-08-07 13:00,2026-08-07,14:14:27
+-34.789876411,-58.625665491,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5525,310,2026-08-07 14:00,2026-08-07,14:14:27
+-34.551004712,-58.679863295,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Ara San Juan/362-Tr1/362-5511,102,2026-08-07 14:00,2026-08-07,14:14:27
+-34.545885994,-58.687873837,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Ara San Juan/362-Tr1/362-5511,2,2026-08-07 14:00,2026-08-07,14:14:27
+-34.549217361,-58.677864513,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Ara San Juan/362-Tr1/362-5511,3,2026-08-07 14:00,2026-08-07,14:14:27
+-34.547898959,-58.684117601,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Ara San Juan/362-Tr1/362-5511,285,2026-08-07 14:00,2026-08-07,14:14:27
+-34.546304496,-58.686305140,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Ara San Juan/362-Tr1/362-5511,67,2026-08-07 14:00,2026-08-07,14:14:27
+-34.4616,-58.5209,22,baja,Edenor,San Isidro,Beccar,,,16,,2026-08-07,14:14:27
+-34.5202,-58.781,22,baja,Edenor,Jose C Paz,Jose C Paz,,,6,,2026-08-07,14:14:27
+-34.7721,-58.2372,21,baja,Edesur,Berazategui,Berazategui,,,11,,2026-08-07,14:14:27
+-34.8519,-58.3663,21,baja,Edesur,Almirante Brown,Ministro Rivadavia,,,10,,2026-08-07,14:14:27
+-34.8088,-58.3792,21,baja,Edesur,Pte Peron,San Pablo,,,13,,2026-08-07,14:14:27
+-34.7957,-58.4757,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,12,,2026-08-07,14:14:27
+-34.7618,-58.1885,21,baja,Edesur,Berazategui,Berazategui,,,27,,2026-08-07,14:14:27
+-34.8524,-58.476,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,27,,2026-08-07,14:14:27
+-34.7911,-58.3289,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,5,,2026-08-07,14:14:27
+-34.891,-58.1667,21,baja,Edesur,Berazategui,El Pato,,,5,,2026-08-07,14:14:27
+-34.6515,-58.4321,21,baja,Edesur,Capital,Nueva Pompeya,,,7,,2026-08-07,14:14:27
+-34.7797,-58.2737,21,baja,Edesur,Florencio Varela,Florencio Varela,,,12,,2026-08-07,14:14:27
+-34.6603,-58.3629,21,baja,Edesur,Avellaneda,Avellaneda,,,71,,2026-08-07,14:14:27
+-34.6242,-58.447,21,baja,Edesur,Capital,Caballito,,,9,,2026-08-07,14:14:27
+-34.628,-58.4297,21,baja,Edesur,Capital,Parque Chacabuco,,,35,,2026-08-07,14:14:27
+-34.6442,-58.5035,21,baja,Edesur,Capital,Villa Luro,,,9,,2026-08-07,14:14:27
+-34.7878,-58.2624,21,baja,Edesur,Florencio Varela,Florencio Varela,,,31,,2026-08-07,14:14:27
+-34.6002,-58.5047,21,baja,Edesur,Capital,Capital,,,6,,2026-08-07,14:14:27
+-34.6139,-58.4237,21,baja,Edesur,Capital,Almagro,,,9,,2026-08-07,14:14:27
+-34.7833,-58.3537,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,31,,2026-08-07,14:14:27
+-34.6123,-58.4931,21,baja,Edesur,Capital,Villa Del Parque,,,5,,2026-08-07,14:14:27
+-34.7711,-58.478,21,baja,Edesur,Esteban Echeverria,9 De Abril,,,6,,2026-08-07,14:14:27
+-34.819,-58.4084,21,baja,Edesur,Almirante Brown,Adrogue,,,35,,2026-08-07,14:14:27
+-34.7769,-58.2819,21,baja,Edesur,Florencio Varela,Florencio Varela,,,21,,2026-08-07,14:14:27
+-34.7807,-58.1916,21,baja,Edesur,Berazategui,Platanos,,,10,,2026-08-07,14:14:27
+-34.5938,-58.4409,21,baja,Edesur,Capital,Villa Crespo,,,11,,2026-08-07,14:14:27
+-34.7546,-58.3747,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,3,,2026-08-07,14:14:27
+-34.9997,-58.3961,21,baja,Edesur,San Vicente,San Vicente,,,11,,2026-08-07,14:14:27
+-34.7375,-58.2463,21,baja,Edesur,Quilmes,Quilmes,,,5,,2026-08-07,14:14:27
+-34.8231,-58.3952,21,baja,Edesur,Almirante Brown,Burzaco,,,6,,2026-08-07,14:14:27
+-34.8005,-58.3122,21,baja,Edesur,Florencio Varela,Florencio Varela,,,18,,2026-08-07,14:14:27
+-34.7515,-58.3231,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,27,,2026-08-07,14:14:27
+-34.5961,-58.4508,21,baja,Edesur,Capital,Villa Crespo,,,12,,2026-08-07,14:14:27
+-34.7261,-58.3074,21,baja,Edesur,Quilmes,Bernal,,,24,,2026-08-07,14:14:27
+-34.6044,-58.4933,21,baja,Edesur,Capital,Villa Del Parque,,,15,,2026-08-07,14:14:27
+-34.6382,-58.4574,21,baja,Edesur,Capital,Capital,,,18,,2026-08-07,14:14:27
+-34.7743,-58.3146,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,18,,2026-08-07,14:14:27
+-34.645,-58.3695,21,baja,Edesur,Capital,Barracas,,,77,,2026-08-07,14:14:27
+-34.7233,-58.3254,21,baja,Edesur,Quilmes,Bernal,,,7,,2026-08-07,14:14:27
+-34.775,-58.2209,21,baja,Edesur,Berazategui,Berazategui,,,5,,2026-08-07,14:14:27
+-34.6236,-58.5097,21,baja,Edesur,Capital,Monte Castro,,,19,,2026-08-07,14:14:27
+-34.6856,-58.3306,21,baja,Edesur,Avellaneda,Sarandi,,,20,,2026-08-07,14:14:27
+-34.6038,-58.5106,21,baja,Edesur,Capital,Villa Devoto,,,9,,2026-08-07,14:14:27
+-34.7211,-58.4686,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,7,,2026-08-07,14:14:27
+-34.8027,-58.2979,21,baja,Edesur,Florencio Varela,Florencio Varela,,,3,,2026-08-07,14:14:27
+-34.8156,-58.4213,21,baja,Edesur,Almirante Brown,Burzaco,,,22,,2026-08-07,14:14:27
+-34.6335,-58.4521,21,baja,Edesur,Capital,Parque Chacabuco,,,6,,2026-08-07,14:14:27
+-34.6786,-58.4816,21,baja,Edesur,Capital,Villa Lugano,,,15,,2026-08-07,14:14:27
+-34.6579,-58.428,21,baja,Edesur,Capital,Nueva Pompeya,,,7,,2026-08-07,14:14:27
+-34.6114,-58.505,21,baja,Edesur,Capital,Villa Devoto,,,11,,2026-08-07,14:14:27
+-34.6892,-58.317,21,baja,Edesur,Avellaneda,Villa Dominico,,,4,,2026-08-07,14:14:27
+-34.6057,-58.4547,21,baja,Edesur,Capital,Caballito,,,42,,2026-08-07,14:14:27
+-34.685,-58.3391,21,baja,Edesur,Avellaneda,Villa Dominico,,,4,,2026-08-07,14:14:27
+-34.8094,-58.1789,21,baja,Edesur,Berazategui,Berazategui,,,7,,2026-08-07,14:14:27
+-34.7998,-58.2318,21,baja,Edesur,Berazategui,Sourigues,,,1,,2026-08-07,14:14:27
