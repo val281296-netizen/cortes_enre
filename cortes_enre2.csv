@@ -131081,3 +131081,59 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7118,-58.283,21,baja,Edesur,Quilmes,Bernal,,,24,,2026-08-07,19:53:37
 -34.6135,-58.4071,21,baja,Edesur,Capital,Balvanera,,,2,,2026-08-07,19:53:37
 -34.8174,-58.2888,21,baja,Edesur,Florencio Varela,Florencio Varela,,,6,,2026-08-07,19:53:37
+-34.832660406,-58.261571218,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,6,Sin Datos,2026-08-07,21:45:28
+-34.834895498,-58.259656187,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,Sin Datos,2026-08-07,21:45:28
+-34.827710908,-58.252170689,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,2,Sin Datos,2026-08-07,21:45:28
+-34.833949627,-58.260312305,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,3,Sin Datos,2026-08-07,21:45:28
+-34.769203731,-58.368805466,11,media,Edesur,Lomas De Zamora,Temperley,Temperley,N:084-2-23/084-2-23,527,Sin Datos,2026-08-07,21:45:28
+-34.772554827,-58.366959447,11,media,Edesur,Lomas De Zamora,Temperley,Temperley,N:084-2-23/084-2-23,403,Sin Datos,2026-08-07,21:45:28
+-34.606419284,-58.456110990,11,media,Edesur,Capital Gp,Caballito Gp,Villa Crespo,R:147-2-23/147-2-23,420,Sin Datos,2026-08-07,21:45:28
+-34.604007149,-58.459066987,11,media,Edesur,Capital Gp,La Paternal,Villa Crespo,R:147-2-23/147-2-23,509,Sin Datos,2026-08-07,21:45:28
+-34.723245672,-58.412137959,11,media,Edesur,Lanus,Remedios De Escalada,Heroes De Malvinas,R:076-2-26/076-2-26,597,Sin Datos,2026-08-07,21:45:28
+-34.383245013,-58.816333610,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr4/51-5482/4-5523,327,Sin Datos,2026-08-07,21:45:28
+-34.373548740,-58.812708059,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5482/4-5523,142,Sin Datos,2026-08-07,21:45:28
+-34.375277706,-58.814409584,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5482/4-5523,2,Sin Datos,2026-08-07,21:45:28
+-34.378425658,-58.817858860,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr4/51-5482/4-5523,199,Sin Datos,2026-08-07,21:45:28
+-34.380714476,-58.814904362,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr4/51-5482/4-5523,250,Sin Datos,2026-08-07,21:45:28
+-34.377500009,-58.813147628,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5482/4-5523,36,Sin Datos,2026-08-07,21:45:28
+-34.885403931,-58.899646886,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2026-08-07 21:00,2026-08-07,21:45:28
+-34.879586378,-58.907369180,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,3,2026-08-07 21:00,2026-08-07,21:45:28
+-34.891268963,-58.902645223,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2026-08-07 21:00,2026-08-07,21:45:28
+-34.891008907,-58.902915316,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2026-08-07 21:00,2026-08-07,21:45:28
+-34.886735311,-58.908229328,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2026-08-07 21:00,2026-08-07,21:45:28
+-34.8519,-58.3663,21,baja,Edesur,Almirante Brown,Ministro Rivadavia,,,10,,2026-08-07,21:45:28
+-34.7957,-58.4757,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,12,,2026-08-07,21:45:28
+-34.7911,-58.3289,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,6,,2026-08-07,21:45:28
+-34.8249,-58.4759,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,1,,2026-08-07,21:45:28
+-34.7585,-58.4074,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,16,,2026-08-07,21:45:28
+-34.6442,-58.5035,21,baja,Edesur,Capital,Villa Luro,,,15,,2026-08-07,21:45:28
+-34.6002,-58.5047,21,baja,Edesur,Capital,Capital,,,5,,2026-08-07,21:45:28
+-34.7711,-58.478,21,baja,Edesur,Esteban Echeverria,9 De Abril,,,10,,2026-08-07,21:45:28
+-34.819,-58.4084,21,baja,Edesur,Almirante Brown,Adrogue,,,51,,2026-08-07,21:45:28
+-34.7769,-58.2819,21,baja,Edesur,Florencio Varela,Florencio Varela,,,22,,2026-08-07,21:45:28
+-34.7807,-58.1916,21,baja,Edesur,Berazategui,Platanos,,,10,,2026-08-07,21:45:28
+-34.9997,-58.3961,21,baja,Edesur,San Vicente,San Vicente,,,18,,2026-08-07,21:45:28
+-34.8005,-58.3122,21,baja,Edesur,Florencio Varela,Florencio Varela,,,21,,2026-08-07,21:45:28
+-34.7912,-58.4918,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,25,,2026-08-07,21:45:28
+-34.6616,-58.4455,21,baja,Edesur,Capital,Villa Soldati,,,31,,2026-08-07,21:45:28
+-34.775,-58.2209,21,baja,Edesur,Berazategui,Berazategui,,,10,,2026-08-07,21:45:28
+-34.6038,-58.5106,21,baja,Edesur,Capital,Villa Devoto,,,9,,2026-08-07,21:45:28
+-34.7211,-58.4686,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,9,,2026-08-07,21:45:28
+-34.8286,-58.1709,21,baja,Edesur,Berazategui,Gutierrez,,,6,,2026-08-07,21:45:28
+-34.753,-58.3982,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,9,,2026-08-07,21:45:28
+-34.6786,-58.4816,21,baja,Edesur,Capital,Villa Lugano,,,26,,2026-08-07,21:45:28
+-34.6314,-58.4577,21,baja,Edesur,Capital,Flores,,,6,,2026-08-07,21:45:28
+-34.6042,-58.3876,21,baja,Edesur,Capital,San Nicolas,,,7,,2026-08-07,21:45:28
+-34.8839,-58.1812,21,baja,Edesur,Berazategui,El Pato,,,6,,2026-08-07,21:45:28
+-34.6246,-58.4918,21,baja,Edesur,Capital,Capital,,,22,,2026-08-07,21:45:28
+-34.7409,-58.3923,21,baja,Edesur,Lomas De Zamora,Banfield,,,2,,2026-08-07,21:45:28
+-34.8279,-58.4753,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,21,,2026-08-07,21:45:28
+-34.6679,-58.3851,21,baja,Edesur,Avellaneda,Avellaneda,,,4,,2026-08-07,21:45:28
+-34.7118,-58.283,21,baja,Edesur,Quilmes,Bernal,,,23,,2026-08-07,21:45:28
+-34.6135,-58.4071,21,baja,Edesur,Capital,Balvanera,,,3,,2026-08-07,21:45:28
+-34.8174,-58.2888,21,baja,Edesur,Florencio Varela,Florencio Varela,,,7,,2026-08-07,21:45:28
+-34.8435,-58.4757,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,33,,2026-08-07,21:45:28
+-34.6465,-58.4294,21,baja,Edesur,Capital,Nueva Pompeya,,,10,,2026-08-07,21:45:28
+-34.627,-58.5026,21,baja,Edesur,Capital,Velez Sarfield,,,5,,2026-08-07,21:45:28
+-34.7917,-58.329,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,6,,2026-08-07,21:45:28
+-34.894,-58.3732,21,baja,Edesur,Almirante Brown,Glew,,,3,,2026-08-07,21:45:28
