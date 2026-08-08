@@ -131423,3 +131423,47 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7952,-58.4767,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,28,,2026-08-08,11:34:13
 -34.8389,-58.4888,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,12,,2026-08-08,11:34:13
 -34.7127,-58.3799,21,baja,Edesur,Lanus,Lanus,,,87,,2026-08-08,11:34:13
+-34.619306901,-58.433860520,11,media,Edesur,Capital Gp,Caballito Gp,Caballito,R:122-1-14/122-1-14,29,2026-08-08 11:51,2026-08-08,13:49:22
+-34.653099092,-58.411637038,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-43/039-4-43,308,2026-08-08 12:54,2026-08-08,13:49:22
+-34.615523795,-58.509073360,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-25/038-2-25,664,2026-08-08 18:19,2026-08-08,13:49:22
+-34.617208923,-58.511840428,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-25/038-2-25,763,2026-08-08 18:19,2026-08-08,13:49:22
+-34.615163509,-58.514756282,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-2-25/038-2-25,120,2026-08-08 18:19,2026-08-08,13:49:22
+-34.616514795,-58.509325071,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-25/038-2-25,165,2026-08-08 18:19,2026-08-08,13:49:22
+-34.614747376,-58.517331285,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-2-25/038-2-25,425,2026-08-08 18:19,2026-08-08,13:49:22
+-34.615684627,-58.516970322,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-2-25/038-2-25,358,2026-08-08 18:19,2026-08-08,13:49:22
+-34.534090190,-58.501032816,12,media,Edenor,Vicente Lopez,Florida,S/D,R:Aniversario/52-Tr1/52-5546,581,Sin Datos,2026-08-08,13:49:22
+-34.275731210,-58.689161939,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,Sin Datos,2026-08-08,13:49:22
+-34.280101648,-58.692202136,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,3,Sin Datos,2026-08-08,13:49:22
+-34.283372689,-58.696323262,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,2,Sin Datos,2026-08-08,13:49:22
+-34.267659957,-58.684830546,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,4,Sin Datos,2026-08-08,13:49:22
+-34.265064409,-58.685046512,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,3,Sin Datos,2026-08-08,13:49:22
+-34.270931791,-58.686623779,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,Sin Datos,2026-08-08,13:49:22
+-34.728241347,-58.611427936,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr1/451-5541,425,2026-08-08 13:00,2026-08-08,13:49:22
+-34.3676,-58.6613,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,4,,2026-08-08,13:49:22
+-34.5721,-58.7614,22,baja,Edenor,Moreno,Trujui,,,24,,2026-08-08,13:49:22
+-34.7911,-58.3289,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,14,,2026-08-08,13:49:22
+-34.8249,-58.4759,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,1,,2026-08-08,13:49:22
+-34.7807,-58.1916,21,baja,Edesur,Berazategui,Platanos,,,11,,2026-08-08,13:49:22
+-34.8168,-58.244,21,baja,Edesur,Florencio Varela,Florencio Varela,,,7,,2026-08-08,13:49:22
+-34.753,-58.3982,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,9,,2026-08-08,13:49:22
+-34.8839,-58.1812,21,baja,Edesur,Berazategui,El Pato,,,11,,2026-08-08,13:49:22
+-34.7512,-58.453,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,13,,2026-08-08,13:49:22
+-34.7409,-58.3923,21,baja,Edesur,Lomas De Zamora,Banfield,,,2,,2026-08-08,13:49:22
+-34.8279,-58.4753,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,39,,2026-08-08,13:49:22
+-34.6359,-58.4051,21,baja,Edesur,Capital,Parque Patricios,,,9,,2026-08-08,13:49:22
+-34.6166,-58.5127,21,baja,Edesur,Capital,Monte Castro,,,5,,2026-08-08,13:49:22
+-34.8435,-58.4757,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,71,,2026-08-08,13:49:22
+-34.743,-58.4372,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,30,,2026-08-08,13:49:22
+-34.624,-58.4472,21,baja,Edesur,Capital,Caballito,,,5,,2026-08-08,13:49:22
+-34.8732,-58.3722,21,baja,Edesur,Almirante Brown,Glew,,,5,,2026-08-08,13:49:22
+-34.6319,-58.468,21,baja,Edesur,Capital,Capital,,,67,,2026-08-08,13:49:22
+-34.8138,-58.3188,21,baja,Edesur,Florencio Varela,Florencio Varela,,,15,,2026-08-08,13:49:22
+-34.8389,-58.4888,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,14,,2026-08-08,13:49:22
+-34.7314,-58.468,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,5,,2026-08-08,13:49:22
+-34.7255,-58.4475,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,2,,2026-08-08,13:49:22
+-34.7651,-58.1935,21,baja,Edesur,Berazategui,Berazategui,,,9,,2026-08-08,13:49:22
+-34.6335,-58.4521,21,baja,Edesur,Capital,Parque Chacabuco,,,5,,2026-08-08,13:49:22
+-34.6152,-58.3771,21,baja,Edesur,Capital,Monserrat,,,3,,2026-08-08,13:49:22
+-35.0423,-58.7457,21,baja,Edesur,Cañuelas,Cañuelas,,,2,,2026-08-08,13:49:22
+-34.9112,-58.4041,21,baja,Edesur,Pte Peron,Zona Rural,,,2,,2026-08-08,13:49:22
+-34.6425,-58.449,21,baja,Edesur,Capital,Capital,,,10,,2026-08-08,13:49:22
