@@ -131467,3 +131467,42 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -35.0423,-58.7457,21,baja,Edesur,Cañuelas,Cañuelas,,,2,,2026-08-08,13:49:22
 -34.9112,-58.4041,21,baja,Edesur,Pte Peron,Zona Rural,,,2,,2026-08-08,13:49:22
 -34.6425,-58.449,21,baja,Edesur,Capital,Capital,,,10,,2026-08-08,13:49:22
+-34.619306901,-58.433860520,11,media,Edesur,Capital Gp,Caballito Gp,Caballito,R:122-1-14/122-1-14,29,2026-08-08 17:51,2026-08-08,15:35:24
+-34.653099092,-58.411637038,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-43/039-4-43,308,2026-08-08 12:54,2026-08-08,15:35:24
+-34.615523795,-58.509073360,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-25/038-2-25,664,2026-08-08 15:53,2026-08-08,15:35:24
+-34.617208923,-58.511840428,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-25/038-2-25,763,2026-08-08 15:53,2026-08-08,15:35:24
+-34.615163509,-58.514756282,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-2-25/038-2-25,120,2026-08-08 15:53,2026-08-08,15:35:24
+-34.616514795,-58.509325071,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-25/038-2-25,165,2026-08-08 15:53,2026-08-08,15:35:24
+-34.615684627,-58.516970322,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-2-25/038-2-25,358,2026-08-08 15:53,2026-08-08,15:35:24
+-34.683481262,-58.426133201,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-1-14/186-1-14,198,2026-08-08 16:50,2026-08-08,15:35:24
+-34.685168674,-58.424679376,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-1-14/186-1-14,3,2026-08-08 16:50,2026-08-08,15:35:24
+-34.719932532,-58.246383241,11,media,Edesur,Quilmes,Quilmes Este,Sobral,R:175-2-26/175-2-26,80,2026-08-08 17:00,2026-08-08,15:35:24
+-34.722264401,-58.416339368,11,media,Edesur,Lanus,Remedios De Escalada,Heroes De Malvinas,R:076-2-26/076-2-26,499,2026-08-08 15:00,2026-08-08,15:35:24
+-34.534090190,-58.501032816,12,media,Edenor,Vicente Lopez,Florida,S/D,R:Aniversario/52-Tr1/52-5546,581,Sin Datos,2026-08-08,15:35:24
+-34.728241347,-58.611427936,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr1/451-5541,425,2026-08-08 13:00,2026-08-08,15:35:24
+-34.8249,-58.4759,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,1,,2026-08-08,15:35:24
+-34.753,-58.3982,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,17,,2026-08-08,15:35:24
+-34.8839,-58.1812,21,baja,Edesur,Berazategui,El Pato,,,11,,2026-08-08,15:35:24
+-34.7512,-58.453,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,18,,2026-08-08,15:35:24
+-34.7409,-58.3923,21,baja,Edesur,Lomas De Zamora,Banfield,,,2,,2026-08-08,15:35:24
+-34.8279,-58.4753,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,39,,2026-08-08,15:35:24
+-34.6166,-58.5127,21,baja,Edesur,Capital,Monte Castro,,,5,,2026-08-08,15:35:24
+-34.8435,-58.4757,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,75,,2026-08-08,15:35:24
+-34.743,-58.4372,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,31,,2026-08-08,15:35:24
+-34.9283,-58.3894,21,baja,Edesur,Pte Peron,Guernica,,,19,,2026-08-08,15:35:24
+-34.624,-58.4472,21,baja,Edesur,Capital,Caballito,,,8,,2026-08-08,15:35:24
+-34.9217,-58.3978,21,baja,Edesur,Pte Peron,Villa Numancia,,,5,,2026-08-08,15:35:24
+-34.8732,-58.3722,21,baja,Edesur,Almirante Brown,Glew,,,6,,2026-08-08,15:35:24
+-34.7223,-58.245,21,baja,Edesur,Quilmes,Quilmes,,,14,,2026-08-08,15:35:24
+-34.6319,-58.468,21,baja,Edesur,Capital,Capital,,,73,,2026-08-08,15:35:24
+-34.8138,-58.3188,21,baja,Edesur,Florencio Varela,Florencio Varela,,,16,,2026-08-08,15:35:24
+-34.8389,-58.4888,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,15,,2026-08-08,15:35:24
+-34.7314,-58.468,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,8,,2026-08-08,15:35:24
+-34.8672,-58.2733,21,baja,Edesur,Florencio Varela,Florencio Varela,,,19,,2026-08-08,15:35:24
+-34.6335,-58.4521,21,baja,Edesur,Capital,Parque Chacabuco,,,6,,2026-08-08,15:35:24
+-35.0423,-58.7457,21,baja,Edesur,Cañuelas,Cañuelas,,,2,,2026-08-08,15:35:24
+-34.9112,-58.4041,21,baja,Edesur,Pte Peron,Zona Rural,,,2,,2026-08-08,15:35:24
+-34.7056,-58.3906,21,baja,Edesur,Lanus,Lanus,,,3,,2026-08-08,15:35:24
+-34.6429,-58.4407,21,baja,Edesur,Capital,Parque Chacabuco,,,10,,2026-08-08,15:35:24
+-34.8075,-58.2494,21,baja,Edesur,Florencio Varela,Florencio Varela,,,11,,2026-08-08,15:35:24
+-34.8114,-58.4309,21,baja,Edesur,Lomas De Zamora,Lavallol,,,2,,2026-08-08,15:35:24
