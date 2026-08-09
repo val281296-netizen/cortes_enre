@@ -131800,3 +131800,67 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6415,-58.5166,21,baja,Edesur,Capital,Liniers,,,15,,2026-08-09,11:34:57
 -34.7761,-58.2332,21,baja,Edesur,Berazategui,Berazategui,,,7,,2026-08-09,11:34:57
 -34.7932,-58.2699,21,baja,Edesur,Florencio Varela,Florencio Varela,,,7,,2026-08-09,11:34:57
+-34.610752445,-58.377362988,11,media,Edesur,Capital Rp,Monserrat,Carlos Pellegrini,R:210-1-09/210-1-09,48,2026-08-09 13:03,2026-08-09,13:52:36
+-34.610358318,-58.377551616,11,media,Edesur,Capital Rp,Monserrat,Carlos Pellegrini,R:210-1-09/210-1-09,1,2026-08-09 13:03,2026-08-09,13:52:36
+-34.613315505,-58.388221515,11,media,Edesur,Capital Rp,Monserrat,Pozos,R:023-3-31/023-3-31,51,2026-08-09 15:00,2026-08-09,13:52:36
+-34.613343631,-58.388223439,11,media,Edesur,Capital Rp,Monserrat,Pozos,R:023-3-31/023-3-31,235,2026-08-09 15:00,2026-08-09,13:52:36
+-34.612041330,-58.388124737,11,media,Edesur,Capital Rp,Monserrat,Pozos,R:023-3-31/023-3-31,95,2026-08-09 15:00,2026-08-09,13:52:36
+-34.602417172,-58.539759663,12,media,Edenor,3 De Febrero,Saenz Pe?A,S/D,R:Migueletes/54-Tr2/54-5527,124,2026-08-09 16:00,2026-08-09,13:52:36
+-34.558482096,-58.527437053,12,media,Edenor,Gral San Martin,Parque San Lorenzo,S/D,R:Tecnopolis/352-Tr1/352-5513,94,2026-08-09 15:00,2026-08-09,13:52:36
+-34.725798800,-58.787621822,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5523,451,2026-08-09 18:00,2026-08-09,13:52:36
+-34.627713252,-58.754223366,12,media,Edenor,Moreno,Moreno,S/D,R:San Alberto/366-Tr2/366-5523,83,Sin Datos,2026-08-09,13:52:36
+-34.629976340,-58.751862257,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:San Alberto/366-Tr2/366-5523,412,Sin Datos,2026-08-09,13:52:36
+-34.632756496,-58.749054930,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:San Alberto/366-Tr2/366-5523,62,Sin Datos,2026-08-09,13:52:36
+-34.626381724,-58.755663219,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:San Alberto/366-Tr2/366-5523,351,Sin Datos,2026-08-09,13:52:36
+-34.632314631,-58.749464119,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:San Alberto/366-Tr2/366-5523,51,Sin Datos,2026-08-09,13:52:36
+-34.624025075,-58.752680135,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:San Alberto/366-Tr2/366-5523,241,Sin Datos,2026-08-09,13:52:36
+-34.102233028,-58.580977932,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,7,2026-08-09 13:00,2026-08-09,13:52:36
+-34.131611416,-58.592838530,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2026-08-09 13:00,2026-08-09,13:52:36
+-34.095210131,-58.582199582,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2026-08-09 13:00,2026-08-09,13:52:36
+-34.122822817,-58.587455710,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,2026-08-09 13:00,2026-08-09,13:52:36
+-34.115259389,-58.582741846,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,2026-08-09 13:00,2026-08-09,13:52:36
+-34.098561145,-58.581556899,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2026-08-09 13:00,2026-08-09,13:52:36
+-34.385322284,-58.747190972,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr1/154-5515,386,2026-08-09 13:00,2026-08-09,13:52:36
+-34.393075932,-58.743056577,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr1/154-5515,182,2026-08-09 13:00,2026-08-09,13:52:36
+-34.386745981,-58.752575032,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5515,32,2026-08-09 13:00,2026-08-09,13:52:36
+-34.385973513,-58.751152897,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr1/154-5515,18,2026-08-09 13:00,2026-08-09,13:52:36
+-34.390134849,-58.742798061,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr1/154-5515,210,2026-08-09 13:00,2026-08-09,13:52:36
+-34.391401081,-58.740243569,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr1/154-5515,99,2026-08-09 13:00,2026-08-09,13:52:36
+-34.563359089,-58.934061643,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,93,2026-08-09 13:00,2026-08-09,13:52:36
+-34.564402050,-58.927622291,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,87,2026-08-09 13:00,2026-08-09,13:52:36
+-34.550826696,-58.937243198,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,206,2026-08-09 13:00,2026-08-09,13:52:36
+-34.569089944,-58.938211965,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,3,2026-08-09 13:00,2026-08-09,13:52:36
+-34.556195978,-58.930681879,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,5,2026-08-09 13:00,2026-08-09,13:52:36
+-34.562706485,-58.925671457,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,2,2026-08-09 13:00,2026-08-09,13:52:36
+-34.555242284,-58.941328969,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,469,2026-08-09 13:00,2026-08-09,13:52:36
+-34.558508352,-58.944695387,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,321,2026-08-09 13:00,2026-08-09,13:52:36
+-34.555408114,-58.945797715,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,88,2026-08-09 13:00,2026-08-09,13:52:36
+-34.553898068,-58.934455512,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,210,2026-08-09 13:00,2026-08-09,13:52:36
+-34.568472551,-58.921171938,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,4,2026-08-09 13:00,2026-08-09,13:52:36
+-34.541843817,-58.941552592,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,2,2026-08-09 13:00,2026-08-09,13:52:36
+-34.571943315,-58.918418317,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,1,2026-08-09 13:00,2026-08-09,13:52:36
+-34.573473231,-58.938811635,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,4,2026-08-09 13:00,2026-08-09,13:52:36
+-34.558279627,-58.935523733,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,247,2026-08-09 13:00,2026-08-09,13:52:36
+-34.560963341,-58.921652070,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,9,2026-08-09 13:00,2026-08-09,13:52:36
+-34.562156400,-58.950564025,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,329,2026-08-09 13:00,2026-08-09,13:52:36
+-34.558396398,-58.940700179,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,145,2026-08-09 13:00,2026-08-09,13:52:36
+-34.547465916,-58.937210047,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,2,2026-08-09 13:00,2026-08-09,13:52:36
+-34.576622343,-58.938445505,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,6,2026-08-09 13:00,2026-08-09,13:52:36
+-34.572955929,-58.931112573,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,1,2026-08-09 13:00,2026-08-09,13:52:36
+-34.973,-58.4712,21,baja,Edesur,San Vicente,San Vicente,,,105,,2026-08-09,13:52:36
+-34.7872,-58.3251,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,7,,2026-08-09,13:52:36
+-34.9706,-58.4775,21,baja,Edesur,San Vicente,San Vicente,,,42,,2026-08-09,13:52:36
+-34.7197,-58.3225,21,baja,Edesur,Quilmes,Bernal,,,13,,2026-08-09,13:52:36
+-34.853,-58.4842,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,9,,2026-08-09,13:52:36
+-34.6049,-58.4719,21,baja,Edesur,Capital,Villa General Mitre,,,7,,2026-08-09,13:52:36
+-34.8534,-58.4045,21,baja,Edesur,Almirante Brown,Longchamps,,,8,,2026-08-09,13:52:36
+-34.8983,-58.5751,21,baja,Edesur,Ezeiza,Tristan Suarez,,,28,,2026-08-09,13:52:36
+-34.8183,-58.2704,21,baja,Edesur,Florencio Varela,Florencio Varela,,,12,,2026-08-09,13:52:36
+-34.6313,-58.4577,21,baja,Edesur,Capital,Flores,,,8,,2026-08-09,13:52:36
+-34.9193,-58.4948,21,baja,Edesur,Esteban Echeverria,Zona Rural 1 Ee,,,4,,2026-08-09,13:52:36
+-34.8271,-58.2339,21,baja,Edesur,Florencio Varela,Bosques,,,5,,2026-08-09,13:52:36
+-34.8176,-58.2276,21,baja,Edesur,Florencio Varela,Bosques,,,9,,2026-08-09,13:52:36
+-34.8944,-58.1844,21,baja,Edesur,Berazategui,El Pato,,,5,,2026-08-09,13:52:36
+-34.6415,-58.5166,21,baja,Edesur,Capital,Liniers,,,36,,2026-08-09,13:52:36
+-34.7761,-58.2332,21,baja,Edesur,Berazategui,Berazategui,,,11,,2026-08-09,13:52:36
+-34.6119,-58.3879,21,baja,Edesur,Capital,Monserrat,,,6,,2026-08-09,13:52:36
