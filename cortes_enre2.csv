@@ -131864,3 +131864,50 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6415,-58.5166,21,baja,Edesur,Capital,Liniers,,,36,,2026-08-09,13:52:36
 -34.7761,-58.2332,21,baja,Edesur,Berazategui,Berazategui,,,11,,2026-08-09,13:52:36
 -34.6119,-58.3879,21,baja,Edesur,Capital,Monserrat,,,6,,2026-08-09,13:52:36
+-34.610752445,-58.377362988,11,media,Edesur,Capital Rp,Monserrat,Carlos Pellegrini,R:210-1-09/210-1-09,48,2026-08-09 13:03,2026-08-09,15:37:26
+-34.610358318,-58.377551616,11,media,Edesur,Capital Rp,Monserrat,Carlos Pellegrini,R:210-1-09/210-1-09,1,2026-08-09 13:03,2026-08-09,15:37:26
+-34.807585191,-58.486937412,11,media,Edesur,Esteban Echeverria,Monte Grande,Santa Catalina,R:182-4-45/182-4-45,7,2026-08-09 15:06,2026-08-09,15:37:26
+-34.806183170,-58.484162544,11,media,Edesur,Esteban Echeverria,Monte Grande,Santa Catalina,R:182-4-45/182-4-45,256,2026-08-09 15:06,2026-08-09,15:37:26
+-34.806116069,-58.490452903,11,media,Edesur,Esteban Echeverria,Monte Grande,Santa Catalina,R:182-4-45/182-4-45,114,2026-08-09 15:06,2026-08-09,15:37:26
+-34.803905428,-58.485321850,11,media,Edesur,Esteban Echeverria,Monte Grande,Santa Catalina,R:182-4-45/182-4-45,155,2026-08-09 15:06,2026-08-09,15:37:26
+-34.803190278,-58.489373223,11,media,Edesur,Esteban Echeverria,Monte Grande,Santa Catalina,R:182-4-45/182-4-45,167,2026-08-09 15:06,2026-08-09,15:37:26
+-34.805803079,-58.449115908,11,media,Edesur,Esteban Echeverria,Luis Guillon,Santa Catalina,R:182-1-11/182-1-11,321,2026-08-09 15:23,2026-08-09,15:37:26
+-34.803279639,-58.454220816,11,media,Edesur,Esteban Echeverria,Luis Guillon,Santa Catalina,R:182-1-11/182-1-11,578,2026-08-09 15:23,2026-08-09,15:37:26
+-34.809770716,-58.449099243,11,media,Edesur,Esteban Echeverria,Luis Guillon,Santa Catalina,R:182-1-11/182-1-11,336,2026-08-09 15:23,2026-08-09,15:37:26
+-34.809985789,-58.454242679,11,media,Edesur,Esteban Echeverria,Luis Guillon,Santa Catalina,R:182-1-11/182-1-11,273,2026-08-09 15:23,2026-08-09,15:37:26
+-34.806936874,-58.451157556,11,media,Edesur,Esteban Echeverria,Luis Guillon,Santa Catalina,R:182-1-11/182-1-11,12,2026-08-09 15:23,2026-08-09,15:37:26
+-34.602417172,-58.539759663,12,media,Edenor,3 De Febrero,Saenz Pe?A,S/D,R:Migueletes/54-Tr2/54-5527,124,2026-08-09 16:00,2026-08-09,15:37:26
+-34.558482096,-58.527437053,12,media,Edenor,Gral San Martin,Parque San Lorenzo,S/D,R:Tecnopolis/352-Tr1/352-5513,94,2026-08-09 15:00,2026-08-09,15:37:26
+-34.725798800,-58.787621822,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5523,451,2026-08-09 18:00,2026-08-09,15:37:26
+-34.627713252,-58.754223366,12,media,Edenor,Moreno,Moreno,S/D,R:San Alberto/366-Tr2/366-5523,83,Sin Datos,2026-08-09,15:37:26
+-34.629976340,-58.751862257,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:San Alberto/366-Tr2/366-5523,412,Sin Datos,2026-08-09,15:37:26
+-34.632756496,-58.749054930,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:San Alberto/366-Tr2/366-5523,62,Sin Datos,2026-08-09,15:37:26
+-34.626381724,-58.755663219,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:San Alberto/366-Tr2/366-5523,351,Sin Datos,2026-08-09,15:37:26
+-34.632314631,-58.749464119,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:San Alberto/366-Tr2/366-5523,51,Sin Datos,2026-08-09,15:37:26
+-34.624025075,-58.752680135,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:San Alberto/366-Tr2/366-5523,241,Sin Datos,2026-08-09,15:37:26
+-34.102233028,-58.580977932,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,7,2026-08-09 13:00,2026-08-09,15:37:26
+-34.131611416,-58.592838530,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2026-08-09 13:00,2026-08-09,15:37:26
+-34.095210131,-58.582199582,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2026-08-09 13:00,2026-08-09,15:37:26
+-34.122822817,-58.587455710,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,2026-08-09 13:00,2026-08-09,15:37:26
+-34.115259389,-58.582741846,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,2026-08-09 13:00,2026-08-09,15:37:26
+-34.098561145,-58.581556899,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2026-08-09 13:00,2026-08-09,15:37:26
+-34.973,-58.4712,21,baja,Edesur,San Vicente,San Vicente,,,97,,2026-08-09,15:37:26
+-34.7872,-58.3251,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,7,,2026-08-09,15:37:26
+-34.9706,-58.4775,21,baja,Edesur,San Vicente,San Vicente,,,44,,2026-08-09,15:37:26
+-34.7197,-58.3225,21,baja,Edesur,Quilmes,Bernal,,,13,,2026-08-09,15:37:26
+-34.853,-58.4842,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,9,,2026-08-09,15:37:26
+-34.8534,-58.4045,21,baja,Edesur,Almirante Brown,Longchamps,,,8,,2026-08-09,15:37:26
+-34.8983,-58.5751,21,baja,Edesur,Ezeiza,Tristan Suarez,,,31,,2026-08-09,15:37:26
+-34.6313,-58.4577,21,baja,Edesur,Capital,Flores,,,10,,2026-08-09,15:37:26
+-34.9193,-58.4948,21,baja,Edesur,Esteban Echeverria,Zona Rural 1 Ee,,,4,,2026-08-09,15:37:26
+-34.8271,-58.2339,21,baja,Edesur,Florencio Varela,Bosques,,,6,,2026-08-09,15:37:26
+-34.8049,-58.4885,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,2,,2026-08-09,15:37:26
+-34.8944,-58.1844,21,baja,Edesur,Berazategui,El Pato,,,7,,2026-08-09,15:37:26
+-34.6415,-58.5166,21,baja,Edesur,Capital,Liniers,,,36,,2026-08-09,15:37:26
+-34.743,-58.4372,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,15,,2026-08-09,15:37:26
+-34.8434,-58.4755,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,20,,2026-08-09,15:37:26
+-34.6113,-58.3877,21,baja,Edesur,Capital,Monserrat,,,4,,2026-08-09,15:37:26
+-34.8104,-58.3062,21,baja,Edesur,Florencio Varela,Florencio Varela,,,19,,2026-08-09,15:37:26
+-34.6074,-58.4573,21,baja,Edesur,Capital,Caballito,,,111,,2026-08-09,15:37:26
+-34.6162,-58.5049,21,baja,Edesur,Capital,Capital,,,27,,2026-08-09,15:37:26
+-34.9609,-58.391,21,baja,Edesur,San Vicente,Alejandro Korn,,,3,,2026-08-09,15:37:26
