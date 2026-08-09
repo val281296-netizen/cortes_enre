@@ -132008,3 +132008,39 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6187,-58.4942,21,baja,Edesur,Capital,Floresta,,,22,,2026-08-09,19:38:04
 -34.7878,-58.344,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,38,,2026-08-09,19:38:04
 -34.8833,-58.2751,21,baja,Edesur,Florencio Varela,Florencio Varela,,,1,,2026-08-09,19:38:04
+-34.691508340,-58.316712289,11,media,Edesur,Avellaneda,Villa Dominico,Perez Galdos,R:236-2-23/236-2-23,442,Sin Datos,2026-08-09,21:38:19
+-34.724590308,-58.335764611,11,media,Edesur,Avellaneda,Wilde,Perez Galdos,R:236-2-23/236-2-23,1,Sin Datos,2026-08-09,21:38:19
+-34.761442431,-58.253013572,11,media,Edesur,Quilmes,Ezpeleta,Perez Galdos,R:236-2-23/236-2-23,7,Sin Datos,2026-08-09,21:38:19
+-34.754580786,-58.252614974,11,media,Edesur,Quilmes,Ezpeleta,Perez Galdos,R:236-2-23/236-2-23,90,Sin Datos,2026-08-09,21:38:19
+-34.759607529,-58.254715210,11,media,Edesur,Quilmes,Ezpeleta,Perez Galdos,R:236-2-23/236-2-23,9,Sin Datos,2026-08-09,21:38:19
+-34.857494985,-58.214142317,11,media,Edesur,Florencio Varela,Ing. Allan,Perez Galdos,R:236-2-23/236-2-23,14,Sin Datos,2026-08-09,21:38:19
+-34.604848028,-58.427468675,11,media,Edesur,Capital Gp,Almagro,Perez Galdos,R:236-2-23/236-2-23,111,Sin Datos,2026-08-09,21:38:19
+-34.610752445,-58.377362988,11,media,Edesur,Capital Rp,Monserrat,Carlos Pellegrini,R:210-1-09/210-1-09,48,2026-08-09 19:03,2026-08-09,21:38:19
+-34.610358318,-58.377551616,11,media,Edesur,Capital Rp,Monserrat,Carlos Pellegrini,R:210-1-09/210-1-09,1,2026-08-09 19:03,2026-08-09,21:38:19
+-34.805803079,-58.449115908,11,media,Edesur,Esteban Echeverria,Luis Guillon,Santa Catalina,R:182-1-11/182-1-11,321,Sin Datos,2026-08-09,21:38:19
+-34.803279639,-58.454220816,11,media,Edesur,Esteban Echeverria,Luis Guillon,Santa Catalina,R:182-1-11/182-1-11,578,Sin Datos,2026-08-09,21:38:19
+-34.809770716,-58.449099243,11,media,Edesur,Esteban Echeverria,Luis Guillon,Santa Catalina,R:182-1-11/182-1-11,336,Sin Datos,2026-08-09,21:38:19
+-34.809985789,-58.454242679,11,media,Edesur,Esteban Echeverria,Luis Guillon,Santa Catalina,R:182-1-11/182-1-11,273,Sin Datos,2026-08-09,21:38:19
+-34.806936874,-58.451157556,11,media,Edesur,Esteban Echeverria,Luis Guillon,Santa Catalina,R:182-1-11/182-1-11,12,Sin Datos,2026-08-09,21:38:19
+-34.704499594,-58.442818434,11,media,Edesur,Lomas De Zamora,Zona Rural,Autodromo,R:042-2-22/042-2-22,507,2026-08-09 23:00,2026-08-09,21:38:19
+-34.705003324,-58.442405984,11,media,Edesur,Lomas De Zamora,Zona Rural,Autodromo,R:042-2-22/042-2-22,38,2026-08-09 23:00,2026-08-09,21:38:19
+-34.701767341,-58.444922239,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-1-17/089-1-17,321,Sin Datos,2026-08-09,21:38:19
+-34.699573730,-58.445903178,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-1-17/089-1-17,294,Sin Datos,2026-08-09,21:38:19
+-34.703069597,-58.442513796,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-1-17/089-1-17,6,Sin Datos,2026-08-09,21:38:19
+-34.702900069,-58.442195626,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-1-17/089-1-17,4,Sin Datos,2026-08-09,21:38:19
+-34.703227398,-58.442809961,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-1-17/089-1-17,11,Sin Datos,2026-08-09,21:38:19
+-34.695057096,-58.449207146,11,media,Edesur,Lomas De Zamora,Villa Fiorito,Alsina,R:089-1-17/089-1-17,6,Sin Datos,2026-08-09,21:38:19
+-34.694093936,-58.449986404,11,media,Edesur,Lomas De Zamora,Villa Fiorito,Alsina,R:089-1-17/089-1-17,31,Sin Datos,2026-08-09,21:38:19
+-34.725798800,-58.787621822,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5523,451,Sin Datos,2026-08-09,21:38:19
+-34.419204622,-58.876819004,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,1,Sin Datos,2026-08-09,21:38:19
+-34.445689340,-58.839734156,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5524,36,Sin Datos,2026-08-09,21:38:19
+-34.973,-58.4712,21,baja,Edesur,San Vicente,San Vicente,,,108,,2026-08-09,21:38:19
+-34.7872,-58.3251,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,7,,2026-08-09,21:38:19
+-34.8983,-58.5751,21,baja,Edesur,Ezeiza,Tristan Suarez,,,38,,2026-08-09,21:38:19
+-34.8944,-58.1844,21,baja,Edesur,Berazategui,El Pato,,,8,,2026-08-09,21:38:19
+-34.6415,-58.5166,21,baja,Edesur,Capital,Liniers,,,48,,2026-08-09,21:38:19
+-34.7194,-58.406,21,baja,Edesur,Lanus,Remedios De Escalada,,,12,,2026-08-09,21:38:19
+-34.6113,-58.3877,21,baja,Edesur,Capital,Monserrat,,,6,,2026-08-09,21:38:19
+-34.8726,-58.3715,21,baja,Edesur,Almirante Brown,Glew,,,3,,2026-08-09,21:38:19
+-34.6185,-58.4949,21,baja,Edesur,Capital,Monte Castro,,,17,,2026-08-09,21:38:19
+-34.6466,-58.372,21,baja,Edesur,Capital,Barracas,,,32,,2026-08-09,21:38:19
