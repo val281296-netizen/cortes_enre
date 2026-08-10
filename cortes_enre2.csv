@@ -132338,3 +132338,67 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6963,-58.3784,21,baja,Edesur,Lanus,Gerli,,,9,,2026-08-10,16:03:07
 -34.7057,-58.3906,21,baja,Edesur,Lanus,Lanus,,,6,,2026-08-10,16:03:07
 -34.7799,-58.3601,21,baja,Edesur,Almirante Brown,Marmol,,,1,,2026-08-10,16:03:07
+-34.985567695,-58.691397344,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-25/271-2-25,1,2026-08-10 20:26,2026-08-10,17:53:53
+-34.596590433,-58.435524891,11,media,Edesur,Capital Gp,Villa Crespo,Villa Crespo,R:147-1-16/147-1-16,1,Sin Datos,2026-08-10,17:53:53
+-34.596459466,-58.436522340,11,media,Edesur,Capital Gp,Villa Crespo,Villa Crespo,R:147-1-16/147-1-16,365,Sin Datos,2026-08-10,17:53:53
+-34.837663270,-58.471513101,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-36/083-3-36,200,Sin Datos,2026-08-10,17:53:53
+-34.834475349,-58.476528080,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-36/083-3-36,5,Sin Datos,2026-08-10,17:53:53
+-34.834926076,-58.479026479,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-36/083-3-36,2,Sin Datos,2026-08-10,17:53:53
+-34.836232714,-58.481644455,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-36/083-3-36,4,Sin Datos,2026-08-10,17:53:53
+-34.836823348,-58.473021232,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-36/083-3-36,105,Sin Datos,2026-08-10,17:53:53
+-34.839814559,-58.467022619,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-36/083-3-36,211,Sin Datos,2026-08-10,17:53:53
+-34.835953275,-58.468141927,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-36/083-3-36,197,Sin Datos,2026-08-10,17:53:53
+-34.839628042,-58.471761355,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-36/083-3-36,270,Sin Datos,2026-08-10,17:53:53
+-34.692346841,-58.583821352,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr1/63-5517,408,2026-08-10 16:00,2026-08-10,17:53:53
+-34.689379738,-58.584122314,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr1/63-5517,179,2026-08-10 16:00,2026-08-10,17:53:53
+-34.688650641,-58.582166415,12,media,Edenor,La Matanza,San Justo,S/D,R:Casanova/63-Tr1/63-5517,108,2026-08-10 16:00,2026-08-10,17:53:53
+-34.690528013,-58.582647968,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr1/63-5517,159,2026-08-10 16:00,2026-08-10,17:53:53
+-34.701454878,-58.657688261,12,media,Edenor,Merlo,Libertad,S/D,R:Ituzaingo/264-Tr1/264-5516,226,Sin Datos,2026-08-10,17:53:53
+-34.466895644,-58.909551282,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5516,456,Sin Datos,2026-08-10,17:53:53
+-34.367477142,-58.689578394,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,1,Sin Datos,2026-08-10,17:53:53
+-34.365354318,-58.685753542,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,76,Sin Datos,2026-08-10,17:53:53
+-34.369148648,-58.682779732,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,165,Sin Datos,2026-08-10,17:53:53
+-34.366636951,-58.687791366,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,201,Sin Datos,2026-08-10,17:53:53
+-34.370577145,-58.684304636,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,111,Sin Datos,2026-08-10,17:53:53
+-34.512625281,-58.876849145,12,media,Edenor,Pilar,Villa Astolfi,S/D,R:Manzone/257-Tr1/257-5518,16,2026-08-10 15:00,2026-08-10,17:53:53
+-34.513062742,-58.882703252,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,1,2026-08-10 15:00,2026-08-10,17:53:53
+-34.456773572,-58.939694570,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,4,2026-08-10 18:00,2026-08-10,17:53:53
+-34.461413486,-58.963587412,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,12,2026-08-10 18:00,2026-08-10,17:53:53
+-34.461079255,-58.967713444,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,14,2026-08-10 18:00,2026-08-10,17:53:53
+-34.461368689,-58.970038935,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,10,2026-08-10 18:00,2026-08-10,17:53:53
+-34.465362618,-58.973494984,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,59,2026-08-10 18:00,2026-08-10,17:53:53
+-34.458970325,-58.946629135,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,151,2026-08-10 18:00,2026-08-10,17:53:53
+-34.454344998,-58.951293727,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,96,2026-08-10 18:00,2026-08-10,17:53:53
+-34.455090421,-58.953381975,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,60,2026-08-10 18:00,2026-08-10,17:53:53
+-34.456005698,-58.951952359,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,223,2026-08-10 18:00,2026-08-10,17:53:53
+-34.455005901,-58.949622612,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,88,2026-08-10 18:00,2026-08-10,17:53:53
+-34.456307227,-58.940796194,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,2,2026-08-10 18:00,2026-08-10,17:53:53
+-34.458508078,-58.929668741,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,78,2026-08-10 18:00,2026-08-10,17:53:53
+-34.457275130,-58.937970688,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,40,2026-08-10 18:00,2026-08-10,17:53:53
+-34.452379341,-58.948831585,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,159,2026-08-10 18:00,2026-08-10,17:53:53
+-34.458100070,-58.964937427,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,3,2026-08-10 18:00,2026-08-10,17:53:53
+-34.458598851,-58.949597256,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,280,2026-08-10 18:00,2026-08-10,17:53:53
+-34.456427612,-58.928960837,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,87,2026-08-10 18:00,2026-08-10,17:53:53
+-34.455292671,-58.944816246,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,247,2026-08-10 18:00,2026-08-10,17:53:53
+-34.458523639,-58.927337623,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,111,2026-08-10 18:00,2026-08-10,17:53:53
+-34.459696244,-58.946325015,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,141,2026-08-10 18:00,2026-08-10,17:53:53
+-34.973,-58.4712,21,baja,Edesur,San Vicente,San Vicente,,,1,,2026-08-10,17:53:53
+-34.5977,-58.4463,21,baja,Edesur,Capital,Villa Crespo,,,6,,2026-08-10,17:53:53
+-34.7505,-58.235,21,baja,Edesur,Quilmes,Bernal,,,9,,2026-08-10,17:53:53
+-34.8132,-58.4277,21,baja,Edesur,Lomas De Zamora,Lavallol,,,35,,2026-08-10,17:53:53
+-34.8396,-58.2883,21,baja,Edesur,Florencio Varela,Florencio Varela,,,27,,2026-08-10,17:53:53
+-34.8415,-58.2316,21,baja,Edesur,Florencio Varela,Bosques,,,9,,2026-08-10,17:53:53
+-34.9005,-58.3698,21,baja,Edesur,Pte Peron,Los Pinos,,,7,,2026-08-10,17:53:53
+-34.8566,-58.1959,21,baja,Edesur,Florencio Varela,Ing. Allan,,,5,,2026-08-10,17:53:53
+-34.8744,-58.1869,21,baja,Edesur,Berazategui,Berazategui,,,25,,2026-08-10,17:53:53
+-34.7649,-58.1939,21,baja,Edesur,Berazategui,Berazategui,,,8,,2026-08-10,17:53:53
+-34.6244,-58.4448,21,baja,Edesur,Capital,Caballito,,,11,,2026-08-10,17:53:53
+-34.7006,-58.2861,21,baja,Edesur,Quilmes,Bernal,,,3,,2026-08-10,17:53:53
+-34.6201,-58.4629,21,baja,Edesur,Capital,Flores,,,1,,2026-08-10,17:53:53
+-34.6151,-58.4521,21,baja,Edesur,Capital,Caballito,,,9,,2026-08-10,17:53:53
+-34.7247,-58.4647,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,7,,2026-08-10,17:53:53
+-34.8739,-58.2803,21,baja,Edesur,Florencio Varela,Florencio Varela,,,5,,2026-08-10,17:53:53
+-34.8088,-58.2497,21,baja,Edesur,Florencio Varela,Florencio Varela,,,13,,2026-08-10,17:53:53
+-34.7029,-58.446,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,7,,2026-08-10,17:53:53
+-34.6963,-58.3784,21,baja,Edesur,Lanus,Gerli,,,8,,2026-08-10,17:53:53
+-34.7057,-58.3906,21,baja,Edesur,Lanus,Lanus,,,18,,2026-08-10,17:53:53
