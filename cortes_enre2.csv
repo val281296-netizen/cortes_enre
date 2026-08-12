@@ -135979,3 +135979,55 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6494,-58.5264,21,baja,Edesur,Capital,Capital,,,43,,2026-08-12,20:01:32
 -34.7814,-58.2132,21,baja,Edesur,Berazategui,Berazategui,,,1,,2026-08-12,20:01:32
 -34.8129,-58.465,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,5,,2026-08-12,20:01:32
+-34.666341684,-58.351873603,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-2-22/279-2-22,442,Sin Datos,2026-08-12,21:52:39
+-34.862388689,-58.513255121,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-2-21/083-2-21,165,Sin Datos,2026-08-12,21:52:39
+-34.865139306,-58.510444367,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-2-21/083-2-21,336,Sin Datos,2026-08-12,21:52:39
+-34.866288346,-58.509563449,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-2-21/083-2-21,209,Sin Datos,2026-08-12,21:52:39
+-34.712473722,-58.430984781,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1718/087-2-1718,400,Sin Datos,2026-08-12,21:52:39
+-34.713272977,-58.432509200,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1718/087-2-1718,144,Sin Datos,2026-08-12,21:52:39
+-34.710264691,-58.431873556,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1718/087-2-1718,263,Sin Datos,2026-08-12,21:52:39
+-34.711162558,-58.434765665,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-2-23/089-2-23,465,Sin Datos,2026-08-12,21:52:39
+-34.721456906,-58.445148033,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-3-36/281-3-36,81,2026-08-13 01:01,2026-08-12,21:52:39
+-34.720786182,-58.443893007,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-3-36/281-3-36,37,2026-08-13 01:01,2026-08-12,21:52:39
+-34.721044096,-58.447058299,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-3-36/281-3-36,7,2026-08-13 01:01,2026-08-12,21:52:39
+-34.718412446,-58.445243477,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-3-36/281-3-36,88,2026-08-13 01:01,2026-08-12,21:52:39
+-34.721200813,-58.444574383,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-3-36/281-3-36,415,2026-08-13 01:01,2026-08-12,21:52:39
+-34.750965006,-58.890265932,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,Sin Datos,2026-08-12,21:52:39
+-34.663847317,-58.808891074,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5512,314,Sin Datos,2026-08-12,21:52:39
+-34.693892360,-58.591456404,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr2/63-5527,590,Sin Datos,2026-08-12,21:52:39
+-34.695054420,-58.589240932,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr2/63-5527,198,Sin Datos,2026-08-12,21:52:39
+-34.695658994,-58.588420868,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr2/63-5527,167,Sin Datos,2026-08-12,21:52:39
+-34.689979106,-58.587094796,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr2/63-5527,473,Sin Datos,2026-08-12,21:52:39
+-34.690002843,-58.590044731,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr2/63-5527,290,Sin Datos,2026-08-12,21:52:39
+-34.691711525,-58.589035033,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr2/63-5527,303,Sin Datos,2026-08-12,21:52:39
+-34.692595888,-58.590056892,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr2/63-5527,153,Sin Datos,2026-08-12,21:52:39
+-34.693702613,-58.585124378,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr2/63-5527,184,Sin Datos,2026-08-12,21:52:39
+-34.441556416,-58.558637829,12,media,Edenor,San Fernando,San Fernando,S/D,R:Victoria/53-Tr1/53-5514,17,Sin Datos,2026-08-12,21:52:39
+-34.625379122,-58.675250036,12,media,Edenor,Ituzaingo,Villa Udaondo,S/D,R:Moron/67-Tr4/67-5521,133,Sin Datos,2026-08-12,21:52:39
+-34.613300681,-58.677335907,12,media,Edenor,Hurlingham,William Morris,S/D,R:Moron/67-Tr4/67-5521,26,Sin Datos,2026-08-12,21:52:39
+-34.617019372,-58.672765381,12,media,Edenor,Hurlingham,William Morris,S/D,R:Moron/67-Tr4/67-5521,106,Sin Datos,2026-08-12,21:52:39
+-34.615329902,-58.680300662,12,media,Edenor,Ituzaingo,Villa Udaondo,S/D,R:Moron/67-Tr4/67-5521,253,Sin Datos,2026-08-12,21:52:39
+-34.622674205,-58.670835156,12,media,Edenor,Ituzaingo,Villa Udaondo,S/D,R:Moron/67-Tr4/67-5521,164,Sin Datos,2026-08-12,21:52:39
+-34.628441716,-58.672127692,12,media,Edenor,Ituzaingo,Villa Udaondo,S/D,R:Moron/67-Tr4/67-5521,472,Sin Datos,2026-08-12,21:52:39
+-34.616228084,-58.673816375,12,media,Edenor,Ituzaingo,Villa Udaondo,S/D,R:Moron/67-Tr4/67-5521,28,Sin Datos,2026-08-12,21:52:39
+-34.619941926,-58.676011289,12,media,Edenor,Ituzaingo,Villa Udaondo,S/D,R:Moron/67-Tr4/67-5521,206,Sin Datos,2026-08-12,21:52:39
+-34.616632265,-58.687989100,12,media,Edenor,Ituzaingo,Villa Udaondo,S/D,R:Moron/67-Tr4/67-5521,130,Sin Datos,2026-08-12,21:52:39
+-34.633714799,-58.670106655,12,media,Edenor,Ituzaingo,Villa Udaondo,S/D,R:Moron/67-Tr4/67-5521,228,Sin Datos,2026-08-12,21:52:39
+-34.6688,-58.8335,22,baja,Edenor,Moreno,La Reja,,,17,,2026-08-12,21:52:39
+-34.7401,-58.4483,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,39,,2026-08-12,21:52:39
+-34.8018,-58.2322,21,baja,Edesur,Berazategui,Berazategui,,,11,,2026-08-12,21:52:39
+-34.8004,-58.2328,21,baja,Edesur,Berazategui,Sourigues,,,13,,2026-08-12,21:52:39
+-34.6194,-58.4586,21,baja,Edesur,Capital,Flores,,,15,,2026-08-12,21:52:39
+-34.8255,-58.2388,21,baja,Edesur,Florencio Varela,Bosques,,,20,,2026-08-12,21:52:39
+-34.8493,-58.3834,21,baja,Edesur,Almirante Brown,Longchamps,,,10,,2026-08-12,21:52:39
+-34.7677,-58.2003,21,baja,Edesur,Berazategui,Berazategui,,,2,,2026-08-12,21:52:39
+-34.7346,-58.3199,21,baja,Edesur,Quilmes,Bernal,,,6,,2026-08-12,21:52:39
+-34.8126,-58.4585,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,9,,2026-08-12,21:52:39
+-34.7613,-58.3476,21,baja,Edesur,Almirante Brown,San Jose,,,10,,2026-08-12,21:52:39
+-34.6494,-58.5264,21,baja,Edesur,Capital,Capital,,,58,,2026-08-12,21:52:39
+-34.7814,-58.2132,21,baja,Edesur,Berazategui,Berazategui,,,1,,2026-08-12,21:52:39
+-34.7236,-58.3239,21,baja,Edesur,Quilmes,Bernal,,,8,,2026-08-12,21:52:39
+-34.8871,-58.5431,21,baja,Edesur,Ezeiza,Barrio La Union,,,6,,2026-08-12,21:52:39
+-34.6303,-58.4583,21,baja,Edesur,Capital,Flores,,,13,,2026-08-12,21:52:39
+-34.7802,-58.3003,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,5,,2026-08-12,21:52:39
+-34.815,-58.2417,21,baja,Edesur,Florencio Varela,Florencio Varela,,,25,,2026-08-12,21:52:39
