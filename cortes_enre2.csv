@@ -135875,3 +135875,57 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7677,-58.2003,21,baja,Edesur,Berazategui,Berazategui,,,2,,2026-08-12,16:02:03
 -34.6306,-58.4393,21,baja,Edesur,Capital,Parque Chacabuco,,,1,,2026-08-12,16:02:03
 -34.7333,-58.4551,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,1,,2026-08-12,16:02:03
+-34.612026926,-58.504603095,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-3-33/038-3-33,477,Sin Datos,2026-08-12,17:59:18
+-34.666341684,-58.351873603,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-2-22/279-2-22,442,Sin Datos,2026-08-12,17:59:18
+-34.625751075,-58.420249297,11,media,Edesur,Capital Rp,Boedo,Caballito,R:122-3-37/122-3-37,120,Sin Datos,2026-08-12,17:59:18
+-34.776615740,-58.310799042,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-31/184-3-31,288,Sin Datos,2026-08-12,17:59:18
+-34.815666504,-58.424498171,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-3-32/180-3-32,274,Sin Datos,2026-08-12,17:59:18
+-34.862388689,-58.513255121,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-2-21/083-2-21,165,2026-08-12 18:00,2026-08-12,17:59:18
+-34.865139306,-58.510444367,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-2-21/083-2-21,336,2026-08-12 18:00,2026-08-12,17:59:18
+-34.866288346,-58.509563449,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-2-21/083-2-21,209,2026-08-12 18:00,2026-08-12,17:59:18
+-34.712473722,-58.430984781,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1718/087-2-1718,400,2026-08-12 17:24,2026-08-12,17:59:18
+-34.713272977,-58.432509200,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1718/087-2-1718,144,2026-08-12 17:24,2026-08-12,17:59:18
+-34.710264691,-58.431873556,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1718/087-2-1718,263,2026-08-12 17:24,2026-08-12,17:59:18
+-34.711162558,-58.434765665,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-2-23/089-2-23,465,2026-08-12 18:01,2026-08-12,17:59:18
+-34.750965006,-58.890265932,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2026-08-12 15:20,2026-08-12,17:59:18
+-34.584841388,-58.683649095,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr5/67-5518,1,2026-08-12 15:20,2026-08-12,17:59:18
+-34.586459460,-58.685010866,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr5/67-5518,1,2026-08-12 15:20,2026-08-12,17:59:18
+-34.475910366,-58.696415972,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Tortuguitas/252-Tr2/252-5537,403,2026-08-12 17:30,2026-08-12,17:59:18
+-34.693892360,-58.591456404,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr2/63-5527,590,2026-08-12 16:00,2026-08-12,17:59:18
+-34.695054420,-58.589240932,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr2/63-5527,198,2026-08-12 16:00,2026-08-12,17:59:18
+-34.695658994,-58.588420868,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr2/63-5527,167,2026-08-12 16:00,2026-08-12,17:59:18
+-34.441556416,-58.558637829,12,media,Edenor,San Fernando,San Fernando,S/D,R:Victoria/53-Tr1/53-5514,17,Sin Datos,2026-08-12,17:59:18
+-34.440333949,-58.554290847,12,media,Edenor,San Fernando,San Fernando,S/D,R:Victoria/53-Tr1/53-5514,404,Sin Datos,2026-08-12,17:59:18
+-34.385322284,-58.747190972,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5521,386,Sin Datos,2026-08-12,17:59:18
+-34.393075932,-58.743056577,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5521,184,Sin Datos,2026-08-12,17:59:18
+-34.390134849,-58.742798061,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5521,210,Sin Datos,2026-08-12,17:59:18
+-34.391401081,-58.740243569,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5521,99,Sin Datos,2026-08-12,17:59:18
+-34.379724891,-58.745926513,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5521,10,Sin Datos,2026-08-12,17:59:18
+-34.387029488,-58.742657144,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5521,347,Sin Datos,2026-08-12,17:59:18
+-34.384746850,-58.741929074,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5521,284,Sin Datos,2026-08-12,17:59:18
+-34.385867056,-58.737848265,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5521,274,Sin Datos,2026-08-12,17:59:18
+-34.383949352,-58.744631456,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5521,72,Sin Datos,2026-08-12,17:59:18
+-34.382400059,-58.747535096,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5521,124,Sin Datos,2026-08-12,17:59:18
+-34.379901549,-58.750910989,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5521,40,Sin Datos,2026-08-12,17:59:18
+-34.381497835,-58.743039037,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5521,122,Sin Datos,2026-08-12,17:59:18
+-34.8241,-58.5052,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,10,,2026-08-12,17:59:18
+-34.7452,-58.2615,21,baja,Edesur,Quilmes,Quilmes,,,7,,2026-08-12,17:59:18
+-34.7401,-58.4483,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,30,,2026-08-12,17:59:18
+-34.6242,-58.468,21,baja,Edesur,Capital,Flores,,,34,,2026-08-12,17:59:18
+-34.8483,-58.3821,21,baja,Edesur,Almirante Brown,Longchamps,,,18,,2026-08-12,17:59:18
+-34.6004,-58.4978,21,baja,Edesur,Capital,Villa Del Parque,,,19,,2026-08-12,17:59:18
+-34.8018,-58.2322,21,baja,Edesur,Berazategui,Berazategui,,,10,,2026-08-12,17:59:18
+-34.8004,-58.2328,21,baja,Edesur,Berazategui,Sourigues,,,12,,2026-08-12,17:59:18
+-34.6204,-58.4637,21,baja,Edesur,Capital,Flores,,,1,,2026-08-12,17:59:18
+-34.7983,-58.4545,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,3,,2026-08-12,17:59:18
+-34.6273,-58.4831,21,baja,Edesur,Capital,Floresta,,,4,,2026-08-12,17:59:18
+-34.6174,-58.3835,21,baja,Edesur,Capital,Monserrat,,,10,,2026-08-12,17:59:18
+-34.6089,-58.4384,21,baja,Edesur,Capital,Capital,,,1,,2026-08-12,17:59:18
+-34.7547,-58.2512,21,baja,Edesur,Quilmes,Ezpeleta,,,3,,2026-08-12,17:59:18
+-34.8295,-58.3579,21,baja,Edesur,Almirante Brown,Claypole,,,10,,2026-08-12,17:59:18
+-34.7677,-58.2003,21,baja,Edesur,Berazategui,Berazategui,,,2,,2026-08-12,17:59:18
+-34.7613,-58.3476,21,baja,Edesur,Almirante Brown,San Jose,,,7,,2026-08-12,17:59:18
+-34.8149,-58.2431,21,baja,Edesur,Florencio Varela,Florencio Varela,,,10,,2026-08-12,17:59:18
+-34.7237,-58.3235,21,baja,Edesur,Quilmes,Bernal,,,10,,2026-08-12,17:59:18
+-34.6494,-58.5264,21,baja,Edesur,Capital,Capital,,,20,,2026-08-12,17:59:18
+-34.7814,-58.2132,21,baja,Edesur,Berazategui,Berazategui,,,1,,2026-08-12,17:59:18
