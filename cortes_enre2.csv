@@ -137675,3 +137675,43 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6499,-58.4802,21,baja,Edesur,Capital,Parque Avellaneda,,,5,,2026-08-14,11:49:24
 -34.7664,-58.3289,21,baja,Edesur,Almirante Brown,San Jose,,,3,,2026-08-14,11:49:24
 -34.6086,-58.4566,21,baja,Edesur,Capital,Caballito,,,95,,2026-08-14,11:49:24
+-35.031722704,-58.418520426,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,88,2026-08-14 13:18,2026-08-14,14:16:57
+-35.031407405,-58.421360330,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,202,2026-08-14 13:18,2026-08-14,14:16:57
+-35.028655271,-58.416709208,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,188,2026-08-14 13:18,2026-08-14,14:16:57
+-35.030298781,-58.419771688,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,215,2026-08-14 13:18,2026-08-14,14:16:57
+-34.830529775,-58.434702780,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-1-13/180-1-13,272,2026-08-14 18:00,2026-08-14,14:16:57
+-34.831912149,-58.437446523,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-1-13/180-1-13,267,2026-08-14 18:00,2026-08-14,14:16:57
+-34.567195275,-58.434009961,12,media,Edenor,Capital Federal,Palermo,S/D,R:Colegiales/46-Tr1/46-5541,1,2026-08-14 14:00,2026-08-14,14:16:57
+-34.684174962,-58.621259602,12,media,Edenor,Moron,Moron,S/D,R:V. Luzuriaga/64-Tr1/64-5512,366,2026-08-14 13:00,2026-08-14,14:16:57
+-34.636450085,-58.981894854,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,3,2026-08-14 15:00,2026-08-14,14:16:57
+-34.639726844,-58.979415920,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,83,2026-08-14 15:00,2026-08-14,14:16:57
+-34.642700784,-58.983263202,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,48,2026-08-14 15:00,2026-08-14,14:16:57
+-34.629460032,-58.977349546,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,2,2026-08-14 15:00,2026-08-14,14:16:57
+-34.632288591,-58.981162400,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,7,2026-08-14 15:00,2026-08-14,14:16:57
+-34.634543578,-58.985936392,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,1,2026-08-14 15:00,2026-08-14,14:16:57
+-34.794432357,-58.661587198,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,1,2026-08-14 17:00,2026-08-14,14:16:57
+-34.794416720,-58.652300599,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,1,2026-08-14 17:00,2026-08-14,14:16:57
+-34.564838868,-58.698160899,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5524,142,2026-08-14 12:40,2026-08-14,14:16:57
+-34.605,-58.7937,22,baja,Edenor,Moreno,Moreno,,,36,,2026-08-14,14:16:57
+-34.719,-58.4682,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,10,,2026-08-14,14:16:57
+-34.9438,-58.3755,21,baja,Edesur,Pte Peron,Parque Americano,,,5,,2026-08-14,14:16:57
+-34.8122,-58.4444,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,219,,2026-08-14,14:16:57
+-34.8161,-58.2326,21,baja,Edesur,Florencio Varela,Bosques,,,74,,2026-08-14,14:16:57
+-34.829,-58.3862,21,baja,Edesur,Almirante Brown,Burzaco,,,5,,2026-08-14,14:16:57
+-34.6405,-58.513,21,baja,Edesur,Capital,Liniers,,,5,,2026-08-14,14:16:57
+-34.6149,-58.4442,21,baja,Edesur,Capital,Capital,,,7,,2026-08-14,14:16:57
+-34.6903,-58.4691,21,baja,Edesur,Capital,Villa Riachuelo,,,7,,2026-08-14,14:16:57
+-34.7804,-58.2952,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,6,,2026-08-14,14:16:57
+-34.7508,-58.4156,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,5,,2026-08-14,14:16:57
+-34.6499,-58.4802,21,baja,Edesur,Capital,Parque Avellaneda,,,6,,2026-08-14,14:16:57
+-34.7664,-58.3289,21,baja,Edesur,Almirante Brown,San Jose,,,8,,2026-08-14,14:16:57
+-34.7994,-58.3734,21,baja,Edesur,Almirante Brown,Marmol,,,5,,2026-08-14,14:16:57
+-34.8736,-58.2787,21,baja,Edesur,Florencio Varela,Florencio Varela,,,5,,2026-08-14,14:16:57
+-34.6175,-58.438,21,baja,Edesur,Capital,Caballito,,,5,,2026-08-14,14:16:57
+-34.6507,-58.4245,21,baja,Edesur,Capital,Nueva Pompeya,,,12,,2026-08-14,14:16:57
+-34.7181,-58.4427,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,2,,2026-08-14,14:16:57
+-34.7256,-58.373,21,baja,Edesur,Lanus,Remedios De Escalada,,,17,,2026-08-14,14:16:57
+-34.6049,-58.4278,21,baja,Edesur,Capital,Almagro,,,129,,2026-08-14,14:16:57
+-34.905,-58.279,21,baja,Edesur,Florencio Varela,Florencio Varela,,,2,,2026-08-14,14:16:57
+-34.8453,-58.3745,21,baja,Edesur,Almirante Brown,Ministro Rivadavia,,,13,,2026-08-14,14:16:57
+-34.7044,-58.3226,21,baja,Edesur,Avellaneda,Wilde,,,2,,2026-08-14,14:16:57
