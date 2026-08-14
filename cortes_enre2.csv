@@ -137638,3 +137638,40 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7804,-58.2952,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,5,,2026-08-14,10:09:58
 -34.6617,-58.4528,21,baja,Edesur,Capital,Villa Soldati,,,8,,2026-08-14,10:09:58
 -34.6086,-58.4566,21,baja,Edesur,Capital,Caballito,,,42,,2026-08-14,10:09:58
+-34.728539687,-58.446736057,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-23/281-2-23,663,Sin Datos,2026-08-14,11:49:24
+-34.730402889,-58.450305034,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-23/281-2-23,642,Sin Datos,2026-08-14,11:49:24
+-34.727743755,-58.451501342,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-23/281-2-23,237,Sin Datos,2026-08-14,11:49:24
+-34.729207139,-58.451195830,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-23/281-2-23,113,Sin Datos,2026-08-14,11:49:24
+-34.731517911,-58.448686015,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-23/281-2-23,398,Sin Datos,2026-08-14,11:49:24
+-35.031722704,-58.418520426,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,88,2026-08-14 13:18,2026-08-14,11:49:24
+-35.031407405,-58.421360330,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,202,2026-08-14 13:18,2026-08-14,11:49:24
+-35.028655271,-58.416709208,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,188,2026-08-14 13:18,2026-08-14,11:49:24
+-35.030298781,-58.419771688,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,215,2026-08-14 13:18,2026-08-14,11:49:24
+-34.684174962,-58.621259602,12,media,Edenor,Moron,Moron,S/D,R:V. Luzuriaga/64-Tr1/64-5512,366,2026-08-14 13:00,2026-08-14,11:49:24
+-34.650134818,-58.965851483,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,13,2026-08-14 15:00,2026-08-14,11:49:24
+-34.636450085,-58.981894854,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,3,2026-08-14 15:00,2026-08-14,11:49:24
+-34.646929271,-58.959813363,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,1,2026-08-14 15:00,2026-08-14,11:49:24
+-34.654235534,-58.972133220,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,1,2026-08-14 15:00,2026-08-14,11:49:24
+-34.652346383,-58.969735697,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,214,2026-08-14 15:00,2026-08-14,11:49:24
+-34.644160453,-58.971132617,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,110,2026-08-14 15:00,2026-08-14,11:49:24
+-34.639726844,-58.979415920,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,83,2026-08-14 15:00,2026-08-14,11:49:24
+-34.651548709,-58.968289650,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,2,2026-08-14 15:00,2026-08-14,11:49:24
+-34.642700784,-58.983263202,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,48,2026-08-14 15:00,2026-08-14,11:49:24
+-34.564838868,-58.698160899,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5524,142,2026-08-14 12:40,2026-08-14,11:49:24
+-34.605,-58.7937,22,baja,Edenor,Moreno,Moreno,,,36,,2026-08-14,11:49:24
+-34.4986,-58.8287,22,baja,Edenor,Pilar,Pte Derqui,,,3,,2026-08-14,11:49:24
+-34.6125,-58.7946,22,baja,Edenor,Moreno,Moreno,,,8,,2026-08-14,11:49:24
+-34.7753,-58.3027,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,5,,2026-08-14,11:49:24
+-34.723,-58.3238,21,baja,Edesur,Quilmes,Bernal,,,51,,2026-08-14,11:49:24
+-34.719,-58.4682,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,8,,2026-08-14,11:49:24
+-34.9438,-58.3755,21,baja,Edesur,Pte Peron,Parque Americano,,,5,,2026-08-14,11:49:24
+-34.8122,-58.4444,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,190,,2026-08-14,11:49:24
+-34.8161,-58.2326,21,baja,Edesur,Florencio Varela,Bosques,,,70,,2026-08-14,11:49:24
+-34.829,-58.3862,21,baja,Edesur,Almirante Brown,Burzaco,,,4,,2026-08-14,11:49:24
+-34.6149,-58.4442,21,baja,Edesur,Capital,Capital,,,7,,2026-08-14,11:49:24
+-34.6283,-58.4629,21,baja,Edesur,Capital,Flores,,,5,,2026-08-14,11:49:24
+-34.7804,-58.2952,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,5,,2026-08-14,11:49:24
+-34.5857,-58.3884,21,baja,Edesur,Capital,Recoleta,,,10,,2026-08-14,11:49:24
+-34.6499,-58.4802,21,baja,Edesur,Capital,Parque Avellaneda,,,5,,2026-08-14,11:49:24
+-34.7664,-58.3289,21,baja,Edesur,Almirante Brown,San Jose,,,3,,2026-08-14,11:49:24
+-34.6086,-58.4566,21,baja,Edesur,Capital,Caballito,,,95,,2026-08-14,11:49:24
