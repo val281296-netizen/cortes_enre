@@ -137758,3 +137758,63 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7927,-58.4,21,baja,Edesur,Lomas De Zamora,Turdera,,,31,,2026-08-14,15:56:16
 -34.7385,-58.4435,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,6,,2026-08-14,15:56:16
 -34.781,-58.2958,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,10,,2026-08-14,15:56:16
+-35.031722704,-58.418520426,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,88,2026-08-14 19:18,2026-08-14,17:55:34
+-35.031407405,-58.421360330,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,202,2026-08-14 19:18,2026-08-14,17:55:34
+-35.028655271,-58.416709208,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,188,2026-08-14 19:18,2026-08-14,17:55:34
+-35.030298781,-58.419771688,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,215,2026-08-14 19:18,2026-08-14,17:55:34
+-34.830529775,-58.434702780,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-1-13/180-1-13,272,2026-08-14 18:00,2026-08-14,17:55:34
+-34.831912149,-58.437446523,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-1-13/180-1-13,267,2026-08-14 18:00,2026-08-14,17:55:34
+-34.698019270,-58.340486879,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-2-26/172-2-26,1,2026-08-14 15:00,2026-08-14,17:55:34
+-34.792209629,-58.402440073,11,media,Edesur,Lomas De Zamora,Turdera,Santa Catalina,R:182-2-26/182-2-26,353,2026-08-14 16:00,2026-08-14,17:55:34
+-34.787642056,-58.400042053,11,media,Edesur,Lomas De Zamora,Turdera,Santa Catalina,R:182-2-26/182-2-26,205,2026-08-14 16:00,2026-08-14,17:55:34
+-34.787725818,-58.399652145,11,media,Edesur,Lomas De Zamora,Turdera,Santa Catalina,R:182-2-26/182-2-26,1,2026-08-14 16:00,2026-08-14,17:55:34
+-34.788322567,-58.396883860,11,media,Edesur,Lomas De Zamora,Turdera,Santa Catalina,R:182-2-26/182-2-26,5,2026-08-14 16:00,2026-08-14,17:55:34
+-34.684480024,-58.526024452,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5541,418,Sin Datos,2026-08-14,17:55:34
+-34.686081679,-58.527969426,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5541,337,Sin Datos,2026-08-14,17:55:34
+-34.681733958,-58.524461996,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5541,1,Sin Datos,2026-08-14,17:55:34
+-34.687890948,-58.528520779,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5541,113,Sin Datos,2026-08-14,17:55:34
+-34.682834371,-58.526096375,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5541,167,Sin Datos,2026-08-14,17:55:34
+-34.680933401,-58.523345609,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5541,1,Sin Datos,2026-08-14,17:55:34
+-34.678635623,-58.525608962,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5541,200,Sin Datos,2026-08-14,17:55:34
+-34.679178901,-58.530899340,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5541,365,Sin Datos,2026-08-14,17:55:34
+-34.680348775,-58.529614285,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5541,317,Sin Datos,2026-08-14,17:55:34
+-34.679267861,-58.522491650,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5541,207,Sin Datos,2026-08-14,17:55:34
+-34.679735003,-58.524409118,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5541,174,Sin Datos,2026-08-14,17:55:34
+-34.677764260,-58.526605733,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5541,27,Sin Datos,2026-08-14,17:55:34
+-34.636450085,-58.981894854,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,3,2026-08-14 15:00,2026-08-14,17:55:34
+-34.639726844,-58.979415920,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,83,2026-08-14 15:00,2026-08-14,17:55:34
+-34.642700784,-58.983263202,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,48,2026-08-14 15:00,2026-08-14,17:55:34
+-34.629460032,-58.977349546,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,2,2026-08-14 15:00,2026-08-14,17:55:34
+-34.632288591,-58.981162400,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,7,2026-08-14 15:00,2026-08-14,17:55:34
+-34.634543578,-58.985936392,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,1,2026-08-14 15:00,2026-08-14,17:55:34
+-34.794432357,-58.661587198,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,1,2026-08-14 17:00,2026-08-14,17:55:34
+-34.794416720,-58.652300599,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,1,2026-08-14 17:00,2026-08-14,17:55:34
+-34.564838868,-58.698160899,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5524,142,Sin Datos,2026-08-14,17:55:34
+-34.684951297,-58.846663868,12,media,Edenor,Moreno,La Reja,S/D,R:Paso Del Rey/258-Tr2/258-5535,1,Sin Datos,2026-08-14,17:55:34
+-34.719,-58.4682,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,10,,2026-08-14,17:55:34
+-34.9438,-58.3755,21,baja,Edesur,Pte Peron,Parque Americano,,,5,,2026-08-14,17:55:34
+-34.8122,-58.4444,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,230,,2026-08-14,17:55:34
+-34.829,-58.3862,21,baja,Edesur,Almirante Brown,Burzaco,,,6,,2026-08-14,17:55:34
+-34.6091,-58.4217,21,baja,Edesur,Capital,Almagro,,,5,,2026-08-14,17:55:34
+-34.6499,-58.4802,21,baja,Edesur,Capital,Parque Avellaneda,,,8,,2026-08-14,17:55:34
+-35.001,-58.6852,21,baja,Edesur,Cañuelas,V. Adriana,,,6,,2026-08-14,17:55:34
+-34.7994,-58.3734,21,baja,Edesur,Almirante Brown,Marmol,,,10,,2026-08-14,17:55:34
+-34.6275,-58.4717,21,baja,Edesur,Capital,Flores,,,10,,2026-08-14,17:55:34
+-34.6175,-58.438,21,baja,Edesur,Capital,Caballito,,,6,,2026-08-14,17:55:34
+-34.7256,-58.373,21,baja,Edesur,Lanus,Remedios De Escalada,,,22,,2026-08-14,17:55:34
+-34.653,-58.4961,21,baja,Edesur,Capital,Mataderos,,,5,,2026-08-14,17:55:34
+-34.6,-58.4383,21,baja,Edesur,Capital,Villa Crespo,,,7,,2026-08-14,17:55:34
+-34.6388,-58.4459,21,baja,Edesur,Capital,Parque Chacabuco,,,3,,2026-08-14,17:55:34
+-34.5993,-58.4264,21,baja,Edesur,Capital,Almagro,,,4,,2026-08-14,17:55:34
+-34.8453,-58.3745,21,baja,Edesur,Almirante Brown,Ministro Rivadavia,,,55,,2026-08-14,17:55:34
+-34.6234,-58.5109,21,baja,Edesur,Capital,Monte Castro,,,30,,2026-08-14,17:55:34
+-34.6476,-58.5264,21,baja,Edesur,Capital,Liniers,,,12,,2026-08-14,17:55:34
+-34.7927,-58.4,21,baja,Edesur,Lomas De Zamora,Turdera,,,78,,2026-08-14,17:55:34
+-34.7389,-58.446,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,8,,2026-08-14,17:55:34
+-34.781,-58.2958,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,13,,2026-08-14,17:55:34
+-34.6314,-58.4919,21,baja,Edesur,Capital,Velez Sarfield,,,134,,2026-08-14,17:55:34
+-34.7436,-58.336,21,baja,Edesur,Quilmes,Bernal,,,12,,2026-08-14,17:55:34
+-34.7714,-58.3905,21,baja,Edesur,Lomas De Zamora,Temperley,,,2,,2026-08-14,17:55:34
+-34.6635,-58.3675,21,baja,Edesur,Avellaneda,Avellaneda,,,15,,2026-08-14,17:55:34
+-35.0341,-58.4267,21,baja,Edesur,San Vicente,San Vicente,,,5,,2026-08-14,17:55:34
+-34.7364,-58.2374,21,baja,Edesur,Quilmes,Quilmes,,,1,,2026-08-14,17:55:34
