@@ -138389,3 +138389,52 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6629,-58.4523,21,baja,Edesur,Capital,Villa Soldati,,,10,,2026-08-16,11:24:49
 -34.7556,-58.3273,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,2,,2026-08-16,11:24:49
 -34.6718,-58.3901,21,baja,Edesur,Avellaneda,Piñeyro,,,5,,2026-08-16,11:24:49
+-34.724463634,-58.250142538,11,media,Edesur,Quilmes,Quilmes Este,Sobral,R:175-2-28/175-2-28,12,2026-08-16 11:34,2026-08-16,13:35:37
+-34.743901158,-58.414418203,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,N:076-1-18/076-1-18,727,2026-08-16 13:15,2026-08-16,13:35:37
+-34.747175131,-58.414412735,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,N:076-1-18/076-1-18,487,2026-08-16 13:15,2026-08-16,13:35:37
+-34.749878024,-58.415039711,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Heroes De Malvinas,N:076-1-18/076-1-18,92,2026-08-16 13:15,2026-08-16,13:35:37
+-34.550794403,-58.556264310,12,media,Edenor,Gral San Martin,Villa Ballester,S/D,R:J. L. Suarez/266-Tr1/266-5545,393,2026-08-16 15:30,2026-08-16,13:35:37
+-34.854263154,-58.674554791,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5537,237,Sin Datos,2026-08-16,13:35:37
+-34.640971413,-58.738416693,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5522,361,2026-08-16 14:00,2026-08-16,13:35:37
+-34.636876708,-58.875989732,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5515,210,2026-08-16 13:00,2026-08-16,13:35:37
+-34.635536119,-58.873934426,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5515,111,2026-08-16 13:00,2026-08-16,13:35:37
+-34.375144082,-58.640072200,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,42,Sin Datos,2026-08-16,13:35:37
+-34.360717352,-58.640527083,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,6,Sin Datos,2026-08-16,13:35:37
+-34.379413518,-58.636287780,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,23,Sin Datos,2026-08-16,13:35:37
+-34.376017177,-58.638052812,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,16,Sin Datos,2026-08-16,13:35:37
+-34.363339527,-58.639959808,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,18,Sin Datos,2026-08-16,13:35:37
+-34.357141255,-58.646451048,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,17,Sin Datos,2026-08-16,13:35:37
+-34.352340229,-58.649847479,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,12,Sin Datos,2026-08-16,13:35:37
+-34.344955696,-58.651811420,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,29,Sin Datos,2026-08-16,13:35:37
+-34.331478109,-58.653480303,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,16,Sin Datos,2026-08-16,13:35:37
+-34.318466248,-58.649647619,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,27,Sin Datos,2026-08-16,13:35:37
+-34.307268978,-58.644044069,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,13,Sin Datos,2026-08-16,13:35:37
+-34.299668872,-58.641179720,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,10,Sin Datos,2026-08-16,13:35:37
+-34.286030875,-58.647452348,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,9,Sin Datos,2026-08-16,13:35:37
+-34.279652899,-58.649720577,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,19,Sin Datos,2026-08-16,13:35:37
+-34.271975440,-58.653414997,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,13,Sin Datos,2026-08-16,13:35:37
+-34.333734713,-58.658002034,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,15,Sin Datos,2026-08-16,13:35:37
+-34.369163450,-58.641493089,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,5,Sin Datos,2026-08-16,13:35:37
+-34.358542909,-58.648903434,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,28,Sin Datos,2026-08-16,13:35:37
+-34.298163978,-58.644139960,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,34,Sin Datos,2026-08-16,13:35:37
+-34.276144712,-58.653553859,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,17,Sin Datos,2026-08-16,13:35:37
+-34.285277535,-58.650786473,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,7,Sin Datos,2026-08-16,13:35:37
+-34.353846611,-58.650886606,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,14,Sin Datos,2026-08-16,13:35:37
+-34.344760340,-58.654516173,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,12,Sin Datos,2026-08-16,13:35:37
+-34.326388546,-58.654924181,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,17,Sin Datos,2026-08-16,13:35:37
+-34.307862448,-58.647048181,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,3,Sin Datos,2026-08-16,13:35:37
+-34.656298190,-58.939871533,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,10,2026-08-16 14:00,2026-08-16,13:35:37
+-34.661611965,-58.941746967,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,3,2026-08-16 14:00,2026-08-16,13:35:37
+-34.659301470,-58.941639303,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,1,2026-08-16 14:00,2026-08-16,13:35:37
+-34.656253500,-58.943035599,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,1,2026-08-16 14:00,2026-08-16,13:35:37
+-34.9688,-58.377,21,baja,Edesur,San Vicente,Alejandro Korn,,,7,,2026-08-16,13:35:37
+-34.6175,-58.438,21,baja,Edesur,Capital,Caballito,,,6,,2026-08-16,13:35:37
+-34.614,-58.4263,21,baja,Edesur,Capital,Almagro,,,6,,2026-08-16,13:35:37
+-34.6551,-58.5142,21,baja,Edesur,Capital,Mataderos,,,3,,2026-08-16,13:35:37
+-34.6144,-58.492,21,baja,Edesur,Capital,Villa Sta. Rita,,,7,,2026-08-16,13:35:37
+-34.6718,-58.3901,21,baja,Edesur,Avellaneda,Piñeyro,,,11,,2026-08-16,13:35:37
+-34.6651,-58.3678,21,baja,Edesur,Avellaneda,Avellaneda,,,2,,2026-08-16,13:35:37
+-34.7483,-58.2748,21,baja,Edesur,Quilmes,Quilmes,,,10,,2026-08-16,13:35:37
+-34.6746,-58.4744,21,baja,Edesur,Capital,Villa Lugano,,,2,,2026-08-16,13:35:37
+-34.8209,-58.4876,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,4,,2026-08-16,13:35:37
+-34.7447,-58.3565,21,baja,Edesur,Lomas De Zamora,Banfield,,,9,,2026-08-16,13:35:37
