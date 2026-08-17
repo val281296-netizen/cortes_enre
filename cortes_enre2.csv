@@ -139007,3 +139007,45 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6362,-58.424,21,baja,Edesur,Capital,Boedo,,,12,,2026-08-17,13:43:10
 -34.9153,-58.3734,21,baja,Edesur,Pte Peron,Guernica,,,6,,2026-08-17,13:43:10
 -34.6294,-58.4689,21,baja,Edesur,Capital,Flores,,,23,,2026-08-17,13:43:10
+-34.615740391,-58.430062778,11,media,Edesur,Capital Gp,Caballito Gp,Independencia,R:020-2-24/020-2-24,715,2026-08-17 15:24,2026-08-17,15:31:54
+-34.774614523,-58.185324502,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-2-21/174-2-21,142,2026-08-17 14:00,2026-08-17,15:31:54
+-34.682557707,-58.434647198,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-2-24/089-2-24,641,2026-08-17 13:08,2026-08-17,15:31:54
+-34.871522474,-58.389116594,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-1-12/277-1-12,248,2026-08-17 18:00,2026-08-17,15:31:54
+-34.866232709,-58.389019163,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-1-12/277-1-12,419,2026-08-17 18:00,2026-08-17,15:31:54
+-34.868938269,-58.387195681,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-1-12/277-1-12,3,2026-08-17 18:00,2026-08-17,15:31:54
+-35.153202628,-58.680974175,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,2026-08-17 18:00,2026-08-17,15:31:54
+-35.130167170,-58.684417911,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,2026-08-17 18:00,2026-08-17,15:31:54
+-35.139797034,-58.698917658,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,4,2026-08-17 18:00,2026-08-17,15:31:54
+-35.129388403,-58.693709488,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,2026-08-17 18:00,2026-08-17,15:31:54
+-35.124490970,-58.718588758,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,4,2026-08-17 18:00,2026-08-17,15:31:54
+-35.125750754,-58.689661529,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,2,2026-08-17 18:00,2026-08-17,15:31:54
+-34.812560961,-58.421952835,11,media,Edesur,Lomas De Zamora,Lavallol,Almirante Brown,R:180-2-24/180-2-24,1,2026-08-17 18:00,2026-08-17,15:31:54
+-34.812896922,-58.421326908,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-2-24/180-2-24,122,2026-08-17 18:00,2026-08-17,15:31:54
+-34.814927713,-58.420321085,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-2-24/180-2-24,250,2026-08-17 18:00,2026-08-17,15:31:54
+-34.813214653,-58.417531672,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-2-24/180-2-24,198,2026-08-17 18:00,2026-08-17,15:31:54
+-34.779623135,-58.212751713,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-1-15/080-1-15,529,2026-08-17 14:57,2026-08-17,15:31:54
+-34.683726815,-58.419705871,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-1-12/089-1-12,210,2026-08-17 17:00,2026-08-17,15:31:54
+-34.590890096,-58.671309760,12,media,Edenor,Hurlingham,William Morris,S/D,R:Moron/67-Tr5/67-5518,11,Sin Datos,2026-08-17,15:31:54
+-34.570277010,-58.625701352,12,media,Edenor,3 De Febrero,Remedios De Escalada,S/D,R:Rotonda/262-Tr1/262-5544,54,2026-08-17 13:00,2026-08-17,15:31:54
+-34.567105573,-58.452893765,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr1/114-5546,216,Sin Datos,2026-08-17,15:31:54
+-34.566607599,-58.454426652,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr1/114-5546,68,2026-08-17 14:00,2026-08-17,15:31:54
+-34.566532127,-58.454108499,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr1/114-5546,51,2026-08-17 14:00,2026-08-17,15:31:54
+-34.566553001,-58.454681060,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr1/114-5546,28,2026-08-17 14:00,2026-08-17,15:31:54
+-34.567188788,-58.453035605,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr1/114-5546,173,2026-08-17 14:00,2026-08-17,15:31:54
+-34.232721515,-58.634534575,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,2026-08-17 13:00,2026-08-17,15:31:54
+-34.253265147,-58.644300798,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,2026-08-17 13:00,2026-08-17,15:31:54
+-34.249497110,-58.642324026,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2026-08-17 13:00,2026-08-17,15:31:54
+-34.225662036,-58.632141668,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,4,2026-08-17 13:00,2026-08-17,15:31:54
+-34.240046705,-58.636487721,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2026-08-17 13:00,2026-08-17,15:31:54
+-34.243343814,-58.639169079,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,2026-08-17 13:00,2026-08-17,15:31:54
+-34.257415223,-58.646784397,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,2026-08-17 13:00,2026-08-17,15:31:54
+-34.251280085,-58.643258581,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2026-08-17 13:00,2026-08-17,15:31:54
+-34.252267208,-58.643772905,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2026-08-17 13:00,2026-08-17,15:31:54
+-34.611084165,-58.802113383,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr1/256-5511,225,2026-08-17 14:00,2026-08-17,15:31:54
+-34.610456241,-58.801172402,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr1/256-5511,325,2026-08-17 15:00,2026-08-17,15:31:54
+-34.6589,-58.4437,21,baja,Edesur,Capital,Villa Soldati,,,25,,2026-08-17,15:31:54
+-35.053,-58.7697,21,baja,Edesur,Cañuelas,Cañuelas,,,28,,2026-08-17,15:31:54
+-34.6362,-58.424,21,baja,Edesur,Capital,Boedo,,,13,,2026-08-17,15:31:54
+-34.9153,-58.3734,21,baja,Edesur,Pte Peron,Guernica,,,7,,2026-08-17,15:31:54
+-34.7968,-58.3676,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,4,,2026-08-17,15:31:54
+-34.7145,-58.4668,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,8,,2026-08-17,15:31:54
