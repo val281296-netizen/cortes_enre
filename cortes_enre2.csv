@@ -141544,3 +141544,60 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8388,-58.4712,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,24,,2026-08-20,23:30:40
 -34.7554,-58.2562,21,baja,Edesur,Quilmes,Ezpeleta,,,3,,2026-08-20,23:30:40
 -34.7323,-58.3607,21,baja,Edesur,Lanus,Monte Chingolo,,,1,,2026-08-20,23:30:40
+-34.705962204,-58.409218059,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-4-48/186-4-48,340,Sin Datos,2026-08-21,02:24:41
+-34.802489250,-58.299849843,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-3-35/189-3-35,340,2026-08-21 05:51,2026-08-21,02:24:41
+-34.801425657,-58.297772834,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-3-35/189-3-35,12,2026-08-21 05:51,2026-08-21,02:24:41
+-34.801720252,-58.298349618,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-3-35/189-3-35,64,2026-08-21 05:51,2026-08-21,02:24:41
+-34.802149637,-58.299186251,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-3-35/189-3-35,27,2026-08-21 05:51,2026-08-21,02:24:41
+-34.799563120,-58.297059694,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-3-35/189-3-35,213,2026-08-21 05:51,2026-08-21,02:24:41
+-34.873895415,-58.189094817,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,197,2026-08-21 00:52,2026-08-21,02:24:41
+-34.870281283,-58.180074124,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-2-26/174-2-26,108,2026-08-21 00:52,2026-08-21,02:24:41
+-34.875692871,-58.189037742,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-2-26/174-2-26,384,2026-08-21 00:52,2026-08-21,02:24:41
+-34.877148292,-58.187197415,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-2-26/174-2-26,149,2026-08-21 00:52,2026-08-21,02:24:41
+-34.871687738,-58.185163668,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-2-26/174-2-26,3,2026-08-21 00:52,2026-08-21,02:24:41
+-34.872012485,-58.184748362,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-2-26/174-2-26,41,2026-08-21 00:52,2026-08-21,02:24:41
+-34.873450718,-58.182917185,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-2-26/174-2-26,32,2026-08-21 00:52,2026-08-21,02:24:41
+-34.870322724,-58.188802420,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,144,2026-08-21 00:52,2026-08-21,02:24:41
+-34.832669951,-58.461697534,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-38/083-3-38,416,2026-08-21 06:01,2026-08-21,02:24:41
+-34.831208748,-58.456428082,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-38/083-3-38,124,2026-08-21 06:01,2026-08-21,02:24:41
+-34.834240649,-58.464696863,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-38/083-3-38,4,2026-08-21 06:01,2026-08-21,02:24:41
+-34.833903915,-58.464028213,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-38/083-3-38,143,2026-08-21 06:01,2026-08-21,02:24:41
+-34.832511075,-58.461376196,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-38/083-3-38,5,2026-08-21 06:01,2026-08-21,02:24:41
+-34.798061797,-58.357836629,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-2-21/189-2-21,394,2026-08-21 03:53,2026-08-21,02:24:41
+-34.795558178,-58.357042998,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-2-21/189-2-21,657,2026-08-21 03:53,2026-08-21,02:24:41
+-34.781337090,-58.544587652,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-4-41/083-4-41,1,2026-08-21 08:00,2026-08-21,02:24:41
+-34.794632613,-58.555803314,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-4-41/083-4-41,1,2026-08-21 08:00,2026-08-21,02:24:41
+-34.779073552,-58.536468379,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-4-41/083-4-41,4,2026-08-21 08:00,2026-08-21,02:24:41
+-34.780297261,-58.543195418,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-4-41/083-4-41,1,2026-08-21 08:00,2026-08-21,02:24:41
+-34.772003253,-58.545624568,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-4-41/083-4-41,2,2026-08-21 08:00,2026-08-21,02:24:41
+-34.634454255,-58.520136766,11,media,Edesur,Capital Gp,Liniers,Luro,R:038-2-21/038-2-21,514,2026-08-21 02:47,2026-08-21,02:24:41
+-34.606808637,-58.886135355,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,84,Sin Datos,2026-08-21,02:24:41
+-34.486311083,-58.643149854,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr1/58-5512,117,2026-08-21 03:00,2026-08-21,02:24:41
+-34.484891722,-58.637013682,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr1/58-5512,74,2026-08-21 03:00,2026-08-21,02:24:41
+-34.484639902,-58.647393054,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Talar/58-Tr1/58-5512,107,2026-08-21 03:00,2026-08-21,02:24:41
+-34.487557981,-58.645525936,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr1/58-5512,132,2026-08-21 03:00,2026-08-21,02:24:41
+-34.482517156,-58.651285334,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Talar/58-Tr1/58-5512,28,2026-08-21 03:00,2026-08-21,02:24:41
+-34.492917416,-58.632337141,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr1/58-5512,217,2026-08-21 03:00,2026-08-21,02:24:41
+-34.482216226,-58.650711940,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr1/58-5512,32,2026-08-21 03:00,2026-08-21,02:24:41
+-34.483098140,-58.647613430,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr1/58-5512,82,2026-08-21 03:00,2026-08-21,02:24:41
+-34.486405880,-58.640508921,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr1/58-5512,240,2026-08-21 03:00,2026-08-21,02:24:41
+-34.482926298,-58.646136595,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr1/58-5512,7,2026-08-21 03:00,2026-08-21,02:24:41
+-34.480528392,-58.648831140,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr1/58-5512,18,2026-08-21 03:00,2026-08-21,02:24:41
+-34.483046911,-58.644013993,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr1/58-5512,15,2026-08-21 03:00,2026-08-21,02:24:41
+-34.489816905,-58.634785573,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr1/58-5512,289,2026-08-21 03:00,2026-08-21,02:24:41
+-34.487985423,-58.643669803,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr1/58-5512,79,2026-08-21 03:00,2026-08-21,02:24:41
+-34.483399630,-58.649074864,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr1/58-5512,2,2026-08-21 03:00,2026-08-21,02:24:41
+-34.482623203,-58.649613617,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr1/58-5512,19,2026-08-21 03:00,2026-08-21,02:24:41
+-34.7549,-58.3467,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,1,,2026-08-21,02:24:41
+-34.8236,-58.4452,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,6,,2026-08-21,02:24:41
+-34.8249,-58.1696,21,baja,Edesur,Berazategui,Gutierrez,,,8,,2026-08-21,02:24:41
+-34.7435,-58.4374,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,16,,2026-08-21,02:24:41
+-34.7052,-58.3712,21,baja,Edesur,Lanus,Gerli,,,17,,2026-08-21,02:24:41
+-34.6194,-58.5003,21,baja,Edesur,Capital,Monte Castro,,,16,,2026-08-21,02:24:41
+-34.7901,-58.3703,21,baja,Edesur,Almirante Brown,Marmol,,,3,,2026-08-21,02:24:41
+-34.9154,-58.3651,21,baja,Edesur,Pte Peron,Guernica,,,4,,2026-08-21,02:24:41
+-34.7554,-58.2562,21,baja,Edesur,Quilmes,Ezpeleta,,,3,,2026-08-21,02:24:41
+-34.7218,-58.2815,21,baja,Edesur,Quilmes,Quilmes,,,10,,2026-08-21,02:24:41
+-34.7503,-58.4455,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,71,,2026-08-21,02:24:41
+-34.9592,-58.379,21,baja,Edesur,San Vicente,Alejandro Korn,,,2,,2026-08-21,02:24:41
+-34.7393,-58.4124,21,baja,Edesur,Lomas De Zamora,Banfield,,,1,,2026-08-21,02:24:41
