@@ -142387,3 +142387,156 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7231,-58.3228,21,baja,Edesur,Quilmes,Bernal,,,8,,2026-08-22,15:27:04
 -34.8393,-58.4713,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,19,,2026-08-22,15:27:04
 -34.9013,-58.5803,21,baja,Edesur,Ezeiza,Carlos Spegazzinni,,,1,,2026-08-22,15:27:04
+-34.877539002,-58.379721082,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-1-16/277-1-16,10,2026-08-22 20:00,2026-08-22,17:25:44
+-34.874938981,-58.380005974,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-1-16/277-1-16,374,2026-08-22 20:00,2026-08-22,17:25:44
+-34.702612191,-58.370570554,11,media,Edesur,Lanus,Gerli L,Corina,R:075-2-21/075-2-21,396,Sin Datos,2026-08-22,17:25:44
+-34.827273006,-58.170796390,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-23/174-2-23,538,2026-08-22 19:32,2026-08-22,17:25:44
+-34.828243396,-58.174428917,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-23/174-2-23,5,2026-08-22 19:32,2026-08-22,17:25:44
+-34.825609981,-58.168771964,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-23/174-2-23,64,2026-08-22 19:32,2026-08-22,17:25:44
+-34.825165461,-58.168243826,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-23/174-2-23,86,2026-08-22 19:32,2026-08-22,17:25:44
+-34.808719903,-58.177938777,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-23/174-2-23,227,2026-08-22 19:32,2026-08-22,17:25:44
+-34.811217603,-58.177148424,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-23/174-2-23,280,2026-08-22 19:32,2026-08-22,17:25:44
+-34.830629588,-58.174843567,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-23/174-2-23,340,2026-08-22 19:32,2026-08-22,17:25:44
+-34.882667873,-58.510346708,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,43,2026-08-22 14:47,2026-08-22,17:25:44
+-34.937322037,-58.498408572,11,media,Edesur,San Vicente,San Vicente,Echeverria,R:083-2-26/083-2-26,34,2026-08-22 19:00,2026-08-22,17:25:44
+-34.914809649,-58.469248468,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Echeverria,R:083-2-26/083-2-26,16,2026-08-22 19:00,2026-08-22,17:25:44
+-34.917844818,-58.469098005,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Echeverria,R:083-2-26/083-2-26,26,2026-08-22 19:00,2026-08-22,17:25:44
+-34.919759038,-58.467106324,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Echeverria,R:083-2-26/083-2-26,39,2026-08-22 19:00,2026-08-22,17:25:44
+-34.920536313,-58.466042201,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Echeverria,R:083-2-26/083-2-26,25,2026-08-22 19:00,2026-08-22,17:25:44
+-34.917718031,-58.462468166,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Echeverria,R:083-2-26/083-2-26,23,2026-08-22 19:00,2026-08-22,17:25:44
+-34.916433220,-58.463659129,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Echeverria,R:083-2-26/083-2-26,13,2026-08-22 19:00,2026-08-22,17:25:44
+-34.915145509,-58.464846503,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Echeverria,R:083-2-26/083-2-26,25,2026-08-22 19:00,2026-08-22,17:25:44
+-34.913860033,-58.466033300,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Echeverria,R:083-2-26/083-2-26,22,2026-08-22 19:00,2026-08-22,17:25:44
+-34.912569375,-58.467210482,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Echeverria,R:083-2-26/083-2-26,21,2026-08-22 19:00,2026-08-22,17:25:44
+-34.923176122,-58.457465172,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Echeverria,R:083-2-26/083-2-26,9,2026-08-22 19:00,2026-08-22,17:25:44
+-34.927447356,-58.456916443,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Echeverria,R:083-2-26/083-2-26,10,2026-08-22 19:00,2026-08-22,17:25:44
+-34.921766904,-58.461202623,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Echeverria,R:083-2-26/083-2-26,10,2026-08-22 19:00,2026-08-22,17:25:44
+-34.922113656,-58.465119025,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Echeverria,R:083-2-26/083-2-26,15,2026-08-22 19:00,2026-08-22,17:25:44
+-34.889598941,-58.512449544,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,29,2026-08-22 19:00,2026-08-22,17:25:44
+-34.874159121,-58.508264096,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,61,2026-08-22 19:00,2026-08-22,17:25:44
+-34.877520354,-58.504193974,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,111,2026-08-22 19:00,2026-08-22,17:25:44
+-34.889423231,-58.507671580,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,63,2026-08-22 19:00,2026-08-22,17:25:44
+-34.886836793,-58.508949828,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,97,2026-08-22 19:00,2026-08-22,17:25:44
+-34.890805822,-58.510143079,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,134,2026-08-22 19:00,2026-08-22,17:25:44
+-34.893230204,-58.510887394,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,3,2026-08-22 19:00,2026-08-22,17:25:44
+-34.897703432,-58.512264217,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,42,2026-08-22 19:00,2026-08-22,17:25:44
+-34.889263758,-58.508397082,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,6,2026-08-22 19:00,2026-08-22,17:25:44
+-34.888059937,-58.514148700,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,28,2026-08-22 19:00,2026-08-22,17:25:44
+-34.887753211,-58.515613940,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,2,2026-08-22 19:00,2026-08-22,17:25:44
+-34.915563415,-58.473989801,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Echeverria,R:083-2-26/083-2-26,43,2026-08-22 19:00,2026-08-22,17:25:44
+-34.886426182,-58.506154942,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,11,2026-08-22 19:00,2026-08-22,17:25:44
+-34.893196401,-58.516238590,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,2,2026-08-22 19:00,2026-08-22,17:25:44
+-34.878120775,-58.506752715,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,1,2026-08-22 19:00,2026-08-22,17:25:44
+-34.922245973,-58.482836173,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Echeverria,R:083-2-26/083-2-26,3,2026-08-22 19:00,2026-08-22,17:25:44
+-34.884766633,-58.505643506,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,1,2026-08-22 19:00,2026-08-22,17:25:44
+-34.920778974,-58.499031166,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,32,2026-08-22 19:00,2026-08-22,17:25:44
+-34.922117617,-58.493734726,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Echeverria,R:083-2-26/083-2-26,6,2026-08-22 19:00,2026-08-22,17:25:44
+-34.885665565,-58.516515251,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,5,2026-08-22 19:00,2026-08-22,17:25:44
+-34.933920664,-58.483937093,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Echeverria,R:083-2-26/083-2-26,2,2026-08-22 19:00,2026-08-22,17:25:44
+-34.932362001,-58.495441189,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Echeverria,R:083-2-26/083-2-26,57,2026-08-22 19:00,2026-08-22,17:25:44
+-34.932270839,-58.488077415,11,media,Edesur,San Vicente,San Vicente,Echeverria,R:083-2-26/083-2-26,13,2026-08-22 19:00,2026-08-22,17:25:44
+-34.937939670,-58.483543574,11,media,Edesur,San Vicente,San Vicente,Echeverria,R:083-2-26/083-2-26,278,2026-08-22 19:00,2026-08-22,17:25:44
+-34.937560347,-58.495114399,11,media,Edesur,San Vicente,San Vicente,Echeverria,R:083-2-26/083-2-26,13,2026-08-22 19:00,2026-08-22,17:25:44
+-34.939435159,-58.488925418,11,media,Edesur,San Vicente,San Vicente,Echeverria,R:083-2-26/083-2-26,11,2026-08-22 19:00,2026-08-22,17:25:44
+-34.934303175,-58.489455148,11,media,Edesur,San Vicente,San Vicente,Echeverria,R:083-2-26/083-2-26,11,2026-08-22 19:00,2026-08-22,17:25:44
+-34.938606421,-58.502638672,11,media,Edesur,San Vicente,San Vicente,Echeverria,R:083-2-26/083-2-26,44,2026-08-22 19:00,2026-08-22,17:25:44
+-34.939686042,-58.498884554,11,media,Edesur,San Vicente,San Vicente,Echeverria,R:083-2-26/083-2-26,18,2026-08-22 19:00,2026-08-22,17:25:44
+-34.941990413,-58.499866086,11,media,Edesur,San Vicente,San Vicente,Echeverria,R:083-2-26/083-2-26,89,2026-08-22 19:00,2026-08-22,17:25:44
+-34.943616343,-58.495870117,11,media,Edesur,San Vicente,San Vicente,Echeverria,R:083-2-26/083-2-26,27,2026-08-22 19:00,2026-08-22,17:25:44
+-34.942972214,-58.493968128,11,media,Edesur,San Vicente,San Vicente,Echeverria,R:083-2-26/083-2-26,11,2026-08-22 19:00,2026-08-22,17:25:44
+-34.945754618,-58.491867587,11,media,Edesur,San Vicente,San Vicente,Echeverria,R:083-2-26/083-2-26,11,2026-08-22 19:00,2026-08-22,17:25:44
+-34.944230766,-58.491451887,11,media,Edesur,San Vicente,San Vicente,Echeverria,R:083-2-26/083-2-26,11,2026-08-22 19:00,2026-08-22,17:25:44
+-34.942028112,-58.491732049,11,media,Edesur,San Vicente,San Vicente,Echeverria,R:083-2-26/083-2-26,10,2026-08-22 19:00,2026-08-22,17:25:44
+-34.885445094,-58.504779427,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,32,2026-08-22 19:00,2026-08-22,17:25:44
+-34.886310294,-58.503189907,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,43,2026-08-22 19:00,2026-08-22,17:25:44
+-34.886807531,-58.501492762,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,34,2026-08-22 19:00,2026-08-22,17:25:44
+-34.888140173,-58.500017461,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,30,2026-08-22 19:00,2026-08-22,17:25:44
+-34.889265755,-58.496828836,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,29,2026-08-22 19:00,2026-08-22,17:25:44
+-34.889883076,-58.495147725,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,35,2026-08-22 19:00,2026-08-22,17:25:44
+-34.890256991,-58.493413774,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,32,2026-08-22 19:00,2026-08-22,17:25:44
+-34.892514338,-58.491793394,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,43,2026-08-22 19:00,2026-08-22,17:25:44
+-34.919435145,-58.479092567,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Echeverria,R:083-2-26/083-2-26,6,2026-08-22 19:00,2026-08-22,17:25:44
+-34.915709334,-58.479918585,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,77,2026-08-22 19:00,2026-08-22,17:25:44
+-34.911870505,-58.482230785,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,42,2026-08-22 19:00,2026-08-22,17:25:44
+-34.910113860,-58.483207370,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,97,2026-08-22 19:00,2026-08-22,17:25:44
+-34.910054446,-58.480006358,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,56,2026-08-22 19:00,2026-08-22,17:25:44
+-34.899162761,-58.508861683,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,45,2026-08-22 19:00,2026-08-22,17:25:44
+-34.900983835,-58.509101587,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,33,2026-08-22 19:00,2026-08-22,17:25:44
+-34.900967880,-58.506290574,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,29,2026-08-22 19:00,2026-08-22,17:25:44
+-34.901733910,-58.505615679,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,30,2026-08-22 19:00,2026-08-22,17:25:44
+-34.902300753,-58.502564480,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,35,2026-08-22 19:00,2026-08-22,17:25:44
+-34.902534654,-58.500846232,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,40,2026-08-22 19:00,2026-08-22,17:25:44
+-34.902796950,-58.499109259,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,35,2026-08-22 19:00,2026-08-22,17:25:44
+-34.903369103,-58.498051378,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,22,2026-08-22 19:00,2026-08-22,17:25:44
+-34.903430715,-58.502733168,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,21,2026-08-22 19:00,2026-08-22,17:25:44
+-34.902471362,-58.505958316,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,15,2026-08-22 19:00,2026-08-22,17:25:44
+-34.903165770,-58.509571738,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,24,2026-08-22 19:00,2026-08-22,17:25:44
+-34.903702815,-58.506849014,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,38,2026-08-22 19:00,2026-08-22,17:25:44
+-34.904147171,-58.504639462,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,27,2026-08-22 19:00,2026-08-22,17:25:44
+-34.903558694,-58.504996071,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,21,2026-08-22 19:00,2026-08-22,17:25:44
+-34.904352289,-58.501561106,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,22,2026-08-22 19:00,2026-08-22,17:25:44
+-34.906054718,-58.505014396,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,25,2026-08-22 19:00,2026-08-22,17:25:44
+-34.906341762,-58.505606407,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,16,2026-08-22 19:00,2026-08-22,17:25:44
+-34.907135855,-58.507213153,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,28,2026-08-22 19:00,2026-08-22,17:25:44
+-34.904073957,-58.508831507,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,21,2026-08-22 19:00,2026-08-22,17:25:44
+-34.898954531,-58.508428955,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,1,2026-08-22 19:00,2026-08-22,17:25:44
+-34.899273617,-58.506984698,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,1,2026-08-22 19:00,2026-08-22,17:25:44
+-34.891278327,-58.505574324,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,33,2026-08-22 19:00,2026-08-22,17:25:44
+-34.891919538,-58.503201106,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,31,2026-08-22 19:00,2026-08-22,17:25:44
+-34.892714245,-58.500562891,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,29,2026-08-22 19:00,2026-08-22,17:25:44
+-34.889113126,-58.504605991,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,16,2026-08-22 19:00,2026-08-22,17:25:44
+-34.889904841,-58.502099052,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,18,2026-08-22 19:00,2026-08-22,17:25:44
+-34.894072015,-58.497550449,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,63,2026-08-22 19:00,2026-08-22,17:25:44
+-34.890597576,-58.498318155,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,9,2026-08-22 19:00,2026-08-22,17:25:44
+-34.894270722,-58.493395804,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,33,2026-08-22 19:00,2026-08-22,17:25:44
+-34.895065730,-58.490814184,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,36,2026-08-22 19:00,2026-08-22,17:25:44
+-34.895573578,-58.488466482,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-26/083-2-26,30,2026-08-22 19:00,2026-08-22,17:25:44
+-34.912692103,-58.470972838,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Echeverria,R:083-2-26/083-2-26,2,2026-08-22 19:00,2026-08-22,17:25:44
+-34.914131347,-58.472884961,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Echeverria,R:083-2-26/083-2-26,5,2026-08-22 19:00,2026-08-22,17:25:44
+-34.915547132,-58.474757682,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Echeverria,R:083-2-26/083-2-26,2,2026-08-22 19:00,2026-08-22,17:25:44
+-34.916041119,-58.475413559,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Echeverria,R:083-2-26/083-2-26,3,2026-08-22 19:00,2026-08-22,17:25:44
+-34.916506102,-58.476031534,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Echeverria,R:083-2-26/083-2-26,3,2026-08-22 19:00,2026-08-22,17:25:44
+-34.890537511,-58.515420057,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,4,2026-08-22 19:00,2026-08-22,17:25:44
+-34.929026531,-58.492634393,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Echeverria,R:083-2-26/083-2-26,7,2026-08-22 19:00,2026-08-22,17:25:44
+-34.876201350,-58.506981698,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,2,2026-08-22 19:00,2026-08-22,17:25:44
+-34.925031505,-58.498246794,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Echeverria,R:083-2-26/083-2-26,185,2026-08-22 19:00,2026-08-22,17:25:44
+-34.923090297,-58.502415976,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Echeverria,R:083-2-26/083-2-26,110,2026-08-22 19:00,2026-08-22,17:25:44
+-34.938892703,-58.504134412,11,media,Edesur,Ezeiza,Tristan Suarez,Echeverria,R:083-2-26/083-2-26,1,2026-08-22 19:00,2026-08-22,17:25:44
+-34.885355847,-58.505799681,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,5,2026-08-22 19:00,2026-08-22,17:25:44
+-34.892259709,-58.515936122,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,6,2026-08-22 19:00,2026-08-22,17:25:44
+-34.882543192,-58.504949362,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,114,2026-08-22 19:00,2026-08-22,17:25:44
+-34.939813874,-58.508184624,11,media,Edesur,Ezeiza,Tristan Suarez,Echeverria,R:083-2-26/083-2-26,130,2026-08-22 19:00,2026-08-22,17:25:44
+-34.938388835,-58.510383385,11,media,Edesur,Ezeiza,Tristan Suarez,Echeverria,R:083-2-26/083-2-26,99,2026-08-22 19:00,2026-08-22,17:25:44
+-34.937597808,-58.511725455,11,media,Edesur,Ezeiza,Tristan Suarez,Echeverria,R:083-2-26/083-2-26,104,2026-08-22 19:00,2026-08-22,17:25:44
+-34.936797165,-58.513087128,11,media,Edesur,Ezeiza,Tristan Suarez,Echeverria,R:083-2-26/083-2-26,100,2026-08-22 19:00,2026-08-22,17:25:44
+-34.875263382,-58.509253351,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,129,2026-08-22 19:00,2026-08-22,17:25:44
+-34.876128882,-58.507727023,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,21,2026-08-22 19:00,2026-08-22,17:25:44
+-34.877799871,-58.505873535,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,178,2026-08-22 19:00,2026-08-22,17:25:44
+-34.878517076,-58.504622646,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,51,2026-08-22 19:00,2026-08-22,17:25:44
+-34.932145189,-58.500268735,11,media,Edesur,Ezeiza,Tristan Suarez,Echeverria,R:083-2-26/083-2-26,68,2026-08-22 19:00,2026-08-22,17:25:44
+-34.933804738,-58.501758987,11,media,Edesur,Ezeiza,Tristan Suarez,Echeverria,R:083-2-26/083-2-26,95,2026-08-22 19:00,2026-08-22,17:25:44
+-34.932038124,-58.503172055,11,media,Edesur,Ezeiza,Tristan Suarez,Echeverria,R:083-2-26/083-2-26,44,2026-08-22 19:00,2026-08-22,17:25:44
+-34.930234472,-58.503145964,11,media,Edesur,Ezeiza,Tristan Suarez,Echeverria,R:083-2-26/083-2-26,58,2026-08-22 19:00,2026-08-22,17:25:44
+-34.928656946,-58.506045906,11,media,Edesur,Ezeiza,Tristan Suarez,Echeverria,R:083-2-26/083-2-26,69,2026-08-22 19:00,2026-08-22,17:25:44
+-34.932574724,-58.508029158,11,media,Edesur,Ezeiza,Tristan Suarez,Echeverria,R:083-2-26/083-2-26,17,2026-08-22 19:00,2026-08-22,17:25:44
+-34.881966951,-58.504895503,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,86,2026-08-22 19:00,2026-08-22,17:25:44
+-34.521854868,-58.549293866,12,media,Edenor,San Isidro,Villa Adelina (Si),S/D,R:J. L. Suarez/266-Tr2/266-5537,376,2026-08-22 16:00,2026-08-22,17:25:44
+-34.299000909,-58.635564529,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,3,Sin Datos,2026-08-22,17:25:44
+-34.668450603,-58.805545737,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5511,248,2026-08-22 18:00,2026-08-22,17:25:44
+-34.671267038,-58.809219404,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5511,171,2026-08-22 18:00,2026-08-22,17:25:44
+-34.669328770,-58.814403105,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5511,363,2026-08-22 18:00,2026-08-22,17:25:44
+-34.667383705,-58.806007683,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5511,484,2026-08-22 18:00,2026-08-22,17:25:44
+-34.675563134,-58.808005465,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5511,216,2026-08-22 18:00,2026-08-22,17:25:44
+-34.668187685,-58.810519359,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5511,322,2026-08-22 18:00,2026-08-22,17:25:44
+-34.6901,-58.4003,21,baja,Edesur,Lanus,Lanus,,,142,,2026-08-22,17:25:44
+-34.8216,-58.425,21,baja,Edesur,Almirante Brown,Adrogue,,,8,,2026-08-22,17:25:44
+-34.8055,-58.2208,21,baja,Edesur,Berazategui,Sourigues,,,42,,2026-08-22,17:25:44
+-34.834,-58.1764,21,baja,Edesur,Berazategui,Gutierrez,,,7,,2026-08-22,17:25:44
+-34.8105,-58.1902,21,baja,Edesur,Berazategui,Berazategui,,,6,,2026-08-22,17:25:44
+-34.6122,-58.4038,21,baja,Edesur,Capital,Balvanera,,,11,,2026-08-22,17:25:44
+-34.7737,-58.2487,21,baja,Edesur,Berazategui,Berazategui,,,14,,2026-08-22,17:25:44
+-34.8175,-58.2274,21,baja,Edesur,Florencio Varela,Bosques,,,8,,2026-08-22,17:25:44
+-34.7038,-58.3726,21,baja,Edesur,Lanus,Gerli,,,34,,2026-08-22,17:25:44
+-34.7189,-58.3501,21,baja,Edesur,Lanus,Monte Chingolo,,,4,,2026-08-22,17:25:44
+-34.8393,-58.4713,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,30,,2026-08-22,17:25:44
+-34.8208,-58.4876,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,2,,2026-08-22,17:25:44
