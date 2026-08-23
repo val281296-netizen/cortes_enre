@@ -142929,3 +142929,54 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7767,-58.2297,21,baja,Edesur,Berazategui,Berazategui,,,8,,2026-08-23,13:36:30
 -34.6281,-58.4556,21,baja,Edesur,Capital,Flores,,,8,,2026-08-23,13:36:30
 -35.0442,-58.7389,21,baja,Edesur,Cañuelas,Cañuelas,,,2,,2026-08-23,13:36:30
+-35.044444081,-58.737489690,11,media,Edesur,Cañuelas,Cañuelas,S/D,R:,37,2026-08-23 17:15,2026-08-23,15:27:50
+-35.050307660,-58.743818825,11,media,Edesur,Cañuelas,Cañuelas,S/D,R:,46,2026-08-23 17:15,2026-08-23,15:27:50
+-35.050659015,-58.742389163,11,media,Edesur,Cañuelas,Cañuelas,S/D,R:,7,2026-08-23 17:15,2026-08-23,15:27:50
+-35.050868363,-58.742367512,11,media,Edesur,Cañuelas,Cañuelas,S/D,R:,8,2026-08-23 17:15,2026-08-23,15:27:50
+-35.051263110,-58.741858343,11,media,Edesur,Cañuelas,Cañuelas,S/D,R:,7,2026-08-23 17:15,2026-08-23,15:27:50
+-35.051656588,-58.743481194,11,media,Edesur,Cañuelas,Cañuelas,S/D,R:,13,2026-08-23 17:15,2026-08-23,15:27:50
+-35.051489732,-58.744252177,11,media,Edesur,Cañuelas,Cañuelas,S/D,R:,11,2026-08-23 17:15,2026-08-23,15:27:50
+-35.052031318,-58.743591105,11,media,Edesur,Cañuelas,Cañuelas,S/D,R:,7,2026-08-23 17:15,2026-08-23,15:27:50
+-35.052409155,-58.743131623,11,media,Edesur,Cañuelas,Cañuelas,S/D,R:,2,2026-08-23 17:15,2026-08-23,15:27:50
+-35.051983766,-58.743880814,11,media,Edesur,Cañuelas,Cañuelas,S/D,R:,8,2026-08-23 17:15,2026-08-23,15:27:50
+-35.052319669,-58.743243681,11,media,Edesur,Cañuelas,Cañuelas,S/D,R:,3,2026-08-23 17:15,2026-08-23,15:27:50
+-35.052423968,-58.744388261,11,media,Edesur,Cañuelas,Cañuelas,S/D,R:,11,2026-08-23 17:15,2026-08-23,15:27:50
+-35.052582954,-58.742903585,11,media,Edesur,Cañuelas,Cañuelas,S/D,R:,47,2026-08-23 17:15,2026-08-23,15:27:50
+-35.050579743,-58.739383499,11,media,Edesur,Cañuelas,Cañuelas,S/D,R:,178,2026-08-23 17:15,2026-08-23,15:27:50
+-35.046580149,-58.740041533,11,media,Edesur,Cañuelas,Cañuelas,S/D,R:,2,2026-08-23 17:15,2026-08-23,15:27:50
+-34.658479076,-58.667360946,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr2/366-5533,110,2026-08-23 15:30,2026-08-23,15:27:50
+-34.594490371,-58.995914774,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,177,Sin Datos,2026-08-23,15:27:50
+-34.384951667,-58.720900320,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr4/154-5481/951-5511,83,2026-08-23 12:40,2026-08-23,15:27:50
+-34.391135807,-58.720564579,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr4/154-5481/951-5511,78,2026-08-23 12:40,2026-08-23,15:27:50
+-34.421188916,-58.943598522,12,media,Edenor,Pilar,Fatima,S/D,R:Matheu/51-Tr4/51-5481,132,2026-08-23 12:35,2026-08-23,15:27:50
+-34.604402500,-58.761835207,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr1/256-5517,181,Sin Datos,2026-08-23,15:27:50
+-34.610643435,-58.766244369,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr1/256-5517,2,Sin Datos,2026-08-23,15:27:50
+-34.610629078,-58.764708146,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr1/256-5517,115,Sin Datos,2026-08-23,15:27:50
+-34.821531319,-58.641500990,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr2/168-5523,41,Sin Datos,2026-08-23,15:27:50
+-34.818767716,-58.639873667,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr2/168-5523,10,Sin Datos,2026-08-23,15:27:50
+-34.822835446,-58.642232131,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr2/168-5523,1,Sin Datos,2026-08-23,15:27:50
+-34.830416391,-58.645790674,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr2/168-5523,1,Sin Datos,2026-08-23,15:27:50
+-34.824063503,-58.642869016,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr2/168-5523,13,Sin Datos,2026-08-23,15:27:50
+-34.825172412,-58.643506279,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr2/168-5523,4,Sin Datos,2026-08-23,15:27:50
+-34.827087861,-58.639537569,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr2/168-5523,340,Sin Datos,2026-08-23,15:27:50
+-34.831053368,-58.626337188,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr2/168-5523,429,Sin Datos,2026-08-23,15:27:50
+-34.829310207,-58.636789878,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr2/168-5523,462,Sin Datos,2026-08-23,15:27:50
+-34.825763492,-58.641175447,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr2/168-5523,349,Sin Datos,2026-08-23,15:27:50
+-34.836480368,-58.627845003,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr2/168-5523,1,Sin Datos,2026-08-23,15:27:50
+-34.832578064,-58.624460364,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr2/168-5523,193,Sin Datos,2026-08-23,15:27:50
+-34.834346155,-58.622295215,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr2/168-5523,183,Sin Datos,2026-08-23,15:27:50
+-34.826658429,-58.637572244,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr2/168-5523,213,Sin Datos,2026-08-23,15:27:50
+-34.825421430,-58.636074672,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr2/168-5523,365,Sin Datos,2026-08-23,15:27:50
+-34.831277424,-58.646694468,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr2/168-5523,1,Sin Datos,2026-08-23,15:27:50
+-34.3963,-58.72,22,baja,Edenor,Tigre,Benavidez,,,75,,2026-08-23,15:27:50
+-34.7737,-58.2487,21,baja,Edesur,Berazategui,Berazategui,,,20,,2026-08-23,15:27:50
+-34.7951,-58.4758,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,40,,2026-08-23,15:27:50
+-34.6443,-58.3687,21,baja,Edesur,Capital,La Boca,,,2,,2026-08-23,15:27:50
+-34.8715,-58.5422,21,baja,Edesur,Ezeiza,Barrio La Union,,,15,,2026-08-23,15:27:50
+-34.7767,-58.2297,21,baja,Edesur,Berazategui,Berazategui,,,8,,2026-08-23,15:27:50
+-34.6281,-58.4556,21,baja,Edesur,Capital,Flores,,,14,,2026-08-23,15:27:50
+-34.7928,-58.2787,21,baja,Edesur,Florencio Varela,Florencio Varela,,,3,,2026-08-23,15:27:50
+-35.0338,-58.4029,21,baja,Edesur,San Vicente,San Vicente,,,10,,2026-08-23,15:27:50
+-34.6432,-58.4752,21,baja,Edesur,Capital,Parque Avellaneda,,,5,,2026-08-23,15:27:50
+-34.6274,-58.4248,21,baja,Edesur,Capital,Boedo,,,4,,2026-08-23,15:27:50
+-34.9279,-58.3887,21,baja,Edesur,Pte Peron,San Martin,,,1,,2026-08-23,15:27:50
