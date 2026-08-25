@@ -144007,3 +144007,66 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6472,-58.4143,21,baja,Edesur,Capital,Nueva Pompeya,,,8,,2026-08-24,23:26:43
 -34.6002,-58.4414,21,baja,Edesur,Capital,Villa Crespo,,,44,,2026-08-24,23:26:43
 -34.874,-58.1856,21,baja,Edesur,Berazategui,El Pato,,,14,,2026-08-24,23:26:43
+-34.832669951,-58.461697534,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-36/083-3-36,417,Sin Datos,2026-08-25,02:19:30
+-34.831208748,-58.456428082,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-36/083-3-36,124,Sin Datos,2026-08-25,02:19:30
+-34.834240649,-58.464696863,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-36/083-3-36,4,Sin Datos,2026-08-25,02:19:30
+-34.833903915,-58.464028213,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-36/083-3-36,143,Sin Datos,2026-08-25,02:19:30
+-34.832511075,-58.461376196,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-36/083-3-36,5,Sin Datos,2026-08-25,02:19:30
+-34.843425121,-58.188843271,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-1-12/174-1-12,28,2026-08-25 01:23,2026-08-25,02:19:30
+-34.857269284,-58.183953170,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-1-12/174-1-12,1,2026-08-25 01:23,2026-08-25,02:19:30
+-34.864384718,-58.181555721,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-1-12/174-1-12,1,2026-08-25 01:23,2026-08-25,02:19:30
+-34.863272965,-58.181679585,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-1-12/174-1-12,5,2026-08-25 01:23,2026-08-25,02:19:30
+-34.850852974,-58.186056145,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-1-12/174-1-12,1,2026-08-25 01:23,2026-08-25,02:19:30
+-34.955419780,-58.558445903,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Echeverria,R:083-2-26/083-2-26,3,2026-08-24 23:18,2026-08-25,02:19:30
+-34.950403386,-58.541758460,11,media,Edesur,Ezeiza,Tristan Suarez,Echeverria,R:083-2-26/083-2-26,59,2026-08-24 23:18,2026-08-25,02:19:30
+-34.945334387,-58.546474137,11,media,Edesur,Ezeiza,Tristan Suarez,Echeverria,R:083-2-26/083-2-26,1,2026-08-24 23:18,2026-08-25,02:19:30
+-34.947104339,-58.544810618,11,media,Edesur,Ezeiza,Tristan Suarez,Echeverria,R:083-2-26/083-2-26,7,2026-08-24 23:18,2026-08-25,02:19:30
+-34.950056063,-58.542073692,11,media,Edesur,Ezeiza,Tristan Suarez,Echeverria,R:083-2-26/083-2-26,9,2026-08-24 23:18,2026-08-25,02:19:30
+-34.506754796,-58.513567912,12,media,Edenor,Vicente Lopez,Olivos,S/D,R:Edison/57-Tr2/57-5527,504,2026-08-25 03:00,2026-08-25,02:19:30
+-34.503893157,-58.507136337,12,media,Edenor,Vicente Lopez,Olivos,S/D,R:Edison/57-Tr2/57-5527,166,2026-08-25 03:00,2026-08-25,02:19:30
+-34.502329471,-58.503896808,12,media,Edenor,Vicente Lopez,Olivos,S/D,R:Edison/57-Tr2/57-5527,93,2026-08-25 03:00,2026-08-25,02:19:30
+-34.505388523,-58.510576162,12,media,Edenor,Vicente Lopez,Olivos,S/D,R:Edison/57-Tr2/57-5527,278,2026-08-25 03:00,2026-08-25,02:19:30
+-34.501988281,-58.503186389,12,media,Edenor,Vicente Lopez,Olivos,S/D,R:Edison/57-Tr2/57-5527,189,2026-08-25 03:00,2026-08-25,02:19:30
+-34.506995950,-58.514127437,12,media,Edenor,Vicente Lopez,Olivos,S/D,R:Edison/57-Tr2/57-5527,4,2026-08-25 03:00,2026-08-25,02:19:30
+-34.485963882,-58.507545487,12,media,Edenor,San Isidro,Martinez,S/D,R:Edison/57-Tr2/57-5527,263,2026-08-25 03:00,2026-08-25,02:19:30
+-34.489808054,-58.515492074,12,media,Edenor,San Isidro,Martinez,S/D,R:Edison/57-Tr2/57-5527,319,2026-08-25 03:00,2026-08-25,02:19:30
+-34.497993772,-58.505393779,12,media,Edenor,San Isidro,Martinez,S/D,R:Edison/57-Tr2/57-5527,376,2026-08-25 03:00,2026-08-25,02:19:30
+-34.501315573,-58.504211859,12,media,Edenor,San Isidro,Beccar,S/D,R:Edison/57-Tr2/57-5527,343,2026-08-25 03:00,2026-08-25,02:19:30
+-34.489118649,-58.511811337,12,media,Edenor,San Isidro,Martinez,S/D,R:Edison/57-Tr2/57-5527,355,2026-08-25 03:00,2026-08-25,02:19:30
+-34.499293642,-58.501726184,12,media,Edenor,San Isidro,Martinez,S/D,R:Edison/57-Tr2/57-5527,382,2026-08-25 03:00,2026-08-25,02:19:30
+-34.503653199,-58.513125327,12,media,Edenor,San Isidro,Martinez,S/D,R:Edison/57-Tr2/57-5527,460,2026-08-25 03:00,2026-08-25,02:19:30
+-34.496450520,-58.509404285,12,media,Edenor,San Isidro,Martinez,S/D,R:Edison/57-Tr2/57-5527,167,2026-08-25 03:00,2026-08-25,02:19:30
+-34.485385515,-58.510507870,12,media,Edenor,San Isidro,Martinez,S/D,R:Edison/57-Tr2/57-5527,259,2026-08-25 03:00,2026-08-25,02:19:30
+-34.499687113,-58.504513009,12,media,Edenor,San Isidro,Martinez,S/D,R:Edison/57-Tr2/57-5527,138,2026-08-25 03:00,2026-08-25,02:19:30
+-34.496765369,-58.510045435,12,media,Edenor,San Isidro,Martinez,S/D,R:Edison/57-Tr2/57-5527,161,2026-08-25 03:00,2026-08-25,02:19:30
+-34.488100777,-58.512582490,12,media,Edenor,San Isidro,Martinez,S/D,R:Edison/57-Tr2/57-5527,171,2026-08-25 03:00,2026-08-25,02:19:30
+-34.491026428,-58.510507358,12,media,Edenor,San Isidro,Martinez,S/D,R:Edison/57-Tr2/57-5527,158,2026-08-25 03:00,2026-08-25,02:19:30
+-34.486691760,-58.509218912,12,media,Edenor,San Isidro,Martinez,S/D,R:Edison/57-Tr2/57-5527,95,2026-08-25 03:00,2026-08-25,02:19:30
+-34.487693389,-58.511331611,12,media,Edenor,San Isidro,Martinez,S/D,R:Edison/57-Tr2/57-5527,2,2026-08-25 03:00,2026-08-25,02:19:30
+-34.496113413,-58.506951212,12,media,Edenor,San Isidro,Martinez,S/D,R:Edison/57-Tr2/57-5527,153,2026-08-25 03:00,2026-08-25,02:19:30
+-34.6264,-58.3714,21,baja,Edesur,Capital,San Telmo,,,65,,2026-08-25,02:19:30
+-34.6064,-58.465,21,baja,Edesur,Capital,Capital,,,16,,2026-08-25,02:19:30
+-35.0221,-58.4125,21,baja,Edesur,San Vicente,San Vicente,,,38,,2026-08-25,02:19:30
+-34.7831,-58.2454,21,baja,Edesur,Berazategui,Berazategui,,,6,,2026-08-25,02:19:30
+-34.7738,-58.346,21,baja,Edesur,Almirante Brown,San Jose,,,5,,2026-08-25,02:19:30
+-34.8332,-58.2207,21,baja,Edesur,Florencio Varela,Bosques,,,6,,2026-08-25,02:19:30
+-34.8114,-58.4439,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,31,,2026-08-25,02:19:30
+-34.6318,-58.3616,21,baja,Edesur,Capital,La Boca,,,34,,2026-08-25,02:19:30
+-34.6487,-58.4154,21,baja,Edesur,Capital,Nueva Pompeya,,,28,,2026-08-25,02:19:30
+-34.6187,-58.3719,21,baja,Edesur,Capital,San Telmo,,,5,,2026-08-25,02:19:30
+-34.7009,-58.4456,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,25,,2026-08-25,02:19:30
+-34.6002,-58.4414,21,baja,Edesur,Capital,Villa Crespo,,,48,,2026-08-25,02:19:30
+-34.6971,-58.4273,21,baja,Edesur,Lanus,Lanus,,,4,,2026-08-25,02:19:30
+-34.8518,-58.4827,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,18,,2026-08-25,02:19:30
+-34.874,-58.1856,21,baja,Edesur,Berazategui,El Pato,,,27,,2026-08-25,02:19:30
+-34.8134,-58.2274,21,baja,Edesur,Florencio Varela,Bosques,,,4,,2026-08-25,02:19:30
+-34.8669,-58.2007,21,baja,Edesur,Florencio Varela,Ing. Allan,,,10,,2026-08-25,02:19:30
+-34.7799,-58.296,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,11,,2026-08-25,02:19:30
+-34.6734,-58.4255,21,baja,Edesur,Lanus,Valentin Alsina,,,22,,2026-08-25,02:19:30
+-34.8723,-58.3705,21,baja,Edesur,Almirante Brown,Glew,,,14,,2026-08-25,02:19:30
+-34.7252,-58.4643,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,13,,2026-08-25,02:19:30
+-34.7552,-58.2646,21,baja,Edesur,Quilmes,Ezpeleta,,,6,,2026-08-25,02:19:30
+-34.784,-58.2111,21,baja,Edesur,Berazategui,Berazategui,,,18,,2026-08-25,02:19:30
+-34.7874,-58.3588,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,21,,2026-08-25,02:19:30
+-34.6297,-58.5256,21,baja,Edesur,Capital,Versalles,,,1,,2026-08-25,02:19:30
+-34.7941,-58.2699,21,baja,Edesur,Florencio Varela,Florencio Varela,,,1,,2026-08-25,02:19:30
