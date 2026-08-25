@@ -144187,3 +144187,55 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7772,-58.2306,21,baja,Edesur,Berazategui,Berazategui,,,8,,2026-08-25,11:33:25
 -34.8328,-58.2198,21,baja,Edesur,Florencio Varela,Bosques,,,3,,2026-08-25,11:33:25
 -34.601,-58.491,21,baja,Edesur,Capital,Villa Del Parque,,,1,,2026-08-25,11:33:25
+-34.696929428,-58.331049551,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-2-21/172-2-21,513,2026-08-25 18:19,2026-08-25,13:54:10
+-34.695550915,-58.329119414,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-2-21/172-2-21,489,2026-08-25 18:19,2026-08-25,13:54:10
+-34.719268136,-58.367850805,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-4-44/087-4-44,362,2026-08-25 13:23,2026-08-25,13:54:10
+-35.034282793,-58.731132241,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,58,2026-08-25 13:31,2026-08-25,13:54:10
+-35.029550010,-58.731789464,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,15,2026-08-25 13:31,2026-08-25,13:54:10
+-35.039354560,-58.734771667,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,313,2026-08-25 13:31,2026-08-25,13:54:10
+-35.039872448,-58.737606718,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,284,2026-08-25 13:31,2026-08-25,13:54:10
+-35.031108942,-58.727457600,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,1,2026-08-25 13:31,2026-08-25,13:54:10
+-35.030410257,-58.731446007,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,1,2026-08-25 13:31,2026-08-25,13:54:10
+-34.769987171,-58.255400808,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-33/080-2-33,397,2026-08-25 16:00,2026-08-25,13:54:10
+-34.771418736,-58.256234733,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-33/080-2-33,335,2026-08-25 16:00,2026-08-25,13:54:10
+-34.692355789,-58.742475707,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5516,505,Sin Datos,2026-08-25,13:54:10
+-34.765452337,-58.858950915,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,2,2026-08-25 15:00,2026-08-25,13:54:10
+-34.571667811,-58.774393146,12,media,Edenor,Moreno,Trujui,S/D,R:Trujui/364-Tr2/364-5531,186,2026-08-25 15:00,2026-08-25,13:54:10
+-34.570570112,-58.773216615,12,media,Edenor,Moreno,Trujui,S/D,R:Trujui/364-Tr2/364-5531,137,2026-08-25 15:00,2026-08-25,13:54:10
+-34.664506364,-58.878545615,12,media,Edenor,Moreno,La Reja,S/D,R:La Reja/163-Tr2/163-5523,4,2026-08-25 13:00,2026-08-25,13:54:10
+-34.666688584,-58.877603058,12,media,Edenor,Moreno,La Reja,S/D,R:La Reja/163-Tr2/163-5523,15,2026-08-25 13:00,2026-08-25,13:54:10
+-34.659664573,-58.889444927,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5526,11,2026-08-25 13:00,2026-08-25,13:54:10
+-34.329008628,-58.574953358,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,3,2026-08-25 15:00,2026-08-25,13:54:10
+-34.166382959,-58.433352697,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,2026-08-25 15:20,2026-08-25,13:54:10
+-34.175113353,-58.416098627,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,2026-08-25 15:20,2026-08-25,13:54:10
+-34.173077899,-58.420316207,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,2026-08-25 15:20,2026-08-25,13:54:10
+-34.161581975,-58.438447377,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2026-08-25 15:20,2026-08-25,13:54:10
+-34.176564350,-58.412298789,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,2026-08-25 15:20,2026-08-25,13:54:10
+-34.486450870,-58.920974860,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5523,40,2026-08-25 12:40,2026-08-25,13:54:10
+-34.483002441,-58.589402661,12,media,Edenor,San Fernando,Victoria,S/D,R:Bancalari/157-Tr2/157-5535,302,2026-08-25 16:00,2026-08-25,13:54:10
+-34.772419293,-58.867020741,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,9,2026-08-25 15:30,2026-08-25,13:54:10
+-34.713738607,-58.484500876,12,media,Edenor,La Matanza,La Tablada,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2026-08-25 15:30,2026-08-25,13:54:10
+-34.714095613,-58.484020627,12,media,Edenor,La Matanza,Tapiales,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2026-08-25 15:30,2026-08-25,13:54:10
+-34.714883676,-58.482985859,12,media,Edenor,La Matanza,Tapiales,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2026-08-25 15:30,2026-08-25,13:54:10
+-34.716192216,-58.480951442,12,media,Edenor,La Matanza,Tapiales,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2026-08-25 15:30,2026-08-25,13:54:10
+-34.714837410,-58.481732052,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2026-08-25 15:30,2026-08-25,13:54:10
+-34.433283040,-58.920615470,12,media,Edenor,Pilar,Luis Lagomarsino,S/D,R:Manzone/257-Tr1/257-5513,180,2026-08-25 13:15,2026-08-25,13:54:10
+-34.779409774,-58.890610211,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,2,2026-08-25 13:00,2026-08-25,13:54:10
+-34.515319139,-58.718694956,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,491,2026-08-25 14:00,2026-08-25,13:54:10
+-34.430447017,-58.585231854,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5525,36,2026-08-25 14:00,2026-08-25,13:54:10
+-34.872,-58.1947,21,baja,Edesur,Florencio Varela,Ing. Allan,,,87,,2026-08-25,13:54:10
+-34.9271,-58.6185,21,baja,Edesur,Cañuelas,Maximo Paz,,,6,,2026-08-25,13:54:10
+-34.8114,-58.4439,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,36,,2026-08-25,13:54:10
+-34.7176,-58.4352,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,46,,2026-08-25,13:54:10
+-34.7038,-58.4462,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,9,,2026-08-25,13:54:10
+-34.8518,-58.4827,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,22,,2026-08-25,13:54:10
+-34.6734,-58.4255,21,baja,Edesur,Lanus,Valentin Alsina,,,27,,2026-08-25,13:54:10
+-34.7552,-58.2646,21,baja,Edesur,Quilmes,Ezpeleta,,,10,,2026-08-25,13:54:10
+-34.7864,-58.1933,21,baja,Edesur,Berazategui,Ranelagh,,,22,,2026-08-25,13:54:10
+-34.7806,-58.2959,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,8,,2026-08-25,13:54:10
+-34.8087,-58.448,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,89,,2026-08-25,13:54:10
+-34.8365,-58.4473,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,9,,2026-08-25,13:54:10
+-34.8714,-58.3691,21,baja,Edesur,Almirante Brown,Marmol,,,9,,2026-08-25,13:54:10
+-34.7772,-58.2306,21,baja,Edesur,Berazategui,Berazategui,,,17,,2026-08-25,13:54:10
+-34.8328,-58.2198,21,baja,Edesur,Florencio Varela,Bosques,,,5,,2026-08-25,13:54:10
+-34.8208,-58.395,21,baja,Edesur,Almirante Brown,Burzaco,,,5,,2026-08-25,13:54:10
