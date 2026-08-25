@@ -144355,3 +144355,64 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8421,-58.4776,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,13,,2026-08-25,19:36:09
 -34.6003,-58.4246,21,baja,Edesur,Capital,Almagro,,,11,,2026-08-25,19:36:09
 -34.6247,-58.4277,21,baja,Edesur,Capital,Caballito,,,12,,2026-08-25,19:36:09
+-34.719268136,-58.367850805,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-4-44/087-4-44,362,Sin Datos,2026-08-25,21:33:55
+-34.769987171,-58.255400808,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-33/080-2-33,397,Sin Datos,2026-08-25,21:33:55
+-34.771418736,-58.256234733,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-33/080-2-33,335,Sin Datos,2026-08-25,21:33:55
+-34.765719720,-58.368315244,11,media,Edesur,Lomas De Zamora,Temperley,Temperley,R:084-1-14/084-1-14,76,Sin Datos,2026-08-25,21:33:55
+-34.770379630,-58.364829437,11,media,Edesur,Lomas De Zamora,Temperley,Temperley,R:084-1-14/084-1-14,356,Sin Datos,2026-08-25,21:33:55
+-34.766740431,-58.367546981,11,media,Edesur,Lomas De Zamora,Temperley,Temperley,R:084-1-14/084-1-14,228,Sin Datos,2026-08-25,21:33:55
+-34.743949743,-58.370901132,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,355,Sin Datos,2026-08-25,21:33:55
+-34.746541060,-58.368411093,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,312,Sin Datos,2026-08-25,21:33:55
+-34.747468920,-58.370276369,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,174,Sin Datos,2026-08-25,21:33:55
+-34.742887326,-58.418880394,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-4-47/087-4-47,586,2026-08-25 22:13,2026-08-25,21:33:55
+-34.692355789,-58.742475707,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5516,505,Sin Datos,2026-08-25,21:33:55
+-34.483002441,-58.589402661,12,media,Edenor,San Fernando,Victoria,S/D,R:Bancalari/157-Tr2/157-5535,302,Sin Datos,2026-08-25,21:33:55
+-34.407358609,-58.856407520,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr2/260-5515,37,2026-08-25 19:00,2026-08-25,21:33:55
+-34.406722030,-58.855638001,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr2/260-5515,35,2026-08-25 19:00,2026-08-25,21:33:55
+-34.402529372,-58.857739671,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr2/260-5515,184,2026-08-25 19:00,2026-08-25,21:33:55
+-34.404258458,-58.856415938,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr2/260-5515,164,2026-08-25 19:00,2026-08-25,21:33:55
+-34.400025065,-58.854759607,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr2/260-5515,34,2026-08-25 19:00,2026-08-25,21:33:55
+-34.546156329,-58.535385044,12,media,Edenor,Gral San Martin,Gderos De San Mart?N,S/D,R:Munro/55-Tr1/55-5547,448,Sin Datos,2026-08-25,21:33:55
+-34.543152338,-58.542338455,12,media,Edenor,Gral San Martin,Gregoria Matorras,S/D,R:Munro/55-Tr1/55-5547,199,Sin Datos,2026-08-25,21:33:55
+-34.550480550,-58.540159793,12,media,Edenor,Gral San Martin,Marques A De Aguado,S/D,R:Munro/55-Tr1/55-5547,10,Sin Datos,2026-08-25,21:33:55
+-34.551672337,-58.540714280,12,media,Edenor,Gral San Martin,Marques A De Aguado,S/D,R:Munro/55-Tr1/55-5547,2,Sin Datos,2026-08-25,21:33:55
+-34.545602754,-58.539950193,12,media,Edenor,Gral San Martin,Gderos De San Mart?N,S/D,R:Munro/55-Tr1/55-5547,217,Sin Datos,2026-08-25,21:33:55
+-34.852221766,-58.820799206,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,1,2026-08-25 22:00,2026-08-25,21:33:55
+-34.811639139,-58.835315984,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,1,2026-08-25 22:00,2026-08-25,21:33:55
+-34.846737378,-58.817974730,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,3,2026-08-25 22:00,2026-08-25,21:33:55
+-34.842503951,-58.812938918,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,2,2026-08-25 22:00,2026-08-25,21:33:55
+-34.840899153,-58.811012049,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,1,2026-08-25 22:00,2026-08-25,21:33:55
+-34.815646831,-58.833313330,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,1,2026-08-25 22:00,2026-08-25,21:33:55
+-34.855822585,-58.816479046,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,1,2026-08-25 22:00,2026-08-25,21:33:55
+-34.856860741,-58.812692629,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,2,2026-08-25 22:00,2026-08-25,21:33:55
+-34.856853690,-58.810303336,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,3,2026-08-25 22:00,2026-08-25,21:33:55
+-34.854060844,-58.808051097,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,3,2026-08-25 22:00,2026-08-25,21:33:55
+-34.852169237,-58.805485423,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,3,2026-08-25 22:00,2026-08-25,21:33:55
+-34.850112578,-58.805780452,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,2,2026-08-25 22:00,2026-08-25,21:33:55
+-34.846406996,-58.801897402,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,5,2026-08-25 22:00,2026-08-25,21:33:55
+-34.843386809,-58.802132075,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,3,2026-08-25 22:00,2026-08-25,21:33:55
+-34.842493575,-58.803357452,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,3,2026-08-25 22:00,2026-08-25,21:33:55
+-34.840523032,-58.806348999,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,4,2026-08-25 22:00,2026-08-25,21:33:55
+-34.848256665,-58.825440278,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,2,2026-08-25 22:00,2026-08-25,21:33:55
+-34.839476793,-58.809351446,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,1,2026-08-25 22:00,2026-08-25,21:33:55
+-34.837443637,-58.806942793,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,2,2026-08-25 22:00,2026-08-25,21:33:55
+-34.859718388,-58.811699410,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,2,2026-08-25 22:00,2026-08-25,21:33:55
+-34.854791153,-58.810651142,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,1,2026-08-25 22:00,2026-08-25,21:33:55
+-34.849856034,-58.803150668,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,4,2026-08-25 22:00,2026-08-25,21:33:55
+-34.792494969,-58.833188865,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,1,Sin Datos,2026-08-25,21:33:55
+-34.800444286,-58.838976257,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,29,Sin Datos,2026-08-25,21:33:55
+-34.795489035,-58.832398122,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,55,Sin Datos,2026-08-25,21:33:55
+-34.7064,-58.7222,22,baja,Edenor,Merlo,Merlo,,,5,,2026-08-25,21:33:55
+-34.4469,-58.8248,22,baja,Edenor,Pilar,La Lonja,,,17,,2026-08-25,21:33:55
+-34.8211,-58.2387,21,baja,Edesur,Florencio Varela,Bosques,,,9,,2026-08-25,21:33:55
+-34.8322,-58.2193,21,baja,Edesur,Florencio Varela,Bosques,,,16,,2026-08-25,21:33:55
+-34.6255,-58.4174,21,baja,Edesur,Capital,Boedo,,,13,,2026-08-25,21:33:55
+-34.7794,-58.2985,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,8,,2026-08-25,21:33:55
+-34.7034,-58.4466,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,8,,2026-08-25,21:33:55
+-34.8436,-58.284,21,baja,Edesur,Florencio Varela,Florencio Varela,,,10,,2026-08-25,21:33:55
+-35.0298,-58.4188,21,baja,Edesur,San Vicente,San Vicente,,,41,,2026-08-25,21:33:55
+-34.7841,-58.212,21,baja,Edesur,Berazategui,Berazategui,,,18,,2026-08-25,21:33:55
+-34.6003,-58.4246,21,baja,Edesur,Capital,Almagro,,,18,,2026-08-25,21:33:55
+-34.8746,-58.1872,21,baja,Edesur,Berazategui,El Pato,,,9,,2026-08-25,21:33:55
+-34.7955,-58.2123,21,baja,Edesur,Berazategui,Ranelagh,,,5,,2026-08-25,21:33:55
+-34.6122,-58.4038,21,baja,Edesur,Capital,Balvanera,,,1,,2026-08-25,21:33:55
