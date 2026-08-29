@@ -146009,3 +146009,47 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7803,-58.2959,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,2,,2026-08-29,17:02:42
 -34.818,-58.227,21,baja,Edesur,Florencio Varela,Bosques,,,4,,2026-08-29,17:02:42
 -34.7378,-58.4384,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,3,,2026-08-29,17:02:42
+-34.737793909,-58.489642858,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-4-42/281-4-42,45,Sin Datos,2026-08-29,21:35:50
+-34.735389681,-58.491379246,11,media,Edesur,Lomas De Zamora,Ingeniero Budge,Transradio,R:281-4-42/281-4-42,9,Sin Datos,2026-08-29,21:35:50
+-34.865178064,-58.531455404,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,280,Sin Datos,2026-08-29,21:35:50
+-34.679085849,-58.351996616,11,media,Edesur,Avellaneda,Sarandi,Sarandi,R:172-1-12/172-1-12,32,Sin Datos,2026-08-29,21:35:50
+-34.679065768,-58.351966504,11,media,Edesur,Avellaneda,Sarandi,Sarandi,R:172-1-12/172-1-12,42,Sin Datos,2026-08-29,21:35:50
+-34.745541495,-58.428218994,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-4-47/087-4-47,241,Sin Datos,2026-08-29,21:35:50
+-34.745710632,-58.427208024,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-4-47/087-4-47,67,Sin Datos,2026-08-29,21:35:50
+-34.735625974,-58.476637982,11,media,Edesur,Lomas De Zamora,Ingeniero Budge,Transradio,R:281-4-46/281-4-46,7,2026-08-29 20:00,2026-08-29,21:35:50
+-34.737175171,-58.475431958,11,media,Edesur,Lomas De Zamora,Ingeniero Budge,Transradio,R:281-4-46/281-4-46,16,2026-08-29 20:00,2026-08-29,21:35:50
+-34.736026416,-58.473254330,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-4-46/281-4-46,8,2026-08-29 20:00,2026-08-29,21:35:50
+-34.735930264,-58.474711255,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-4-46/281-4-46,179,2026-08-29 20:00,2026-08-29,21:35:50
+-34.736057705,-58.478386534,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-4-46/281-4-46,399,2026-08-29 20:00,2026-08-29,21:35:50
+-34.738101731,-58.476796581,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-4-46/281-4-46,440,2026-08-29 20:00,2026-08-29,21:35:50
+-34.737780852,-58.472848924,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-4-46/281-4-46,272,2026-08-29 20:00,2026-08-29,21:35:50
+-34.740811068,-58.473235132,11,media,Edesur,Lomas De Zamora,Ingeniero Budge,Transradio,R:281-4-46/281-4-46,305,2026-08-29 20:00,2026-08-29,21:35:50
+-34.682837810,-58.396617317,11,media,Edesur,Lanus,Gerli L,Gerli,R:186-4-44/186-4-44,380,Sin Datos,2026-08-29,21:35:50
+-34.763867097,-58.275081253,11,media,Edesur,Quilmes,Quilmes Oeste,Calchaqui,R:085-1-11/085-1-11,492,Sin Datos,2026-08-29,21:35:50
+-34.985978527,-58.401603124,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-05/956-1-05,19,2026-08-29 21:00,2026-08-29,21:35:50
+-34.989103374,-58.398945412,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-05/956-1-05,71,2026-08-29 21:00,2026-08-29,21:35:50
+-34.985183719,-58.405003200,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-05/956-1-05,1,2026-08-29 21:00,2026-08-29,21:35:50
+-34.983198050,-58.400174215,11,media,Edesur,San Vicente,Alejandro Korn,S/D,R:956-1-05/956-1-05,7,2026-08-29 21:00,2026-08-29,21:35:50
+-34.984200479,-58.407949707,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-05/956-1-05,1,2026-08-29 21:00,2026-08-29,21:35:50
+-34.980780132,-58.406016940,11,media,Edesur,San Vicente,Alejandro Korn,S/D,R:956-1-05/956-1-05,2,2026-08-29 21:00,2026-08-29,21:35:50
+-34.987149570,-58.401924042,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-05/956-1-05,1,2026-08-29 21:00,2026-08-29,21:35:50
+-34.981651035,-58.405279751,11,media,Edesur,San Vicente,Alejandro Korn,S/D,R:956-1-05/956-1-05,1,2026-08-29 21:00,2026-08-29,21:35:50
+-34.987117287,-58.400634095,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-05/956-1-05,4,2026-08-29 21:00,2026-08-29,21:35:50
+-34.985614295,-58.403675121,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-05/956-1-05,1,2026-08-29 21:00,2026-08-29,21:35:50
+-34.716994019,-58.453447759,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-3-36/281-3-36,869,2026-08-29 21:00,2026-08-29,21:35:50
+-34.719161318,-58.451674890,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-3-36/281-3-36,143,2026-08-29 21:00,2026-08-29,21:35:50
+-34.717449219,-58.450460996,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-3-36/281-3-36,375,2026-08-29 21:00,2026-08-29,21:35:50
+-34.915480304,-58.597034905,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Spegazzini,R:270-3-31/270-3-31,155,2026-08-29 19:24,2026-08-29,21:35:50
+-34.912231404,-58.590754512,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Spegazzini,R:270-3-31/270-3-31,233,2026-08-29 19:24,2026-08-29,21:35:50
+-34.784902406,-58.344202171,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-1-16/189-1-16,216,2026-08-29 20:09,2026-08-29,21:35:50
+-34.707805707,-58.589949478,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr1/63-5547,376,Sin Datos,2026-08-29,21:35:50
+-34.7195,-58.4442,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,38,,2026-08-29,21:35:50
+-34.6428,-58.4511,21,baja,Edesur,Capital,Flores,,,8,,2026-08-29,21:35:50
+-34.8588,-58.1907,21,baja,Edesur,Florencio Varela,Florencio Varela,,,12,,2026-08-29,21:35:50
+-34.7794,-58.3996,21,baja,Edesur,Lomas De Zamora,Temperley,,,23,,2026-08-29,21:35:50
+-34.7803,-58.2959,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,2,,2026-08-29,21:35:50
+-34.818,-58.227,21,baja,Edesur,Florencio Varela,Bosques,,,5,,2026-08-29,21:35:50
+-34.845,-58.4469,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,6,,2026-08-29,21:35:50
+-34.7194,-58.246,21,baja,Edesur,Quilmes,Quilmes,,,4,,2026-08-29,21:35:50
+-34.7975,-58.2548,21,baja,Edesur,Florencio Varela,Florencio Varela,,,1,,2026-08-29,21:35:50
+-34.7952,-58.4767,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,19,,2026-08-29,21:35:50
