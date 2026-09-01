@@ -146572,3 +146572,37 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6318,-58.4939,21,baja,Edesur,Capital,Velez Sarfield,,,5,,2026-09-01,06:09:40
 -34.7749,-58.2305,21,baja,Edesur,Berazategui,Berazategui,,,25,,2026-09-01,06:09:40
 -34.7846,-58.2123,21,baja,Edesur,Berazategui,Berazategui,,,18,,2026-09-01,06:09:40
+-34.810149440,-58.268388665,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-23/183-2-23,279,2026-09-01 16:48,2026-09-01,12:29:08
+-34.808865997,-58.263844902,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-23/183-2-23,263,2026-09-01 16:48,2026-09-01,12:29:08
+-34.811862930,-58.270826125,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-23/183-2-23,1,2026-09-01 16:48,2026-09-01,12:29:08
+-34.708901777,-58.391175972,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-4-42/087-4-42,250,2026-09-01 16:00,2026-09-01,12:29:08
+-34.601457443,-58.932264194,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr5/169-5562,140,2026-09-01 13:00,2026-09-01,12:29:08
+-34.638257716,-58.862478529,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5524,366,2026-09-01 13:30,2026-09-01,12:29:08
+-34.516148270,-58.705237193,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,214,Sin Datos,2026-09-01,12:29:08
+-34.510113746,-58.694340875,12,media,Edenor,Malvinas Argentinas,Malvinas Argentinas,S/D,R:Nogues/159-Tr2/159-5521,229,Sin Datos,2026-09-01,12:29:08
+-34.513314501,-58.701848139,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,190,Sin Datos,2026-09-01,12:29:08
+-34.509753122,-58.698184161,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,188,Sin Datos,2026-09-01,12:29:08
+-34.508869313,-58.696901899,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,186,Sin Datos,2026-09-01,12:29:08
+-34.519120174,-58.711950118,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,3,Sin Datos,2026-09-01,12:29:08
+-34.519019508,-58.708252323,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,279,Sin Datos,2026-09-01,12:29:08
+-34.520646250,-58.709930348,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,1,Sin Datos,2026-09-01,12:29:08
+-34.517368741,-58.706314126,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,63,Sin Datos,2026-09-01,12:29:08
+-34.517232578,-58.714115955,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,380,Sin Datos,2026-09-01,12:29:08
+-34.573309551,-58.686361260,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr5/67-5517,305,2026-09-01 13:45,2026-09-01,12:29:08
+-34.474846832,-58.547650235,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr1/53-5546,5,2026-09-01 13:00,2026-09-01,12:29:08
+-34.626453068,-58.875344306,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5522,27,2026-09-01 15:00,2026-09-01,12:29:08
+-34.622633258,-58.880190670,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5522,355,2026-09-01 15:00,2026-09-01,12:29:08
+-34.623061768,-58.877078017,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5522,238,2026-09-01 15:00,2026-09-01,12:29:08
+-34.624116808,-58.873182721,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5522,153,2026-09-01 15:00,2026-09-01,12:29:08
+-34.580470278,-58.488025237,12,media,Edenor,Capital Federal,Villa Urquiza,S/D,R:Urquiza/136-Tr3/136-5521,4,2026-09-01 12:36,2026-09-01,12:29:08
+-34.359673967,-58.574164176,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,45,Sin Datos,2026-09-01,12:29:08
+-34.357524219,-58.570165466,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,28,Sin Datos,2026-09-01,12:29:08
+-34.362417916,-58.579110384,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,62,Sin Datos,2026-09-01,12:29:08
+-34.6787,-58.4809,21,baja,Edesur,Capital,Villa Lugano,,,39,,2026-09-01,12:29:08
+-34.6429,-58.4509,21,baja,Edesur,Capital,Flores,,,13,,2026-09-01,12:29:08
+-34.7263,-58.32,21,baja,Edesur,Quilmes,Bernal,,,2,,2026-09-01,12:29:08
+-34.6318,-58.4939,21,baja,Edesur,Capital,Velez Sarfield,,,5,,2026-09-01,12:29:08
+-34.7846,-58.2123,21,baja,Edesur,Berazategui,Berazategui,,,22,,2026-09-01,12:29:08
+-34.7036,-58.4463,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,7,,2026-09-01,12:29:08
+-34.646,-58.4261,21,baja,Edesur,Capital,Nueva Pompeya,,,7,,2026-09-01,12:29:08
+-34.7126,-58.3732,21,baja,Edesur,Lanus,Lanus,,,13,,2026-09-01,12:29:08
