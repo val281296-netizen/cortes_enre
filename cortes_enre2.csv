@@ -146606,3 +146606,62 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7036,-58.4463,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,7,,2026-09-01,12:29:08
 -34.646,-58.4261,21,baja,Edesur,Capital,Nueva Pompeya,,,7,,2026-09-01,12:29:08
 -34.7126,-58.3732,21,baja,Edesur,Lanus,Lanus,,,13,,2026-09-01,12:29:08
+-34.708901777,-58.391175972,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-4-42/087-4-42,250,2026-09-01 16:00,2026-09-01,17:15:49
+-34.671083578,-58.377825806,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-3-37/279-3-37,303,2026-09-01 16:00,2026-09-01,17:15:49
+-34.936607945,-58.624662289,11,media,Edesur,Cañuelas,Maximo Paz,Spegazzini,R:270-1-15/270-1-15,30,2026-09-01 18:00,2026-09-01,17:15:49
+-34.932376649,-58.619382537,11,media,Edesur,Cañuelas,Maximo Paz,Spegazzini,R:270-1-15/270-1-15,184,2026-09-01 18:00,2026-09-01,17:15:49
+-34.937553283,-58.622757731,11,media,Edesur,Cañuelas,Maximo Paz,Spegazzini,R:270-1-15/270-1-15,2,2026-09-01 18:00,2026-09-01,17:15:49
+-34.794620501,-58.325767312,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-32/189-3-32,382,2026-09-01 17:09,2026-09-01,17:15:49
+-34.794956036,-58.330853829,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-32/189-3-32,533,2026-09-01 17:09,2026-09-01,17:15:49
+-34.796583984,-58.324112412,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-32/189-3-32,224,2026-09-01 17:09,2026-09-01,17:15:49
+-34.633978675,-58.479804218,11,media,Edesur,Capital Gp,Floresta,Falcon,R:016-1-12/016-1-12,311,2026-09-01 15:13,2026-09-01,17:15:49
+-34.634331685,-58.482289399,11,media,Edesur,Capital Gp,Velez Sarfield,Falcon,R:016-1-12/016-1-12,296,2026-09-01 15:13,2026-09-01,17:15:49
+-34.701767341,-58.444922239,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-1-17/089-1-17,321,2026-09-01 19:00,2026-09-01,17:15:49
+-34.699573730,-58.445903178,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-1-17/089-1-17,294,2026-09-01 19:00,2026-09-01,17:15:49
+-34.703069597,-58.442513796,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-1-17/089-1-17,6,2026-09-01 19:00,2026-09-01,17:15:49
+-34.702900069,-58.442195626,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-1-17/089-1-17,4,2026-09-01 19:00,2026-09-01,17:15:49
+-34.703227398,-58.442809961,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-1-17/089-1-17,11,2026-09-01 19:00,2026-09-01,17:15:49
+-34.695057096,-58.449207146,11,media,Edesur,Lomas De Zamora,Villa Fiorito,Alsina,R:089-1-17/089-1-17,6,2026-09-01 19:00,2026-09-01,17:15:49
+-34.694093936,-58.449986404,11,media,Edesur,Lomas De Zamora,Villa Fiorito,Alsina,R:089-1-17/089-1-17,31,2026-09-01 19:00,2026-09-01,17:15:49
+-34.880880116,-58.551418318,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,166,2026-09-01 15:47,2026-09-01,17:15:49
+-34.777073169,-58.428369574,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-2-22/182-2-22,277,2026-09-01 18:00,2026-09-01,17:15:49
+-34.774391811,-58.430290780,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-2-22/182-2-22,369,2026-09-01 18:00,2026-09-01,17:15:49
+-34.770519363,-58.430936083,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-2-22/182-2-22,3,2026-09-01 18:00,2026-09-01,17:15:49
+-34.772067300,-58.429754096,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-2-22/182-2-22,160,2026-09-01 18:00,2026-09-01,17:15:49
+-34.510113746,-58.694340875,12,media,Edenor,Malvinas Argentinas,Malvinas Argentinas,S/D,R:Nogues/159-Tr2/159-5521,229,Sin Datos,2026-09-01,17:15:49
+-34.509753122,-58.698184161,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,188,Sin Datos,2026-09-01,17:15:49
+-34.508869313,-58.696901899,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,186,Sin Datos,2026-09-01,17:15:49
+-34.573309551,-58.686361260,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr5/67-5517,305,Sin Datos,2026-09-01,17:15:49
+-34.998087164,-58.855935281,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2026-09-01 16:00,2026-09-01,17:15:49
+-34.934237846,-58.879081464,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2026-09-01 16:00,2026-09-01,17:15:49
+-34.947342230,-58.885624343,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2026-09-01 16:00,2026-09-01,17:15:49
+-34.954350468,-58.899225727,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2026-09-01 16:00,2026-09-01,17:15:49
+-34.961457146,-58.893228155,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2026-09-01 16:00,2026-09-01,17:15:49
+-34.963327902,-58.891342029,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2026-09-01 16:00,2026-09-01,17:15:49
+-34.965701067,-58.887864809,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2026-09-01 16:00,2026-09-01,17:15:49
+-34.978409991,-58.884853114,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2026-09-01 16:00,2026-09-01,17:15:49
+-34.990314628,-58.841618014,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2026-09-01 16:00,2026-09-01,17:15:49
+-34.987051678,-58.845753588,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2026-09-01 16:00,2026-09-01,17:15:49
+-34.965382830,-58.874602546,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2026-09-01 16:00,2026-09-01,17:15:49
+-34.958141996,-58.888747177,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2026-09-01 16:00,2026-09-01,17:15:49
+-34.992237814,-58.843471130,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2026-09-01 16:00,2026-09-01,17:15:49
+-34.967748229,-58.876953547,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2026-09-01 16:00,2026-09-01,17:15:49
+-34.979911541,-58.876332838,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2026-09-01 16:00,2026-09-01,17:15:49
+-34.956180352,-58.900314880,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2026-09-01 16:00,2026-09-01,17:15:49
+-34.970289337,-58.881041003,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2026-09-01 16:00,2026-09-01,17:15:49
+-34.988434399,-58.853826573,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2026-09-01 16:00,2026-09-01,17:15:49
+-34.969101972,-58.882707180,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2026-09-01 16:00,2026-09-01,17:15:49
+-34.626453068,-58.875344306,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5522,27,2026-09-01 15:00,2026-09-01,17:15:49
+-34.622633258,-58.880190670,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5522,355,2026-09-01 15:00,2026-09-01,17:15:49
+-34.623061768,-58.877078017,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5522,238,2026-09-01 15:00,2026-09-01,17:15:49
+-34.624116808,-58.873182721,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5522,153,2026-09-01 15:00,2026-09-01,17:15:49
+-34.359673967,-58.574164176,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,45,Sin Datos,2026-09-01,17:15:49
+-34.357524219,-58.570165466,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,28,Sin Datos,2026-09-01,17:15:49
+-34.362417916,-58.579110384,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,62,Sin Datos,2026-09-01,17:15:49
+-34.6429,-58.4509,21,baja,Edesur,Capital,Flores,,,20,,2026-09-01,17:15:49
+-34.6692,-58.3923,21,baja,Edesur,Avellaneda,Avellaneda,,,43,,2026-09-01,17:15:49
+-34.6139,-58.391,21,baja,Edesur,Capital,Monserrat,,,5,,2026-09-01,17:15:49
+-34.7863,-58.2584,21,baja,Edesur,Florencio Varela,Florencio Varela,,,26,,2026-09-01,17:15:49
+-34.6151,-58.4521,21,baja,Edesur,Capital,Caballito,,,22,,2026-09-01,17:15:49
+-34.7006,-58.2888,21,baja,Edesur,Quilmes,Don Bosco,,,1,,2026-09-01,17:15:49
+-34.7795,-58.2043,21,baja,Edesur,Berazategui,Hudson,,,7,,2026-09-01,17:15:49
