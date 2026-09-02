@@ -146700,3 +146700,32 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6436,-58.3659,21,baja,Edesur,Capital,La Boca,,,5,,2026-09-02,05:38:19
 -34.9106,-58.5808,21,baja,Edesur,Ezeiza,Carlos Spegazzinni,,,7,,2026-09-02,05:38:19
 -34.6464,-58.3846,21,baja,Edesur,Capital,Barracas,,,6,,2026-09-02,05:38:19
+-34.622310084,-58.492829416,11,media,Edesur,Capital Gp,Floresta,Luro,R:038-4-49/038-4-49,157,2026-09-02 11:00,2026-09-02,12:01:55
+-34.624287953,-58.493009657,11,media,Edesur,Capital Gp,Floresta,Luro,R:038-4-49/038-4-49,584,2026-09-02 11:00,2026-09-02,12:01:55
+-34.621101617,-58.494395614,11,media,Edesur,Capital Gp,Floresta,Luro,R:038-4-49/038-4-49,377,2026-09-02 11:00,2026-09-02,12:01:55
+-34.624828903,-58.495159061,11,media,Edesur,Capital Gp,Velez Sarfield,Luro,R:038-4-49/038-4-49,389,2026-09-02 11:00,2026-09-02,12:01:55
+-34.675209725,-58.350168656,11,media,Edesur,Avellaneda,Sarandi,Sarandi,R:172-2-28/172-2-28,572,2026-09-02 12:08,2026-09-02,12:01:55
+-34.677172278,-58.354262909,11,media,Edesur,Avellaneda,Sarandi,Sarandi,R:172-2-28/172-2-28,207,2026-09-02 12:08,2026-09-02,12:01:55
+-34.679914189,-58.349726539,11,media,Edesur,Avellaneda,Sarandi,Sarandi,R:172-2-28/172-2-28,581,2026-09-02 12:08,2026-09-02,12:01:55
+-34.681145316,-58.343373551,11,media,Edesur,Avellaneda,Sarandi,Sarandi,R:172-2-28/172-2-28,393,2026-09-02 12:08,2026-09-02,12:01:55
+-34.679085849,-58.351996616,11,media,Edesur,Avellaneda,Sarandi,Sarandi,R:172-2-28/172-2-28,32,2026-09-02 12:08,2026-09-02,12:01:55
+-34.679065768,-58.351966504,11,media,Edesur,Avellaneda,Sarandi,Sarandi,R:172-2-28/172-2-28,42,2026-09-02 12:08,2026-09-02,12:01:55
+-34.676571290,-58.349714181,11,media,Edesur,Avellaneda,Sarandi,Sarandi,R:172-2-28/172-2-28,41,2026-09-02 12:08,2026-09-02,12:01:55
+-34.676584209,-58.349695496,11,media,Edesur,Avellaneda,Sarandi,Sarandi,R:172-2-28/172-2-28,187,2026-09-02 12:08,2026-09-02,12:01:55
+-34.677701535,-58.351132544,11,media,Edesur,Avellaneda,Sarandi,Sarandi,R:172-2-28/172-2-28,212,2026-09-02 12:08,2026-09-02,12:01:55
+-34.714392817,-58.535099527,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Matanza/65-Tr1/65-5517,150,2026-09-02 16:00,2026-09-02,12:01:55
+-34.715091955,-58.534367398,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Matanza/65-Tr1/65-5517,225,2026-09-02 16:00,2026-09-02,12:01:55
+-34.628403827,-58.878561687,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5526,321,Sin Datos,2026-09-02,12:01:55
+-34.627024279,-58.892984831,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5526,619,Sin Datos,2026-09-02,12:01:55
+-34.630280331,-58.894215545,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5526,371,Sin Datos,2026-09-02,12:01:55
+-34.627672872,-58.889133741,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5526,226,Sin Datos,2026-09-02,12:01:55
+-34.627485927,-58.882804485,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5526,75,Sin Datos,2026-09-02,12:01:55
+-34.400959830,-58.564108283,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,68,2026-09-02 15:00,2026-09-02,12:01:55
+-34.399147874,-58.569545909,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,53,2026-09-02 15:00,2026-09-02,12:01:55
+-34.395208658,-58.569733287,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,53,2026-09-02 15:00,2026-09-02,12:01:55
+-34.385290196,-58.575698947,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,15,2026-09-02 15:00,2026-09-02,12:01:55
+-34.391938323,-58.573374898,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,11,2026-09-02 15:00,2026-09-02,12:01:55
+-34.790153121,-58.632356058,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Pantanosa/365-Tr2/365-5527,153,Sin Datos,2026-09-02,12:01:55
+-34.787218015,-58.639734570,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Pantanosa/365-Tr2/365-5527,231,Sin Datos,2026-09-02,12:01:55
+-34.793758723,-58.636378015,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Pantanosa/365-Tr2/365-5527,250,Sin Datos,2026-09-02,12:01:55
+-34.9106,-58.5808,21,baja,Edesur,Ezeiza,Carlos Spegazzinni,,,9,,2026-09-02,12:01:55
