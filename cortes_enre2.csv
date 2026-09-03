@@ -147011,3 +147011,54 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5982,-58.4991,21,baja,Edesur,Capital,Villa Del Parque,,,6,,2026-09-03,07:56:19
 -34.6443,-58.3687,21,baja,Edesur,Capital,La Boca,,,1,,2026-09-03,07:56:19
 -34.6304,-58.4717,21,baja,Edesur,Capital,Flores,,,13,,2026-09-03,07:56:19
+-34.863170067,-58.277151475,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-56/286-5-56,189,2026-09-03 13:36,2026-09-03,13:28:06
+-34.860540118,-58.277688779,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-56/286-5-56,17,2026-09-03 13:36,2026-09-03,13:28:06
+-35.013966584,-58.414005106,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-01/956-1-01,178,Sin Datos,2026-09-03,13:28:06
+-35.016376163,-58.411887142,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-01/956-1-01,504,Sin Datos,2026-09-03,13:28:06
+-34.716751836,-58.330515984,11,media,Edesur,Avellaneda,Wilde,Don Bosco,R:077-4-44/077-4-44,621,2026-09-03 13:04,2026-09-03,13:28:06
+-34.641243120,-58.522523195,11,media,Edesur,Capital Gp,Liniers,Luro,R:038-2-21/038-2-21,555,2026-09-03 19:00,2026-09-03,13:28:06
+-34.487006785,-58.496548504,12,media,Edenor,San Isidro,Martinez,S/D,R:Edison/57-Tr1/57-5511,140,2026-09-03 13:00,2026-09-03,13:28:06
+-34.665340427,-58.550151648,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr2/164-5533,264,2026-09-03 15:00,2026-09-03,13:28:06
+-34.699358664,-58.658812146,12,media,Edenor,Merlo,Libertad,S/D,R:Ituzaingo/264-Tr1/264-5516,289,Sin Datos,2026-09-03,13:28:06
+-34.594969891,-59.018814478,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,151,Sin Datos,2026-09-03,13:28:06
+-34.628891671,-58.559212166,12,media,Edenor,3 De Febrero,Ciudadela,S/D,R:Ciudadela/167-Tr2/167-5532,305,Sin Datos,2026-09-03,13:28:06
+-34.509654403,-58.943137267,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5514,86,2026-09-03 11:00,2026-09-03,13:28:06
+-34.516123247,-58.941343858,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5514,59,2026-09-03 11:00,2026-09-03,13:28:06
+-34.510625121,-58.939808836,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5514,10,2026-09-03 11:00,2026-09-03,13:28:06
+-34.515626721,-58.945225177,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5514,1,2026-09-03 11:00,2026-09-03,13:28:06
+-34.522097549,-58.940325347,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5514,1,2026-09-03 11:00,2026-09-03,13:28:06
+-34.506393919,-58.945579318,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5514,5,2026-09-03 11:00,2026-09-03,13:28:06
+-34.498154182,-58.813245363,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Del Viso/251-Tr1/251-5543,1,2026-09-03 13:00,2026-09-03,13:28:06
+-34.400158884,-58.779149688,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Garin/454-Tr1/454-5515,298,Sin Datos,2026-09-03,13:28:06
+-34.400510806,-58.782024501,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Garin/454-Tr1/454-5515,297,Sin Datos,2026-09-03,13:28:06
+-34.401187484,-58.778244014,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Garin/454-Tr1/454-5515,95,Sin Datos,2026-09-03,13:28:06
+-34.402645235,-58.780400483,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Garin/454-Tr1/454-5515,237,Sin Datos,2026-09-03,13:28:06
+-34.404438459,-58.779859118,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Garin/454-Tr1/454-5515,187,Sin Datos,2026-09-03,13:28:06
+-34.400836483,-58.782646048,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Garin/454-Tr1/454-5515,214,Sin Datos,2026-09-03,13:28:06
+-34.396029488,-58.782283129,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Garin/454-Tr1/454-5515,538,Sin Datos,2026-09-03,13:28:06
+-34.396657277,-58.783590678,12,media,Edenor,Escobar,Escobar,S/D,R:Garin/454-Tr1/454-5515,304,Sin Datos,2026-09-03,13:28:06
+-34.402188349,-58.785508922,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Garin/454-Tr1/454-5515,115,Sin Datos,2026-09-03,13:28:06
+-34.400330662,-58.786446018,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Garin/454-Tr1/454-5515,272,Sin Datos,2026-09-03,13:28:06
+-34.397644227,-58.780647481,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Garin/454-Tr1/454-5515,7,Sin Datos,2026-09-03,13:28:06
+-34.397374200,-58.783085795,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Garin/454-Tr1/454-5515,75,Sin Datos,2026-09-03,13:28:06
+-34.392907250,-58.784354583,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Garin/454-Tr1/454-5515,138,Sin Datos,2026-09-03,13:28:06
+-34.403252599,-58.768650874,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Garin/454-Tr1/454-5515,101,Sin Datos,2026-09-03,13:28:06
+-34.404019872,-58.776141084,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Garin/454-Tr1/454-5515,268,Sin Datos,2026-09-03,13:28:06
+-34.405781993,-58.777630970,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Garin/454-Tr1/454-5515,4,Sin Datos,2026-09-03,13:28:06
+-34.408363249,-58.766391605,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Garin/454-Tr1/454-5515,98,Sin Datos,2026-09-03,13:28:06
+-34.408262662,-58.771830284,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Garin/454-Tr1/454-5515,204,Sin Datos,2026-09-03,13:28:06
+-34.405811010,-58.774585992,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Garin/454-Tr1/454-5515,284,Sin Datos,2026-09-03,13:28:06
+-34.410473620,-58.761919169,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Garin/454-Tr1/454-5515,101,Sin Datos,2026-09-03,13:28:06
+-34.415899256,-58.759242028,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Garin/454-Tr1/454-5515,257,Sin Datos,2026-09-03,13:28:06
+-34.407103910,-58.770516586,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Garin/454-Tr1/454-5515,116,Sin Datos,2026-09-03,13:28:06
+-34.415524079,-58.755550008,12,media,Edenor,Escobar,Garin,S/D,R:Garin/454-Tr1/454-5515,203,Sin Datos,2026-09-03,13:28:06
+-34.402501750,-58.777201754,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Garin/454-Tr1/454-5515,232,Sin Datos,2026-09-03,13:28:06
+-34.7851,-58.2131,21,baja,Edesur,Berazategui,Berazategui,,,30,,2026-09-03,13:28:06
+-34.6811,-58.4799,21,baja,Edesur,Capital,Villa Lugano,,,10,,2026-09-03,13:28:06
+-34.9094,-58.5807,21,baja,Edesur,Ezeiza,Tristan Suarez,,,15,,2026-09-03,13:28:06
+-34.7588,-58.4226,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,85,,2026-09-03,13:28:06
+-34.5982,-58.4991,21,baja,Edesur,Capital,Villa Del Parque,,,15,,2026-09-03,13:28:06
+-34.7378,-58.3968,21,baja,Edesur,Lomas De Zamora,Banfield,,,46,,2026-09-03,13:28:06
+-34.6443,-58.3687,21,baja,Edesur,Capital,La Boca,,,1,,2026-09-03,13:28:06
+-34.6304,-58.4717,21,baja,Edesur,Capital,Flores,,,28,,2026-09-03,13:28:06
+-34.6412,-58.5247,21,baja,Edesur,Capital,Liniers,,,4,,2026-09-03,13:28:06
