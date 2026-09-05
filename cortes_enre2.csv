@@ -147703,3 +147703,14 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6401,-58.4903,21,baja,Edesur,Capital,Villa Luro,,,7,,2026-09-05,00:48:56
 -34.8277,-58.4174,21,baja,Edesur,Almirante Brown,Burzaco,,,2,,2026-09-05,00:48:56
 -34.8272,-58.5039,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,7,,2026-09-05,00:48:56
+-34.537480063,-58.549981608,12,media,Edenor,Gral San Martin,Gregoria Matorras,S/D,R:J. L. Suarez/266-Tr1/266-5515,423,2026-09-05 03:00,2026-09-05,05:30:23
+-34.573154762,-58.543293331,12,media,Edenor,Gral San Martin,San Andres,S/D,R:Malaver/68-Tr2/68-5526,481,Sin Datos,2026-09-05,05:30:23
+-34.5909,-58.3875,21,baja,Edesur,Capital,Recoleta,,,29,,2026-09-05,05:30:23
+-34.6026,-58.3972,21,baja,Edesur,Capital,Balvanera,,,9,,2026-09-05,05:30:23
+-34.6368,-58.3605,21,baja,Edesur,Capital,La Boca,,,6,,2026-09-05,05:30:23
+-34.6498,-58.5081,21,baja,Edesur,Capital,Mataderos,,,2,,2026-09-05,05:30:23
+-34.6401,-58.4903,21,baja,Edesur,Capital,Villa Luro,,,17,,2026-09-05,05:30:23
+-34.8277,-58.4174,21,baja,Edesur,Almirante Brown,Burzaco,,,3,,2026-09-05,05:30:23
+-34.8272,-58.5039,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,9,,2026-09-05,05:30:23
+-34.8391,-58.2883,21,baja,Edesur,Florencio Varela,Florencio Varela,,,19,,2026-09-05,05:30:23
+-35.0699,-58.2874,21,baja,Edesur,San Vicente,Domselaar,,,3,,2026-09-05,05:30:23
