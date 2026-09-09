@@ -148718,3 +148718,42 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7233,-58.3254,21,baja,Edesur,Quilmes,Bernal,,,9,,2026-09-09,08:00:42
 -34.6241,-58.4135,21,baja,Edesur,Capital,Boedo,,,14,,2026-09-09,08:00:42
 -34.781,-58.2958,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,2,,2026-09-09,08:00:42
+-34.779602558,-58.496386471,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-2-26/281-2-26,2,Sin Datos,2026-09-09,13:37:25
+-34.778556735,-58.495003972,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-2-26/281-2-26,322,Sin Datos,2026-09-09,13:37:25
+-34.777114494,-58.492270899,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-2-26/281-2-26,284,Sin Datos,2026-09-09,13:37:25
+-34.775506775,-58.496454855,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-2-26/281-2-26,96,Sin Datos,2026-09-09,13:37:25
+-34.756198149,-58.431298042,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-4-46/182-4-46,404,Sin Datos,2026-09-09,13:37:25
+-34.749024932,-58.489207615,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-2-24/281-2-24,22,2026-09-09 20:00,2026-09-09,13:37:25
+-34.746802616,-58.490857958,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-2-24/281-2-24,262,2026-09-09 20:00,2026-09-09,13:37:25
+-34.747994145,-58.486910967,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-2-24/281-2-24,396,2026-09-09 20:00,2026-09-09,13:37:25
+-34.675228167,-58.387968501,11,media,Edesur,Avellaneda,Piñeyro,Pineyro,R:079-2-05/079-2-05,180,2026-09-09 15:00,2026-09-09,13:37:25
+-34.655190072,-58.584945553,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:V. Luzuriaga/64-Tr1/64-5517,309,2026-09-09 15:00,2026-09-09,13:37:25
+-34.657066221,-58.586922254,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:V. Luzuriaga/64-Tr1/64-5517,68,2026-09-09 15:00,2026-09-09,13:37:25
+-34.654178611,-58.583758931,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:V. Luzuriaga/64-Tr1/64-5517,213,2026-09-09 15:00,2026-09-09,13:37:25
+-34.654114789,-58.585133997,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:V. Luzuriaga/64-Tr1/64-5517,69,2026-09-09 15:00,2026-09-09,13:37:25
+-34.657705299,-58.587609724,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:V. Luzuriaga/64-Tr1/64-5517,390,2026-09-09 15:00,2026-09-09,13:37:25
+-34.861356155,-58.649736280,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5535,131,2026-09-09 13:00,2026-09-09,13:37:25
+-34.711897619,-58.763402644,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Libertad/361-Tr2/361-5526,215,2026-09-09 15:00,2026-09-09,13:37:25
+-34.717454252,-58.755865286,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Libertad/361-Tr2/361-5526,37,2026-09-09 15:00,2026-09-09,13:37:25
+-34.709650219,-58.766510003,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Libertad/361-Tr2/361-5526,18,2026-09-09 15:00,2026-09-09,13:37:25
+-34.718811297,-58.759264259,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Libertad/361-Tr2/361-5526,463,2026-09-09 15:00,2026-09-09,13:37:25
+-34.593536447,-58.619001351,12,media,Edenor,Hurlingham,Hurlingham,S/D,R:Hurlingham/166-Tr2/166-5525,74,2026-09-09 15:00,2026-09-09,13:37:25
+-34.462025177,-58.702330637,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,R:Ford/151-Tr2/151-5531,20,2026-09-09 16:20,2026-09-09,13:37:25
+-34.450266838,-58.707865382,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,R:Ford/151-Tr2/151-5523/151-5515/151-5543,30,2026-09-09 12:30,2026-09-09,13:37:25
+-34.507502672,-58.765625044,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Nogues/159-Tr2/159-5533,493,2026-09-09 13:00,2026-09-09,13:37:25
+-34.568472551,-58.921171938,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,5,2026-09-09 13:00,2026-09-09,13:37:25
+-34.458735161,-58.557004292,12,media,Edenor,San Fernando,Victoria,S/D,R:Victoria/53-Tr2/53-5525,246,2026-09-09 15:00,2026-09-09,13:37:25
+-34.452544093,-58.559553258,12,media,Edenor,San Fernando,San Fernando,S/D,R:Victoria/53-Tr2/53-5525,510,2026-09-09 15:00,2026-09-09,13:37:25
+-34.590058644,-58.968179066,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5471,149,Sin Datos,2026-09-09,13:37:25
+-34.531890371,-58.587384321,12,media,Edenor,Gral San Martin,C Jardin El Libertador,S/D,R:J. L. Suarez/266-Tr2/266-5534,23,2026-09-09 13:00,2026-09-09,13:37:25
+-34.584956400,-58.421618505,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr2/111-5522,247,2026-09-09 13:00,2026-09-09,13:37:25
+-34.7057,-58.6725,22,baja,Edenor,Merlo,Libertad,,,18,,2026-09-09,13:37:25
+-34.5796,-58.9797,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,5,,2026-09-09,13:37:25
+-34.778,-58.2114,21,baja,Edesur,Berazategui,Berazategui,,,53,,2026-09-09,13:37:25
+-34.9485,-58.5925,21,baja,Edesur,Ezeiza,Carlos Spegazzinni,,,15,,2026-09-09,13:37:25
+-34.762,-58.4116,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,28,,2026-09-09,13:37:25
+-34.7233,-58.3254,21,baja,Edesur,Quilmes,Bernal,,,17,,2026-09-09,13:37:25
+-34.7562,-58.4962,21,baja,Edesur,Esteban Echeverria,9 De Abril,,,12,,2026-09-09,13:37:25
+-34.7432,-58.4365,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,16,,2026-09-09,13:37:25
+-34.7799,-58.295,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,14,,2026-09-09,13:37:25
+-34.6078,-58.4465,21,baja,Edesur,Capital,Caballito,,,1,,2026-09-09,13:37:25
