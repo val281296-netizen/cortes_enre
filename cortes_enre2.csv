@@ -148883,3 +148883,38 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7967,-58.2899,21,baja,Edesur,Florencio Varela,Florencio Varela,,,15,,2026-09-10,05:48:25
 -34.7787,-58.1905,21,baja,Edesur,Berazategui,Berazategui,,,41,,2026-09-10,05:48:25
 -34.663,-58.4188,21,baja,Edesur,Lanus,Lanus,,,7,,2026-09-10,05:48:25
+-34.778301869,-58.344981286,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-2-22/189-2-22,53,Sin Datos,2026-09-10,12:09:31
+-34.779602558,-58.496386471,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-2-26/281-2-26,2,Sin Datos,2026-09-10,12:09:31
+-34.778556735,-58.495003972,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-2-26/281-2-26,322,Sin Datos,2026-09-10,12:09:31
+-34.777114494,-58.492270899,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-2-26/281-2-26,284,Sin Datos,2026-09-10,12:09:31
+-34.775506775,-58.496454855,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-2-26/281-2-26,96,Sin Datos,2026-09-10,12:09:31
+-34.756198149,-58.431298042,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-4-46/182-4-46,404,Sin Datos,2026-09-10,12:09:31
+-34.622815710,-58.412229803,11,media,Edesur,Capital Rp,San Cristobal,Independencia,R:020-4-42/020-4-42,833,Sin Datos,2026-09-10,12:09:31
+-34.815928286,-58.481599567,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-2-27/083-2-27,519,Sin Datos,2026-09-10,12:09:31
+-34.755784736,-58.488425942,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-1-14/281-1-14,361,Sin Datos,2026-09-10,12:09:31
+-34.602789960,-58.509147690,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-4-44/038-4-44,95,2026-09-10 11:54,2026-09-10,12:09:31
+-35.022877440,-58.815165714,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-24/271-2-24,2,2026-09-10 16:25,2026-09-10,12:09:31
+-35.013540759,-58.817777212,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-24/271-2-24,1,2026-09-10 16:25,2026-09-10,12:09:31
+-35.018758904,-58.810499914,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-24/271-2-24,1,2026-09-10 16:25,2026-09-10,12:09:31
+-35.016130946,-58.813559859,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-24/271-2-24,2,2026-09-10 16:25,2026-09-10,12:09:31
+-35.034766325,-58.815754845,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-24/271-2-24,1,2026-09-10 16:25,2026-09-10,12:09:31
+-34.694824382,-58.501993017,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr2/162-5525,167,2026-09-10 15:00,2026-09-10,12:09:31
+-34.694538587,-58.502490316,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr2/162-5525,148,2026-09-10 15:00,2026-09-10,12:09:31
+-34.666918413,-58.535941335,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5511,227,2026-09-10 13:00,2026-09-10,12:09:31
+-34.666186098,-58.755597279,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5515,320,2026-09-10 13:00,2026-09-10,12:09:31
+-34.671284686,-58.756617780,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5515,527,2026-09-10 13:00,2026-09-10,12:09:31
+-34.662335135,-58.750511753,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5515,126,2026-09-10 13:00,2026-09-10,12:09:31
+-34.668620412,-58.758181098,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5515,430,2026-09-10 13:00,2026-09-10,12:09:31
+-34.663706428,-58.744577207,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5515,3,2026-09-10 13:00,2026-09-10,12:09:31
+-34.663585008,-58.752896815,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5515,115,2026-09-10 13:00,2026-09-10,12:09:31
+-34.663110621,-58.746635873,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5515,1,2026-09-10 13:00,2026-09-10,12:09:31
+-34.663990754,-58.742755477,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5515,1,2026-09-10 13:00,2026-09-10,12:09:31
+-34.657118644,-58.751042563,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5515,33,2026-09-10 13:00,2026-09-10,12:09:31
+-34.599527817,-58.783907114,12,media,Edenor,Moreno,Moreno,S/D,R:Trujui/364-Tr1/364-5518,129,2026-09-10 11:40,2026-09-10,12:09:31
+-34.595911501,-58.785285823,12,media,Edenor,Moreno,Trujui,S/D,R:Trujui/364-Tr1/364-5518,1,2026-09-10 11:40,2026-09-10,12:09:31
+-34.597246447,-58.786761955,12,media,Edenor,Moreno,Moreno,S/D,R:Trujui/364-Tr1/364-5518,205,2026-09-10 11:40,2026-09-10,12:09:31
+-34.596979626,-58.781138821,12,media,Edenor,Moreno,Moreno,S/D,R:Trujui/364-Tr1/364-5518,72,2026-09-10 11:40,2026-09-10,12:09:31
+-34.5512,-58.7019,22,baja,Edenor,San Miguel,Muñiz,,,90,,2026-09-10,12:09:31
+-34.7939,-58.2471,21,baja,Edesur,Berazategui,Berazategui,,,8,,2026-09-10,12:09:31
+-34.7967,-58.2899,21,baja,Edesur,Florencio Varela,Florencio Varela,,,15,,2026-09-10,12:09:31
+-34.663,-58.4188,21,baja,Edesur,Lanus,Lanus,,,8,,2026-09-10,12:09:31
