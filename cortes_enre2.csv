@@ -149234,3 +149234,41 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.629726072,-59.067359879,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,5,2026-09-12 15:00,2026-09-12,11:33:06
 -34.658251317,-58.693962655,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5518,393,2026-09-12 11:00,2026-09-12,11:33:06
 -34.7752,-58.2015,21,baja,Edesur,Berazategui,V. España,,,10,,2026-09-12,11:33:06
+-34.667697701,-58.382230533,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-2-24/279-2-24,227,2026-09-12 17:00,2026-09-12,16:08:08
+-34.612643780,-58.417850629,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-4-47/020-4-47,100,2026-09-12 13:05,2026-09-12,16:08:08
+-34.838865645,-58.459509338,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-38/083-3-38,191,2026-09-12 18:00,2026-09-12,16:08:08
+-34.628519620,-58.465862245,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-3-38/218-3-38,100,2026-09-12 15:00,2026-09-12,16:08:08
+-34.628759589,-58.466541966,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-3-38/218-3-38,16,2026-09-12 15:00,2026-09-12,16:08:08
+-34.628931290,-58.467208777,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-3-38/218-3-38,537,2026-09-12 15:00,2026-09-12,16:08:08
+-34.738524817,-58.507076562,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-41/281-4-41,210,2026-09-12 14:35,2026-09-12,16:08:08
+-34.736974377,-58.503317761,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-41/281-4-41,121,2026-09-12 14:35,2026-09-12,16:08:08
+-34.739295331,-58.503513195,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-41/281-4-41,59,2026-09-12 14:35,2026-09-12,16:08:08
+-34.739633427,-58.506905742,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-41/281-4-41,59,2026-09-12 14:35,2026-09-12,16:08:08
+-34.738858380,-58.508832119,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-41/281-4-41,33,2026-09-12 14:35,2026-09-12,16:08:08
+-34.737938460,-58.511084596,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-41/281-4-41,61,2026-09-12 14:35,2026-09-12,16:08:08
+-34.740714961,-58.509768232,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-41/281-4-41,27,2026-09-12 14:35,2026-09-12,16:08:08
+-34.740961101,-58.509140527,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-41/281-4-41,52,2026-09-12 14:35,2026-09-12,16:08:08
+-34.740111997,-58.510718617,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-41/281-4-41,16,2026-09-12 14:35,2026-09-12,16:08:08
+-34.739993867,-58.511545208,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-41/281-4-41,58,2026-09-12 14:35,2026-09-12,16:08:08
+-34.872190667,-58.526318013,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,210,2026-09-12 14:51,2026-09-12,16:08:08
+-34.871459709,-58.530410793,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,200,2026-09-12 14:51,2026-09-12,16:08:08
+-34.869409297,-58.528374127,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,192,2026-09-12 14:51,2026-09-12,16:08:08
+-34.872022373,-58.524816529,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,378,2026-09-12 14:51,2026-09-12,16:08:08
+-34.870754156,-58.522219894,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,284,2026-09-12 14:51,2026-09-12,16:08:08
+-35.004406954,-58.400054959,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-05/956-1-05,122,2026-09-13 18:00,2026-09-12,16:08:08
+-35.006941531,-58.404526272,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-05/956-1-05,2,2026-09-13 18:00,2026-09-12,16:08:08
+-35.004633195,-58.403048660,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-05/956-1-05,21,2026-09-13 18:00,2026-09-12,16:08:08
+-34.844852575,-58.486112507,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-37/083-3-37,302,2026-09-12 21:00,2026-09-12,16:08:08
+-34.842056069,-58.488870907,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-37/083-3-37,536,2026-09-12 21:00,2026-09-12,16:08:08
+-34.838910926,-58.474038541,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-37/083-3-37,62,2026-09-12 21:00,2026-09-12,16:08:08
+-34.844150504,-58.472888421,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-4-44/083-4-44,79,2026-09-12 16:30,2026-09-12,16:08:08
+-34.842543143,-58.469612965,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-4-44/083-4-44,389,2026-09-12 16:30,2026-09-12,16:08:08
+-34.476744485,-58.569840344,12,media,Edenor,San Isidro,Beccar,S/D,R:Boulogne/56-Tr2/56-5525,46,2026-09-12 15:00,2026-09-12,16:08:08
+-34.643142171,-59.057044019,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,1,2026-09-12 15:00,2026-09-12,16:08:08
+-34.629726072,-59.067359879,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5525,5,2026-09-12 15:00,2026-09-12,16:08:08
+-34.6114,-58.3977,21,baja,Edesur,Capital,Balvanera,,,17,,2026-09-12,16:08:08
+-34.6667,-58.3839,21,baja,Edesur,Avellaneda,Piñeyro,,,14,,2026-09-12,16:08:08
+-34.8743,-58.3769,21,baja,Edesur,Almirante Brown,Glew,,,4,,2026-09-12,16:08:08
+-34.6781,-58.4956,21,baja,Edesur,Capital,Villa Lugano,,,1,,2026-09-12,16:08:08
+-34.6452,-58.417,21,baja,Edesur,Capital,Nueva Pompeya,,,12,,2026-09-12,16:08:08
+-34.875,-58.1863,21,baja,Edesur,Berazategui,El Pato,,,4,,2026-09-12,16:08:08
