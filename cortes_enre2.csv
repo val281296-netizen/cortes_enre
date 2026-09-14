@@ -149731,3 +149731,38 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7941,-58.1909,21,baja,Edesur,Berazategui,Platanos,,,5,,2026-09-14,05:58:45
 -34.7293,-58.3069,21,baja,Edesur,Quilmes,Bernal,,,7,,2026-09-14,05:58:45
 -34.7485,-58.4127,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,5,,2026-09-14,05:58:45
+-34.671486755,-58.391219295,11,media,Edesur,Avellaneda,Piñeyro,Pineyro,R:079-2-05/079-2-05,137,2026-09-14 13:07,2026-09-14,13:48:37
+-34.688635435,-58.350348640,11,media,Edesur,Avellaneda,Sarandi,Sarandi,R:172-4-44/172-4-44,174,2026-09-14 13:14,2026-09-14,13:48:37
+-34.870540264,-58.565747382,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-3-36/270-3-36,15,2026-09-14 13:42,2026-09-14,13:48:37
+-34.877373017,-58.558521974,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-3-36/270-3-36,2,2026-09-14 13:42,2026-09-14,13:48:37
+-34.878942829,-58.561576561,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-3-36/270-3-36,20,2026-09-14 13:42,2026-09-14,13:48:37
+-34.876279165,-58.561375997,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-3-36/270-3-36,33,2026-09-14 13:42,2026-09-14,13:48:37
+-34.870814486,-58.561626946,11,media,Edesur,Ezeiza,Barrio La Union,Spegazzini,R:270-3-36/270-3-36,1,2026-09-14 13:42,2026-09-14,13:48:37
+-34.522627243,-58.548545724,12,media,Edenor,San Isidro,Villa Adelina (Si),S/D,R:Villa Adelina/155-Tr1/155-5515,272,2026-09-14 13:00,2026-09-14,13:48:37
+-34.885533337,-58.674523687,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5511,47,2026-09-14 16:00,2026-09-14,13:48:37
+-34.882704016,-58.678029512,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5511,95,2026-09-14 16:00,2026-09-14,13:48:37
+-34.324417071,-58.500087163,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2026-09-14 15:00,2026-09-14,13:48:37
+-34.333695285,-58.505274792,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-09-14 15:00,2026-09-14,13:48:37
+-34.334334907,-58.506572832,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,2026-09-14 15:00,2026-09-14,13:48:37
+-34.338691022,-58.485684972,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-09-14 15:00,2026-09-14,13:48:37
+-34.322946864,-58.498039400,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-09-14 15:00,2026-09-14,13:48:37
+-34.332016063,-58.504031129,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,6,2026-09-14 15:00,2026-09-14,13:48:37
+-34.497766231,-58.934620815,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5514,100,2026-09-14 11:40,2026-09-14,13:48:37
+-34.503664850,-58.934539587,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5514,10,2026-09-14 11:40,2026-09-14,13:48:37
+-34.504093382,-58.938370663,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5514,43,2026-09-14 11:40,2026-09-14,13:48:37
+-34.503512567,-58.940903199,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5514,77,2026-09-14 11:40,2026-09-14,13:48:37
+-34.499812827,-58.934966818,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5514,120,2026-09-14 11:40,2026-09-14,13:48:37
+-34.506172993,-58.935373529,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5514,87,2026-09-14 11:40,2026-09-14,13:48:37
+-34.656,-58.4365,21,baja,Edesur,Capital,Villa Soldati,,,6,,2026-09-14,13:48:37
+-34.7429,-58.3325,21,baja,Edesur,Quilmes,Bernal,,,9,,2026-09-14,13:48:37
+-35.0228,-58.7495,21,baja,Edesur,Cañuelas,Zona Rural,,,3,,2026-09-14,13:48:37
+-34.7665,-58.218,21,baja,Edesur,Berazategui,Berazategui,,,19,,2026-09-14,13:48:37
+-34.7293,-58.3069,21,baja,Edesur,Quilmes,Bernal,,,7,,2026-09-14,13:48:37
+-34.766,-58.3286,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,6,,2026-09-14,13:48:37
+-34.7191,-58.2378,21,baja,Edesur,Quilmes,Quilmes,,,15,,2026-09-14,13:48:37
+-34.7948,-58.1634,21,baja,Edesur,Berazategui,Hudson,,,10,,2026-09-14,13:48:37
+-34.7101,-58.2365,21,baja,Edesur,Quilmes,Quilmes,,,5,,2026-09-14,13:48:37
+-34.6213,-58.4001,21,baja,Edesur,Capital,San Cristobal,,,6,,2026-09-14,13:48:37
+-34.9818,-58.3653,21,baja,Edesur,San Vicente,Alejandro Korn,,,5,,2026-09-14,13:48:37
+-34.632,-58.4464,21,baja,Edesur,Capital,Parque Chacabuco,,,3,,2026-09-14,13:48:37
+-34.6265,-58.4365,21,baja,Edesur,Capital,Caballito,,,2,,2026-09-14,13:48:37
