@@ -150010,3 +150010,31 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7794,-58.2985,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,2,,2026-09-15,05:59:41
 -34.7925,-58.3372,21,baja,Edesur,Almirante Brown,Claypole,,,11,,2026-09-15,05:59:41
 -34.6317,-58.4444,21,baja,Edesur,Capital,Parque Chacabuco,,,3,,2026-09-15,05:59:41
+-34.887322310,-58.386801367,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-2-21/277-2-21,247,2026-09-15 12:56,2026-09-15,12:35:11
+-34.886444751,-58.389599202,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-2-21/277-2-21,4,2026-09-15 12:56,2026-09-15,12:35:11
+-34.885030042,-58.387290042,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-2-21/277-2-21,329,2026-09-15 12:56,2026-09-15,12:35:11
+-34.887574149,-58.389478886,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-2-21/277-2-21,151,2026-09-15 12:56,2026-09-15,12:35:11
+-34.602417172,-58.539759663,12,media,Edenor,3 De Febrero,Saenz Pe?A,S/D,R:Migueletes/54-Tr2/54-5527,124,2026-09-15 15:00,2026-09-15,12:35:11
+-34.706672096,-58.493646380,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr2/162-5521,269,2026-09-15 16:00,2026-09-15,12:35:11
+-34.707846877,-58.492075094,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr2/162-5521,161,2026-09-15 16:00,2026-09-15,12:35:11
+-34.708923399,-58.490690980,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr2/162-5521,138,2026-09-15 16:00,2026-09-15,12:35:11
+-34.679538070,-58.620823580,12,media,Edenor,Moron,Moron,S/D,R:V. Luzuriaga/64-Tr1/64-5541,366,2026-09-15 13:00,2026-09-15,12:35:11
+-34.637420666,-58.765984331,12,media,Edenor,Moreno,Moreno,S/D,R:Moreno/453-Tr1/453-5518,6,2026-09-15 16:00,2026-09-15,12:35:11
+-34.638587435,-58.767710823,12,media,Edenor,Moreno,Moreno,S/D,R:Moreno/453-Tr1/453-5518,122,2026-09-15 16:00,2026-09-15,12:35:11
+-34.621792424,-58.752686827,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5531,173,2026-09-15 13:00,2026-09-15,12:35:11
+-34.597231225,-58.974875041,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,222,2026-09-15 13:00,2026-09-15,12:35:11
+-34.562399609,-58.682317594,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr5/67-5543/8-5507/8-5506,194,2026-09-15 15:00,2026-09-15,12:35:11
+-34.488508505,-58.751397365,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Nogues/159-Tr2/159-5526,195,2026-09-15 12:55,2026-09-15,12:35:11
+-34.761410379,-58.846104433,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,7,2026-09-15 12:00,2026-09-15,12:35:11
+-34.9652,-58.4704,21,baja,Edesur,San Vicente,San Vicente,,,1,,2026-09-15,12:35:11
+-34.7662,-58.2463,21,baja,Edesur,Berazategui,Berazategui,,,26,,2026-09-15,12:35:11
+-34.7502,-58.4136,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,18,,2026-09-15,12:35:11
+-34.7552,-58.252,21,baja,Edesur,Quilmes,Ezpeleta,,,2,,2026-09-15,12:35:11
+-35.0604,-58.2755,21,baja,Edesur,San Vicente,Domselaar,,,1,,2026-09-15,12:35:11
+-34.8315,-58.5038,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,4,,2026-09-15,12:35:11
+-34.9357,-58.4771,21,baja,Edesur,Pte Peron,Zona Rural,,,1,,2026-09-15,12:35:11
+-34.6339,-58.4487,21,baja,Edesur,Capital,Parque Chacabuco,,,3,,2026-09-15,12:35:11
+-34.7004,-58.4137,21,baja,Edesur,Lanus,Lanus,,,11,,2026-09-15,12:35:11
+-34.6792,-58.3889,21,baja,Edesur,Avellaneda,Piñeyro,,,22,,2026-09-15,12:35:11
+-34.6766,-58.4154,21,baja,Edesur,Lanus,Valentin Alsina,,,10,,2026-09-15,12:35:11
+-34.6853,-58.4214,21,baja,Edesur,Lanus,Lanus,,,3,,2026-09-15,12:35:11
