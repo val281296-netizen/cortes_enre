@@ -150209,3 +150209,44 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6319,-58.4499,21,baja,Edesur,Capital,Parque Chacabuco,,,8,,2026-09-16,08:26:48
 -34.6943,-58.4,21,baja,Edesur,Lanus,Lanus,,,5,,2026-09-16,08:26:48
 -34.6163,-58.528,21,baja,Edesur,Capital,Capital,,,4,,2026-09-16,08:26:48
+-34.874882149,-58.408222785,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-1-14/277-1-14,388,2026-09-16 16:00,2026-09-16,14:07:50
+-34.876728353,-58.407486223,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-1-14/277-1-14,332,2026-09-16 16:00,2026-09-16,14:07:50
+-34.966638858,-58.651809714,11,media,Edesur,Cañuelas,Casares,Spegazzini,R:270-2-23/270-2-23,296,2026-09-16 16:00,2026-09-16,14:07:50
+-34.972882087,-58.663808467,11,media,Edesur,Cañuelas,Zona Rural 1,Spegazzini,R:270-2-23/270-2-23,46,2026-09-16 16:00,2026-09-16,14:07:50
+-34.968761864,-58.658622095,11,media,Edesur,Cañuelas,Zona Rural 1,Spegazzini,R:270-2-23/270-2-23,1,2026-09-16 16:00,2026-09-16,14:07:50
+-34.965021256,-58.646969460,11,media,Edesur,Cañuelas,Zona Rural 9,Spegazzini,R:270-2-23/270-2-23,3,2026-09-16 16:00,2026-09-16,14:07:50
+-34.969577463,-58.652020539,11,media,Edesur,Cañuelas,Casares,Spegazzini,R:270-2-23/270-2-23,20,2026-09-16 16:00,2026-09-16,14:07:50
+-34.967742231,-58.645793926,11,media,Edesur,Cañuelas,Zona Rural 8,Spegazzini,R:270-2-23/270-2-23,27,2026-09-16 16:00,2026-09-16,14:07:50
+-34.968992422,-58.647989272,11,media,Edesur,Cañuelas,Zona Rural 8,Spegazzini,R:270-2-23/270-2-23,18,2026-09-16 16:00,2026-09-16,14:07:50
+-34.970375157,-58.650399194,11,media,Edesur,Cañuelas,Zona Rural 8,Spegazzini,R:270-2-23/270-2-23,51,2026-09-16 16:00,2026-09-16,14:07:50
+-34.644164500,-58.561717852,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:Ramos Mejia/66-Tr1/66-5513,13,2026-09-16 12:40,2026-09-16,14:07:50
+-34.643704896,-58.561972575,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:Ramos Mejia/66-Tr1/66-5513,417,2026-09-16 12:40,2026-09-16,14:07:50
+-34.869370126,-58.647508325,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5535,3,2026-09-16 13:00,2026-09-16,14:07:50
+-34.843077545,-58.888502296,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5528,7,2026-09-16 13:00,2026-09-16,14:07:50
+-34.640482618,-58.763191864,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5521,49,2026-09-16 15:00,2026-09-16,14:07:50
+-34.639822200,-58.762220636,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5521,125,2026-09-16 15:00,2026-09-16,14:07:50
+-34.650353030,-58.886283575,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5526,23,2026-09-16 13:00,2026-09-16,14:07:50
+-34.659664573,-58.889444927,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5526,11,2026-09-16 13:00,2026-09-16,14:07:50
+-34.661048628,-58.887810021,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5526,4,2026-09-16 13:00,2026-09-16,14:07:50
+-34.660327499,-58.898804353,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5526,2,2026-09-16 13:00,2026-09-16,14:07:50
+-34.655639612,-58.888813130,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5526,30,2026-09-16 13:00,2026-09-16,14:07:50
+-34.650134818,-58.965851483,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,13,2026-09-16 13:00,2026-09-16,14:07:50
+-34.419498681,-58.991016886,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr2/158-5527,168,2026-09-16 13:00,2026-09-16,14:07:50
+-34.455005901,-58.949622612,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,96,2026-09-16 13:45,2026-09-16,14:07:50
+-34.441917752,-58.903556365,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr2/260-5537,331,2026-09-16 13:00,2026-09-16,14:07:50
+-34.715260928,-58.746815063,12,media,Edenor,Merlo,Merlo,S/D,R:Pontevedra/261-Tr2/261-5525,294,2026-09-16 15:00,2026-09-16,14:07:50
+-34.453784923,-59.016500630,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,4,2026-09-16 12:30,2026-09-16,14:07:50
+-34.449200793,-59.016750936,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,112,2026-09-16 12:30,2026-09-16,14:07:50
+-34.451694651,-58.700971418,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,R:Ford/151-Tr2/151-5521,9,2026-09-16 13:25,2026-09-16,14:07:50
+-34.565205468,-58.893373534,12,media,Edenor,Pilar,Pilar,S/D,R:Malvinas/169-Tr1/169-5542,3,2026-09-16 13:00,2026-09-16,14:07:50
+-34.563046814,-58.889091623,12,media,Edenor,Pilar,Pilar,S/D,R:Malvinas/169-Tr1/169-5542,1,2026-09-16 13:00,2026-09-16,14:07:50
+-34.561629628,-58.884147559,12,media,Edenor,Pilar,Pilar,S/D,R:Malvinas/169-Tr1/169-5542,1,2026-09-16 13:00,2026-09-16,14:07:50
+-34.591479420,-58.574094194,12,media,Edenor,3 De Febrero,Villa Bosch,S/D,R:Caseros/69-Tr2/69-5526,232,2026-09-16 13:00,2026-09-16,14:07:50
+-34.6244,-58.524,21,baja,Edesur,Capital,Versalles,,,5,,2026-09-16,14:07:50
+-34.6943,-58.4,21,baja,Edesur,Lanus,Lanus,,,5,,2026-09-16,14:07:50
+-34.662,-58.3754,21,baja,Edesur,Avellaneda,Avellaneda,,,38,,2026-09-16,14:07:50
+-34.6151,-58.4147,21,baja,Edesur,Capital,Almagro,,,16,,2026-09-16,14:07:50
+-34.5986,-58.4998,21,baja,Edesur,Capital,Villa Del Parque,,,5,,2026-09-16,14:07:50
+-34.7958,-58.3827,21,baja,Edesur,Almirante Brown,Adrogue,,,10,,2026-09-16,14:07:50
+-34.6392,-58.4229,21,baja,Edesur,Capital,Boedo,,,16,,2026-09-16,14:07:50
+-34.7451,-58.2187,21,baja,Edesur,Quilmes,Ezpeleta,,,8,,2026-09-16,14:07:50
