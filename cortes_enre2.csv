@@ -150175,3 +150175,31 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -35.0245,-58.7518,21,baja,Edesur,Cañuelas,Zona Rural,,,9,,2026-09-15,22:01:58
 -34.611,-58.4749,21,baja,Edesur,Capital,Villa General Mitre,,,22,,2026-09-15,22:01:58
 -34.5937,-58.3767,21,baja,Edesur,Capital,Retiro,,,11,,2026-09-15,22:01:58
+-34.813971868,-58.496106885,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-1-11/083-1-11,20,Sin Datos,2026-09-16,01:13:30
+-34.815661289,-58.494840926,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-1-11/083-1-11,255,Sin Datos,2026-09-16,01:13:30
+-34.675950711,-58.428301341,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-1-11/089-1-11,119,2026-09-16 02:45,2026-09-16,01:13:30
+-34.677528577,-58.427139169,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-1-11/089-1-11,48,2026-09-16 02:45,2026-09-16,01:13:30
+-34.811076237,-58.492359767,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-1-11/083-1-11,10,2026-09-16 05:43,2026-09-16,01:13:30
+-34.620747573,-58.380161453,11,media,Edesur,Capital Rp,Constitucion,Hernandarias,R:031-1-11/031-1-11,358,2026-09-16 01:27,2026-09-16,01:13:30
+-34.739620052,-58.345321656,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-2-23/077-2-23,151,2026-09-16 06:40,2026-09-16,01:13:30
+-34.749804005,-58.339544341,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-2-23/077-2-23,1,2026-09-16 06:40,2026-09-16,01:13:30
+-34.744716636,-58.338440491,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-2-23/077-2-23,281,2026-09-16 06:40,2026-09-16,01:13:30
+-34.746524694,-58.342378011,11,media,Edesur,Lomas De Zamora,Temperley,Don Bosco,R:077-2-23/077-2-23,264,2026-09-16 06:40,2026-09-16,01:13:30
+-34.741787157,-58.349401405,11,media,Edesur,Lomas De Zamora,Zona Rural,Monte Chingolo,R:184-1-14/184-1-14,219,2026-09-16 06:40,2026-09-16,01:13:30
+-34.744022707,-58.349040244,11,media,Edesur,Lomas De Zamora,Temperley,Monte Chingolo,R:184-1-14/184-1-14,258,2026-09-16 06:40,2026-09-16,01:13:30
+-34.743611206,-58.362539789,11,media,Edesur,Lomas De Zamora,Zona Rural,Monte Chingolo,R:184-1-14/184-1-14,399,2026-09-16 06:40,2026-09-16,01:13:30
+-34.740644208,-58.356718559,11,media,Edesur,Lomas De Zamora,Zona Rural,Monte Chingolo,R:184-1-14/184-1-14,391,2026-09-16 06:40,2026-09-16,01:13:30
+-34.749453823,-58.343097998,11,media,Edesur,Lomas De Zamora,Temperley,Monte Chingolo,R:184-1-14/184-1-14,65,2026-09-16 06:40,2026-09-16,01:13:30
+-34.738996474,-58.346284573,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-1-14/184-1-14,17,2026-09-16 06:40,2026-09-16,01:13:30
+-34.744239379,-58.345011784,11,media,Edesur,Lomas De Zamora,Temperley,Monte Chingolo,R:184-1-14/184-1-14,173,2026-09-16 06:40,2026-09-16,01:13:30
+-34.741458157,-58.358322136,11,media,Edesur,Lomas De Zamora,Bandfield,Monte Chingolo,R:184-1-14/184-1-14,124,2026-09-16 06:40,2026-09-16,01:13:30
+-34.746986359,-58.345814452,11,media,Edesur,Lomas De Zamora,Temperley,Monte Chingolo,R:184-1-14/184-1-14,177,2026-09-16 06:40,2026-09-16,01:13:30
+-34.743558340,-58.352907426,11,media,Edesur,Lomas De Zamora,Bandfield,Monte Chingolo,R:184-1-14/184-1-14,242,2026-09-16 06:40,2026-09-16,01:13:30
+-34.744764722,-58.351402189,11,media,Edesur,Lomas De Zamora,Temperley,Monte Chingolo,R:184-1-14/184-1-14,158,2026-09-16 06:40,2026-09-16,01:13:30
+-34.740087512,-58.349615940,11,media,Edesur,Lomas De Zamora,Bandfield,Monte Chingolo,R:184-1-14/184-1-14,108,2026-09-16 06:40,2026-09-16,01:13:30
+-34.428344330,-58.588230796,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5528,168,Sin Datos,2026-09-16,01:13:30
+-34.7203,-58.2453,21,baja,Edesur,Quilmes,Quilmes,,,33,,2026-09-16,01:13:30
+-34.6414,-58.5147,21,baja,Edesur,Capital,Capital,,,6,,2026-09-16,01:13:30
+-34.6319,-58.4499,21,baja,Edesur,Capital,Parque Chacabuco,,,7,,2026-09-16,01:13:30
+-34.5937,-58.3767,21,baja,Edesur,Capital,Retiro,,,13,,2026-09-16,01:13:30
+-34.7528,-58.3481,21,baja,Edesur,Lomas De Zamora,Temperley,,,3,,2026-09-16,01:13:30
