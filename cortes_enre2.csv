@@ -150438,3 +150438,65 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.9893,-58.3651,21,baja,Edesur,San Vicente,San Vicente,,,2,,2026-09-17,08:32:07
 -34.8283,-58.3733,21,baja,Edesur,Almirante Brown,Burzaco,,,2,,2026-09-17,08:32:07
 -34.6365,-58.4364,21,baja,Edesur,Capital,Parque Chacabuco,,,5,,2026-09-17,08:32:07
+-34.605317744,-58.497601689,11,media,Edesur,Capital Gp,Villa Del Parque,Santa Rita,R:143-4-42/143-4-42,328,2026-09-17 12:18,2026-09-17,14:13:24
+-34.700492757,-58.368498701,11,media,Edesur,Lanus,Gerli L,Corina,R:075-2-21/075-2-21,420,2026-09-17 13:26,2026-09-17,14:13:24
+-34.783892996,-58.350141381,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-2-25/189-2-25,398,2026-09-17 13:46,2026-09-17,14:13:24
+-34.787360464,-58.348601616,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-2-25/189-2-25,617,2026-09-17 13:46,2026-09-17,14:13:24
+-34.785962938,-58.350231124,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-2-25/189-2-25,45,2026-09-17 13:46,2026-09-17,14:13:24
+-34.887616513,-58.369962499,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-4-43/277-4-43,102,2026-09-17 13:51,2026-09-17,14:13:24
+-34.886389109,-58.367116158,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-4-43/277-4-43,293,2026-09-17 13:51,2026-09-17,14:13:24
+-34.886779342,-58.370570790,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-4-43/277-4-43,15,2026-09-17 13:51,2026-09-17,14:13:24
+-34.872190667,-58.526318013,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,210,2026-09-17 18:00,2026-09-17,14:13:24
+-34.871459709,-58.530410793,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,200,2026-09-17 18:00,2026-09-17,14:13:24
+-34.869409297,-58.528374127,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,192,2026-09-17 18:00,2026-09-17,14:13:24
+-34.872022373,-58.524816529,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,378,2026-09-17 18:00,2026-09-17,14:13:24
+-34.870754156,-58.522219894,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,284,2026-09-17 18:00,2026-09-17,14:13:24
+-34.611684076,-58.373945419,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,R:126-3-33/126-3-33,99,2026-09-17 18:20,2026-09-17,14:13:24
+-34.611683622,-58.373911351,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,R:126-3-33/126-3-33,15,2026-09-17 18:20,2026-09-17,14:13:24
+-34.611732075,-58.374740274,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,R:126-3-33/126-3-33,31,2026-09-17 18:20,2026-09-17,14:13:24
+-34.613109058,-58.372491278,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,R:126-3-33/126-3-33,1,2026-09-17 18:20,2026-09-17,14:13:24
+-34.611797400,-58.375552287,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,R:126-3-33/126-3-33,2,2026-09-17 18:20,2026-09-17,14:13:24
+-34.611970690,-58.375702723,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,R:126-3-33/126-3-33,1,2026-09-17 18:20,2026-09-17,14:13:24
+-34.611709813,-58.374379590,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,R:126-3-33/126-3-33,345,2026-09-17 18:20,2026-09-17,14:13:24
+-34.572124733,-58.432267371,12,media,Edenor,Capital Federal,Palermo,S/D,R:Colegiales/46-Tr1/46-5524,45,2026-09-17 14:30,2026-09-17,14:13:24
+-34.796594974,-58.617398442,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5525,353,2026-09-17 17:30,2026-09-17,14:13:24
+-34.792804280,-58.614946028,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5525,188,2026-09-17 17:30,2026-09-17,14:13:24
+-34.796404017,-58.610406063,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5525,494,2026-09-17 17:30,2026-09-17,14:13:24
+-34.794664434,-58.612552350,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5525,283,2026-09-17 17:30,2026-09-17,14:13:24
+-34.797616103,-58.616122461,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5525,441,2026-09-17 17:30,2026-09-17,14:13:24
+-34.791975405,-58.615627197,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5525,138,2026-09-17 17:30,2026-09-17,14:13:24
+-34.706473592,-58.856443348,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Paso Del Rey/258-Tr1/258-5531,2,2026-09-17 17:00,2026-09-17,14:13:24
+-34.698125007,-58.854333498,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5531,1,2026-09-17 17:00,2026-09-17,14:13:24
+-34.653456470,-58.875023379,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5526,2,2026-09-17 13:00,2026-09-17,14:13:24
+-34.494702338,-58.734612982,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,R:Tortuguitas/252-Tr1/252-5545,350,2026-09-17 17:00,2026-09-17,14:13:24
+-34.570289685,-58.677500086,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr5/67-5517,181,2026-09-17 13:15,2026-09-17,14:13:24
+-34.518088093,-58.698921689,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,151,2026-09-17 13:00,2026-09-17,14:13:24
+-34.779409774,-58.890610211,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,2,2026-09-17 13:00,2026-09-17,14:13:24
+-34.669277860,-58.559524865,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr2/164-5522,496,2026-09-17 17:00,2026-09-17,14:13:24
+-34.668970165,-58.555400352,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr2/164-5522,278,2026-09-17 17:00,2026-09-17,14:13:24
+-34.668447966,-58.561295084,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr2/164-5522,97,2026-09-17 17:00,2026-09-17,14:13:24
+-34.669467936,-58.559929012,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr2/164-5522,6,2026-09-17 17:00,2026-09-17,14:13:24
+-34.558279627,-58.935523733,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5534,249,2026-09-17 13:45,2026-09-17,14:13:24
+-34.646687123,-58.761907874,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5545,167,Sin Datos,2026-09-17,14:13:24
+-34.648800009,-58.761633076,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Paso Del Rey/258-Tr1/258-5545,304,Sin Datos,2026-09-17,14:13:24
+-34.649036459,-58.762461290,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Paso Del Rey/258-Tr1/258-5545,20,Sin Datos,2026-09-17,14:13:24
+-34.645029077,-58.763515467,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5545,199,Sin Datos,2026-09-17,14:13:24
+-34.647620777,-58.757754874,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Paso Del Rey/258-Tr1/258-5545,209,Sin Datos,2026-09-17,14:13:24
+-34.675657500,-58.582463643,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:V. Luzuriaga/64-Tr2/64-5524,492,Sin Datos,2026-09-17,14:13:24
+-34.674012726,-58.580588295,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:V. Luzuriaga/64-Tr2/64-5524,173,Sin Datos,2026-09-17,14:13:24
+-34.712166272,-58.740638931,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr2/361-5525,251,2026-09-17 13:00,2026-09-17,14:13:24
+-34.566153115,-58.732569971,12,media,Edenor,San Miguel,San Miguel,S/D,R:Mu?Iz/265-Tr1/265-5513,388,2026-09-17 13:00,2026-09-17,14:13:24
+-34.572025112,-58.724399587,12,media,Edenor,San Miguel,San Miguel,S/D,R:Mu?Iz/265-Tr1/265-5513,52,2026-09-17 13:00,2026-09-17,14:13:24
+-34.567467222,-58.730822451,12,media,Edenor,San Miguel,San Miguel,S/D,R:Mu?Iz/265-Tr1/265-5513,199,2026-09-17 13:00,2026-09-17,14:13:24
+-34.571219046,-58.723563645,12,media,Edenor,San Miguel,San Miguel,S/D,R:Mu?Iz/265-Tr1/265-5513,35,2026-09-17 13:00,2026-09-17,14:13:24
+-34.568902645,-58.728827028,12,media,Edenor,San Miguel,San Miguel,S/D,R:Mu?Iz/265-Tr1/265-5513,139,2026-09-17 13:00,2026-09-17,14:13:24
+-34.6186,-58.4298,21,baja,Edesur,Capital,Caballito,,,12,,2026-09-17,14:13:24
+-34.6387,-58.4495,21,baja,Edesur,Capital,Parque Chacabuco,,,47,,2026-09-17,14:13:24
+-34.7993,-58.2838,21,baja,Edesur,Florencio Varela,Florencio Varela,,,10,,2026-09-17,14:13:24
+-34.7976,-58.3113,21,baja,Edesur,Florencio Varela,Florencio Varela,,,16,,2026-09-17,14:13:24
+-34.6078,-58.525,21,baja,Edesur,Capital,Villa Devoto,,,9,,2026-09-17,14:13:24
+-34.6424,-58.4474,21,baja,Edesur,Capital,Flores,,,20,,2026-09-17,14:13:24
+-34.6365,-58.4364,21,baja,Edesur,Capital,Parque Chacabuco,,,86,,2026-09-17,14:13:24
+-34.6415,-58.44,21,baja,Edesur,Capital,Parque Chacabuco,,,7,,2026-09-17,14:13:24
+-34.6425,-58.4497,21,baja,Edesur,Capital,Capital,,,8,,2026-09-17,14:13:24
+-34.8036,-58.2975,21,baja,Edesur,Florencio Varela,Florencio Varela,,,1,,2026-09-17,14:13:24
