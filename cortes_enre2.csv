@@ -150720,3 +150720,71 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8056,-58.3891,21,baja,Edesur,Almirante Brown,Adrogue,,,18,,2026-09-18,13:31:28
 -34.6638,-58.4434,21,baja,Edesur,Capital,Villa Soldati,,,9,,2026-09-18,13:31:28
 -34.8051,-58.2176,21,baja,Edesur,Berazategui,Sourigues,,,1,,2026-09-18,13:31:28
+-34.767255968,-58.297636882,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-2-28/085-2-28,597,2026-09-18 16:00,2026-09-18,18:15:22
+-34.612662276,-58.378429966,11,media,Edesur,Capital Rp,Monserrat,Carlos Pellegrini,R:210-2-21/210-2-21,87,2026-09-18 17:00,2026-09-18,18:15:22
+-35.050579743,-58.739383499,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,178,Sin Datos,2026-09-18,18:15:22
+-34.804329880,-58.390558003,11,media,Edesur,Almirante Brown,Adrogue,Burzaco,R:082-2-27/082-2-27,466,Sin Datos,2026-09-18,18:15:22
+-34.807264691,-58.392514689,11,media,Edesur,Almirante Brown,Adrogue,Burzaco,R:082-2-27/082-2-27,343,Sin Datos,2026-09-18,18:15:22
+-34.805337582,-58.389269872,11,media,Edesur,Almirante Brown,Adrogue,Burzaco,R:082-2-27/082-2-27,1,Sin Datos,2026-09-18,18:15:22
+-34.818906260,-58.434976522,11,media,Edesur,Esteban Echeverria,Luis Guillon,Almirante Brown,R:180-1-11/180-1-11,425,2026-09-18 18:00,2026-09-18,18:15:22
+-34.813621226,-58.431804561,11,media,Edesur,Lomas De Zamora,Lavallol,Almirante Brown,R:180-1-11/180-1-11,186,2026-09-18 18:00,2026-09-18,18:15:22
+-34.817610508,-58.430743798,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-1-11/180-1-11,2,2026-09-18 18:00,2026-09-18,18:15:22
+-34.814750607,-58.433907791,11,media,Edesur,Esteban Echeverria,Luis Guillon,Almirante Brown,R:180-1-11/180-1-11,343,2026-09-18 18:00,2026-09-18,18:15:22
+-34.817163714,-58.436339504,11,media,Edesur,Esteban Echeverria,Luis Guillon,Almirante Brown,R:180-1-11/180-1-11,421,2026-09-18 18:00,2026-09-18,18:15:22
+-34.688850681,-58.299641412,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-2-25/077-2-25,30,Sin Datos,2026-09-18,18:15:22
+-34.689561769,-58.305912705,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-2-25/077-2-25,341,Sin Datos,2026-09-18,18:15:22
+-34.686871196,-58.306870809,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-2-25/077-2-25,470,Sin Datos,2026-09-18,18:15:22
+-34.687895896,-58.303268538,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-2-25/077-2-25,534,Sin Datos,2026-09-18,18:15:22
+-34.686396666,-58.297020472,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-2-25/077-2-25,3,Sin Datos,2026-09-18,18:15:22
+-34.688703621,-58.301289428,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-2-25/077-2-25,162,Sin Datos,2026-09-18,18:15:22
+-34.684955748,-58.305064995,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-2-25/077-2-25,1,Sin Datos,2026-09-18,18:15:22
+-34.686551463,-58.297196874,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-2-25/077-2-25,1,Sin Datos,2026-09-18,18:15:22
+-34.855895620,-58.242730521,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,Sin Datos,2026-09-18,18:15:22
+-34.854181113,-58.244024742,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,Sin Datos,2026-09-18,18:15:22
+-34.851189808,-58.246282614,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,7,Sin Datos,2026-09-18,18:15:22
+-34.846768905,-58.249461154,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,4,Sin Datos,2026-09-18,18:15:22
+-34.848865863,-58.243288088,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,2,Sin Datos,2026-09-18,18:15:22
+-34.851888083,-58.249072089,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,3,Sin Datos,2026-09-18,18:15:22
+-34.849993782,-58.245465291,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,4,Sin Datos,2026-09-18,18:15:22
+-34.861974732,-58.243406327,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,Sin Datos,2026-09-18,18:15:22
+-34.859138651,-58.240253436,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,6,Sin Datos,2026-09-18,18:15:22
+-34.860263342,-58.238725794,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,Sin Datos,2026-09-18,18:15:22
+-34.854773688,-58.230148760,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,8,Sin Datos,2026-09-18,18:15:22
+-34.853834941,-58.228613352,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,3,Sin Datos,2026-09-18,18:15:22
+-34.857562071,-58.241456673,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,4,Sin Datos,2026-09-18,18:15:22
+-34.855241636,-58.239660607,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,11,Sin Datos,2026-09-18,18:15:22
+-34.857340393,-58.234783506,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,Sin Datos,2026-09-18,18:15:22
+-34.822704150,-58.437148243,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-1-11/180-1-11,330,2026-09-18 15:31,2026-09-18,18:15:22
+-34.822416323,-58.440000439,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-1-11/180-1-11,2,2026-09-18 15:31,2026-09-18,18:15:22
+-34.825313046,-58.439163169,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-1-11/180-1-11,258,2026-09-18 15:31,2026-09-18,18:15:22
+-35.016183495,-58.371331259,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-05/956-1-05,310,2026-09-18 16:00,2026-09-18,18:15:22
+-35.014636104,-58.368021650,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-05/956-1-05,237,2026-09-18 16:00,2026-09-18,18:15:22
+-35.011335564,-58.368942874,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-05/956-1-05,202,2026-09-18 16:00,2026-09-18,18:15:22
+-35.012961209,-58.363485313,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-05/956-1-05,204,2026-09-18 16:00,2026-09-18,18:15:22
+-35.024093688,-58.379018271,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-05/956-1-05,22,2026-09-18 16:00,2026-09-18,18:15:22
+-35.023281264,-58.381863545,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-05/956-1-05,14,2026-09-18 16:00,2026-09-18,18:15:22
+-35.022392696,-58.384975153,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-05/956-1-05,14,2026-09-18 16:00,2026-09-18,18:15:22
+-35.015532991,-58.382992000,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-05/956-1-05,2,2026-09-18 16:00,2026-09-18,18:15:22
+-35.019312193,-58.369771042,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-05/956-1-05,23,2026-09-18 16:00,2026-09-18,18:15:22
+-35.024010437,-58.377089769,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-05/956-1-05,2,2026-09-18 16:00,2026-09-18,18:15:22
+-35.042777489,-58.747560229,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-11/271-1-11,243,2026-09-18 17:17,2026-09-18,18:15:22
+-35.033858978,-58.736041438,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-11/271-1-11,169,2026-09-18 17:17,2026-09-18,18:15:22
+-35.040488724,-58.745226650,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-11/271-1-11,106,2026-09-18 17:17,2026-09-18,18:15:22
+-35.038322442,-58.742025528,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-11/271-1-11,10,2026-09-18 17:17,2026-09-18,18:15:22
+-34.318186713,-58.673018160,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,9,Sin Datos,2026-09-18,18:15:22
+-34.312535092,-58.671736352,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,10,Sin Datos,2026-09-18,18:15:22
+-34.303224239,-58.676794378,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,2,Sin Datos,2026-09-18,18:15:22
+-34.545698245,-58.590687679,12,media,Edenor,Gral San Martin,C Jardin El Libertador,S/D,R:J. L. Suarez/266-Tr2/266-5533,543,2026-09-18 16:00,2026-09-18,18:15:22
+-34.624915000,-58.903587006,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5523,244,2026-09-18 19:00,2026-09-18,18:15:22
+-34.5923,-58.3769,21,baja,Edesur,Capital,Retiro,,,6,,2026-09-18,18:15:22
+-34.9391,-58.3737,21,baja,Edesur,Pte Peron,Parque Americano,,,19,,2026-09-18,18:15:22
+-34.7802,-58.2387,21,baja,Edesur,Berazategui,Berazategui,,,91,,2026-09-18,18:15:22
+-34.7376,-58.3021,21,baja,Edesur,Quilmes,Quilmes,,,41,,2026-09-18,18:15:22
+-34.623,-58.485,21,baja,Edesur,Capital,Floresta,,,4,,2026-09-18,18:15:22
+-34.6012,-58.4666,21,baja,Edesur,Capital,La Paternal,,,4,,2026-09-18,18:15:22
+-34.6477,-58.4855,21,baja,Edesur,Capital,Capital,,,38,,2026-09-18,18:15:22
+-34.6358,-58.5049,21,baja,Edesur,Capital,Capital,,,2,,2026-09-18,18:15:22
+-34.6228,-58.4066,21,baja,Edesur,Capital,San Cristobal,,,7,,2026-09-18,18:15:22
+-34.7824,-58.2447,21,baja,Edesur,Berazategui,Berazategui,,,7,,2026-09-18,18:15:22
+-34.6947,-58.4716,21,baja,Edesur,Capital,Villa Riachuelo,,,1,,2026-09-18,18:15:22
+-34.7395,-58.288,21,baja,Edesur,Quilmes,Quilmes,,,1,,2026-09-18,18:15:22
