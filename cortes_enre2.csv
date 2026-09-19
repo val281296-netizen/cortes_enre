@@ -150929,3 +150929,46 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7468,-58.4239,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,65,,2026-09-19,13:00:41
 -34.7273,-58.2536,21,baja,Edesur,Quilmes,Quilmes,,,30,,2026-09-19,13:00:41
 -34.8421,-58.2847,21,baja,Edesur,Florencio Varela,Florencio Varela,,,8,,2026-09-19,13:00:41
+-34.743370214,-58.422560426,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-4-47/087-4-47,513,2026-09-19 15:00,2026-09-19,17:53:45
+-34.746562276,-58.421128287,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-4-47/087-4-47,651,2026-09-19 15:00,2026-09-19,17:53:45
+-34.708898976,-58.234898576,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-4-44/073-4-44,168,Sin Datos,2026-09-19,17:53:45
+-34.711911087,-58.238554620,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-4-44/073-4-44,281,Sin Datos,2026-09-19,17:53:45
+-34.709766525,-58.234917446,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-4-44/073-4-44,423,Sin Datos,2026-09-19,17:53:45
+-34.713922589,-58.240910875,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-4-44/073-4-44,375,Sin Datos,2026-09-19,17:53:45
+-34.713309305,-58.237871328,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-4-44/073-4-44,24,Sin Datos,2026-09-19,17:53:45
+-34.757319509,-58.495603057,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-3-35/281-3-35,490,2026-09-19 16:00,2026-09-19,17:53:45
+-34.755510530,-58.498859452,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-3-35/281-3-35,247,2026-09-19 16:00,2026-09-19,17:53:45
+-34.757977959,-58.499865319,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-3-35/281-3-35,350,2026-09-19 16:00,2026-09-19,17:53:45
+-34.759618796,-58.493886984,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-3-35/281-3-35,67,2026-09-19 16:00,2026-09-19,17:53:45
+-34.786157629,-58.323056424,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-2-26/189-2-26,363,2026-09-19 18:00,2026-09-19,17:53:45
+-34.784433732,-58.318113104,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-2-26/189-2-26,348,2026-09-19 18:00,2026-09-19,17:53:45
+-34.786944107,-58.324632251,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-2-26/189-2-26,17,2026-09-19 18:00,2026-09-19,17:53:45
+-34.891068538,-58.387774394,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-2-21/277-2-21,306,2026-09-19 16:13,2026-09-19,17:53:45
+-34.894496468,-58.386541128,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-2-21/277-2-21,428,2026-09-19 16:13,2026-09-19,17:53:45
+-34.889795676,-58.386327339,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-2-21/277-2-21,252,2026-09-19 16:13,2026-09-19,17:53:45
+-34.893023230,-58.388451429,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-2-21/277-2-21,27,2026-09-19 16:13,2026-09-19,17:53:45
+-34.786746726,-58.491080189,11,media,Edesur,Esteban Echeverria,Monte Grande,Transradio,R:281-2-26/281-2-26,238,2026-09-19 17:17,2026-09-19,17:53:45
+-34.786035787,-58.486961408,11,media,Edesur,Esteban Echeverria,Monte Grande,Transradio,R:281-2-26/281-2-26,704,2026-09-19 17:17,2026-09-19,17:53:45
+-34.782628195,-58.486899176,11,media,Edesur,Esteban Echeverria,Monte Grande,Transradio,R:281-2-26/281-2-26,299,2026-09-19 17:17,2026-09-19,17:53:45
+-34.785620148,-58.492816929,11,media,Edesur,Esteban Echeverria,Monte Grande,Transradio,R:281-2-26/281-2-26,420,2026-09-19 17:17,2026-09-19,17:53:45
+-34.787102586,-58.501862231,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-2-26/281-2-26,1,2026-09-19 17:17,2026-09-19,17:53:45
+-34.958250475,-58.726926961,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-25/271-2-25,90,2026-09-19 17:25,2026-09-19,17:53:45
+-34.953482402,-58.716978375,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-25/271-2-25,1,2026-09-19 17:25,2026-09-19,17:53:45
+-34.962245822,-58.724623113,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-25/271-2-25,309,2026-09-19 17:25,2026-09-19,17:53:45
+-34.964492616,-58.727127847,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-25/271-2-25,263,2026-09-19 17:25,2026-09-19,17:53:45
+-34.963854429,-58.721155011,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-25/271-2-25,90,2026-09-19 17:25,2026-09-19,17:53:45
+-34.959566346,-58.724992556,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-25/271-2-25,12,2026-09-19 17:25,2026-09-19,17:53:45
+-34.955870013,-58.727988729,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-25/271-2-25,4,2026-09-19 17:25,2026-09-19,17:53:45
+-34.954237549,-58.727187204,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-25/271-2-25,2,2026-09-19 17:25,2026-09-19,17:53:45
+-34.955213882,-58.725315947,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-25/271-2-25,3,2026-09-19 17:25,2026-09-19,17:53:45
+-34.956599413,-58.726002284,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-25/271-2-25,2,2026-09-19 17:25,2026-09-19,17:53:45
+-34.775706352,-58.279164517,11,media,Edesur,Florencio Varela,Florencio Varela,Calchaqui,R:085-2-25/085-2-25,295,2026-09-19 19:20,2026-09-19,17:53:45
+-34.573760983,-58.580960479,12,media,Edenor,Gral San Martin,Billinghurst,S/D,R:Malaver/68-Tr4/68-5541,182,2026-09-19 19:00,2026-09-19,17:53:45
+-34.575587094,-58.578635111,12,media,Edenor,Gral San Martin,Billinghurst,S/D,R:Malaver/68-Tr4/68-5541,755,2026-09-19 19:00,2026-09-19,17:53:45
+-34.577250445,-58.576563659,12,media,Edenor,Gral San Martin,Billinghurst,S/D,R:Malaver/68-Tr4/68-5541,132,2026-09-19 19:00,2026-09-19,17:53:45
+-34.557216414,-58.613303505,12,media,Edenor,3 De Febrero,El Libertador,S/D,R:Rotonda/262-Tr2/262-5521,193,2026-09-19 15:00,2026-09-19,17:53:45
+-34.557718573,-58.615589176,12,media,Edenor,3 De Febrero,El Libertador,S/D,R:Rotonda/262-Tr2/262-5521,246,2026-09-19 15:00,2026-09-19,17:53:45
+-34.5982,-58.4025,21,baja,Edesur,Capital,Recoleta,,,26,,2026-09-19,17:53:45
+-34.6646,-58.4438,21,baja,Edesur,Capital,Villa Soldati,,,25,,2026-09-19,17:53:45
+-34.6584,-58.4445,21,baja,Edesur,Capital,Villa Soldati,,,11,,2026-09-19,17:53:45
+-34.6314,-58.3603,21,baja,Edesur,Capital,La Boca,,,10,,2026-09-19,17:53:45
