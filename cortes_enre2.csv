@@ -150905,3 +150905,27 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6646,-58.4438,21,baja,Edesur,Capital,Villa Soldati,,,16,,2026-09-19,07:56:19
 -34.8051,-58.2176,21,baja,Edesur,Berazategui,Sourigues,,,1,,2026-09-19,07:56:19
 -34.9217,-58.3689,21,baja,Edesur,Pte Peron,Guernica,,,53,,2026-09-19,07:56:19
+-34.622552834,-58.504935561,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-3-31/038-3-31,390,2026-09-19 10:49,2026-09-19,13:00:41
+-34.683674134,-58.373896202,11,media,Edesur,Avellaneda,Gerli A,9 De Julio,R:279-4-45/279-4-45,729,2026-09-19 12:40,2026-09-19,13:00:41
+-34.743370214,-58.422560426,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-4-47/087-4-47,513,2026-09-19 15:00,2026-09-19,13:00:41
+-34.746562276,-58.421128287,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-4-47/087-4-47,651,2026-09-19 15:00,2026-09-19,13:00:41
+-34.708898976,-58.234898576,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-4-44/073-4-44,168,2026-09-19 13:06,2026-09-19,13:00:41
+-34.711911087,-58.238554620,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-4-44/073-4-44,281,2026-09-19 13:06,2026-09-19,13:00:41
+-34.709766525,-58.234917446,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-4-44/073-4-44,423,2026-09-19 13:06,2026-09-19,13:00:41
+-34.713922589,-58.240910875,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-4-44/073-4-44,375,2026-09-19 13:06,2026-09-19,13:00:41
+-34.713309305,-58.237871328,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-4-44/073-4-44,24,2026-09-19 13:06,2026-09-19,13:00:41
+-34.573760983,-58.580960479,12,media,Edenor,Gral San Martin,Billinghurst,S/D,R:Malaver/68-Tr4/68-5541,182,2026-09-19 19:00,2026-09-19,13:00:41
+-34.575587094,-58.578635111,12,media,Edenor,Gral San Martin,Billinghurst,S/D,R:Malaver/68-Tr4/68-5541,755,2026-09-19 19:00,2026-09-19,13:00:41
+-34.577250445,-58.576563659,12,media,Edenor,Gral San Martin,Billinghurst,S/D,R:Malaver/68-Tr4/68-5541,132,2026-09-19 19:00,2026-09-19,13:00:41
+-34.408363249,-58.766391605,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Garin/454-Tr1/454-5515,98,Sin Datos,2026-09-19,13:00:41
+-34.410473620,-58.761919169,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Garin/454-Tr1/454-5515,101,Sin Datos,2026-09-19,13:00:41
+-34.415524079,-58.755550008,12,media,Edenor,Escobar,Garin,S/D,R:Garin/454-Tr1/454-5515,203,Sin Datos,2026-09-19,13:00:41
+-34.486861430,-58.994088302,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,1,2026-09-19 11:00,2026-09-19,13:00:41
+-34.482999740,-58.992664816,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,54,2026-09-19 11:00,2026-09-19,13:00:41
+-34.480315357,-58.999086399,12,media,Edenor,Pilar,Manzanares,S/D,R:Manzone/257-Tr2/257-5522,1,2026-09-19 11:00,2026-09-19,13:00:41
+-34.468732947,-59.008140241,12,media,Edenor,Pilar,Manzanares,S/D,R:Manzone/257-Tr2/257-5522,1,2026-09-19 11:00,2026-09-19,13:00:41
+-34.482335384,-58.991583131,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,2,2026-09-19 11:00,2026-09-19,13:00:41
+-34.6646,-58.4438,21,baja,Edesur,Capital,Villa Soldati,,,16,,2026-09-19,13:00:41
+-34.7468,-58.4239,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,65,,2026-09-19,13:00:41
+-34.7273,-58.2536,21,baja,Edesur,Quilmes,Quilmes,,,30,,2026-09-19,13:00:41
+-34.8421,-58.2847,21,baja,Edesur,Florencio Varela,Florencio Varela,,,8,,2026-09-19,13:00:41
