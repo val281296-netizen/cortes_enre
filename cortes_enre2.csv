@@ -154117,3 +154117,49 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.803,-58.3593,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,11,,2026-09-22,05:58:22
 -34.7277,-58.283,21,baja,Edesur,Quilmes,Quilmes,,,5,,2026-09-22,05:58:22
 -34.7632,-58.3747,21,baja,Edesur,Lomas De Zamora,Temperley,,,1,,2026-09-22,05:58:22
+-34.823691714,-58.399927424,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-2-27/180-2-27,446,2026-09-22 12:12,2026-09-22,12:30:16
+-34.825837330,-58.398340814,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-2-27/180-2-27,215,2026-09-22 12:12,2026-09-22,12:30:16
+-34.233560767,-58.796701050,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,Sin Datos,2026-09-22,12:30:16
+-34.235526966,-58.792870242,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,4,Sin Datos,2026-09-22,12:30:16
+-34.238961887,-58.784835650,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,4,Sin Datos,2026-09-22,12:30:16
+-34.240415531,-58.781482530,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,Sin Datos,2026-09-22,12:30:16
+-34.241526066,-58.777742600,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,Sin Datos,2026-09-22,12:30:16
+-34.313106161,-58.710119283,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,21,Sin Datos,2026-09-22,12:30:16
+-34.301592937,-58.727268561,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,4,Sin Datos,2026-09-22,12:30:16
+-34.329198838,-58.702609965,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,Sin Datos,2026-09-22,12:30:16
+-34.308721640,-58.713653321,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,Sin Datos,2026-09-22,12:30:16
+-34.337399499,-58.697898132,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,3,Sin Datos,2026-09-22,12:30:16
+-34.342866703,-58.693785661,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,3,Sin Datos,2026-09-22,12:30:16
+-34.300775479,-58.722236372,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,11,Sin Datos,2026-09-22,12:30:16
+-34.562648541,-58.456861373,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr2/114-5533,1,2026-09-22 15:40,2026-09-22,12:30:16
+-34.503023589,-58.533742848,12,media,Edenor,San Isidro,Martinez,S/D,R:Martinez/355-Tr2/355-5524,187,2026-09-22 13:00,2026-09-22,12:30:16
+-34.488840193,-58.840202365,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr2/260-5527,2,2026-09-22 11:20,2026-09-22,12:30:16
+-34.461413486,-58.963587412,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,12,2026-09-22 13:40,2026-09-22,12:30:16
+-34.461079255,-58.967713444,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,14,2026-09-22 13:40,2026-09-22,12:30:16
+-34.461368689,-58.970038935,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,10,2026-09-22 13:40,2026-09-22,12:30:16
+-34.465362618,-58.973494984,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,61,2026-09-22 13:40,2026-09-22,12:30:16
+-34.458100070,-58.964937427,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5512,3,2026-09-22 13:40,2026-09-22,12:30:16
+-34.604398970,-58.552584901,12,media,Edenor,3 De Febrero,Santos Lugares,S/D,R:Caseros/69-Tr1/69-5514,398,2026-09-22 11:00,2026-09-22,12:30:16
+-34.198964935,-58.542859084,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,5,2026-09-22 12:00,2026-09-22,12:30:16
+-34.192562902,-58.543511928,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,4,2026-09-22 12:00,2026-09-22,12:30:16
+-34.164906624,-58.540023386,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,2026-09-22 12:00,2026-09-22,12:30:16
+-34.171420120,-58.544867310,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,2026-09-22 12:00,2026-09-22,12:30:16
+-34.179764586,-58.542841506,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2026-09-22 12:00,2026-09-22,12:30:16
+-34.188056178,-58.541000580,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2026-09-22 12:00,2026-09-22,12:30:16
+-34.157158209,-58.541970014,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2026-09-22 12:00,2026-09-22,12:30:16
+-34.4686,-58.7132,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,2,,2026-09-22,12:30:16
+-34.8973,-58.4008,21,baja,Edesur,Almirante Brown,Glew,,,74,,2026-09-22,12:30:16
+-34.8643,-58.5301,21,baja,Edesur,Ezeiza,Barrio La Union,,,5,,2026-09-22,12:30:16
+-34.7176,-58.4332,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,32,,2026-09-22,12:30:16
+-34.7775,-58.187,21,baja,Edesur,Berazategui,V. España,,,5,,2026-09-22,12:30:16
+-34.7343,-58.4254,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,42,,2026-09-22,12:30:16
+-34.8052,-58.2859,21,baja,Edesur,Florencio Varela,Florencio Varela,,,3,,2026-09-22,12:30:16
+-34.8932,-58.3598,21,baja,Edesur,Pte Peron,El Roble,,,17,,2026-09-22,12:30:16
+-34.803,-58.3593,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,16,,2026-09-22,12:30:16
+-34.7277,-58.283,21,baja,Edesur,Quilmes,Quilmes,,,12,,2026-09-22,12:30:16
+-34.753,-58.3836,21,baja,Edesur,Lomas De Zamora,Banfield,,,6,,2026-09-22,12:30:16
+-35.065,-58.7651,21,baja,Edesur,Cañuelas,Cañuelas,,,9,,2026-09-22,12:30:16
+-34.7896,-58.4297,21,baja,Edesur,Lomas De Zamora,Lavallol,,,11,,2026-09-22,12:30:16
+-34.6865,-58.4002,21,baja,Edesur,Lanus,Lanus,,,5,,2026-09-22,12:30:16
+-34.821,-58.2073,21,baja,Edesur,Florencio Varela,Bosques,,,2,,2026-09-22,12:30:16
+-34.6809,-58.4078,21,baja,Edesur,Lanus,Valentin Alsina,,,2,,2026-09-22,12:30:16
