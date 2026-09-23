@@ -154612,3 +154612,66 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7998,-58.2318,21,baja,Edesur,Berazategui,Sourigues,,,3,,2026-09-23,08:26:26
 -34.7312,-58.4277,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,7,,2026-09-23,08:26:26
 -34.743,-58.4372,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,10,,2026-09-23,08:26:26
+-34.475868989,-58.506932485,12,media,Edenor,San Isidro,Acassuso,S/D,R:San Isidro/152-Tr1/152-5514,146,2026-09-23 13:00,2026-09-23,14:10:06
+-34.846354277,-58.639449479,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr1/356-5543,344,Sin Datos,2026-09-23,14:10:06
+-34.848777825,-58.642880899,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr1/356-5543,353,Sin Datos,2026-09-23,14:10:06
+-34.852459029,-58.640027874,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr1/356-5543,371,Sin Datos,2026-09-23,14:10:06
+-34.853570279,-58.644267718,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr1/356-5543,344,Sin Datos,2026-09-23,14:10:06
+-34.847025244,-58.642680019,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr1/356-5543,208,Sin Datos,2026-09-23,14:10:06
+-34.850731562,-58.638129484,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr1/356-5543,147,Sin Datos,2026-09-23,14:10:06
+-34.847870447,-58.641628440,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr1/356-5543,121,Sin Datos,2026-09-23,14:10:06
+-34.849154608,-58.640073479,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr1/356-5543,182,Sin Datos,2026-09-23,14:10:06
+-34.842719181,-58.640345664,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr1/356-5543,282,Sin Datos,2026-09-23,14:10:06
+-34.844748345,-58.637762351,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr1/356-5543,382,Sin Datos,2026-09-23,14:10:06
+-34.844302507,-58.642359943,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr1/356-5543,380,Sin Datos,2026-09-23,14:10:06
+-34.841816011,-58.644095135,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr1/356-5543,218,Sin Datos,2026-09-23,14:10:06
+-34.791657579,-58.718311064,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Marcos Paz/363-Tr2/363-5527,1,2026-09-23 13:00,2026-09-23,14:10:06
+-34.785608829,-58.733206977,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Marcos Paz/363-Tr2/363-5527,69,Sin Datos,2026-09-23,14:10:06
+-34.637357581,-58.650173888,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr2/61-5535,173,2026-09-23 13:00,2026-09-23,14:10:06
+-34.705321208,-58.765108451,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr2/361-5526,33,2026-09-23 13:00,2026-09-23,14:10:06
+-34.651853226,-58.687783278,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5516,318,Sin Datos,2026-09-23,14:10:06
+-34.584278299,-58.778679741,12,media,Edenor,Moreno,Trujui,S/D,R:Trujui/364-Tr1/364-5518,1,2026-09-23 15:20,2026-09-23,14:10:06
+-34.586941129,-58.780142438,12,media,Edenor,Moreno,Trujui,S/D,R:Trujui/364-Tr1/364-5518,11,2026-09-23 15:20,2026-09-23,14:10:06
+-34.624325251,-58.822908046,12,media,Edenor,Moreno,La Reja,S/D,R:La Reja/163-Tr1/163-5516,16,2026-09-23 13:00,2026-09-23,14:10:06
+-34.461526482,-58.737094345,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr1/252-5513,3,2026-09-23 11:40,2026-09-23,14:10:06
+-34.539344100,-58.757063923,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5513,152,2026-09-23 13:00,2026-09-23,14:10:06
+-34.265805007,-58.549303381,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,4,2026-09-23 14:30,2026-09-23,14:10:06
+-34.267489039,-58.556566905,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2026-09-23 14:30,2026-09-23,14:10:06
+-34.265675518,-58.546648179,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,2026-09-23 14:30,2026-09-23,14:10:06
+-34.265467429,-58.577350268,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,2026-09-23 14:30,2026-09-23,14:10:06
+-34.267830386,-58.559684762,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2026-09-23 14:30,2026-09-23,14:10:06
+-34.333246773,-58.563432369,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2026-09-23 16:00,2026-09-23,14:10:06
+-34.310103433,-58.568834025,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,24,2026-09-23 16:00,2026-09-23,14:10:06
+-34.317862670,-58.569567150,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,35,2026-09-23 16:00,2026-09-23,14:10:06
+-34.326621097,-58.570899905,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,51,2026-09-23 16:00,2026-09-23,14:10:06
+-34.333912958,-58.566836525,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,13,2026-09-23 16:00,2026-09-23,14:10:06
+-34.330087002,-58.562504782,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,2026-09-23 16:00,2026-09-23,14:10:06
+-34.332217386,-58.561523785,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,10,2026-09-23 16:00,2026-09-23,14:10:06
+-34.480385381,-58.817114725,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr2/260-5534,33,2026-09-23 13:10,2026-09-23,14:10:06
+-34.924513326,-58.779977137,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr2/353-5526,1,Sin Datos,2026-09-23,14:10:06
+-34.920885329,-58.771166653,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr2/353-5526,2,Sin Datos,2026-09-23,14:10:06
+-34.912663570,-58.782396796,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr2/353-5526,1,Sin Datos,2026-09-23,14:10:06
+-34.928275259,-58.771253745,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr2/353-5526,3,Sin Datos,2026-09-23,14:10:06
+-34.790153121,-58.632356058,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr1/168-5514,152,2026-09-23 13:00,2026-09-23,14:10:06
+-34.726185765,-58.653061446,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5512,68,2026-09-23 13:00,2026-09-23,14:10:06
+-34.575157233,-58.752497652,12,media,Edenor,San Miguel,San Miguel,S/D,R:Trujui/364-Tr2/364-5532,382,2026-09-23 12:55,2026-09-23,14:10:06
+-34.338691022,-58.485684972,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos,2026-09-23,14:10:06
+-34.558038603,-58.442452314,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Aguas/129-Tr2/129-5524,82,2026-09-23 12:00,2026-09-23,14:10:06
+-34.8314,-58.4067,21,baja,Edesur,Almirante Brown,Burzaco,,,4,,2026-09-23,14:10:06
+-34.8424,-58.5279,21,baja,Edesur,Ezeiza,Jose Maria Ezeiza,,,284,,2026-09-23,14:10:06
+-34.6096,-58.494,21,baja,Edesur,Capital,Villa Del Parque,,,23,,2026-09-23,14:10:06
+-34.7998,-58.2318,21,baja,Edesur,Berazategui,Sourigues,,,3,,2026-09-23,14:10:06
+-34.7312,-58.4277,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,9,,2026-09-23,14:10:06
+-34.7398,-58.4536,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,21,,2026-09-23,14:10:06
+-34.743,-58.4372,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,20,,2026-09-23,14:10:06
+-34.6809,-58.4679,21,baja,Edesur,Capital,Villa Lugano,,,8,,2026-09-23,14:10:06
+-34.7526,-58.3844,21,baja,Edesur,Lomas De Zamora,Banfield,,,9,,2026-09-23,14:10:06
+-34.947,-58.618,21,baja,Edesur,Cañuelas,Zona Rural,,,5,,2026-09-23,14:10:06
+-34.6326,-58.4937,21,baja,Edesur,Capital,Velez Sarfield,,,2,,2026-09-23,14:10:06
+-34.7695,-58.2414,21,baja,Edesur,Berazategui,Berazategui,,,1,,2026-09-23,14:10:06
+-34.8696,-58.2057,21,baja,Edesur,Florencio Varela,Ing. Allan,,,5,,2026-09-23,14:10:06
+-34.6465,-58.4177,21,baja,Edesur,Capital,Nueva Pompeya,,,9,,2026-09-23,14:10:06
+-34.7231,-58.3226,21,baja,Edesur,Quilmes,Bernal,,,7,,2026-09-23,14:10:06
+-34.8097,-58.402,21,baja,Edesur,Almirante Brown,Adrogue,,,20,,2026-09-23,14:10:06
+-34.7237,-58.3181,21,baja,Edesur,Quilmes,Bernal,,,5,,2026-09-23,14:10:06
+-34.6721,-58.3443,21,baja,Edesur,Avellaneda,Sarandi,,,38,,2026-09-23,14:10:06
