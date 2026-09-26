@@ -155444,3 +155444,33 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.607990275,-58.426233638,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-2-22/049-2-22,105,2026-09-26 04:36,2026-09-26,06:00:39
 -35.1059,-58.7455,21,baja,Edesur,Cañuelas,Zona Rural 6,,,9,,2026-09-26,06:00:39
 -34.7851,-58.3813,21,baja,Edesur,Almirante Brown,Marmol,,,72,,2026-09-26,06:00:39
+-34.631135460,-58.446842192,11,media,Edesur,Capital Rp,Parque Chacabuco,Perito Moreno,R:048-2-27/048-2-27,1,2026-09-26 11:15,2026-09-26,12:08:35
+-34.635079461,-58.448196064,11,media,Edesur,Capital Rp,Parque Chacabuco,Perito Moreno,R:048-2-27/048-2-27,1047,2026-09-26 11:15,2026-09-26,12:08:35
+-34.636244628,-58.453224522,11,media,Edesur,Capital Rp,Flores Rp,Perito Moreno,R:048-2-27/048-2-27,324,2026-09-26 11:15,2026-09-26,12:08:35
+-34.638462859,-58.452630880,11,media,Edesur,Capital Rp,Flores Rp,Perito Moreno,R:048-2-27/048-2-27,363,2026-09-26 11:15,2026-09-26,12:08:35
+-34.637597055,-58.448905330,11,media,Edesur,Capital Rp,Parque Chacabuco,Perito Moreno,R:048-2-27/048-2-27,1,2026-09-26 11:15,2026-09-26,12:08:35
+-34.633035820,-58.445580569,11,media,Edesur,Capital Rp,Parque Chacabuco,Perito Moreno,R:048-2-27/048-2-27,17,2026-09-26 11:15,2026-09-26,12:08:35
+-34.788291043,-58.391469190,11,media,Edesur,Lomas De Zamora,Temperley,Rafael Calzada,R:189-4-47/189-4-47,269,Sin Datos,2026-09-26,12:08:35
+-34.790079522,-58.394780856,11,media,Edesur,Lomas De Zamora,Temperley,Rafael Calzada,R:189-4-47/189-4-47,70,Sin Datos,2026-09-26,12:08:35
+-34.799222546,-58.385043657,11,media,Edesur,Almirante Brown,Adrogue,Rafael Calzada,R:189-4-47/189-4-47,606,Sin Datos,2026-09-26,12:08:35
+-34.788901847,-58.384325416,11,media,Edesur,Almirante Brown,Marmol,Rafael Calzada,R:189-4-47/189-4-47,316,Sin Datos,2026-09-26,12:08:35
+-34.793596553,-58.382749103,11,media,Edesur,Almirante Brown,Adrogue,Rafael Calzada,R:189-4-47/189-4-47,339,Sin Datos,2026-09-26,12:08:35
+-34.789086239,-58.388248651,11,media,Edesur,Almirante Brown,Adrogue,Rafael Calzada,R:189-4-47/189-4-47,446,Sin Datos,2026-09-26,12:08:35
+-34.801475725,-58.381191237,11,media,Edesur,Almirante Brown,Adrogue,Rafael Calzada,R:189-4-47/189-4-47,339,Sin Datos,2026-09-26,12:08:35
+-34.795510727,-58.387860864,11,media,Edesur,Almirante Brown,Adrogue,Rafael Calzada,R:189-4-47/189-4-47,261,Sin Datos,2026-09-26,12:08:35
+-34.793820443,-58.384899308,11,media,Edesur,Almirante Brown,Adrogue,Rafael Calzada,R:189-4-47/189-4-47,138,Sin Datos,2026-09-26,12:08:35
+-34.796623082,-58.385298289,11,media,Edesur,Almirante Brown,Adrogue,Rafael Calzada,R:189-4-47/189-4-47,136,Sin Datos,2026-09-26,12:08:35
+-34.797366894,-58.385410505,11,media,Edesur,Almirante Brown,Adrogue,Rafael Calzada,R:189-4-47/189-4-47,233,Sin Datos,2026-09-26,12:08:35
+-34.791926233,-58.380772072,11,media,Edesur,Almirante Brown,Marmol,Rafael Calzada,R:189-4-47/189-4-47,340,Sin Datos,2026-09-26,12:08:35
+-34.786967112,-58.389034942,11,media,Edesur,Lomas De Zamora,Temperley,Rafael Calzada,R:189-4-47/189-4-47,4,Sin Datos,2026-09-26,12:08:35
+-34.795469824,-58.385568067,11,media,Edesur,Almirante Brown,Adrogue,Rafael Calzada,R:189-4-47/189-4-47,143,Sin Datos,2026-09-26,12:08:35
+-34.794751096,-58.383727265,11,media,Edesur,Almirante Brown,Adrogue,Rafael Calzada,R:189-4-47/189-4-47,8,Sin Datos,2026-09-26,12:08:35
+-34.799447276,-58.382887312,11,media,Edesur,Almirante Brown,Adrogue,Rafael Calzada,R:189-4-47/189-4-47,6,Sin Datos,2026-09-26,12:08:35
+-34.792432819,-58.380153459,11,media,Edesur,Almirante Brown,Marmol,Rafael Calzada,R:189-4-47/189-4-47,62,Sin Datos,2026-09-26,12:08:35
+-34.799321500,-58.383668845,11,media,Edesur,Almirante Brown,Adrogue,Rafael Calzada,R:189-4-47/189-4-47,1,Sin Datos,2026-09-26,12:08:35
+-34.509443625,-58.478657720,12,media,Edenor,Vicente Lopez,Olivos,S/D,R:Vicente Lopez/50-Tr2/50-5527,98,2026-09-26 11:00,2026-09-26,12:08:35
+-34.510191772,-58.478959025,12,media,Edenor,Vicente Lopez,Olivos,S/D,R:Vicente Lopez/50-Tr2/50-5527,94,2026-09-26 11:00,2026-09-26,12:08:35
+-34.508611690,-58.477687066,12,media,Edenor,Vicente Lopez,Olivos,S/D,R:Vicente Lopez/50-Tr2/50-5527,19,2026-09-26 11:00,2026-09-26,12:08:35
+-34.510692973,-58.478068686,12,media,Edenor,Vicente Lopez,Olivos,S/D,R:Vicente Lopez/50-Tr2/50-5527,84,2026-09-26 11:00,2026-09-26,12:08:35
+-34.511864548,-58.477463183,12,media,Edenor,Vicente Lopez,Olivos,S/D,R:Vicente Lopez/50-Tr2/50-5527,66,2026-09-26 11:00,2026-09-26,12:08:35
+-35.1059,-58.7455,21,baja,Edesur,Cañuelas,Zona Rural 6,,,9,,2026-09-26,12:08:35
