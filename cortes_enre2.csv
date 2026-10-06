@@ -159302,3 +159302,32 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7988,-58.2326,21,baja,Edesur,Berazategui,Sourigues,,,8,,2026-10-06,15:47:58
 -34.812,-58.4212,21,baja,Edesur,Lomas De Zamora,Lavallol,,,1,,2026-10-06,15:47:58
 -34.725,-58.4465,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,1,,2026-10-06,15:47:58
+-34.709183642,-58.387465770,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-08/087-1-08,367,Sin Datos,2026-10-06,21:32:04
+-34.709201420,-58.387486309,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-08/087-1-08,60,Sin Datos,2026-10-06,21:32:04
+-34.667612762,-58.372881980,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-3-37/279-3-37,731,Sin Datos,2026-10-06,21:32:04
+-34.809023558,-58.306016479,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-58/286-5-58,1,Sin Datos,2026-10-06,21:32:04
+-34.809736439,-58.307342946,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-58/286-5-58,7,Sin Datos,2026-10-06,21:32:04
+-34.808727913,-58.307048742,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-58/286-5-58,2,Sin Datos,2026-10-06,21:32:04
+-34.808560220,-58.308260224,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-58/286-5-58,2,Sin Datos,2026-10-06,21:32:04
+-34.809471181,-58.308616866,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-58/286-5-58,9,Sin Datos,2026-10-06,21:32:04
+-34.809511248,-58.309091347,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-58/286-5-58,15,Sin Datos,2026-10-06,21:32:04
+-34.812029289,-58.310017309,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-58/286-5-58,3,Sin Datos,2026-10-06,21:32:04
+-34.810690784,-58.304243329,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-58/286-5-58,375,Sin Datos,2026-10-06,21:32:04
+-34.811392224,-58.307184157,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-58/286-5-58,196,Sin Datos,2026-10-06,21:32:04
+-34.633978675,-58.479804218,11,media,Edesur,Capital Gp,Floresta,Falcon,R:016-1-12/016-1-12,311,2026-10-06 20:45,2026-10-06,21:32:04
+-34.634331685,-58.482289399,11,media,Edesur,Capital Gp,Velez Sarfield,Falcon,R:016-1-12/016-1-12,296,2026-10-06 20:45,2026-10-06,21:32:04
+-34.549248760,-58.528608427,12,media,Edenor,Gral San Martin,Gderos De San Mart?N,S/D,R:Munro/55-Tr2/55-5534,277,2026-10-06 22:00,2026-10-06,21:32:04
+-34.554659605,-58.531911356,12,media,Edenor,Gral San Martin,Marques A De Aguado,S/D,R:Munro/55-Tr2/55-5534,296,2026-10-06 22:00,2026-10-06,21:32:04
+-34.550817647,-58.531162913,12,media,Edenor,Gral San Martin,Gderos De San Mart?N,S/D,R:Munro/55-Tr2/55-5534,10,2026-10-06 22:00,2026-10-06,21:32:04
+-34.553130822,-58.529649498,12,media,Edenor,Gral San Martin,Gderos De San Mart?N,S/D,R:Munro/55-Tr2/55-5534,132,2026-10-06 22:00,2026-10-06,21:32:04
+-34.548698075,-58.527460730,12,media,Edenor,Gral San Martin,Gderos De San Mart?N,S/D,R:Munro/55-Tr2/55-5534,267,2026-10-06 22:00,2026-10-06,21:32:04
+-34.552070198,-58.528710352,12,media,Edenor,Gral San Martin,Gderos De San Mart?N,S/D,R:Munro/55-Tr2/55-5534,279,2026-10-06 22:00,2026-10-06,21:32:04
+-34.552746054,-58.530571256,12,media,Edenor,Gral San Martin,Gderos De San Mart?N,S/D,R:Munro/55-Tr2/55-5534,82,2026-10-06 22:00,2026-10-06,21:32:04
+-34.7868,-58.2175,21,baja,Edesur,Berazategui,Berazategui,,,13,,2026-10-06,21:32:04
+-34.7381,-58.4665,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,22,,2026-10-06,21:32:04
+-34.7988,-58.2326,21,baja,Edesur,Berazategui,Sourigues,,,13,,2026-10-06,21:32:04
+-34.6026,-58.4305,21,baja,Edesur,Capital,Almagro,,,25,,2026-10-06,21:32:04
+-34.6896,-58.3753,21,baja,Edesur,Avellaneda,Gerli,,,7,,2026-10-06,21:32:04
+-34.6311,-58.4987,21,baja,Edesur,Capital,Velez Sarfield,,,16,,2026-10-06,21:32:04
+-34.6444,-58.5237,21,baja,Edesur,Capital,Capital,,,7,,2026-10-06,21:32:04
+-34.7248,-58.3794,21,baja,Edesur,Lanus,Lanus,,,67,,2026-10-06,21:32:04
