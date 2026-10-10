@@ -160259,3 +160259,39 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.9402,-58.3927,21,baja,Edesur,Pte Peron,Guernica,,,5,,2026-10-10,06:53:09
 -34.8389,-58.2921,21,baja,Edesur,Florencio Varela,Florencio Varela,,,7,,2026-10-10,06:53:09
 -34.8001,-58.3733,21,baja,Edesur,Almirante Brown,Marmol,,,4,,2026-10-10,06:53:09
+-34.861438990,-58.217672354,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-1-16/185-1-16,2,2026-10-10 13:24,2026-10-10,13:29:08
+-34.862993587,-58.219465360,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-1-16/185-1-16,3,2026-10-10 13:24,2026-10-10,13:29:08
+-34.689593835,-58.478550592,11,media,Edesur,Capital Gp,Villa Riachuelo,Autodromo,R:042-1-13/042-1-13,608,2026-10-10 13:21,2026-10-10,13:29:08
+-34.706256027,-58.371223196,11,media,Edesur,Lanus,Gerli L,Corina,R:075-2-21/075-2-21,665,2026-10-10 13:28,2026-10-10,13:29:08
+-34.706789432,-58.280756647,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-4-46/077-4-46,466,2026-10-10 15:00,2026-10-10,13:29:08
+-34.638255525,-58.413956777,11,media,Edesur,Capital Rp,Boedo,Patricios,R:015-2-21/015-2-21,274,2026-10-10 13:50,2026-10-10,13:29:08
+-34.730777131,-58.505244975,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-42/281-4-42,150,2026-10-10 15:00,2026-10-10,13:29:08
+-34.734324518,-58.501022928,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-42/281-4-42,21,2026-10-10 15:00,2026-10-10,13:29:08
+-34.738524817,-58.507076562,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-42/281-4-42,210,2026-10-10 15:00,2026-10-10,13:29:08
+-34.750266998,-58.495927604,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-42/281-4-42,205,2026-10-10 15:00,2026-10-10,13:29:08
+-34.736974377,-58.503317761,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-42/281-4-42,121,2026-10-10 15:00,2026-10-10,13:29:08
+-34.739295331,-58.503513195,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-42/281-4-42,59,2026-10-10 15:00,2026-10-10,13:29:08
+-34.735678890,-58.492104818,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-42/281-4-42,11,2026-10-10 15:00,2026-10-10,13:29:08
+-34.739633427,-58.506905742,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-42/281-4-42,59,2026-10-10 15:00,2026-10-10,13:29:08
+-34.738858380,-58.508832119,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-42/281-4-42,33,2026-10-10 15:00,2026-10-10,13:29:08
+-34.737938460,-58.511084596,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-42/281-4-42,61,2026-10-10 15:00,2026-10-10,13:29:08
+-34.740714961,-58.509768232,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-42/281-4-42,27,2026-10-10 15:00,2026-10-10,13:29:08
+-34.740961101,-58.509140527,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-42/281-4-42,52,2026-10-10 15:00,2026-10-10,13:29:08
+-34.740111997,-58.510718617,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-42/281-4-42,16,2026-10-10 15:00,2026-10-10,13:29:08
+-34.739993867,-58.511545208,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-42/281-4-42,58,2026-10-10 15:00,2026-10-10,13:29:08
+-34.748847540,-58.497407811,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-42/281-4-42,8,2026-10-10 15:00,2026-10-10,13:29:08
+-34.858865523,-58.997845679,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5481/132-5511,2,Sin Datos,2026-10-10,13:29:08
+-34.521840346,-58.700940407,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,133,2026-10-10 13:00,2026-10-10,13:29:08
+-34.518088093,-58.698921689,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,151,2026-10-10 13:00,2026-10-10,13:29:08
+-34.8759,-58.5558,21,baja,Edesur,Ezeiza,Tristan Suarez,,,69,,2026-10-10,13:29:08
+-34.7293,-58.4724,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,23,,2026-10-10,13:29:08
+-35.0582,-58.7404,21,baja,Edesur,Cañuelas,Cañuelas,,,11,,2026-10-10,13:29:08
+-34.6705,-58.4113,21,baja,Edesur,Lanus,Valentin Alsina,,,11,,2026-10-10,13:29:08
+-34.6959,-58.2937,21,baja,Edesur,Quilmes,Don Bosco,,,2,,2026-10-10,13:29:08
+-34.9402,-58.3927,21,baja,Edesur,Pte Peron,Guernica,,,5,,2026-10-10,13:29:08
+-34.7625,-58.354,21,baja,Edesur,Lomas De Zamora,Temperley,,,14,,2026-10-10,13:29:08
+-34.8389,-58.2921,21,baja,Edesur,Florencio Varela,Florencio Varela,,,10,,2026-10-10,13:29:08
+-34.8589,-58.1942,21,baja,Edesur,Florencio Varela,Ing. Allan,,,7,,2026-10-10,13:29:08
+-34.7225,-58.3243,21,baja,Edesur,Quilmes,Bernal,,,5,,2026-10-10,13:29:08
+-34.9015,-58.4934,21,baja,Edesur,Esteban Echeverria,Canning,,,22,,2026-10-10,13:29:08
+-34.6328,-58.3626,21,baja,Edesur,Capital,La Boca,,,67,,2026-10-10,13:29:08
