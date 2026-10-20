@@ -162264,3 +162264,49 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7854,-58.2679,21,baja,Edesur,Florencio Varela,Florencio Varela,,,7,,2026-10-20,14:12:55
 -34.8219,-58.2082,21,baja,Edesur,Florencio Varela,Bosques,,,1,,2026-10-20,14:12:55
 -34.7034,-58.434,21,baja,Edesur,Lanus,Lanus,,,1,,2026-10-20,14:12:55
+-34.835790634,-58.409280506,11,media,Edesur,Almirante Brown,Burzaco,Burzaco,R:082-2-35/082-2-35,8,Sin Datos,2026-10-20,19:05:47
+-34.835902728,-58.410452590,11,media,Edesur,Almirante Brown,Burzaco,Burzaco,R:082-2-35/082-2-35,2,Sin Datos,2026-10-20,19:05:47
+-34.835371449,-58.408421428,11,media,Edesur,Almirante Brown,Burzaco,Burzaco,R:082-2-35/082-2-35,39,Sin Datos,2026-10-20,19:05:47
+-34.835309085,-58.410891539,11,media,Edesur,Almirante Brown,Burzaco,Burzaco,R:082-2-35/082-2-35,6,Sin Datos,2026-10-20,19:05:47
+-34.835931070,-58.458535979,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-1-13/180-1-13,231,Sin Datos,2026-10-20,19:05:47
+-34.670356356,-58.485142016,11,media,Edesur,Capital Gp,Villa Lugano,Perito Moreno,R:048-3-33/048-3-33,364,Sin Datos,2026-10-20,19:05:47
+-34.811810869,-58.397058105,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-3-36/180-3-36,442,Sin Datos,2026-10-20,19:05:47
+-34.810025982,-58.393953275,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-3-36/180-3-36,1,Sin Datos,2026-10-20,19:05:47
+-34.738434120,-58.350031412,11,media,Edesur,Lanus,Monte Chingolo,Don Bosco,R:077-2-27/077-2-27,602,Sin Datos,2026-10-20,19:05:47
+-34.738284107,-58.348387621,11,media,Edesur,Lanus,Monte Chingolo,Don Bosco,R:077-2-27/077-2-27,1,Sin Datos,2026-10-20,19:05:47
+-34.619237213,-58.468253361,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-3-31/218-3-31,1048,2026-10-20 17:01,2026-10-20,19:05:47
+-34.625341044,-58.469313462,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-3-31/218-3-31,1486,2026-10-20 17:01,2026-10-20,19:05:47
+-34.617870847,-58.468122868,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-3-31/218-3-31,235,2026-10-20 17:01,2026-10-20,19:05:47
+-34.731857283,-58.310863148,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-1-18/077-1-18,140,2026-10-20 18:33,2026-10-20,19:05:47
+-34.405452828,-58.881914864,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5525,103,Sin Datos,2026-10-20,19:05:47
+-34.397935332,-58.887709697,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5525,2,Sin Datos,2026-10-20,19:05:47
+-34.400824871,-58.885450736,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5525,21,Sin Datos,2026-10-20,19:05:47
+-34.816809010,-58.839438830,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5528,2,Sin Datos,2026-10-20,19:05:47
+-34.817925563,-58.836607661,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5528,4,2026-10-20 17:00,2026-10-20,19:05:47
+-34.815180685,-58.840073759,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5528,4,2026-10-20 17:00,2026-10-20,19:05:47
+-34.813978560,-58.844049607,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5528,4,2026-10-20 17:00,2026-10-20,19:05:47
+-34.811228195,-58.845153135,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5528,22,2026-10-20 17:00,2026-10-20,19:05:47
+-34.815502393,-58.839795068,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5528,1,2026-10-20 17:00,2026-10-20,19:05:47
+-34.416894687,-59.008891106,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5483,4,Sin Datos,2026-10-20,19:05:47
+-34.416543438,-59.007938844,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5483,3,Sin Datos,2026-10-20,19:05:47
+-34.416357086,-58.996472946,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5483,86,Sin Datos,2026-10-20,19:05:47
+-34.408545089,-58.989992267,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5483,15,Sin Datos,2026-10-20,19:05:47
+-34.405769199,-58.995743097,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5483,43,Sin Datos,2026-10-20,19:05:47
+-34.419867177,-59.003180240,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5483,13,Sin Datos,2026-10-20,19:05:47
+-34.411419286,-58.997704357,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5483,33,Sin Datos,2026-10-20,19:05:47
+-34.396247502,-58.998175759,12,media,Edenor,Pilar,Pilar,S/D,R:Parque/357-Tr4/357-5483,40,Sin Datos,2026-10-20,19:05:47
+-34.393774081,-58.998609870,12,media,Edenor,Pilar,Pilar,S/D,R:Parque/357-Tr4/357-5483,71,Sin Datos,2026-10-20,19:05:47
+-34.392349135,-59.001117930,12,media,Edenor,Pilar,Pilar,S/D,R:Parque/357-Tr4/357-5483,46,Sin Datos,2026-10-20,19:05:47
+-34.390541522,-58.998325069,12,media,Edenor,Pilar,La Lonja,S/D,R:Parque/357-Tr4/357-5483,43,Sin Datos,2026-10-20,19:05:47
+-34.399927330,-58.994522710,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5483,1,Sin Datos,2026-10-20,19:05:47
+-34.411249899,-59.008282983,12,media,Edenor,Pilar,Pilar,S/D,R:Parque/357-Tr4/357-5483,22,Sin Datos,2026-10-20,19:05:47
+-34.405717823,-59.002128177,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5483,1,Sin Datos,2026-10-20,19:05:47
+-34.415391726,-59.000042525,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5483,23,Sin Datos,2026-10-20,19:05:47
+-34.6307,-58.4156,21,baja,Edesur,Capital,Boedo,,,5,,2026-10-20,19:05:47
+-34.6501,-58.4714,21,baja,Edesur,Capital,Parque Avellaneda,,,135,,2026-10-20,19:05:47
+-34.6234,-58.448,21,baja,Edesur,Capital,Caballito,,,11,,2026-10-20,19:05:47
+-34.7974,-58.2569,21,baja,Edesur,Florencio Varela,Florencio Varela,,,17,,2026-10-20,19:05:47
+-34.787,-58.2596,21,baja,Edesur,Florencio Varela,Florencio Varela,,,2,,2026-10-20,19:05:47
+-34.5982,-58.4027,21,baja,Edesur,Capital,Recoleta,,,6,,2026-10-20,19:05:47
+-34.6356,-58.439,21,baja,Edesur,Capital,Parque Chacabuco,,,63,,2026-10-20,19:05:47
+-34.8681,-58.3914,21,baja,Edesur,Almirante Brown,Longchamps,,,1,,2026-10-20,19:05:47
