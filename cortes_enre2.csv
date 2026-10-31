@@ -163572,3 +163572,44 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -35.0217,-58.7501,21,baja,Edesur,Cañuelas,Zona Rural,,,3,,2026-10-31,13:29:42
 -34.6456,-58.4288,21,baja,Edesur,Capital,Nueva Pompeya,,,4,,2026-10-31,13:29:42
 -34.6452,-58.4283,21,baja,Edesur,Capital,Nueva Pompeya,,,1,,2026-10-31,13:29:42
+-34.782095978,-58.224529863,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-51/080-5-51,67,Sin Datos,2026-10-31,19:11:00
+-34.626276934,-58.382879549,11,media,Edesur,Capital Rp,Constitucion,Constitucion,R:124-2-21/124-2-21,486,Sin Datos,2026-10-31,19:11:00
+-34.748498621,-58.301171567,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-4-47/073-4-47,193,Sin Datos,2026-10-31,19:11:00
+-34.729257929,-58.288190788,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-3-36/073-3-36,666,Sin Datos,2026-10-31,19:11:00
+-34.830418338,-58.448669596,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-2-22/180-2-22,18,2026-10-31 17:00,2026-10-31,19:11:00
+-34.830916314,-58.449711156,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-2-22/180-2-22,67,2026-10-31 17:00,2026-10-31,19:11:00
+-34.831511162,-58.450366887,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-2-22/180-2-22,25,2026-10-31 17:00,2026-10-31,19:11:00
+-34.831634172,-58.449180612,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-2-22/180-2-22,18,2026-10-31 17:00,2026-10-31,19:11:00
+-34.828968830,-58.440636828,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-2-22/180-2-22,209,2026-10-31 17:00,2026-10-31,19:11:00
+-34.828938237,-58.443541456,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-2-22/180-2-22,48,2026-10-31 17:00,2026-10-31,19:11:00
+-34.830530198,-58.442975297,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-2-22/180-2-22,34,2026-10-31 17:00,2026-10-31,19:11:00
+-34.831783760,-58.442658203,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-2-22/180-2-22,21,2026-10-31 17:00,2026-10-31,19:11:00
+-34.831332236,-58.441829030,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-2-22/180-2-22,11,2026-10-31 17:00,2026-10-31,19:11:00
+-34.832191390,-58.441777848,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-2-22/180-2-22,49,2026-10-31 17:00,2026-10-31,19:11:00
+-34.829362043,-58.444382139,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-2-22/180-2-22,10,2026-10-31 17:00,2026-10-31,19:11:00
+-34.781539517,-58.348674967,11,media,Edesur,Almirante Brown,Rafael Calzada,Almirante Brown,R:180-2-22/180-2-22,314,2026-10-31 17:00,2026-10-31,19:11:00
+-34.830068001,-58.439847573,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-2-22/180-2-22,130,2026-10-31 17:00,2026-10-31,19:11:00
+-34.914618127,-58.591924520,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Spegazzini,R:270-3-31/270-3-31,535,2026-10-31 16:29,2026-10-31,19:11:00
+-34.915480304,-58.597034905,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Spegazzini,R:270-3-31/270-3-31,156,2026-10-31 16:29,2026-10-31,19:11:00
+-34.912231404,-58.590754512,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Spegazzini,R:270-3-31/270-3-31,234,2026-10-31 16:29,2026-10-31,19:11:00
+-34.915613316,-58.594087836,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Spegazzini,R:270-3-31/270-3-31,1,2026-10-31 16:29,2026-10-31,19:11:00
+-34.847640285,-58.491751606,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-37/083-3-37,6,2026-10-31 19:02,2026-10-31,19:11:00
+-34.848651587,-58.493761826,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-37/083-3-37,2,2026-10-31 19:02,2026-10-31,19:11:00
+-34.847063965,-58.495981131,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-37/083-3-37,27,2026-10-31 19:02,2026-10-31,19:11:00
+-34.847865892,-58.497568123,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-37/083-3-37,48,2026-10-31 19:02,2026-10-31,19:11:00
+-34.848770901,-58.497524745,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-37/083-3-37,24,2026-10-31 19:02,2026-10-31,19:11:00
+-34.849550446,-58.495593849,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-37/083-3-37,27,2026-10-31 19:02,2026-10-31,19:11:00
+-34.848059226,-58.497897832,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-37/083-3-37,19,2026-10-31 19:02,2026-10-31,19:11:00
+-34.852072314,-58.496258042,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-3-37/083-3-37,167,2026-10-31 19:02,2026-10-31,19:11:00
+-34.846454024,-58.498473152,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-37/083-3-37,196,2026-10-31 19:02,2026-10-31,19:11:00
+-34.824563740,-58.837742773,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,6,2026-10-31 18:00,2026-10-31,19:11:00
+-34.782,-58.6184,22,baja,Edenor,La Matanza,Gonzalez Catan,,,15,,2026-10-31,19:11:00
+-35.0303,-58.7501,21,baja,Edesur,Cañuelas,Zona Rural,,,6,,2026-10-31,19:11:00
+-34.6195,-58.4193,21,baja,Edesur,Capital,Almagro,,,40,,2026-10-31,19:11:00
+-34.6316,-58.4556,21,baja,Edesur,Capital,Flores,,,7,,2026-10-31,19:11:00
+-34.7748,-58.1924,21,baja,Edesur,Berazategui,V. España,,,9,,2026-10-31,19:11:00
+-34.7018,-58.3908,21,baja,Edesur,Lanus,Lanus,,,29,,2026-10-31,19:11:00
+-34.6652,-58.4412,21,baja,Edesur,Capital,Villa Soldati,,,1,,2026-10-31,19:11:00
+-34.7097,-58.3199,21,baja,Edesur,Avellaneda,Wilde,,,101,,2026-10-31,19:11:00
+-35.0187,-58.448,21,baja,Edesur,San Vicente,San Vicente,,,1,,2026-10-31,19:11:00
+-34.6558,-58.4004,21,baja,Edesur,Capital,Nueva Pompeya,,,1,,2026-10-31,19:11:00
