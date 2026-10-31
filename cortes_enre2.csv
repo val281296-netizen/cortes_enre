@@ -163436,3 +163436,70 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6592,-58.4871,21,baja,Edesur,Capital,Mataderos,,,9,,2026-10-30,19:53:07
 -34.8171,-58.4142,21,baja,Edesur,Almirante Brown,Burzaco,,,12,,2026-10-30,19:53:07
 -35.0235,-58.7504,21,baja,Edesur,Cañuelas,Zona Rural,,,4,,2026-10-30,19:53:07
+-34.866453794,-58.325358773,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-1-07/082-1-07,3,Sin Datos,2026-10-31,00:35:33
+-34.782095978,-58.224529863,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-51/080-5-51,67,Sin Datos,2026-10-31,00:35:33
+-34.784480451,-58.226286120,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-51/080-5-51,648,Sin Datos,2026-10-31,00:35:33
+-34.784461124,-58.222460015,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-51/080-5-51,336,Sin Datos,2026-10-31,00:35:33
+-34.782475566,-58.222494657,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-51/080-5-51,1,Sin Datos,2026-10-31,00:35:33
+-34.626276934,-58.382879549,11,media,Edesur,Capital Rp,Constitucion,Constitucion,R:124-2-21/124-2-21,486,2026-10-30 22:30,2026-10-31,00:35:33
+-34.645004772,-58.365227975,11,media,Edesur,Capital Rp,La Boca,Hernandarias,R:031-1-17/031-1-17,326,2026-10-30 23:09,2026-10-31,00:35:33
+-35.033858978,-58.736041438,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-2-27/271-2-27,172,2026-10-31 00:37,2026-10-31,00:35:33
+-34.970085872,-58.730884412,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,47,2026-10-31 00:37,2026-10-31,00:35:33
+-35.028645529,-58.746105123,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-2-27/271-2-27,298,2026-10-31 00:37,2026-10-31,00:35:33
+-34.956715021,-58.733681759,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,134,2026-10-31 00:37,2026-10-31,00:35:33
+-34.951618312,-58.740308465,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,43,2026-10-31 00:37,2026-10-31,00:35:33
+-34.948509939,-58.744419409,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,35,2026-10-31 00:37,2026-10-31,00:35:33
+-34.952260211,-58.748907130,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,40,2026-10-31 00:37,2026-10-31,00:35:33
+-35.003222062,-58.747120385,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,3,2026-10-31 00:37,2026-10-31,00:35:33
+-34.973107616,-58.738675759,11,media,Edesur,Cañuelas,Peluffo,Canuelas,R:271-2-27/271-2-27,2,2026-10-31 00:37,2026-10-31,00:35:33
+-34.988545467,-58.746153635,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,2,2026-10-31 00:37,2026-10-31,00:35:33
+-34.997457652,-58.747396829,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,2,2026-10-31 00:37,2026-10-31,00:35:33
+-34.973045543,-58.722979123,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,51,2026-10-31 00:37,2026-10-31,00:35:33
+-35.010436986,-58.747622143,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,4,2026-10-31 00:37,2026-10-31,00:35:33
+-35.027992861,-58.752339252,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,1,2026-10-31 00:37,2026-10-31,00:35:33
+-35.029811375,-58.754479891,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,7,2026-10-31 00:37,2026-10-31,00:35:33
+-35.031604289,-58.756544111,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,22,2026-10-31 00:37,2026-10-31,00:35:33
+-34.980771700,-58.742446184,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,9,2026-10-31 00:37,2026-10-31,00:35:33
+-34.970035412,-58.737118488,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,6,2026-10-31 00:37,2026-10-31,00:35:33
+-34.958658988,-58.731881936,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,193,2026-10-31 00:37,2026-10-31,00:35:33
+-35.036786308,-58.756534977,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-2-27/271-2-27,83,2026-10-31 00:37,2026-10-31,00:35:33
+-35.019795920,-58.753767263,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,10,2026-10-31 00:37,2026-10-31,00:35:33
+-35.023282875,-58.761765856,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,9,2026-10-31 00:37,2026-10-31,00:35:33
+-35.027751341,-58.743317776,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-2-27/271-2-27,2,2026-10-31 00:37,2026-10-31,00:35:33
+-35.020247204,-58.747919964,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,5,2026-10-31 00:37,2026-10-31,00:35:33
+-34.956681895,-58.730901254,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,95,2026-10-31 00:37,2026-10-31,00:35:33
+-34.995167491,-58.747501844,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,2,2026-10-31 00:37,2026-10-31,00:35:33
+-34.967266917,-58.735734243,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,113,2026-10-31 00:37,2026-10-31,00:35:33
+-35.038924238,-58.758888337,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-2-27/271-2-27,22,2026-10-31 00:37,2026-10-31,00:35:33
+-35.032606200,-58.751892466,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-2-27/271-2-27,8,2026-10-31 00:37,2026-10-31,00:35:33
+-35.026452309,-58.757724991,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,1,2026-10-31 00:37,2026-10-31,00:35:33
+-35.038322442,-58.742025528,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-2-27/271-2-27,10,2026-10-31 00:37,2026-10-31,00:35:33
+-35.026927885,-58.745347574,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-2-27/271-2-27,1,2026-10-31 00:37,2026-10-31,00:35:33
+-35.029076588,-58.759659345,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,2,2026-10-31 00:37,2026-10-31,00:35:33
+-34.951244361,-58.750436165,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,21,2026-10-31 00:37,2026-10-31,00:35:33
+-34.953387645,-58.750284772,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,42,2026-10-31 00:37,2026-10-31,00:35:33
+-34.963118438,-58.733755701,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,1,2026-10-31 00:37,2026-10-31,00:35:33
+-34.968223722,-58.741176243,11,media,Edesur,Cañuelas,Santa Rosa,Canuelas,R:271-2-27/271-2-27,100,2026-10-31 00:37,2026-10-31,00:35:33
+-34.960178091,-58.732611530,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,53,2026-10-31 00:37,2026-10-31,00:35:33
+-34.953022392,-58.751717387,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,4,2026-10-31 00:37,2026-10-31,00:35:33
+-34.977078475,-58.740582156,11,media,Edesur,Cañuelas,Peluffo,Canuelas,R:271-2-27/271-2-27,1,2026-10-31 00:37,2026-10-31,00:35:33
+-34.951536280,-58.745866723,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,35,2026-10-31 00:37,2026-10-31,00:35:33
+-34.953263057,-58.747862987,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,28,2026-10-31 00:37,2026-10-31,00:35:33
+-35.021713302,-58.756081065,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,1,2026-10-31 00:37,2026-10-31,00:35:33
+-34.679538070,-58.620823580,12,media,Edenor,Moron,Moron,S/D,R:V. Luzuriaga/64-Tr1/64-5541,368,Sin Datos,2026-10-31,00:35:33
+-34.678369330,-58.617867205,12,media,Edenor,Moron,Moron,S/D,R:V. Luzuriaga/64-Tr1/64-5541,253,Sin Datos,2026-10-31,00:35:33
+-34.679411506,-58.616420094,12,media,Edenor,Moron,Moron,S/D,R:V. Luzuriaga/64-Tr1/64-5541,137,Sin Datos,2026-10-31,00:35:33
+-34.6007,-58.3729,21,baja,Edesur,Capital,San Nicolas,,,10,,2026-10-31,00:35:33
+-35.0303,-58.7501,21,baja,Edesur,Cañuelas,Zona Rural,,,8,,2026-10-31,00:35:33
+-34.8412,-58.471,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,3,,2026-10-31,00:35:33
+-34.9187,-58.608,21,baja,Edesur,Ezeiza,Carlos Spegazzinni,,,10,,2026-10-31,00:35:33
+-34.6131,-58.5059,21,baja,Edesur,Capital,Capital,,,12,,2026-10-31,00:35:33
+-34.8817,-58.4153,21,baja,Edesur,Pte Peron,America Unida,,,6,,2026-10-31,00:35:33
+-34.9461,-58.6201,21,baja,Edesur,Cañuelas,Zona Rural,,,35,,2026-10-31,00:35:33
+-34.9158,-58.3661,21,baja,Edesur,Pte Peron,Guernica,,,2,,2026-10-31,00:35:33
+-34.7409,-58.4523,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,18,,2026-10-31,00:35:33
+-34.8286,-58.1716,21,baja,Edesur,Berazategui,Berazategui,,,18,,2026-10-31,00:35:33
+-34.6195,-58.4193,21,baja,Edesur,Capital,Almagro,,,22,,2026-10-31,00:35:33
+-34.6672,-58.3961,21,baja,Edesur,Avellaneda,Avellaneda,,,5,,2026-10-31,00:35:33
+-34.625,-58.4277,21,baja,Edesur,Capital,Caballito,,,5,,2026-10-31,00:35:33
+-34.7606,-58.3307,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,1,,2026-10-31,00:35:33
