@@ -166365,3 +166365,35 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7731,-58.265,21,baja,Edesur,Berazategui,Berazategui,,,7,,2026-11-12,10:49:55
 -34.6142,-58.5107,21,baja,Edesur,Capital,Villa Devoto,,,32,,2026-11-12,10:49:55
 -34.7138,-58.4449,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,32,,2026-11-12,10:49:55
+-34.696232825,-58.440917571,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-2-21/089-2-21,128,Sin Datos,2026-11-12,18:45:46
+-34.693842004,-58.442705191,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-2-21/089-2-21,145,Sin Datos,2026-11-12,18:45:46
+-34.692255158,-58.443944666,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-2-21/089-2-21,22,Sin Datos,2026-11-12,18:45:46
+-34.692781816,-58.440757227,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-2-21/089-2-21,71,Sin Datos,2026-11-12,18:45:46
+-34.588733411,-58.393282026,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-2-22/117-2-22,18,2026-11-12 20:44,2026-11-12,18:45:46
+-34.872928692,-58.376006819,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-1-16/277-1-16,3,2026-11-12 17:00,2026-11-12,18:45:46
+-34.875647674,-58.376067880,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-1-16/277-1-16,411,2026-11-12 17:00,2026-11-12,18:45:46
+-34.873113869,-58.373293994,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-1-16/277-1-16,213,2026-11-12 17:00,2026-11-12,18:45:46
+-34.872329922,-58.376982051,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-1-16/277-1-16,21,2026-11-12 17:00,2026-11-12,18:45:46
+-34.868720453,-58.373047224,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-4-45/277-4-45,524,2026-11-12 19:00,2026-11-12,18:45:46
+-34.872379694,-58.371897652,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-4-45/277-4-45,220,2026-11-12 19:00,2026-11-12,18:45:46
+-34.602230525,-58.369729174,11,media,Edesur,Capital Rp,San Nicolas,Reconquista,R:211-2-12/211-2-12,76,2026-11-12 20:03,2026-11-12,18:45:46
+-34.602526665,-58.370207787,11,media,Edesur,Capital Rp,San Nicolas,Reconquista,R:211-2-12/211-2-12,29,2026-11-12 20:03,2026-11-12,18:45:46
+-34.602498634,-58.370211167,11,media,Edesur,Capital Rp,San Nicolas,Reconquista,R:211-2-12/211-2-12,14,2026-11-12 20:03,2026-11-12,18:45:46
+-34.601324915,-58.369253000,11,media,Edesur,Capital Rp,San Nicolas,Reconquista,R:211-2-12/211-2-12,27,2026-11-12 20:03,2026-11-12,18:45:46
+-34.600320950,-58.369389599,11,media,Edesur,Capital Rp,San Nicolas,Reconquista,R:211-2-12/211-2-12,14,2026-11-12 20:03,2026-11-12,18:45:46
+-34.601650314,-58.369751094,11,media,Edesur,Capital Rp,San Nicolas,Reconquista,R:211-2-12/211-2-12,3,2026-11-12 20:03,2026-11-12,18:45:46
+-34.600853903,-58.369290897,11,media,Edesur,Capital Rp,San Nicolas,Reconquista,R:211-2-12/211-2-12,9,2026-11-12 20:03,2026-11-12,18:45:46
+-34.689276669,-58.774609365,12,media,Edenor,Merlo,Merlo,S/D,R:Paso Del Rey/258-Tr2/258-5533,372,Sin Datos,2026-11-12,18:45:46
+-34.688585362,-58.779266171,12,media,Edenor,Merlo,Merlo,S/D,R:Paso Del Rey/258-Tr2/258-5533,381,Sin Datos,2026-11-12,18:45:46
+-34.692053344,-58.777458694,12,media,Edenor,Merlo,Merlo,S/D,R:Paso Del Rey/258-Tr2/258-5533,358,Sin Datos,2026-11-12,18:45:46
+-34.693284777,-58.776394883,12,media,Edenor,Merlo,Merlo,S/D,R:Paso Del Rey/258-Tr2/258-5533,282,Sin Datos,2026-11-12,18:45:46
+-34.6081,-58.4859,21,baja,Edesur,Capital,Villa Del Parque,,,9,,2026-11-12,18:45:46
+-34.6067,-58.4218,21,baja,Edesur,Capital,Almagro,,,1,,2026-11-12,18:45:46
+-34.9161,-58.6048,21,baja,Edesur,Ezeiza,Carlos Spegazzinni,,,6,,2026-11-12,18:45:46
+-34.6295,-58.4626,21,baja,Edesur,Capital,Flores,,,5,,2026-11-12,18:45:46
+-34.7716,-58.2742,21,baja,Edesur,Florencio Varela,Florencio Varela,,,12,,2026-11-12,18:45:46
+-34.6487,-58.3721,21,baja,Edesur,Capital,Barracas,,,10,,2026-11-12,18:45:46
+-34.6539,-58.4191,21,baja,Edesur,Capital,Nueva Pompeya,,,1,,2026-11-12,18:45:46
+-34.7404,-58.2722,21,baja,Edesur,Quilmes,Quilmes,,,7,,2026-11-12,18:45:46
+-34.7702,-58.1997,21,baja,Edesur,Berazategui,Berazategui,,,8,,2026-11-12,18:45:46
+-34.6259,-58.407,21,baja,Edesur,Capital,San Cristobal,,,14,,2026-11-12,18:45:46
