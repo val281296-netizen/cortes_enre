@@ -166433,3 +166433,49 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6416,-58.4328,21,baja,Edesur,Capital,Parque Chacabuco,,,77,,2026-11-13,07:43:23
 -34.805,-58.3999,21,baja,Edesur,Almirante Brown,Adrogue,,,7,,2026-11-13,07:43:23
 -34.7429,-58.4694,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,7,,2026-11-13,07:43:23
+-35.060318095,-58.759924327,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-17/271-1-17,236,2026-11-13 14:16,2026-11-13,17:03:21
+-35.056453289,-58.764773519,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-17/271-1-17,271,2026-11-13 14:16,2026-11-13,17:03:21
+-35.058267606,-58.762395216,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-17/271-1-17,204,2026-11-13 14:16,2026-11-13,17:03:21
+-35.059069939,-58.761432522,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-17/271-1-17,72,2026-11-13 14:16,2026-11-13,17:03:21
+-35.058012371,-58.760212364,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-17/271-1-17,358,2026-11-13 14:16,2026-11-13,17:03:21
+-35.054638843,-58.767267148,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-17/271-1-17,159,2026-11-13 14:16,2026-11-13,17:03:21
+-34.830479899,-58.466546427,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-38/083-3-38,510,2026-11-13 20:00,2026-11-13,17:03:21
+-34.825872857,-58.464972386,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-38/083-3-38,711,2026-11-13 20:00,2026-11-13,17:03:21
+-34.828953355,-58.461698140,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-38/083-3-38,216,2026-11-13 20:00,2026-11-13,17:03:21
+-34.755870710,-58.330226371,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-4-44/184-4-44,532,2026-11-13 15:03,2026-11-13,17:03:21
+-34.758607379,-58.331657128,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-4-44/184-4-44,284,2026-11-13 15:03,2026-11-13,17:03:21
+-34.756262018,-58.329268213,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-4-44/184-4-44,21,2026-11-13 15:03,2026-11-13,17:03:21
+-34.756486558,-58.327434587,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-4-44/184-4-44,6,2026-11-13 15:03,2026-11-13,17:03:21
+-34.955986241,-58.468533094,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,6,2026-11-13 16:00,2026-11-13,17:03:21
+-34.967564449,-58.467031385,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,22,2026-11-13 16:00,2026-11-13,17:03:21
+-34.971087098,-58.471156844,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,58,2026-11-13 16:00,2026-11-13,17:03:21
+-34.967283702,-58.476065021,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,100,2026-11-13 16:00,2026-11-13,17:03:21
+-34.963394338,-58.481083089,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,36,2026-11-13 16:00,2026-11-13,17:03:21
+-34.961637049,-58.474183286,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,63,2026-11-13 16:00,2026-11-13,17:03:21
+-34.965474367,-58.469232305,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,78,2026-11-13 16:00,2026-11-13,17:03:21
+-34.724018306,-58.396019102,11,media,Edesur,Lanus,Remedios De Escalada,Heroes De Malvinas,R:076-2-24/076-2-24,272,2026-11-13 16:05,2026-11-13,17:03:21
+-34.733878715,-58.407689966,11,media,Edesur,Lomas De Zamora,Bandfield,Escalada,R:087-4-48/087-4-48,175,2026-11-13 21:54,2026-11-13,17:03:21
+-34.509423964,-58.929202709,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5523,7,Sin Datos,2026-11-13,17:03:21
+-34.670400501,-58.802149513,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5512,346,2026-11-13 17:00,2026-11-13,17:03:21
+-34.668450603,-58.805545737,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5511,250,2026-11-13 17:00,2026-11-13,17:03:21
+-34.671267038,-58.809219404,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5511,170,2026-11-13 17:00,2026-11-13,17:03:21
+-34.669328770,-58.814403105,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5511,367,2026-11-13 17:00,2026-11-13,17:03:21
+-34.667383705,-58.806007683,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5511,483,2026-11-13 17:00,2026-11-13,17:03:21
+-34.675563134,-58.808005465,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5511,216,2026-11-13 17:00,2026-11-13,17:03:21
+-34.668187685,-58.810519359,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5511,324,2026-11-13 17:00,2026-11-13,17:03:21
+-34.9372,-58.4775,21,baja,Edesur,Pte Peron,Zona Rural,,,17,,2026-11-13,17:03:21
+-34.6416,-58.4328,21,baja,Edesur,Capital,Parque Chacabuco,,,83,,2026-11-13,17:03:21
+-34.7687,-58.1994,21,baja,Edesur,Berazategui,Platanos,,,2,,2026-11-13,17:03:21
+-34.7706,-58.1981,21,baja,Edesur,Berazategui,V. España,,,3,,2026-11-13,17:03:21
+-34.6634,-58.4292,21,baja,Edesur,Capital,Villa Soldati,,,9,,2026-11-13,17:03:21
+-34.604,-58.4142,21,baja,Edesur,Capital,Almagro,,,7,,2026-11-13,17:03:21
+-34.8313,-58.1877,21,baja,Edesur,Berazategui,Gutierrez,,,22,,2026-11-13,17:03:21
+-34.7216,-58.2683,21,baja,Edesur,Quilmes,Quilmes,,,2,,2026-11-13,17:03:21
+-34.6067,-58.4218,21,baja,Edesur,Capital,Almagro,,,1,,2026-11-13,17:03:21
+-34.6454,-58.4125,21,baja,Edesur,Capital,Parque Patricios,,,3,,2026-11-13,17:03:21
+-34.6175,-58.4428,21,baja,Edesur,Capital,Caballito,,,2,,2026-11-13,17:03:21
+-34.6174,-58.3835,21,baja,Edesur,Capital,Monserrat,,,24,,2026-11-13,17:03:21
+-34.6356,-58.4126,21,baja,Edesur,Capital,Boedo,,,9,,2026-11-13,17:03:21
+-34.9093,-58.3881,21,baja,Edesur,Pte Peron,Guernica,,,1,,2026-11-13,17:03:21
+-34.7452,-58.3865,21,baja,Edesur,Lomas De Zamora,Banfield,,,12,,2026-11-13,17:03:21
+-34.5895,-58.3995,21,baja,Edesur,Capital,Recoleta,,,5,,2026-11-13,17:03:21
