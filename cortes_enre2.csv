@@ -166985,3 +166985,34 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7668,-58.3135,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,11,,2026-11-17,03:36:12
 -34.7766,-58.3539,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,5,,2026-11-17,03:36:12
 -34.6794,-58.4832,21,baja,Edesur,Capital,Villa Lugano,,,27,,2026-11-17,03:36:12
+-34.715350497,-58.407164127,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-4-41/087-4-41,894,2026-11-17 14:15,2026-11-17,14:13:34
+-34.861406792,-58.553218289,11,media,Edesur,Ezeiza,Barrio La Union,Spegazzini,R:270-3-36/270-3-36,246,2026-11-17 12:09,2026-11-17,14:13:34
+-34.865259573,-58.550282889,11,media,Edesur,Ezeiza,Barrio La Union,Spegazzini,R:270-3-36/270-3-36,176,2026-11-17 12:09,2026-11-17,14:13:34
+-34.859358546,-58.555340319,11,media,Edesur,Ezeiza,Barrio La Union,Spegazzini,R:270-3-36/270-3-36,104,2026-11-17 12:09,2026-11-17,14:13:34
+-34.674246107,-58.410517626,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-3-35/186-3-35,301,2026-11-17 19:33,2026-11-17,14:13:34
+-34.704222446,-58.391554983,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-3-35/186-3-35,607,2026-11-17 19:33,2026-11-17,14:13:34
+-34.704194290,-58.391556086,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-3-35/186-3-35,73,2026-11-17 19:33,2026-11-17,14:13:34
+-34.708245395,-58.389482837,11,media,Edesur,Lanus,Lanus Este,Gerli,R:186-3-35/186-3-35,650,2026-11-17 19:33,2026-11-17,14:13:34
+-34.708265256,-58.389504497,11,media,Edesur,Lanus,Lanus Este,Gerli,R:186-3-35/186-3-35,59,2026-11-17 19:33,2026-11-17,14:13:34
+-34.705740443,-58.390049987,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-3-35/186-3-35,682,2026-11-17 19:33,2026-11-17,14:13:34
+-34.705732639,-58.389117672,11,media,Edesur,Lanus,Lanus Este,Gerli,R:186-3-35/186-3-35,274,2026-11-17 19:33,2026-11-17,14:13:34
+-34.708016411,-58.389238866,11,media,Edesur,Lanus,Lanus Este,Gerli,R:186-3-35/186-3-35,2,2026-11-17 19:33,2026-11-17,14:13:34
+-34.803465150,-58.622458541,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr1/168-5511,385,Sin Datos,2026-11-17,14:13:34
+-34.323972786,-58.809697870,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr3/154-5472/253-5513,29,Sin Datos,2026-11-17,14:13:34
+-34.543972398,-58.710623564,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr1/362-5516,5,Sin Datos,2026-11-17,14:13:34
+-34.543893909,-58.710882892,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr1/362-5516,167,Sin Datos,2026-11-17,14:13:34
+-34.426882246,-58.785174785,12,media,Edenor,Pilar,Luis Lagomarsino,S/D,R:Garin/454-Tr2/454-5524,83,Sin Datos,2026-11-17,14:13:34
+-34.430302259,-58.784137334,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Garin/454-Tr2/454-5524,206,Sin Datos,2026-11-17,14:13:34
+-34.431934799,-58.787241576,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Garin/454-Tr2/454-5524,37,Sin Datos,2026-11-17,14:13:34
+-34.430728524,-58.788749581,12,media,Edenor,Pilar,Pilar,S/D,R:Garin/454-Tr2/454-5524,31,Sin Datos,2026-11-17,14:13:34
+-34.7754,-58.2067,21,baja,Edesur,Berazategui,V. España,,,23,,2026-11-17,14:13:34
+-34.6648,-58.4436,21,baja,Edesur,Capital,Villa Soldati,,,107,,2026-11-17,14:13:34
+-34.7668,-58.3135,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,17,,2026-11-17,14:13:34
+-34.7303,-58.4327,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,23,,2026-11-17,14:13:34
+-34.7246,-58.2904,21,baja,Edesur,Quilmes,Quilmes,,,9,,2026-11-17,14:13:34
+-34.7166,-58.4049,21,baja,Edesur,Lanus,Lanus,,,16,,2026-11-17,14:13:34
+-34.6381,-58.5266,21,baja,Edesur,Capital,Capital,,,20,,2026-11-17,14:13:34
+-34.6437,-58.3603,21,baja,Edesur,Capital,La Boca,,,5,,2026-11-17,14:13:34
+-34.6404,-58.3661,21,baja,Edesur,Capital,La Boca,,,4,,2026-11-17,14:13:34
+-34.7003,-58.4223,21,baja,Edesur,Lanus,Lanus,,,35,,2026-11-17,14:13:34
+-34.7272,-58.3962,21,baja,Edesur,Lanus,Remedios De Escalada,,,2,,2026-11-17,14:13:34
