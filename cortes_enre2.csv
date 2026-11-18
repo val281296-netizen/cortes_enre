@@ -167155,3 +167155,62 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7868,-58.3013,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,11,,2026-11-18,13:44:37
 -34.992,-58.3818,21,baja,Edesur,San Vicente,Alejandro Korn,,,9,,2026-11-18,13:44:37
 -34.6429,-58.3727,21,baja,Edesur,Capital,Barracas,,,1,,2026-11-18,13:44:37
+-34.696232825,-58.440917571,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-2-21/089-2-21,128,Sin Datos,2026-11-18,22:30:44
+-34.693842004,-58.442705191,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-2-21/089-2-21,145,Sin Datos,2026-11-18,22:30:44
+-34.692255158,-58.443944666,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-2-21/089-2-21,22,Sin Datos,2026-11-18,22:30:44
+-34.692781816,-58.440757227,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-2-21/089-2-21,72,Sin Datos,2026-11-18,22:30:44
+-35.029310048,-58.424348784,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-01/956-1-01,120,Sin Datos,2026-11-18,22:30:44
+-35.041154831,-58.438452068,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-05/956-1-05,3,Sin Datos,2026-11-18,22:30:44
+-35.040063026,-58.435403585,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-05/956-1-05,14,Sin Datos,2026-11-18,22:30:44
+-35.029103336,-58.429262048,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-05/956-1-05,56,Sin Datos,2026-11-18,22:30:44
+-35.032976933,-58.430007647,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-05/956-1-05,20,Sin Datos,2026-11-18,22:30:44
+-35.030951219,-58.426751149,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-05/956-1-05,212,Sin Datos,2026-11-18,22:30:44
+-35.039396983,-58.436508068,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-05/956-1-05,1,Sin Datos,2026-11-18,22:30:44
+-35.051089891,-58.444721475,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-05/956-1-05,1,Sin Datos,2026-11-18,22:30:44
+-35.035188116,-58.431841782,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-05/956-1-05,3,Sin Datos,2026-11-18,22:30:44
+-34.809159791,-58.363599197,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-36/189-3-36,266,Sin Datos,2026-11-18,22:30:44
+-34.810163349,-58.362808346,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-36/189-3-36,410,Sin Datos,2026-11-18,22:30:44
+-34.818078550,-58.363484783,11,media,Edesur,Almirante Brown,Claypole,Burzaco,R:082-1-15/082-1-15,494,Sin Datos,2026-11-18,22:30:44
+-34.816781745,-58.366479424,11,media,Edesur,Almirante Brown,Burzaco,Burzaco,R:082-1-15/082-1-15,86,Sin Datos,2026-11-18,22:30:44
+-34.713654304,-58.335277515,11,media,Edesur,Avellaneda,Wilde,Monte Chingolo,R:184-1-15/184-1-15,682,2026-11-18 22:52,2026-11-18,22:30:44
+-34.713899747,-58.333039350,11,media,Edesur,Avellaneda,Wilde,Monte Chingolo,R:184-1-15/184-1-15,418,2026-11-18 22:52,2026-11-18,22:30:44
+-34.716970808,-58.334397319,11,media,Edesur,Avellaneda,Wilde,Monte Chingolo,R:184-1-15/184-1-15,485,2026-11-18 22:52,2026-11-18,22:30:44
+-34.162171201,-58.525932076,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-11-18,22:30:44
+-34.166970866,-58.523329165,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-11-18,22:30:44
+-34.218782637,-58.451473109,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-11-18,22:30:44
+-34.227238783,-58.434336389,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-11-18,22:30:44
+-34.223935758,-58.428761588,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-11-18,22:30:44
+-34.225255235,-58.421292443,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-11-18,22:30:44
+-34.254253226,-58.433639926,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-11-18,22:30:44
+-34.221637198,-58.437895150,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-11-18,22:30:44
+-34.188862999,-58.498653210,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-11-18,22:30:44
+-34.169253660,-58.521182685,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-11-18,22:30:44
+-34.153016970,-58.538491869,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,6,Sin Datos,2026-11-18,22:30:44
+-34.159201301,-58.525672956,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-11-18,22:30:44
+-34.165321507,-58.524284471,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,7,Sin Datos,2026-11-18,22:30:44
+-34.241950387,-58.495328902,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,18,Sin Datos,2026-11-18,22:30:44
+-34.239670874,-58.488612824,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,23,Sin Datos,2026-11-18,22:30:44
+-34.229231658,-58.486799725,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,14,Sin Datos,2026-11-18,22:30:44
+-34.216760572,-58.498825190,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,12,Sin Datos,2026-11-18,22:30:44
+-34.197934829,-58.499507548,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-11-18,22:30:44
+-34.192894052,-58.493066220,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,10,Sin Datos,2026-11-18,22:30:44
+-34.250920781,-58.500706273,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,24,Sin Datos,2026-11-18,22:30:44
+-34.208328280,-58.469334008,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-11-18,22:30:44
+-34.181151505,-58.509845390,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-11-18,22:30:44
+-34.223217377,-58.432125375,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos,2026-11-18,22:30:44
+-34.224542687,-58.424751754,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-11-18,22:30:44
+-34.199212918,-58.481276826,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-11-18,22:30:44
+-34.166310509,-58.524489246,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos,2026-11-18,22:30:44
+-34.226676680,-58.415762647,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-11-18,22:30:44
+-34.248309088,-58.427621223,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos,2026-11-18,22:30:44
+-34.229184793,-58.415414699,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos,2026-11-18,22:30:44
+-34.7529,-58.3018,21,baja,Edesur,Quilmes,Quilmes,,,3,,2026-11-18,22:30:44
+-34.8094,-58.4345,21,baja,Edesur,Lomas De Zamora,Lavallol,,,2,,2026-11-18,22:30:44
+-34.7831,-58.2455,21,baja,Edesur,Berazategui,Berazategui,,,7,,2026-11-18,22:30:44
+-34.7642,-58.3138,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,7,,2026-11-18,22:30:44
+-34.776,-58.4287,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,3,,2026-11-18,22:30:44
+-34.6785,-58.4744,21,baja,Edesur,Capital,Capital,,,19,,2026-11-18,22:30:44
+-34.6404,-58.493,21,baja,Edesur,Capital,Villa Luro,,,14,,2026-11-18,22:30:44
+-34.6468,-58.4139,21,baja,Edesur,Capital,Nueva Pompeya,,,15,,2026-11-18,22:30:44
+-34.6085,-58.4248,21,baja,Edesur,Capital,Almagro,,,1,,2026-11-18,22:30:44
+-34.7194,-58.3438,21,baja,Edesur,Lanus,Monte Chingolo,,,62,,2026-11-18,22:30:44
